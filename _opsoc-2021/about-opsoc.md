@@ -24,7 +24,7 @@ permalink: /opsoc-2021/about
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-      • <a href="#quiz">One Public Service Quiz</a><b>*</b><br>
+      • <a href="#quiz">One Public Service Quiz</a>*<br>
         • One Public Service Video Message Challenge<br>
     </td>
   </tr>

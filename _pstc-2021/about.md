@@ -7,12 +7,13 @@ permalink: /pstc-2021/about
 One of the key events of Public Service Week 2021, the Convention comprise four webinars featuring leaders from the private sector and the Public Service. They will share their perspectives on how public officers can embrace new opportunities and modes of working.
 <br>
 
+<img src ="https://github.com/isomerpages/psd-psw/blob/bb647b56b150e2958f75639f80e759fc799299d1/_pstc-2021/Speakers%20Info/PSTC%20Main%20Poster_Top%20Banner%20(003).jpg">
+
 Hear from our line-up of speakers on the following topics:<br>
 <br>
   * [Future of Work](/pstc-2021/future-of-work/), 12 Jul 4pm - 5.30pm
   * [Future Workplace](/pstc-2021/future-workplace/) (1/2), 19 Jul 2.30pm - 4pm
   * [Future Workforce](/pstc-2021/future-workforce/), 26 Jul 3pm - 4.30pm
   * [Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm
-<br>
 <br>
 <b>Register for the webinars <a href="https://go.gov.sg/pstc2021-register">here</a>.</b>
