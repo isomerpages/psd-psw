@@ -15,3 +15,5 @@ With a focus on innovation and change, this webinar will explore how forward-loo
 • Ms. Dione Song, Chief Executive Officer, Love, Bonito <br>
 • Mr. Kok Ping Soon, Chief Executive, GovTech <br>
 • Ms. Dawn Lim, Vice President & Head of Commercial and Professional Services, EDB <i> [Moderator] </i> <br>  
+
+To view the speakers' profiles, click <a href="https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FOW%20Speakers%2001.pdf">here</a>.
