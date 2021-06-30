@@ -5,7 +5,7 @@ permalink: /pstc-2021/future-workplace
 
 ### Future Workplace 
 
-<img src="https://github.com/isomerpages/psd-psw/blob/ee0bc41f2b1732cc6f2a587ee8cc3b4131de58c7/_pstc-2021/Speakers%20Info/PSTC%20Main%20Poster_FWP%20Speakers%20(002).jpg">
+![Future Workplace](/images/FWP.jpeg)
 <br>
 <b>Webinar 1: Stronger Teams</b><br>
 Addressing the impact of hybrid work environments on teamwork, this webinar will focus on how organisations can overcome challenges to strengthen organisational culture, as well as how technology can be leveraged to build stronger teams.<br>
@@ -20,7 +20,7 @@ Addressing the impact of hybrid work environments on teamwork, this webinar will
 •	Mr. Kiren Kumar, Deputy Chief Executive (Development), IMDA <i> [Moderator]</i>
 <br>
 
-<!-- To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%201%20-%20Stronger%20Teams%20-%20Speakers%2001.pdf">here</a>. -->
+To view the speakers' profiles, click <a href="https://www.dropbox.com/s/7fcdevtnyboifgr/FWP%201%20-%20Stronger%20Teams%20-%20Speakers%2001%20%281%29.pdf?dl=0">here</a>.
 
 <br>
 <br>
@@ -37,4 +37,4 @@ Addressing the impact of hybrid work environments on individuals, this webinar w
 • Adj A/Prof Majeed Khader, Chief Psychologist, Ministry of Home Affairs & Director, Home Team Behavioural Sciences Centre <br>
 •	Adj A/Prof Clare Yeo, Head CARE, MOH & Senior Principal Clinical Psychologist, IMH <i>[Moderator] </i>
 
-<!-- To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%202%20-%20Stronger%20Individuals%20-%20Speakers%2001.pdf">here</a>. -->
+To view the speakers' profiles, click <a href="https://www.dropbox.com/s/ndhrjfp4yij0eix/FWP%202%20-%20Stronger%20Individuals%20-%20Speakers%2001%20%281%29.pdf?dl=0">here</a>.
