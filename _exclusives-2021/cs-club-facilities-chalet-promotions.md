@@ -1,14 +1,14 @@
 ---
-title: 'CS Club Facilities & Chalet Promotions'
+title: 'CSC Facilities & Chalet Promotions'
 permalink: /CSC-clubhouse-2021
 ---
 
-## CS Club Facilities & Chalet Promotions
+## Civil Service Club Facilities & Chalet Promotions
 
 Public Service Officers can enjoy free swimming pool usage, as well as members’ rate for facilities and chalets in July! It’s the Club's way to show our appreciation and encourage you to experience the social club for Public Service Officers.
 <br>
 <br>
-<i>The promotions are open to all Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.</i>
+The promotions are open to all Public Service Officers, and subject to availability. Public Service Officers must present their staff pass OR Civil Service card in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.
 <br>
 <br>
 
