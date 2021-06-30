@@ -7,7 +7,7 @@ permalink: /pstc-2021/about
 One of the key events of Public Service Week 2021, the Convention comprise four webinars featuring leaders from the private sector and the Public Service. They will share their perspectives on how public officers can embrace new opportunities and modes of working.
 <br>
 
-![Main banner](/images/main.jpeg)
+![Main banner](/images/MAIN.jpeg)
 
 Hear from our line-up of speakers on the following topics:<br>
 <br>
