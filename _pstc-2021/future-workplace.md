@@ -5,7 +5,7 @@ permalink: /pstc-2021/future-workplace
 
 ### Future Workplace 
 
-<img src="https://github.com/isomerpages/psd-psw/blob/ee0bc41f2b1732cc6f2a587ee8cc3b4131de58c7/_pstc-2021/Speakers%20Info/PSTC%20Main%20Poster_FWP%20Speakers%20(002).jpg">
+![Future Workplace](/images/FWP.jpeg)
 <br>
 <b>Webinar 1: Stronger Teams</b><br>
 Addressing the impact of hybrid work environments on teamwork, this webinar will focus on how organisations can overcome challenges to strengthen organisational culture, as well as how technology can be leveraged to build stronger teams.<br>
