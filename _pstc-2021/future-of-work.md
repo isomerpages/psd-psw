@@ -4,7 +4,9 @@ permalink: /pstc-2021/future-of-work
 ---
 
 ### Future of Work
-<img src="https://github.com/isomerpages/psd-psw/blob/ee0bc41f2b1732cc6f2a587ee8cc3b4131de58c7/_pstc-2021/Speakers%20Info/PSTC%20Main%20Poster_FOW%20Speakers%20(003).jpg">
+![Future of Work](/images/FOW.jpeg)
+<br>
+
 
 
 With a focus on innovation and change, this webinar will explore how forward-looking organisations promote innovation, reimagine their work and transform themselves even amidst COVID-19 to navigate the waves of change and emerge stronger.
