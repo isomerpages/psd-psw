@@ -6,17 +6,16 @@ permalink: /CSC-Merchant-Exclusives
 
 ## Civil Service Club Merchant Exclusives
 
-#### Civil Service Club is joined by our merchant partners in the celebration of PS Week! Public Service Officers can simply enjoy exclusive discounts and deals by flashing their Civil Service card or staff pass between 1 to 31 July 2021. The Merchant Exclusives are also available for Civil Service Club Members (including Supplementary Members). Due to the prevailing Safe Management Measures, the Merchant Exclusives are subject to change or cancellation.
+Civil Service Club is joined by our merchant partners in the celebration of PS Week! Public Service Officers can simply enjoy exclusive discounts and deals by flashing their Civil Service card or staff pass between 1 to 31 July 2021. The Merchant Exclusives are also available for Civil Service Club Members (including Supplementary Members). Due to the prevailing Safe Management Measures, the Merchant Exclusives are subject to change or cancellation.
 
 
 ## F&B
 
 ### Harry's
 <img src="/images/Harry's (2).png " width="500 px"><br>       
-### Promotion: 1-FOR-1 on Asian Palate
+#### Promotion: 1-FOR-1 on Asian Palate
 
 ####  Terms and Conditions: 
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • Offer is valid at all Harry’s outlet except Changi Airport
 • Offer is applicable on items under Asian Palate category except Curried Lamb Shank.
@@ -31,10 +30,9 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Bruno’s Bistrot/Pizzeria & Grill
 <img src="/images/Brunos.png" width="500 px"><br>       
-### Promotion: 1-FOR-1 weekday set lunch @ $30+
+#### Promotion: 1-FOR-1 weekday set lunch @ $30+
 
 ####  Terms and Conditions: 
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • This special 1-For-1 set lunch only available at Bruno's, 544 Serangoon Road outlet
 • Promotion is available on weekdays, 12pm-2.00pm (excluding public holidays)
@@ -48,10 +46,9 @@ permalink: /CSC-Merchant-Exclusives
 
 ### The Grumpy Bear Cafe
 <img src="/images/Grumpy Bear.png" width="500 px"><br>       
-### Promotion: 1-FOR-1 Pasta/ Chicken
+#### Promotion: 1-FOR-1 Pasta/ Chicken
 
 ####  Terms and Conditions: 
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • For reservations, please contact the Cafes directly at their direct number (subject to availability).
 • The Grumpy Bear Thomson Plaza: 301 Upper Thomson Rd , Thomson Plaza, #02-10 (S) 574408, contact no: 9238 4055
@@ -65,10 +62,9 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Waterfall Lounge by Furama RiverFront Singapore 
 <img src="/images/Waterfall Lounge.png" width="500 px"><br>       
-### Promotion: 1-FOR-1 Cocktail, Mocktail, Draft Beer, House Wine, House Pour Spirits
+#### Promotion: 1-FOR-1 Cocktail, Mocktail, Draft Beer, House Wine, House Pour Spirits
 
 ####  Terms and Conditions: 
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • For reservation, please contact 89082600 / email [waterfall.riverfront@furama.com](mailto:waterfall.riverfront@furama.com) and quote **“CSC Furama”**
 • For more information, please visit [https://www.furama.com/riverfront/Dining/Waterfall-Lounge](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.furama.com%2Friverfront%2FDining%2FWaterfall-Lounge&e=1a8b98d0&h=3aaf3950&f=y&p=n "www.furama.com")
@@ -80,10 +76,9 @@ permalink: /CSC-Merchant-Exclusives
 
 ### R&B TEA
 <img src="/images/R&B.jpg" width="500 px"><br>       
-### Promotion: $2 Milk Tea w/ Golden Pearls (Reg)
+#### Promotion: $2 Milk Tea w/ Golden Pearls (Reg)
 
 ####  Terms and Conditions: 
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • Present valid CSC Membership Card or Virtual Card via CSC App, in person at the R&B Tea outlet. No copy of any pass or card is allowed
 • R&B Tea prices are inclusive of prevailing GST
@@ -98,7 +93,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Kintamani Indonesian Restaurant by Furama RiverFront Singapore (Halal Certified)
 <img src="/images/promotions/Kintamani Indonesian.png" width="500 px"><br>       
-### Promotion: 25% OFF
+#### Promotion: 25% OFF
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
@@ -113,7 +108,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### The Square by Furama RiverFront Singapore
 <img src="/images/The Square.png" width="500 px"><br>       
-### Promotion: 25% OFF
+#### Promotion: 25% OFF
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
@@ -128,7 +123,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Town Restaurant – The Fullerton Hotel Singapore
 <img src="/images/Town Restaurant.png" width="500 px"><br>       
-### Promotion: 25% OFF on Dinner Feast on Thursday and Sunday Brunch
+#### Promotion: 25% OFF on Dinner Feast on Thursday and Sunday Brunch
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
@@ -144,7 +139,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### La Brasserie – The Fullerton Bay Hotel Singapore
 <img src="/images/La Brasserie.png" width="500 px"><br>       
-### Promotion: 1 dines FREE with every 3 paying adults for Le Brunch By The Bay
+#### Promotion: 1 dines FREE with every 3 paying adults for Le Brunch By The Bay
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
@@ -161,10 +156,9 @@ permalink: /CSC-Merchant-Exclusives
 
 ### FoodLine.sg
 <img src="/images/FoodLine.png" width="500 px"><br>       
-### Promotion: Enjoy an upsized cashback of $10.00 (No minimum spending required)
+#### Promotion: Enjoy an upsized cashback of $10.00 (No minimum spending required)
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Use PSWFL10 at the time of ordering on the website http://www.foodline.sg
 • Users are required to write and submit a review on FoodLine for the merchant that they ordered from after their event to receive the cash reward
@@ -180,13 +174,12 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Biscotti Bakery
 <img src="/images/Biscotti Bakery 2.png" width="500 px"><br>       
-### Promotions: 
-### • Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g, worth $17) FREE 
-### • $1 OFF Biscotti tubs and 10% OFF F&B at CSC @ Tessensohn 
-### • FREE cafe food voucher for purchase above $80
+#### Promotions: 
+#### • Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g, worth $17) FREE 
+#### • $1 OFF Biscotti tubs and 10% OFF F&B at CSC @ Tessensohn 
+#### • FREE cafe food voucher for purchase above $80
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Offer not valid with other discounts, promotions, vouchers or privileges
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures.
@@ -196,20 +189,19 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Little Island Brewing Co
 <img src="/images/Little Island Brewing Co.png" width="500 px"><br>       
-### Promotion: 15% OFF all food and drinks
+#### Promotion: 15% OFF all food and drinks
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
- • Civil Service Club (CSC) members are to present valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
- • Please contact 65430100 / https://inline.app/booking/libc/libc to make an appointment/ reservation
- • Discount not applicable on Eve of PH & PH
- • Privilege is valid for dine-in and takeaway
- • Discount not applicable on weekday lunch menu
- • Operating hours are Mon – Sat: 12-1030pm, Sun: 11-1030pm, for more details like location, please visit http://libc.co/
- • Offer not valid with other discounts, promotions, vouchers or privileges
- • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
- • The management reserves the right to amend the terms & conditions without prior notice
+• Civil Service Club (CSC) members are to present valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
+• Please contact 65430100 / https://inline.app/booking/libc/libc to make an appointment/ reservation
+• Discount not applicable on Eve of PH & PH
+• Privilege is valid for dine-in and takeaway
+• Discount not applicable on weekday lunch menu
+• Operating hours are Mon – Sat: 12-1030pm, Sun: 11-1030pm, for more details like location, please visit http://libc.co/
+• Offer not valid with other discounts, promotions, vouchers or privileges
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice
 
 ---
 
@@ -217,7 +209,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Wild Wild Wet
 <img src="/images/Wild Wild Wet.jpg" width="500 px"><br>       
-### Promotion: 30% OFF Wild & Wet Premium Membership
+#### Promotion: 30% OFF Wild & Wet Premium Membership
 
 #### Terms and Conditions:
 
@@ -241,7 +233,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Science Centre Singapore
 <img src="/images/Science Centre Singapore.png" width="500 px"><br>       
-### Promotion: 20% OFF online tickets for Science Centre Singapore
+#### Promotion: 20% OFF online tickets for Science Centre Singapore
 
 #### Terms and Conditions:
 
@@ -256,12 +248,11 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Skypark Sentosa by AJ Hackett
 <img src="/images/Wild Wild Wet.jpg" width="500 px"><br>       
-### Promotions: 
-### • 1 x Bungy Jump + $10 F&B Credit
-### • 1 x Giant Swing (per pax) + $10 F&B Credit
+#### Promotions: 
+#### • 1 x Bungy Jump + $10 F&B Credit
+#### • 1 x Giant Swing (per pax) + $10 F&B Credit
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person when you arrive at Skypark Sentosa along with activity ticket to enjoy the F&B credit.
 • Booking is required to redeem this experience. Please email  [sentosa.info@skyparkglobal.com](mailto:sentosa.info@skyparkglobal.com)  with preferred date and time along with activity ticket at least 7 days in advance.
 • F&B credit is valid for dine-in and takeaway.
@@ -276,11 +267,10 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Marina Bay Sands
 <img src="/images/Marina Bay Sands.png" width="500 px"><br>       
-### Promotion: Rates starting from $290++ per night for weekdays (Sun-Thu) and $360++ per night for weekends (Fri-Sat)
+#### Promotion: Rates starting from $290++ per night for weekdays (Sun-Thu) and $360++ per night for weekends (Fri-Sat)
 Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower Floor and Garden View) rooms, 3rd person rate: $100++ inclusive of extra bed
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person during check-in to enjoy the promotion
 • Rates are applicable on selected dates and for CSC members only
 • Book period: 1 – 31 July 2021 and Stay period: 3 July – 30 September 2021
@@ -303,10 +293,9 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 
 ### One Faber Group
 <img src="/images/One Faber (2).jpg" width="500 px"><br>       
-### Promotion: 10% OFF Faber Licence Membership Online Sign-up
+#### Promotion: 10% OFF Faber Licence Membership Online Sign-up
 
 #### Terms and Conditions:
-
 • Promotion is only valid for Civil Service Club (CSC) members with valid CSC Membership Card or Virtual Card via CSC App
 • Promotion is only valid for online registration of new Faber licence membership at  [https://member.onefabergroup.com/](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fmember.onefabergroup.com%2F&e=1a8b98d0&h=13a29994&f=y&p=n "member.onefabergroup.com")  by keying in **promo code CSC10** at checkout page
 • Mount Faber Leisure Group reserves the right to request for a valid identification card to be presented before allowing participants to enjoy the promotion
@@ -319,12 +308,11 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 
 ### Madame Tussauds Singapore
 <img src="/images/Madame Tussauds.jpg" width="500 px"><br>       
-### Promotions:
-### • FREE entry for Kids for every 2 adult tickets purchased
-### • $60 for 2 Adult and 1 Kid ticket
+#### Promotions:
+#### • FREE entry for Kids for every 2 adult tickets purchased
+#### • $60 for 2 Adult and 1 Kid ticket
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person at the admission counter.
 • Simply click [here](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.madametussauds.com%2Fsingapore%2Ftickets%2F%3Fpromocode%3DKIDSFREE&e=1a8b98d0&h=10f0a688&f=y&p=n "www.madametussauds.com") to purchase and enjoy your exclusive offer
 • You could also enjoy this offer over our admission counter. Reservation is strongly recommended before visiting the attraction via [here](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.madametussauds.com%2Fsingapore%2Ftickets%2F%3Fpromocode%3DPREBOOK&e=1a8b98d0&h=2e4e99ac&f=y&p=n "www.madametussauds.com")
@@ -339,12 +327,11 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 
 ### Ohana Beach House
 <img src="/images/Ohana.png" width="500 px"><br>       
-### Promotions: 
-### • FREE kayak trial session (45mins)
-### • 15% OFF all F&B
+#### Promotions: 
+#### • FREE kayak trial session (45mins)
+#### • 15% OFF all F&B
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Please contact 9737 7944 for reservations or enquire more
 • For list of lcoations, addresses and operating hours, please visit [http://www.adventurepaddlers.com.sg/ohana-beach-house/](https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.adventurepaddlers.com.sg%2Fohana-beach-house%2F&e=1a8b98d0&h=c136556f&f=y&p=n "www.adventurepaddlers.com.sg")
@@ -356,10 +343,9 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 
 ### Scholastic Asia
 <img src="/images/Scholastic 2.png" width="500 px"><br>       
-### Promotion: 30% OFF storewide with no min. spend
+#### Promotion: 30% OFF storewide with no min. spend
 
 #### Terms and Conditions:
-
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person upon delivery to enjoy the promotion
 • Offer can be redeemed by entering promo code  **" SCHOCSC30"** 
 • Limit to 1000 redemptions at [https://shopee.sg/scholasticsg](https://shopee.sg/scholasticsg)
@@ -373,7 +359,7 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 
 ### SONY Singapore
 <img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px"><br>  
-### Promotion: Exclusive Weekly Specials
+#### Promotion: Exclusive Weekly Specials
 <table width="100%" border="1">
 <tr>
 <td width="20%">Period</b><br></td>
