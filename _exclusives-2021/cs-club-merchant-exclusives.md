@@ -215,68 +215,6 @@ permalink: /CSC-Merchant-Exclusives
 
 ## Attractions, Retail and Others
 
-### SONY Singapore
-<img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px"><br>  
-### Promotion: Exclusive Weekly Specials
-<table width="100%" border="1">
-<tr>
-<td width="20%">Period</b><br></td>
-<td width="20%">Category</b><br></td>
-<td width="30%">Model</b><br></td>
-<td width="30%">CSC Promotions</b><br></td>
-</tr>
-<tr>
-<td>1 - 11 July<br></td>
-<td>TV<br></td>
-<td>KD-55X85J, KD-65X85J, KD-75X85J<br></td>
-<td>8% off + Complimentary TV Essential Kit<br></td>
-</tr>
-<tr>
-<td>1 - 11 July<br></td>
-<td>TV<br></td>
-<td>KD-43X75, KD-50X75	<br></td>
-<td>8% off<br></td>
-</tr>
-<tr>
-<td>12 - 18 July<br></td>
-<td>Soundbar<br></td>
-<td>HT-X8500, HT-S350<br></td>
-<td>8% off<br></td>
-</tr>
-<tr>
-<td>19 - 25 July<br></td>
-<td>Personal Entertainment<br></td>
-<td>NW-A55 + WH-1000XM4<br>
-NW-W623<br></td>
-<td> $679<br>
-$159<br></td>
-</tr>
-<tr>
-<td>26 - 31 July	<br></td>
-<td>Cameras<br></td>
-<td>DSC-RX100M5<br>
-ILCE 7C + SEL24105G<br></td>
-<td> 8% off <br>
-Complimentary GP-VPT2BT grip + UV filter + 
-  tempered glass screen protector + cleaning kit<br></td> 
-</tr>
-<tr>
-</table>
-
-#### Terms and Conditions:
-• Sony Electronics (Singapore) Pte Ltd reserves the right to terminate, suspend or cancel this promotion at any time. Find out more at all Sony Store (except Sony Store, Changi Airport)
-• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person at Sony stores to enjoy the promotion
-• Available in all stores except Changi T3 outlet
-• Offer not valid with other discounts, promotions, vouchers or privileges
-• While stocks last
-• All prices, free gifts, stock availability and published features are correct at the time of printing and are subject to change without prior notice
-• Sony Electronics (Singapore) Pte Ltd reserves the right to revise any content stated in this promotion as it deems fit without prior notice
-• Sony Electronics (Singapore) Pte Ltd reserves the right to vary, delete or add to any of the terms & conditions at its sole discretion and without prior notice or liability.
-• In case of any dispute, the decision of Sony Electronics (Singapore) Pte Ltd shall be final.
-• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures.
-
----       
-
 ### Wild Wild Wet
 <img src="/images/Wild Wild Wet.jpg" width="500 px"><br>       
 ### Promotion: 30% OFF Wild & Wet Premium Membership
@@ -432,3 +370,65 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 • The management reserves the right to amend the terms & conditions without prior notice
 
 --- 
+
+### SONY Singapore
+<img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px"><br>  
+### Promotion: Exclusive Weekly Specials
+<table width="100%" border="1">
+<tr>
+<td width="20%">Period</b><br></td>
+<td width="20%">Category</b><br></td>
+<td width="30%">Model</b><br></td>
+<td width="30%">CSC Promotions</b><br></td>
+</tr>
+<tr>
+<td>1 - 11 July<br></td>
+<td>TV<br></td>
+<td>KD-55X85J, KD-65X85J, KD-75X85J<br></td>
+<td>8% off + Complimentary TV Essential Kit<br></td>
+</tr>
+<tr>
+<td>1 - 11 July<br></td>
+<td>TV<br></td>
+<td>KD-43X75, KD-50X75	<br></td>
+<td>8% off<br></td>
+</tr>
+<tr>
+<td>12 - 18 July<br></td>
+<td>Soundbar<br></td>
+<td>HT-X8500, HT-S350<br></td>
+<td>8% off<br></td>
+</tr>
+<tr>
+<td>19 - 25 July<br></td>
+<td>Personal Entertainment<br></td>
+<td>NW-A55 + WH-1000XM4<br>
+NW-W623<br></td>
+<td> $679<br>
+$159<br></td>
+</tr>
+<tr>
+<td>26 - 31 July	<br></td>
+<td>Cameras<br></td>
+<td>DSC-RX100M5<br>
+ILCE 7C + SEL24105G<br></td>
+<td> 8% off <br>
+Complimentary GP-VPT2BT grip + UV filter + 
+  tempered glass screen protector + cleaning kit<br></td> 
+</tr>
+<tr>
+</table>
+
+#### Terms and Conditions:
+• Sony Electronics (Singapore) Pte Ltd reserves the right to terminate, suspend or cancel this promotion at any time. Find out more at all Sony Store (except Sony Store, Changi Airport)
+• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person at Sony stores to enjoy the promotion
+• Available in all stores except Changi T3 outlet
+• Offer not valid with other discounts, promotions, vouchers or privileges
+• While stocks last
+• All prices, free gifts, stock availability and published features are correct at the time of printing and are subject to change without prior notice
+• Sony Electronics (Singapore) Pte Ltd reserves the right to revise any content stated in this promotion as it deems fit without prior notice
+• Sony Electronics (Singapore) Pte Ltd reserves the right to vary, delete or add to any of the terms & conditions at its sole discretion and without prior notice or liability.
+• In case of any dispute, the decision of Sony Electronics (Singapore) Pte Ltd shall be final.
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures.
+
+---    
