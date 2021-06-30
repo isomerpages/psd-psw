@@ -7,7 +7,6 @@ permalink: /CSC-Merchant-Exclusives
 ## Civil Service Club Merchant Exclusives
 
 #### Civil Service Club is joined by our merchant partners in the celebration of PS Week! Public Service Officers can simply enjoy exclusive discounts and deals by flashing their Civil Service card or staff pass between 1 to 31 July 2021. The Merchant Exclusives are also available for Civil Service Club Members (including Supplementary Members). Due to the prevailing Safe Management Measures, the Merchant Exclusives are subject to change or cancellation.
-#### More Merchant Exclusives will be listed soon!
 
 
 ## F&B
@@ -65,7 +64,7 @@ permalink: /CSC-Merchant-Exclusives
 ---
 
 ### Waterfall Lounge by Furama RiverFront Singapore 
-<img src="images/Waterfall Lounge.png" width="500 px"><br>       
+<img src="/images/Waterfall Lounge.png" width="500 px"><br>       
 ### Promotion: 1-FOR-1 Cocktail, Mocktail, Draft Beer, House Wine, House Pour Spirits
 
 ####  Terms and Conditions: 
@@ -181,7 +180,7 @@ permalink: /CSC-Merchant-Exclusives
 
 ### Biscotti Bakery
 <img src="/images/Biscotti Bakery 2.png" width="500 px"><br>       
-### Promotion: 
+### Promotions: 
 ### • Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g, worth $17) FREE 
 ### • $1 OFF Biscotti tubs and 10% OFF F&B at CSC @ Tessensohn 
 ### • FREE cafe food voucher for purchase above $80
@@ -319,9 +318,9 @@ Complimentary GP-VPT2BT grip + UV filter +
 
 ### Skypark Sentosa by AJ Hackett
 <img src="/images/Wild Wild Wet.jpg" width="500 px"><br>       
-### Promotion: 
-### 1 x Bungy Jump + $10 F&B Credit
-### 1 x Giant Swing (per pax) + $10 F&B Credit
+### Promotions: 
+### • 1 x Bungy Jump + $10 F&B Credit
+### • 1 x Giant Swing (per pax) + $10 F&B Credit
 
 #### Terms and Conditions:
 
@@ -362,4 +361,74 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice
 
+---    
 
+### One Faber Group
+<img src="/images/One Faber (2).jpg" width="500 px"><br>       
+### Promotion: 10% OFF Faber Licence Membership Online Sign-up
+
+#### Terms and Conditions:
+
+• Promotion is only valid for Civil Service Club (CSC) members with valid CSC Membership Card or Virtual Card via CSC App
+• Promotion is only valid for online registration of new Faber licence membership at  [https://member.onefabergroup.com/](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fmember.onefabergroup.com%2F&e=1a8b98d0&h=13a29994&f=y&p=n "member.onefabergroup.com")  by keying in **promo code CSC10** at checkout page
+• Mount Faber Leisure Group reserves the right to request for a valid identification card to be presented before allowing participants to enjoy the promotion
+• Promotion is not exchangeable or refundable for cash, products or other services
+• Promotion may not be used in conjunction with any other promotions, discounts and privileges
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice
+
+---   
+
+### Madame Tussauds Singapore
+<img src="/images/Madame Tussauds.jpg" width="500 px"><br>       
+### Promotions:
+### • FREE entry for Kids for every 2 adult tickets purchased
+### • $60 for 2 Adult and 1 Kid ticket
+
+#### Terms and Conditions:
+
+• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person at the admission counter.
+• Simply click [here](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.madametussauds.com%2Fsingapore%2Ftickets%2F%3Fpromocode%3DKIDSFREE&e=1a8b98d0&h=10f0a688&f=y&p=n "www.madametussauds.com") to purchase and enjoy your exclusive offer
+• You could also enjoy this offer over our admission counter. Reservation is strongly recommended before visiting the attraction via [here](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.madametussauds.com%2Fsingapore%2Ftickets%2F%3Fpromocode%3DPREBOOK&e=1a8b98d0&h=2e4e99ac&f=y&p=n "www.madametussauds.com")
+• Ticket include entry to: Madame Tussauds Singapore, Marvel Universe 4D, Images of Singapore, The Spirit of Singapore boat ride, and Ultimate Film Star Experience
+• Complimentary kid ticket is only applicable for children from 3-12 years old. Admission for children below age 3 is free. NOTE: Children under the age of 16 must be accompanied by an adult aged 18 years or over whilst in the attraction
+• Current offer cannot be exchanged for cash or be used in conjunction with any other promotion, voucher, coupon, code, rebate, privilege, or offer
+• Madame Tussauds reserves the right to alter, close or remove details/exhibits without prior notice for technical, operational, or other reasons
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice
+
+---    
+
+### Ohana Beach House
+<img src="/images/Ohana.png" width="500 px"><br>       
+### Promotions: 
+### • FREE kayak trial session (45mins)
+### • 15% OFF all F&B
+
+#### Terms and Conditions:
+
+• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
+• Please contact 9737 7944 for reservations or enquire more
+• For list of lcoations, addresses and operating hours, please visit [http://www.adventurepaddlers.com.sg/ohana-beach-house/](https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.adventurepaddlers.com.sg%2Fohana-beach-house%2F&e=1a8b98d0&h=c136556f&f=y&p=n "www.adventurepaddlers.com.sg")
+• Offer not valid with other discounts, promotions, vouchers or privileges
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice
+
+---   
+
+### Scholastic Asia
+<img src="/images/Scholastic 2.png" width="500 px"><br>       
+### Promotion: 30% OFF storewide with no min. spend
+
+#### Terms and Conditions:
+
+• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person upon delivery to enjoy the promotion
+• Offer can be redeemed by entering promo code  **" SCHOCSC30"** 
+• Limit to 1000 redemptions at [https://shopee.sg/scholasticsg](https://shopee.sg/scholasticsg)
+• Multiple vouchers cannot be used at the same time
+• Contact Scholastic Official Store Singapore Chat Support for any enquiries
+• Offer not valid with other discounts, promotions, vouchers or privileges
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice
+
+--- 
