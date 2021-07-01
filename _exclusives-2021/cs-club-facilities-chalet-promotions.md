@@ -11,6 +11,8 @@ Public Service Officers can enjoy free swimming pool usage, as well as membersâ€
 The promotions are open to all Public Service Officers, and subject to availability. Public Service Officers must present their staff pass OR Civil Service card in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.
 <br>
 <br>
+<i>Did you know that CSC members enjoy the best rates and priority bookings for chalets and facilities, as well as one of the best bowling rates in Singapore?<i>
+<br>
 
 <table width="100%">
 	<tr>
