@@ -51,8 +51,7 @@ permalink: /opsoc-2021/about
       2:55pm
     </td>
     <td>
-      Message from Head, Civil Service, Mr Leo Yip<br>
-      Ask HCS - Q&A with Head, Civil Service<br>
+      Ask HCS – Q&A with Head, Civil Service, Mr Leo Yip<br>
     </td>
   </tr>
   <tr>
