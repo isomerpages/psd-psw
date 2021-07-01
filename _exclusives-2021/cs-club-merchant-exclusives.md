@@ -50,13 +50,13 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 
 ####  Terms and Conditions: 
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
-• For reservations, please contact the Cafes directly at their direct number (subject to availability).
-• The Grumpy Bear Thomson Plaza: 301 Upper Thomson Rd , Thomson Plaza, #02-10 (S) 574408, contact no: 9238 4055
-• The Grumpy Bear Bukit Timah Plaza: #02-01B Timah Plaza, 1 Jalan Anak Bukit, 588996, contact no: 9883 2350
-• The Grumpy Bear Kebun Bahru CC: 216 Ang Mo Kio Avenue 4, #01-03 Kebun Baru Community Centre (s) 569897, contact no: 9883 2321
-• The Grumpy Bear SAFRA Jurong: 333 Boon Lay Way, #2B-01 Singapore 649848, contact no: 9883 2304
+• Customer will pay for the higher priced item
+• Subject to 10% service charge & 7% GST
+• For reservations, please contact the Cafes directly at their direct number (subject to availability)
+• Visit https://www.grumpybear.com.sg for the complete list of outlets and contact numbers
 • Offer not valid with other discounts, promotions, vouchers or privilege
-• The management reserves the right to amend the terms & conditions without prior notice    
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
+• The management reserves the right to amend the terms & conditions without prior notice     
 
 ---
 
@@ -124,6 +124,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 ### Town Restaurant – The Fullerton Hotel Singapore
 <img src="/images/Town Restaurant.png" width="500 px"><br>       
 #### Promotion: 25% OFF on Dinner Feast on Thursday and Sunday Brunch
+(Note: This promotion is currently not available due to dining restriction for buffets)
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
@@ -140,6 +141,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 ### La Brasserie – The Fullerton Bay Hotel Singapore
 <img src="/images/La Brasserie.png" width="500 px"><br>       
 #### Promotion: 1 dines FREE with every 3 paying adults for Le Brunch By The Bay
+(Note: This promotion is currently not available due to 2 pax dining restriction)
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
@@ -247,7 +249,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 ---    
 
 ### Skypark Sentosa by AJ Hackett
-<img src="/images/Wild Wild Wet.jpg" width="500 px"><br>       
+<img src="/images/AJ.png" width="500 px"><br>       
 #### Promotions: 
 #### • 1 x Bungy Jump + $10 F&B Credit
 #### • 1 x Giant Swing (per pax) + $10 F&B Credit
@@ -358,10 +360,10 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 --- 
 
 ### SONY Singapore
-<img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px"><br>  
+<img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px">
+
 #### Promotion: Exclusive Weekly Specials
 <table width="100%" border="1">
-<tr>
 <td width="20%">Period</b><br></td>
 <td width="20%">Category</b><br></td>
 <td width="30%">Model</b><br></td>
@@ -401,9 +403,6 @@ ILCE 7C + SEL24105G<br></td>
 <td> 8% off <br>
 Complimentary GP-VPT2BT grip + UV filter + 
   tempered glass screen protector + cleaning kit<br></td> 
-</tr>
-<tr>
-</table>
 
 #### Terms and Conditions:
 • Sony Electronics (Singapore) Pte Ltd reserves the right to terminate, suspend or cancel this promotion at any time. Find out more at all Sony Store (except Sony Store, Changi Airport)
@@ -413,8 +412,8 @@ Complimentary GP-VPT2BT grip + UV filter +
 • While stocks last
 • All prices, free gifts, stock availability and published features are correct at the time of printing and are subject to change without prior notice
 • Sony Electronics (Singapore) Pte Ltd reserves the right to revise any content stated in this promotion as it deems fit without prior notice
-• Sony Electronics (Singapore) Pte Ltd reserves the right to vary, delete or add to any of the terms & conditions at its sole discretion and without prior notice or liability.
-• In case of any dispute, the decision of Sony Electronics (Singapore) Pte Ltd shall be final.
-• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures.
+• Sony Electronics (Singapore) Pte Ltd reserves the right to vary, delete or add to any of the terms & conditions at its sole discretion and without prior notice or liability
+• In case of any dispute, the decision of Sony Electronics (Singapore) Pte Ltd shall be final
+• Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 
----    
+---      
