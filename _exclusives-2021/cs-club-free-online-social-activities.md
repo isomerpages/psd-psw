@@ -6,7 +6,7 @@ permalink: /CSC-Free-Social-Activities
 
 ## Civil Service Club Free Online Social Activities
 
-Public Service Officers can enjoy Free Online Social Activities in July! The Free Online Social Activities are also available for CS Club Members (including Supplementary Members). Registration is required, and subject to availability. An event link will be emailed to participants upon confirmation. 
+Public Service Officers can enjoy Free Online Social Activities in July! The Free Online Social Activities are also available for Civil Service Club Members (including Supplementary Members). Registration is required, and subject to availability. An event link will be emailed to participants upon confirmation. 
 
 *Did you know that CSC members enjoy the most sporting, leisure, and recreational activities and events by a social club in Singapore?*
 

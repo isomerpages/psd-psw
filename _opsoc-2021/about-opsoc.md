@@ -51,21 +51,20 @@ permalink: /opsoc-2021/about
       2:55pm
     </td>
     <td>
-      Message from Head, Civil Service
+      Ask HCS – Q&A with Head, Civil Service, Mr Leo Yip<br>
     </td>
   </tr>
   <tr>
     <td>
-      3:00pm
+      3:10pm
     </td>
     <td>
       Recital of Public Service Pledge (led by Head, Civil Service)<br>
-      Singing of National Anthem<br>
     </td>
   </tr>
   <tr>
     <td>
-      3:05pm
+      3:15pm
     </td>
     <td>
       Interactive and engaging activities:<br>
@@ -75,7 +74,7 @@ permalink: /opsoc-2021/about
   </tr>
   <tr>
     <td>
-      3:15pm
+      3:25pm
     </td>
     <td>
       Video: Thank you, Public Officers<br>
@@ -83,7 +82,7 @@ permalink: /opsoc-2021/about
   </tr>
   <tr>
     <td>
-      3:20pm
+      3:30pm
     </td>
     <td>
       Closing by Emcee<br>
