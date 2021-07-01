@@ -20,7 +20,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • Offer is valid at all Harry’s outlet except Changi Airport
 • Offer is applicable on items under Asian Palate category except Curried Lamb Shank.
 • Complimentary item must be of the same or of a lower value
-• For the list of locations, addresses and operating hours, please visit [http://harrys.com.sg/find-us]
+• For the list of locations, addresses and operating hours, please visit [https://harrys.com.sg/find-us](https://harrys.com.sg/find-us)
 • Offer is based on regular-priced items and not valid with other discounts, promotions, vouchers or privileges
 • Prices are subject to prevailing government taxes and service charge
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures.
@@ -37,7 +37,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • This special 1-For-1 set lunch only available at Bruno's, 544 Serangoon Road outlet
 • Promotion is available on weekdays, 12pm-2.00pm (excluding public holidays)
 • Reservations are prefered and by calling 62993544 and indicating CSC promotion
-• For more information, you may proceed to [https://brunospizzeria.kitchen]"brunospizzeria.kitchen")
+• For more information, you may proceed to [https://brunospizzeria.kitchen](https://brunospizzeria.kitchen)
 • Not valid with any other discounts, promotions, vouchers, coupon, code, rebate, privilege or offer
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms and conditions without prior notice          
@@ -53,7 +53,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • Customer will pay for the higher priced item
 • Subject to 10% service charge & 7% GST
 • For reservations, please contact the Cafes directly at their direct number (subject to availability)
-• Visit https://www.grumpybear.com.sg for the complete list of outlets and contact numbers
+• Visit [https://www.grumpybear.com.sg](https://www.grumpybear.com.sg) for the complete list of outlets and contact numbers
 • Offer not valid with other discounts, promotions, vouchers or privilege
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice     
@@ -67,7 +67,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 ####  Terms and Conditions: 
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • For reservation, please contact 89082600 / email [waterfall.riverfront@furama.com](mailto:waterfall.riverfront@furama.com) and quote **“CSC Furama”**
-• For more information, please visit [https://www.furama.com/riverfront/Dining/Waterfall-Lounge](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.furama.com%2Friverfront%2FDining%2FWaterfall-Lounge&e=1a8b98d0&h=3aaf3950&f=y&p=n "www.furama.com")
+• For more information, please visit [https://www.furama.com/riverfront/Dining/Waterfall-Lounge](https://www.furama.com/riverfront/Dining/Waterfall-Lounge)
 • Offer not valid with other discounts, promotions, vouchers or privileges and special occasions, eve of and Public Holidays
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to withdraw the promotion or amend the terms & conditions without prior notice.  
@@ -85,7 +85,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • Valid at all R&B Tea outlets except Marina Bay Sands outlet only
 • Not valid with any other discounts, promotions or offers in-store
 • Drinks redeemed are not valid for refund or exchange
-• For more information on R&B Tea locations and operating hours: Please visit https://www.koufu.com.sg/our-brands/concept-stores/rb-tea/ 
+• For more information on R&B Tea locations and operating hours: Please visit [https://www.koufu.com.sg/our-brands/concept-stores/rb-tea/](https://www.koufu.com.sg/our-brands/concept-stores/rb-tea/)  
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice
 
@@ -99,7 +99,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
 • Valid for dine-in for Buffet or A la Carte Indonesia Delight 
 • For reservation, please contact 67396463 or email kintamani.riverfront@furama.com and quote 'CSCFurama' 
-• Visit: https://www.furama.com/riverfront/Dining/Kintamani-Indonesian-Restaurant 
+• Visit: [https://www.furama.com/riverfront/Dining/Kintamani-Indonesian-Restaurant](https://www.furama.com/riverfront/Dining/Kintamani-Indonesian-Restaurant)
 • Offer not valid with other discounts, promotions, vouchers or privileges and special occasions, Eve of and Public Holidays 
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures 
 • The management reserves the right to withdraw the promotion or amend the terms & conditions without prior
@@ -114,7 +114,7 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Valid for dine-in for Buffet or A la Carte Indonesia Delight 
 • For reservation, please contact 6739 6468 / email square.riverfront@furama.com  and quote ‘CSCFurama’ 
-• For more information, please visit:  https://www.furama.com/riverfront/Dining/The-Square-Furama
+• For more information, please visit: [https://www.furama.com/riverfront/Dining/The-Square-Furama](https://www.furama.com/riverfront/Dining/The-Square-Furama)
 • Offer not valid with other discounts, promotions, vouchers or privileges and special occasions, Eve of and Public Holidays
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to withdraw the promotion or amend the terms & conditions without prior notice
@@ -162,11 +162,11 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
-• Use PSWFL10 at the time of ordering on the website http://www.foodline.sg
+• Use PSWFL10 at the time of ordering on the website [https://www.foodline.sg](https://www.foodline.sg)
 • Users are required to write and submit a review on FoodLine for the merchant that they ordered from after their event to receive the cash reward
 • Coupon amount will be processed within 3 to 5 working days via bank transfer to the bank account provided by the user
 • Limited to 1 user per customer
-• Privilege is only valid for orders submitted on the FoodLine.sg website. Visit https://www.foodline.sg/Discover/Public-Service-Week-x-FoodLine.sg-Promo-Code-TNCs/ for more information
+• Privilege is only valid for orders submitted on the FoodLine.sg website. Visit [https://www.foodline.sg/Discover/Public-Service-Week-x-FoodLine.sg-Promo-Code-TNCs/](https://www.foodline.sg/Discover/Public-Service-Week-x-FoodLine.sg-Promo-Code-TNCs/) for more information
 • Please contact 6100 0029 or email to [sales@foodline.sg](mailto:sales@foodline.sg) to enquire more
 • Offer not valid with other discounts, promotions, vouchers or privileges
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
@@ -196,12 +196,11 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 #### Terms and Conditions:
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Civil Service Club (CSC) members are to present valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
-• Please contact 65430100 / https://inline.app/booking/libc/libc to make an appointment/ reservation
+• Please contact 65430100 / [https://inline.app/booking/libc/libc](https://inline.app/booking/libc/libc) to make an appointment/ reservation
 • Discount not applicable on Eve of PH & PH
 • Privilege is valid for dine-in and takeaway
 • Discount not applicable on weekday lunch menu
-• Operating hours are Mon – Sat: 12-1030pm, Sun: 11-1030pm, for more details like location, please visit http://libc.co/
-• Offer not valid with other discounts, promotions, vouchers or privileges
+• Operating hours are Mon – Sat: 12-1030pm, Sun: 11-1030pm, for more details like location, please visit [http://libc.co/](http://libc.co/)
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice
 
@@ -216,10 +215,11 @@ Civil Service Club is joined by our merchant partners in the celebration of PS W
 #### Terms and Conditions:
 
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
-• Enjoy this Promo code  **“CSCWWPM21”**  valid only for online purchase: <[www.wildwildwet.com](https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.wildwildwet.com&e=1a8b98d0&h=1d337cc5&f=y&p=n "www.wildwildwet.com")>
+• Enjoy this Promo code  **“CSCWWPM21”**  valid only for online purchase: [www.wildwildwet.com](https:www.wildwildwet.com)
 • Wild Wild Wet reserves the right to revert the pricing to public rates if registered guest fails to do so
 • Collection of Wild & Wet Premium Membership passes will be at Wild Wild Wet Information Counter,
-• For details, such as locations and operating hours, please visit <[www.wildwildwet.com](https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.wildwildwet.com&e=1a8b98d0&h=1d337cc5&f=y&p=n "www.wildwildwet.com")> Please contact 6581 9128 to enquire more
+• For details, such as locations and operating hours, please visit [www.wildwildwet.com](https://www.wildwildwet.com)
+• Please contact 6581 9128 to enquire more
 • Valid for Adult, Child and Senior annual pass except Family Package on public rates only
 • Validity of the Wild & Wet Premium Membership will start on date of purchase with no extensions allowed
 • Not applicable for top-up from Day Passes
