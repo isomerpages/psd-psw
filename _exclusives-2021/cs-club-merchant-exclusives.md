@@ -357,17 +357,17 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice
 
---- 
+---
 
 ### SONY Singapore
 <img src="/images/promotions/20210618_POP_CSC_Promo_Listing_Banner_670x290px_v2.png" width="500 px">
 
 #### Promotion: Exclusive Weekly Specials
 <table width="100%" border="1">
-<td width="20%">Period</b><br></td>
-<td width="20%">Category</b><br></td>
-<td width="30%">Model</b><br></td>
-<td width="30%">CSC Promotions</b><br></td>
+<td width="20%">Period<br></td>
+<td width="20%">Category<br></td>
+<td width="30%">Model<br></td>
+<td width="30%">CSC Promotions<br></td>
 </tr>
 <tr>
 <td>1 - 11 July<br></td>
