@@ -109,8 +109,7 @@ The promotions are open to all Public Service Officers, and subject to availabil
 		<td width="50%">
 			<img src="/images/sa/BB room.jpg" width="500 px">
 		</td>
-	</tr>
-</table>
+	
 <br>
 
 
