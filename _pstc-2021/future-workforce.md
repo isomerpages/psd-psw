@@ -19,4 +19,4 @@ With an emphasis on career agility, this webinar will focus on the progressive a
 •	Ms. Aileen Tan, Group Chief Human Resources Officer, SingTel <br>
 •	Mr. Jason See, Senior Director (Data Science & Artificial Intelligence), Government Technology Agency of Singapore (GovTech) <i> [Moderator] </i>
 
-To view the speakers' profiles, click <a href="https://www.dropbox.com/s/o5a5ptfug9mhpvq/FWF%20Speakers%2001%20%281%29.pdf?dl=0">here</a>.
+To view the speakers' profiles, click <a href="https://www.dropbox.com/s/n89lmeaqghg0z9d/FWF%20Speakers%2002.pdf?dl=0">here</a>.
