@@ -16,7 +16,7 @@ With an emphasis on career agility, this webinar will focus on the progressive a
 <b>Speakers</b><br>
 •	Ms. Ng Wee Wei, Country Managing Director, Accenture Singapore<br>
 •	Mr. Lim Eng Hwee, Chief Executive Officer, URA  <br>
-•	Ms. Aileen Tan, Group Chief Human Resources Officer, SingTel <br>
+•	Ms. Aileen Tan, Group Chief People and Sustainability Officer, Singtel <br>
 •	Mr. Jason See, Senior Director (Data Science & Artificial Intelligence), Government Technology Agency of Singapore (GovTech) <i> [Moderator] </i>
 
 To view the speakers' profiles, click <a href="https://www.dropbox.com/s/n89lmeaqghg0z9d/FWF%20Speakers%2002.pdf?dl=0">here</a>.
