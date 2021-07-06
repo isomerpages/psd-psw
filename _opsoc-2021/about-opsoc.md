@@ -85,8 +85,8 @@ permalink: /opsoc-2021/about
       3:30pm
     </td>
     <td>
-      Closing by Emcee<br>
       A Song Dedicated to Public Officers by SCDF's Music and Performing Arts Club<br>
+      Closing by Emcee<br>
     </td>
   </tr>
 </table>
