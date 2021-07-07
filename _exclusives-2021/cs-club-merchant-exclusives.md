@@ -72,8 +72,8 @@ Terms and Conditions: <br>
 <img src="/images/R&B.jpg" width="500 px">      
 <h4> Promotion: $2 Milk Tea w/ Golden Pearls (Reg)</h4>
 Terms and Conditions: <br>
-• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion 
-• Present valid CSC Membership Card or Virtual Card via CSC App, in person at the R&B Tea outlet. No copy of any pass or card is allowed
+• Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person at the R&B outlet to enjoy the promotion 
+• No copy of any pass or card is allowed
 • R&B Tea prices are inclusive of prevailing GST
 • Valid at all R&B Tea outlets except Marina Bay Sands outlet only
 • Not valid with any other discounts, promotions or offers in-store
@@ -183,7 +183,6 @@ Terms and Conditions:<br>
 <h4> Promotion: 15% OFF all food and drinks</h4>
 Terms and Conditions:<br>
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
-• Civil Service Club (CSC) members are to present valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
 • Please contact 65430100 / <a href="https://inline.app/booking/libc/libc">https://inline.app/booking/libc/libc</a> to make an appointment/ reservation
 • Discount not applicable on Eve of PH & PH
 • Privilege is valid for dine-in and takeaway
@@ -223,7 +222,6 @@ Terms and Conditions:<br>
 <h4> Promotion: 20% OFF online tickets for Science Centre Singapore</h4>
 Terms and Conditions:<br> 
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person to enjoy the promotion
-• Public Service officers are to present valid staff pass or Civil Service Card in person to enjoy the promotion
 • Redemption is only available for online using the promo code: SCPSW20 at <a href="www.science.edu.sg">www.science.edu.sg</a> the time of booking or contact 64252500 to make an appointment/ reservation
 • For details on locations and operating hours, please visit <a href="www.science.edu.sg">www.science.edu.sg</a>
 • Offer not valid with other discounts, promotions, vouchers or privileges
