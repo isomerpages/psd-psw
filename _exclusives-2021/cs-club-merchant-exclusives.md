@@ -255,11 +255,11 @@ Rate is applicable for Deluxe (Garden, City & Harbour View) and Premier (Lower F
 <br> 
 Terms and Conditions:<br> 
 • Present either your staff pass or Civil Service Card, or your valid CSC Membership Card or Virtual Card via CSC App in person during check-in to enjoy the promotion
-• Rates are applicable on selected dates and for CSC members only
+• Rates are applicable on selected dates and for Public Service officers and CSC members only
 • Book period: 1 – 31 July 2021 and Stay period: 3 July – 30 September 2021
 • Booking to be made via private booking link <a href="https://www.marinabaysands.com/deals/rooms/marina-bay-sands-special.html">https://www.marinabaysands.com/deals/rooms/marina-bay-sands-special.html</a>, call centre or email
 • Rate is bookable up to 2 days in advance
-• Maximum booking of 2 rooms per membership card
+• Maximum booking of 2 rooms per membership card, staff pass or Civil Service Card
 • Guaranteed upgrade of room type (room rate will be sold with the upgraded room type e.g. Deluxe Garden View room at Deluxe non view pricing)
 • Complimentary valet parking/self-parking (1 car per room per 24 hours)
 • Early check in from 12 pm (subject to room availability and booked registration time slot)
@@ -268,7 +268,7 @@ Terms and Conditions:<br>
 • Blackout dates: Subjected to blackout dates
 • Cancellation policy: Reservation is cancellable and amendable 2 days prior to arrival
 • Reservations made over 8 – 10 Aug 2021 require full pre-payment and are non-cancellable, non-amendable and non-refundable
-• To show valid CSC membership upon check in
+• To show valid CSC membership card, staff pass or Civil Service Card upon check in
 • Promotion may be subject to change or temporary postponement due to the prevailing Safe Management Measures
 • The management reserves the right to amend the terms & conditions without prior notice
 <br> 
@@ -278,7 +278,7 @@ Terms and Conditions:<br>
 <img src="/images/One Faber (2).jpg" width="500 px">     
 <h4> Promotion: 10% OFF Faber Licence Membership Online Sign-up </h4>
 Terms and Conditions:<br> 
-• Promotion is only valid for Civil Service Club (CSC) members with valid CSC Membership Card or Virtual Card via CSC App
+• Promotion is valid for Public Service officers with valid staff pass or Civil Service Card, or Civil Service Club (CSC) members with valid CSC Membership Card or Virtual Card via CSC App 
 • Promotion is only valid for online registration of new Faber licence membership at <a href="https://member.onefabergroup.com/">https://member.onefabergroup.com/</a> by keying in promo code CSC10 at checkout page
 • Mount Faber Leisure Group reserves the right to request for a valid identification card to be presented before allowing participants to enjoy the promotion
 • Promotion is not exchangeable or refundable for cash, products or other services
