@@ -13,7 +13,7 @@ On 30 July 2021, the PST Awards Ceremony will recognise the extraordinary talent
 
 Officers can tune in to celebrate alongside the awardees, and take part in interactive activities where tokens will be given out. Look out for the pre-event activities – “Snap a shot of Gratitude” (on Workplace@Facebook) and “Block Masters” (on the Events Ceremony page) that will be launched on 23rd and 24th July respectively. <br>
 
-Register for your log-in credentials now!  Registration takes less than a minute via this link: https://go.gov.sg/pstac2021. You can also scan this QR code:
+Register for your log-in credentials now!  Registration takes less than a minute via this link: [https://go.gov.sg/pstac2021](https://go.gov.sg/pstac2021). You can also scan this QR code:
 
 <img width="122" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/67364523/125377331-618fba00-e3bf-11eb-82a5-868f00820aaa.png">
 
