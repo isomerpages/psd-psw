@@ -15,7 +15,9 @@ Officers can tune in to celebrate alongside the awardees, and take part in inter
 
 Register for your log-in credentials now!  Registration takes less than a minute via this link: [https://go.gov.sg/pstac2021](https://go.gov.sg/pstac2021). You can also scan this QR code:
 
-<img width="122" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/67364523/125377331-618fba00-e3bf-11eb-82a5-868f00820aaa.png">
+<img width="300" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
+
+
 
 **List of Awards**:
 1.  One Public Service Award
