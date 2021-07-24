@@ -6,8 +6,7 @@ permalink: /pstac-2021
 ---
 ##Registration
 
-Register for the Public Sector Transformation Awards Ceremony <b><a href="	
-Officers can register via these links (https://www.form.gov.sg/60c30fe9204151001268d502 or https://go.gov.sg/pstac2021) or through this QR code:">here</a></b>.
+Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.form.gov.sg/60c30fe9204151001268d502">here</a></b>.
 <br>
 <br>
 For general enquiries, pls send it on to <b>MFA_PST_Secretariat@mfa.gov.sg</b>.<br>
