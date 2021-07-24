@@ -4,6 +4,13 @@ permalink: /pstac-2021
 
 
 ---
+## Registration
+
+Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.form.gov.sg/60c30fe9204151001268d502">here</a></b>.
+<br>
+<br>
+For general enquiries, pls send it on to <b>MFA_PST_Secretariat@mfa.gov.sg</b>.<br>
+<br>
 
 ## Public Sector Transformation Awards Ceremony
 
@@ -18,16 +25,40 @@ Register for your log-in credentials now!  Registration takes less than a minute
 <img width="300" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
 
 
+<u><b>Programme Highlights</b></u><br>
+<ul>
+  <li>Pre-event interactive activities</li>
+  <li>Opening by Guest of Honour: Minister for Education and Minister-in-charge of the Public Service Chan Chun Sing</li>
+  <li>Performance dedicated to Public Service Officers by Canossian School and Cannosa Catholic Primary School</li>
+  <li>Announcement of early bird registration token recipients and winners for interactive activities</li>
+ </ul>
+ <br>
+ 
+<u><b>Award Presentations</b></u><br>
+<ul> 
+  <li>One Public Service Award</li>
+  <li>Star Partner Award</li>
+  <li>Regulatory Excellence Award</li>
+  <li>Exemplary Service Excellence Award</li>
+  <li>Service Delivery Excellence Award</li>
+  <li>Citizenship Engagement Excellence Award</li>
+  <li>Exemplary Leader Award</li>
+  <li>Exemplary Innovator Award</li>
+  <li>Dare to Do Award</li>
+  <li>Exemplary SkillsFuture @ Public Service Award</li>
+  <li>Business Transformation Award presented by HCS and PS(ND)</li>
+</ul>
+<br>
 
-**List of Awards**:
-1.  One Public Service Award
-2.  Star Partner Award
-3.  Business Transformation Award
-4.  Service Delivery Excellence Award
-5.  Citizen Engagement Excellence Award
-6.  Regulatory Excellence Award
-7.  Exemplary Leader Award
-8.  Exemplary SkillsFuture @ Public Service Award
-9.  Exemplary Innovator Award
-10.  Dare to Do Award
-11.  Exemplary Service Excellence Award
+<u><b>Videos</b></u><br>
+<ul>
+  <li><b>Unsung Heroes</b> - A glimpse of how public service officers work behind the scenes to make Singaporeans’ lives better.</li> 
+  <li><b>Innovate and Engage</b> - The video showcases our public officers’ innovative spirit and citizen-centric approach to service.</li>
+  <li><b>Transformation Begins with Me: An Interview with Exemplary Skills Future Awardees</b> - Hear from winners of the Exemplary SkillsFuture@Public Service Award on the Future Workforce aspect of public service transformation. </li>
+  <li><b>Little Friends</b> - Featuring the aspirations of children, and their thank you messages to the public service.</li>
+</ul>
+<br>
+<br>
+For general enquiries, pls send it on to <b>MFA_PST_Secretariat@mfa.gov.sg</b>.
+<br>
+
