@@ -16,42 +16,42 @@ Officers can tune in to celebrate alongside the awardees, and take part in inter
 
 Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.form.gov.sg/60c30fe9204151001268d502">here</a></b> or <b><a href="https://go.gov.sg/pstac2021">here</a></b>.You can also scan this QR code:
 
-<img width="250" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
+<img width="150" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
 
 ## Programme Highlights
 
- <li><b>Pre-event interactive activities</li>
- <li> Opening by Guest of Honour: Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service </b></li>
- <br>
+ <li><b> Pre-event interactive activities </b></li>
+
+ <li><b> Opening by Guest of Honour: Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service </b></li>
+<br>
 <li><u><b>Award Presentations</b></u><br></li>
 <ul> 
-  <li>One Public Service Award</li>
-  <li>Star Partner Award</li>
-  <li>Regulatory Excellence Award</li>
-  <li>Exemplary Service Excellence Award</li>
-  <li>Service Delivery Excellence Award</li>
-  <li>Citizenship Engagement Excellence Award</li>
-  <li>Exemplary Leader Award</li>
-  <li>Exemplary Innovator Award</li>
-  <li>Dare to Do Award</li>
-  <li>Exemplary SkillsFuture @ Public Service Award</li>
-  <li>Business Transformation Award presented by Head Civil Service and Permanent Secretary (National Development)</li>
+ <li>One Public Service Award</li>
+ <li>Star Partner Award</li>
+ <li>Regulatory Excellence Award</li>
+ <li>Exemplary Service Excellence Award</li>
+ <li>Service Delivery Excellence Award</li>
+ <li>Citizenship Engagement Excellence Award</li>
+ <li>Exemplary Leader Award</li>
+ <li>Exemplary Innovator Award</li>
+ <li>Dare to Do Award</li>
+ <li>Exemplary SkillsFuture @ Public Service Award</li>
+ <li>Business Transformation Award presented by Head Civil Service and Permanent Secretary (National Development)</li>
 </ul>
+
 
 <li><u><b>Videos</b></u><br></li>
 <ul>
-  <li><b>Unsung Heroes</b> - A glimpse of how public service officers work behind the scenes to make Singaporeans’ lives better.</li> 
-  <li><b>Innovate and Engage</b> - The video showcases our public officers’ innovative spirit and citizen-centric approach to service.</li>
-  <li><b>Transformation Begins with Me: An Interview with Exemplary Skills Future Awardees</b> - Hear from winners of the Exemplary SkillsFuture @ Public Service Award on the Future Workforce aspect of public service transformation. </li>
-  <li><b>Little Friends</b> - Featuring the aspirations of children, and their thank you messages to the public sector.</li>
+ <li><b>Unsung Heroes</b> - A glimpse of how public service officers work behind the scenes to make Singaporeans’ lives better.</li> 
+<li><b>Innovate and Engage</b> - The video showcases our public officers’ innovative spirit and citizen-centric approach to service.</li>
+ <li><b>Transformation Begins with Me: An Interview with Exemplary Skills Future Awardees</b> - Hear from winners of the Exemplary SkillsFuture @ Public Service Award on the Future Workforce aspect of public service transformation. </li>
+ <li><b>Little Friends</b> - Featuring the aspirations of children, and their thank you messages to the public sector.</li>
 </ul>
+ <li><b> Performance dedicated to Public Service Officers by Canossian School and Canossa Catholic Primary School </b></li>
+ <li><b> Announcement of early bird registration token recipients and winners for interactive activities </b></li>
 
-<b>
-  <li>Performance dedicated to Public Service Officers by Canossian School and Canossa Catholic Primary School</li>
-  <li>Announcement of early bird registration token recipients and winners for interactive activities</li>
-  </b> <br>
 
 ## Enquiries
+ For general enquiries, please send it to <b>MFA_PST_Secretariat@mfa.gov.sg</b>.
 
-For general enquiries, please send it to <b>MFA_PST_Secretariat@mfa.gov.sg</b>.
 
