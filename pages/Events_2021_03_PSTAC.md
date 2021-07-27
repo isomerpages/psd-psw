@@ -14,16 +14,17 @@ Officers can tune in to celebrate alongside the awardees, and take part in inter
 
 ## Registration
 
-Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.form.gov.sg/60c30fe9204151001268d502">here</a></b> or <b><a href="https://go.gov.sg/pstac2021">here</a></b>.You can also scan this QR code:
+Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.pstac2021.sg">here</a></b> or <b><a href="https://go.gov.sg/pstac2021">here</a></b>.You can also scan this QR code:
 
-<img width="150" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
+<img width="100" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
 
 ## Programme Highlights
 
  <li><b> Pre-event interactive activities </b></li>
 
  <li><b> Opening by Guest of Honour: Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service </b></li>
-<br>
+
+
 <li><u><b>Award Presentations</b></u><br></li>
 <ul> 
  <li>One Public Service Award</li>
@@ -39,8 +40,7 @@ Register for the Public Sector Transformation Awards Ceremony <b><a href="https:
  <li>Business Transformation Award presented by Head Civil Service and Permanent Secretary (National Development)</li>
 </ul>
 
-
-<li><u><b>Videos</b></u><br></li>
+<li><u><b>Videos</b></u></li>
 <ul>
  <li><b>Unsung Heroes</b> - A glimpse of how public service officers work behind the scenes to make Singaporeans’ lives better.</li> 
 <li><b>Innovate and Engage</b> - The video showcases our public officers’ innovative spirit and citizen-centric approach to service.</li>
