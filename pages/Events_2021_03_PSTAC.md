@@ -14,7 +14,7 @@ Officers can tune in to celebrate alongside the awardees, and take part in inter
 
 ## Registration
 
-Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.form.gov.sg/60c30fe9204151001268d502">here</a></b> or <b><a href="https://go.gov.sg/pstac2021">here</a></b>.You can also scan this QR code:
+Register for the Public Sector Transformation Awards Ceremony <b><a href="https://www.pstac2021.sg">here</a></b> or <b><a href="https://go.gov.sg/pstac2021">here</a></b>.You can also scan this QR code:
 
 <img width="100" alt="QR Code for PSTAC Registration" src="https://user-images.githubusercontent.com/67364523/125879379-bb7dc078-209f-4caf-b89a-29e0372fe77c.png">
 
