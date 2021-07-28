@@ -13,7 +13,7 @@ sections:
         - title: 'Pledge as One'
           url: /opsoc-2021/about
         - title: 'Celebrate Together'
-          url: /pstac-2021
+          url: https://pstac2021.sg
         - title: 'Be Inspired'
           url: /pstc-2021/about
         - title: 'Learn and Grow'
