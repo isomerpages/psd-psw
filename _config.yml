@@ -31,10 +31,11 @@ colors:
     - title: media-color-one
       color: "#f9e41c"
     - title: media-color-two
-      color: "#000000"
+      color: "#9b9b9b"
     - title: media-color-three
       color: "#ffffff"
     - title: media-color-four
       color: "#4a4a4a"
     - title: media-color-five
       color: "#9b9b9b"
+is_government: true
