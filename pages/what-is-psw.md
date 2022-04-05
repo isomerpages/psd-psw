@@ -19,7 +19,7 @@ together have become our way of life.
 
 What's new, is within you.
 
-New mindsets, competencies and
+New mindset, capabilities and
 perspectives.
 Enabling you to experiment boldly,
 work differently and grow with diversity.
@@ -32,4 +32,3 @@ It's time to Be The New______. And what’s new, is up to you.<br>
 
 
 ![](/images/PSW2022_LogoColour1-small1.png)
-
