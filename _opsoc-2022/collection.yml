@@ -2,4 +2,5 @@ collections:
   opsoc-2022:
     output: true
     order:
+      - Example Title.md
       - OPSOC 2022.md
