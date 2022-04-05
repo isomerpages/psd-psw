@@ -3,6 +3,7 @@ title: What is PSW?
 permalink: /what-is-psw
 ---
 ### What is Public Service Week
+![](/images/PUBLIC%20SERVICE%20WEEK%202022/PSW2022_LogoColour1.png)
 
 The theme for Public Service Week 2022 is 'Be The New'.<br>
 <br>
@@ -27,5 +28,5 @@ work differently and grow with diversity.
 <br>
 And what’s new, is up to you.<br>
 <br>
-PSW2022 will be held hybrid. <br>
+PSW2022 will be a hybrid event. <br>
 <br>
