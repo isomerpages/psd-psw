@@ -30,4 +30,4 @@ And what’s new, is up to you.<br>
 <br>
 PSW2022 will be a hybrid event. <br>
 <br>
-![](/images/PUBLIC%20SERVICE%20WEEK%202022/PSW2022_LogoColour1.png)
+![](/images/PSW2022_LogoColour1-small1.png)
