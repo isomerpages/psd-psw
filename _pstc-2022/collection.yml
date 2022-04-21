@@ -1,4 +1,5 @@
 collections:
   pstc-2022:
     output: true
-    order: []
+    order:
+      - About.md
