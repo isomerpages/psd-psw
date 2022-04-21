@@ -2,4 +2,5 @@ collections:
   exclusives-2022:
     output: true
     order:
+      - CSC Membership Promotion.md
       - CSC Facilities & Chalet Promotions.md
