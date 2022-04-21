@@ -11,8 +11,6 @@ description: ""
 The Public Sector Transformation Awards Ceremony (COVID) is a once-off ceremony to honour COVID-related efforts that were undertaken in 2020 and 2021.
 <br>
 
-
-
 ![Main banner](/images/MAIN.jpeg)
 
 Hear from our line-up of speakers on the following topics:<br>
