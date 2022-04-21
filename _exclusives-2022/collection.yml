@@ -1,4 +1,5 @@
 collections:
   exclusives-2022:
     output: true
-    order: []
+    order:
+      - CSC Facilities & Chalet Promotions.md
