@@ -10,7 +10,7 @@ description: ""
 <b>Webinar 1: Stronger Teams</b><br>
 Addressing the impact of hybrid work environments on teamwork, this webinar will focus on how organisations can overcome challenges to strengthen organisational culture, as well as how technology can be leveraged to build stronger teams.<br>
 <br>
-<b>Date:</b> 19 July <br>
+<b>Date:</b> 28 July <br>
 <b>Time:</b> 2.30pm – 4pm <br>
 <br>
 <b>Speakers</b><br>
