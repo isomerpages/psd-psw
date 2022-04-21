@@ -141,7 +141,7 @@ The top 20 winners will know their placing at the end of the quiz. Winners will 
 <i>*Do ensure the email address is keyed in accurately.</i><br>
 <br>
 OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
-For further assistance, you may submit a query to <a href="mailto:OPSOC@scdf.gov.sg">OPSOC@scdf.gov.sg</a><br>
+For further assistance, you may submit a query to <a href="mailto:OPSOC@scdf.gov.sg">OPSOC@scdf.gov.sg</a><br><b>[For HDB's Inputs]</b>
 <br>
 
 <h3 style="color:red;">OPSOC Teaser Video</h3>
