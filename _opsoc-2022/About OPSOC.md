@@ -15,7 +15,7 @@ description: ""
       TIME
     </th>
     <th width="80%">
-      OPSOC PROGRAMME 2022 (8 JULY)
+      PROGRAMME (8 JULY)
     </th>
   </tr>
   <tr>
