@@ -13,11 +13,4 @@ The Public Sector Transformation Awards Ceremony (COVID) is a once-off ceremony 
 
 ![Main banner](/images/MAIN.jpeg)
 
-Hear from our line-up of speakers on the following topics:<br>
-<br>
-  * [Future of Work](/pstc-2021/future-of-work/), 12 Jul 4pm - 5.30pm
-  * [Future Workplace](/pstc-2021/future-workplace/) (1/2), 19 Jul 2.30pm - 4pm
-  * [Future Workforce](/pstc-2021/future-workforce/), 26 Jul 3pm - 4.30pm
-  * [Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm
-<br>
-<b>Register for the webinars <a href="https://go.gov.sg/pstc2021-register">here</a>.</b>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum vel neque sit amet consequat. Ut at blandit nisi. Sed in libero nisi. Nam tellus dui, tincidunt vitae molestie non, posuere vitae felis. Nullam velit turpis, euismod eu iaculis sit amet, vestibulum quis nisl. Curabitur dapibus id lectus sit amet posuere.
