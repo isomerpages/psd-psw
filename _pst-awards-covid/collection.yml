@@ -1,0 +1,4 @@
+collections:
+  pst-awards-covid:
+    output: true
+    order: []
