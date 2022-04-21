@@ -3,7 +3,6 @@ title: About OPSOC
 permalink: /opsoc-2022/about-opsoc
 description: ""
 ---
-
 <b>CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC 2022. </b><br>
 <b>Time and Date</b>: 8 July 2022, 4.00pm - 6.00pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
@@ -125,7 +124,7 @@ Participate in the One Public Service Quiz and stand a chance to win up to $200 
 <br>
 <b>How do I register for the quiz?</b><br>
 1.	Click <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a> to register for OPSOC 2022.<br>
-2.	Be the 1st 2,000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
+2.	Be the 1st 2,000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 4.00pm.<br>
 <br>
 <b>What do I need to join the game?</b><br>
 A desktop, laptop, tablet or mobile device! <br>
