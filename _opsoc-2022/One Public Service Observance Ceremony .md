@@ -3,8 +3,8 @@ title: "One Public Service Observance Ceremony "
 permalink: /opsoc-2022/permalink
 description: ""
 ---
-<b>CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC2021. </b><br>
-<b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
+<b>CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC 2022. </b><br>
+<b>Time and Date</b>: 8 July 2022, 4.00pm - 6.00pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <i>The event is open to all public officers</i><br>
 <br>
@@ -15,77 +15,78 @@ description: ""
       TIME
     </th>
     <th width="80%">
-      OPSOC PROGRAMME 2021 (9 JULY)
+      OPSOC PROGRAMME 2022 (8 JULY)
     </th>
   </tr>
   <tr>
     <td>
-      2:15pm
+      4:00pm
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-      • <a href="#quiz">One Public Service Quiz</a>*<br>
-        • One Public Service Video Message Challenge<br>
+      • <a href="#quiz">One Public Service Quiz (Part 1)</a>*<br>
+        • Encourage use of AR-enabled Photobooth & e-Message Board<br>
     </td>
   </tr>
   <tr> 
     <td>
-      2:30pm
+      4:15pm
     </td>
     <td>
-      Opening by Emcee<br>
-      Welcome by Minister-in-Charge of the Public Service, Mr. Chan Chun Sing<br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      2:35pm
-    </td>
-    <td>
-      Speech by Mr. Chan Chun Sing<br>
-      Video: Singapore Emerging Stronger Together<br>
+      Opening by Emcees
+      <br>
     </td>
   </tr>
   <tr>
     <td>
-      2:55pm
+      4:20pm
     </td>
     <td>
-      Ask HCS – Q&A with Head, Civil Service, Mr Leo Yip<br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      3:10pm
-    </td>
-    <td>
-      Recital of Public Service Pledge (led by Head, Civil Service)<br>
+      Speech by Mr. Chan Chun Sing, Minister-in-Charge of the Public Service<br>
     </td>
   </tr>
   <tr>
     <td>
-      3:15pm
+      4:35pm
+    </td>
+    <td>
+      Video of Mr Leo Yip, Head, Civil Service<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      4:50pm
+    </td>
+    <td>
+      Recital of Public Service Pledge<br>
+			Singing of National Anthem<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      4:55pm
     </td>
     <td>
       Interactive and engaging activities:<br>
-        • Reflections of Being a Public Officer<br>
-        • Gifting from the Heart<br>
+        • Unveiling of Mosaic<br>
+        • Screening of Appreciation Messages<br>
+			 <a href="#quiz">• One Public Service Quiz (Part 2)</a>*<br>
     </td>
   </tr>
   <tr>
     <td>
-      3:25pm
+      5:05pm
     </td>
     <td>
-      Video: Thank you, Public Officers<br>
+      #BeTheNew Video<br>
     </td>
   </tr>
   <tr>
     <td>
-      3:30pm
+      5:10pm
     </td>
     <td>
-      A Song Dedicated to Public Officers by SCDF's Music and Performing Arts Club<br>
+      Entertainment/Performance<br>
       Closing by Emcee<br>
     </td>
   </tr>
@@ -122,7 +123,7 @@ Participate in the One Public Service Quiz and stand a chance to win up to $200 
 <u><b>Frequently Asked Questions</b></u><br>
 <br>
 <b>How do I register for the quiz?</b><br>
-1.	Click <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a> to register for OPSOC 2021.<br>
+1.	Click <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a> to register for OPSOC 2022.<br>
 2.	Be the 1st 2,000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
 <br>
 <b>What do I need to join the game?</b><br>
@@ -131,7 +132,7 @@ A desktop, laptop, tablet or mobile device! <br>
 Tip: It is recommended (but not mandatory) to use a separate device from the one you are using for OPSOC Zoom streaming. <br>
 <br>
 <b>How do I join the Kahoot! quiz?</b><br>
-Go to <a href="https://kahoot.it">https://kahoot.it</a> and key in the Game PIN shown on the screen. Fill in your <b>“Name (Agency)”</b> in the Game ID. Example: Grace (SCDF) <br>
+Go to <a href="https://kahoot.it">https://kahoot.it</a> and key in the Game PIN shown on the screen. Fill in your <b>“Name (Agency)”</b> in the Game ID. Example: Grace (HDB) <br>
 <br>
 Note: Non-compliant IDs will be disqualified from prize redemption. <br>
 <br>
