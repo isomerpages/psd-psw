@@ -7,6 +7,9 @@ description: ""
 The Public Sector Transformation Awards Ceremony (COVID) is a once-off ceremony to honour COVID-related efforts that were undertaken in 2020 and 2021.
 <br>
 
+<b>Time and Date</b>: 6 July 2022, 10.00am - 12.00pm<br>
+<b>Virtual Platform</b>: Zoom Webinar<br>
+
 ![Main banner](/images/MAIN.jpeg)
 
 Hear from our line-up of speakers on the following topics:<br>
