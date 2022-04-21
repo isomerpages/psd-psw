@@ -1,11 +1,12 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-breadcrumb: 'Contact Us'
-title: 'Contact Us'
-
+breadcrumb: Contact Us
+title: Contact Us
+contacts:
+  - content:
+      - phone: ""
+      - email: publicserviceweek@psd.gov.sg
+      - other: ""
+    title: ""
 ---
-
-For any queries, please contact <a href = "mailto: publicserviceweek@psd.gov.sg">Public Service Week 2020 Seccy</a>.
-
-Thank you. 
