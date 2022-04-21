@@ -4,7 +4,7 @@ permalink: /pst-awards-covid-2022/pst-awards-covid
 description: ""
 ---
 ## Public Sector Transformation Awards Ceremony (COVID) | “xxxx.”
-One of the key events of Public Service Week 2021, the Convention comprise four webinars featuring leaders from the private sector and the Public Service. They will share their perspectives on how public officers can embrace new opportunities and modes of working.
+The Public Sector Transformation Awards Ceremony (COVID) is a once-off ceremony to honour COVID-related efforts that were undertaken in 2020 and 2021.
 <br>
 
 ![Main banner](/images/MAIN.jpeg)
