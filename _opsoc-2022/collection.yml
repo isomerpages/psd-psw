@@ -2,5 +2,5 @@ collections:
   opsoc-2022:
     output: true
     order:
-      - One Public Service Observance Ceremony .md
+      - About OPSOC.md
       - OPSOC 2022.md
