@@ -2,6 +2,6 @@ collections:
   pstc-2022:
     output: true
     order:
-      - Future Workforce.md
       - About.md
       - Future of Work.md
+      - Future Workforce.md
