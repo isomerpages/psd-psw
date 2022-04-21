@@ -8,11 +8,11 @@ sections:
       url: /what-is-psw/
       key_highlights:
         - title: Pledge as One
-          url: /opsoc-2021/about
+          url: /opsoc-2022/about
         - title: Celebrate Together
           url: https://pstac2021.sg
         - title: Be Inspired
-          url: /pstc-2021/about
+          url: /pstc-2022/about
         - title: Learn and Grow
           url: https://pswlf2021.squarespace.com/
 ---
