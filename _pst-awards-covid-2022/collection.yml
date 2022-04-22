@@ -2,5 +2,6 @@ collections:
   pst-awards-covid-2022:
     output: true
     order:
+      - COVID Stories.md
       - PST Awards (COVID).md
       - COVID Stories/.keep
