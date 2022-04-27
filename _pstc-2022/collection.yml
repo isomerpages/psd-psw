@@ -2,8 +2,8 @@ collections:
   pstc-2022:
     output: true
     order:
-      - Test/Activities.md
-      - Test/.keep
+      - Activities/Activities.md
+      - Activities/.keep
       - About.md
       - Future of Work.md
       - Future Workforce.md
