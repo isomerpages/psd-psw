@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About OPSOC.md
-      - We Stand As One.md
       - Example Title.md
