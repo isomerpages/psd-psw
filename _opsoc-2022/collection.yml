@@ -2,5 +2,6 @@ collections:
   opsoc-2022:
     output: true
     order:
+      - Example Title.md
       - About OPSOC.md
       - We Stand As One.md
