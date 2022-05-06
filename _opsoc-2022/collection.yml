@@ -2,6 +2,6 @@ collections:
   opsoc-2022:
     output: true
     order:
-      - AR Photo Booth.md
       - About OPSOC.md
+      - AR Photo Booth.md
       - Example Title.md
