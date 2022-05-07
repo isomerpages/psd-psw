@@ -14,7 +14,7 @@ Speakers:<br>
 <br>
 
 
-<i>Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)</i>
+Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)
 <br>
 
 This webinar will focus on how forward-looking organisations stay nimble and constantly transform themselves, redirect resources and seize opportunities to better serve their customers and achieve growth.
