@@ -17,7 +17,7 @@ Speakers:<br>
 <br>
 
 Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)
-<br><br><b>Date:</b> 14 July 2022 <br>
+<br><br><b>Date:</b> 14 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm - 4.30pm <br>
 <br>
 
