@@ -19,4 +19,4 @@ With an emphasis on the paradigm shift to focus on individuals and their well-be
 <b>Date:</b> 28 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm – 4.30pm <br>
 
-More information on registration and speakers will be shared soon.
+More information on registration will be shared soon.
