@@ -17,8 +17,9 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 * Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    
 * Mr Allan Lim, Chairman and Founder (ComCrop)
 * Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
-	<br>
-<i>Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)</i>
+<br>
+	
+Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)
 	<p>
 		
 <b>[Future Workforce](/pstc-2022/future-workforce/): 21 July (Thurs), 3pm</b><br>
@@ -28,7 +29,8 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 * Mr Peter Ho, Executive Chairman (Hope Technik) 
 * Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
 <br>
-		<i>Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)</i>
+	
+Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)
 		<p>
 			
 <b>[Future Workplace](/pstc-2022/future-of-workplace/): 28 July (Thurs), 3pm</b><br>
@@ -38,7 +40,9 @@ Speakers:
 * Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower 
 * Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)  
 * Ms Emiley Yeow, Chief Operating Officer (Allen & Overy)<br>
-<i>Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)</i>
 
+Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)
+<br>
+<br>
 <p>
 In line with the themes of the PST Convention, we have also lined up a series of side events from end May to July 2022 that prioritise public officers’ well-being, and encourage them to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes, even as we redefine the meaning of work, reignite our sense of purpose and transform our work, workforce and workplace.
