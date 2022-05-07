@@ -14,10 +14,9 @@ Speakers:
 <br><br>
 Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)<br>
 <br>
-<br>
-Amidst the backdrop of an increasingly complex and ever-changing operating environment, this webinar highlights the importance of developing new skills and competencies, as well as broadening networks in the building of a future-ready workforce that will translate to more effective policy implementation and delivery of public services.
+Amidst the backdrop of an increasingly complex and ever-changing operating environment, this webinar highlights the importance of developing new skills and competencies, as well as broadening networks in the building of a future-ready workforce that will translate to more effective policy implementation and delivery of public services.<br>
 
 <b>Date:</b> 21 July 2022 (Thursday) <br>
 <b>Time:</b> 3pm – 4.30pm <br>
-<br>
-More information on registration will be shared soon.
+
+<small><i>Registration details will be shared soon.</i></small>
