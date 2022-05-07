@@ -17,6 +17,6 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Serv
 This webinar will focus on how forward-looking organisations stay nimble and constantly transform themselves, redirect resources and seize opportunities to better serve their customers and achieve growth.
 <br><br><b>Date:</b> 14 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm - 4.30pm <br>
-<br>
 
-More information on registration will be shared soon.
+
+<small><i>More information on registration will be shared soon.</i></small>
