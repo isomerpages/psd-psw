@@ -40,4 +40,3 @@ Speakers:
 
 <p>
 In line with the themes of the PST Convention, we have also lined up a series of side events from end May to July 2022 that prioritise public officers’ well-being, and encourage them to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes, even as we redefine the meaning of work, reignite our sense of purpose and transform our work, workforce and workplace.
-
