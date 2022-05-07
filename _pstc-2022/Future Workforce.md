@@ -20,4 +20,4 @@ Amidst the backdrop of an increasingly complex and ever-changing operating envir
 <b>Date:</b> 21 July 2022 (Thursday) <br>
 <b>Time:</b> 3pm – 4.30pm <br>
 <br>
-More information on registration and speakers will be shared soon.
+More information on registration will be shared soon.
