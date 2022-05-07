@@ -21,4 +21,4 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Serv
 <b>Time:</b> 3pm - 4.30pm <br>
 <br>
 
-More information on the speakers will be shared soon.
+More information on registration and speakers will be shared soon.
