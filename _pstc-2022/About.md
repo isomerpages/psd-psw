@@ -13,6 +13,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 <b>[Future of Work](/pstc-2022/future-of-work/): 14 July (Thurs), 3pm</b><br>
 	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
 	Speakers:<br>
+
 * Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    
 * Mr Allan Lim, Chairman and Founder (ComCrop)
 * Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
@@ -20,7 +21,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 <i>Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)</i>
 	<p>
 		
-	<b>[Future Workforce](/pstc-2022/future-workforce/): 21 July (Thurs), 3pm</b><br>
+<b>[Future Workforce](/pstc-2022/future-workforce/): 21 July (Thurs), 3pm</b><br>
 <i>Theme: Building a More Resilient and Grounded Public Service</i>
 <br>Speakers:<br>
 * Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd) 
