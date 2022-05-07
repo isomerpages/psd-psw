@@ -13,7 +13,10 @@ Speakers:<br>
 * Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
 <br>
 
-Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)<br><br>
+
+Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)
+<br>
+
 This webinar will focus on how forward-looking organisations stay nimble and constantly transform themselves, redirect resources and seize opportunities to better serve their customers and achieve growth.
 <br><br><b>Date:</b> 14 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm - 4.30pm <br>
