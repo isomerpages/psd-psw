@@ -19,4 +19,4 @@ This webinar will focus on how forward-looking organisations stay nimble and con
 <b>Time:</b> 3pm - 4.30pm <br>
 <br>
 
-More information on registration and speakers will be shared soon.
+More information on registration will be shared soon.
