@@ -2,7 +2,7 @@ collections:
   exclusives-2022:
     output: true
     order:
-      - CSC Social Activities.md
       - CSC Merchant Exclusives.md
       - CSC Membership Promotion.md
       - CSC Facilities & Chalet Promotions.md
+      - CSC Social Activities.md
