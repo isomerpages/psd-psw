@@ -14,9 +14,9 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
 	Speakers:<br>
 
-* Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
-* Mr Allan Lim, Chairman and Founder (ComCrop)<br>
-* Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
+ ● Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
+● Mr Allan Lim, Chairman and Founder (ComCrop)<br>
+● Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
 <br>
 	
 Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)
@@ -25,9 +25,9 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workforce ">Future Workforce</a>: 21 July (Thurs), 3pm</b><br>
 <i>Theme: Building a More Resilient and Grounded Public Service</i>
 <br>Speakers:<br>
-* Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd) <br>
-* Mr Peter Ho, Executive Chairman (Hope Technik) <br>
-* Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
+● Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd) <br>
+● Mr Peter Ho, Executive Chairman (Hope Technik) <br>
+● Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
 <br>
 	
 Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)
@@ -37,9 +37,9 @@ Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureS
 			<i>Theme: Thriving in a Hybrid Workplace </i><br>
 Speakers:
 <br>
-* Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower <br>
-* Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)  <br>
-* Ms Emiley Yeow, Chief Operating Officer (Allen & Overy)<br>
+● Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower <br>
+● Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)  <br>
+● Ms Emiley Yeow, Chief Operating Officer (Allen & Overy)<br>
 
 Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)
 <br>
