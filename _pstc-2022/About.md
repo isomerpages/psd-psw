@@ -22,7 +22,7 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 	<p>
 		
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workforce ">Future Workforce</a>: 21 July (Thurs), 3pm</b><br>
-<>Theme: Building a More Resilient and Grounded Public Service</i>
+<i>Theme: Building a More Resilient and Grounded Public Service</i>
 <br><br>Speakers:<br>
 *  Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd)
 *  Mr Peter Ho, Executive Chairman (Hope Technik)
