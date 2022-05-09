@@ -14,7 +14,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
 	Speakers:<br>
 
- ● Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
+● Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
 ● Mr Allan Lim, Chairman and Founder (ComCrop)<br>
 ● Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
 <br>
