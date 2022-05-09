@@ -12,7 +12,8 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-of-work ">Future of Work</a>: 14 July (Thurs), 3pm</b><br>
 	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
-	Speakers:<br><br>
+<br>Speakers:
+	<br><br>
 
 * Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)   
 * Mr Allan Lim, Chairman and Founder (ComCrop)
@@ -22,7 +23,7 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 		
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workforce ">Future Workforce</a>: 21 July (Thurs), 3pm</b><br>
 <i>Theme: Building a More Resilient and Grounded Public Service</i>
-<br>Speakers:<br><br>
+<br><br>Speakers:<br><br>
 * Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd)
 * Mr Peter Ho, Executive Chairman (Hope Technik)
 * Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
@@ -33,7 +34,7 @@ Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureS
 			
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workplace ">Future Workplace</a>: 28 July (Thurs), 3pm</b><br>
 			<i>Theme: Thriving in a Hybrid Workplace </i><br>
-Speakers:
+<br>Speakers:
 <br><br>
 * Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower <br>
 * Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)  <br>
