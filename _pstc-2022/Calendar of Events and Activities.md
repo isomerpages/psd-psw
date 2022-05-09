@@ -11,6 +11,6 @@ Look forward to Team Challenges that you can partake in with your fellow public 
 
 Broadly categorised under Arts & Culture, Gardening, Nature, Sports & Wellness and Special Events, these activities are carefully curated and organised by the National Parks Board (NParks), Health Promotion Board (HPB), People’s Association (PA) and SportSG.
 
-Do also check out the learning activities offered under the [PSW Learning Festival](https://go.gov.sg/pswlf2022) here for more activities organised by our fellow public sector agencies, aimed to empower officers as we step into the new normal.
+Do also check out the learning activities offered under the <a href="http://go.gov.sg/pswlf2022">PSW Learning Festival</a> here for more activities organised by our fellow public sector agencies, aimed to empower officers as we step into the new normal.
 <p><small>
 	<i>More information on the events and activities will be shared soon.</i></small>
