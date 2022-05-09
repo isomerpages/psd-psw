@@ -17,7 +17,8 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 
 *  Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)  
 *  Mr Allan Lim, Chairman and Founder (ComCrop)
-*  Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank) <br><br>
+*  Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank) <br>
+<br>
 Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)
 	<p>
 		
