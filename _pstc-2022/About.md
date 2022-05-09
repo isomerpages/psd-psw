@@ -10,7 +10,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 
 <p>
 
-<b>[Future of Work](/pstc-2022/future-of-work/): 14 July (Thurs), 3pm</b><br>
+<b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-of-work ">Future of Work</a>: 14 July (Thurs), 3pm</b><br>
 	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
 	Speakers:<br>
 
@@ -22,7 +22,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Service Division)
 	<p>
 		
-<b>[Future Workforce](/pstc-2022/future-workforce/): 21 July (Thurs), 3pm</b><br>
+<b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workforce ">Future Workforce</a>: 21 July (Thurs), 3pm</b><br>
 <i>Theme: Building a More Resilient and Grounded Public Service</i>
 <br>Speakers:<br>
 * Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd) <br>
@@ -33,7 +33,7 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)
 		<p>
 			
-<b>[Future Workplace](/pstc-2022/future-of-workplace/): 28 July (Thurs), 3pm</b><br>
+<b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workplace ">Future Workplace</a>: 28 July (Thurs), 3pm</b><br>
 			<i>Theme: Thriving in a Hybrid Workplace </i><br>
 Speakers:
 <br>
