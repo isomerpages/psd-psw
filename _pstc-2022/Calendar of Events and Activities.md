@@ -5,7 +5,7 @@ description: ""
 ---
 Well-being is a critical enabler in transformation. To build a resilient and grounded public service, we need to shape a workplace environment that supports officers’ well-being even as we transform our individual and collective effectiveness as public officers.
 
-Through this calendar of events with activities lined up from end May to July 2022, we hope to encourage public officers to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes, even as we redefine the meaning of work, reignite our sense of purpose and transform our work, workforce and workplace.
+Even as we redefine the meaning of work, reignite our sense of purpose, and transform our work, workforce and workplace, we will continue to support our officers’ well-being. In line with the themes of the PST Convention, we have lined up a series of side events from end May to July 2022 to encourage public officers to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes.
 
 Look forward to Team Challenges that you can partake in with your fellow public officers and win exciting prizes. Also, check out the wide variety of activities that you can sign up for, ranging from workshops and guided tours to events and festivals. There’s something to cater to everyone’s interests, whether you’re interested in nature, arts, sports or wellness. 
 
