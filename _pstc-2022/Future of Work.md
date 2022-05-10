@@ -10,7 +10,7 @@ description: ""
 Speakers:<br>
 * Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
 * Mr Allan Lim, Chairman and Founder (ComCrop)
-* Ms Linda Lee, Managing Director & Head of Future of Work, Transformation Group (DBS Bank)
+* Ms Linda Lee, Managing Director & Regional Head of Future of Work, Transformation Group (DBS Bank)
 <br>
 
 
