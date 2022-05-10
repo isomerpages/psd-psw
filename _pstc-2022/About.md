@@ -46,4 +46,4 @@ Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)
 <br>
 			
 <p>
-In line with the themes of the PST Convention, we have also lined up a series of side events from end May to July 2022 that prioritise public officers’ well-being, and encourage them to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes, even as we redefine the meaning of work, reignite our sense of purpose and transform our work, workforce and workplace.
+Even as we redefine the meaning of work, reignite our sense of purpose, and transform our work, workforce and workplace, we will continue to support our officers’ well-being. In line with the themes of the PST Convention, we have lined up a series of side events from end May to July 2022 to encourage public officers to cultivate resilience and maintain physical, social and mental wellness through meaningful and fun programmes.
