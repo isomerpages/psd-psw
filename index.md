@@ -14,5 +14,5 @@ sections:
         - title: Be Inspired
           url: /pstc-2022/about
         - title: Learn and Grow
-          url: https://pswlf2021.squarespace.com/
+          url: https://go.gov.sg/pswlf2022
 ---
