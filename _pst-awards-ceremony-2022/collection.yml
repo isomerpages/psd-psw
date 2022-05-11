@@ -1,4 +1,5 @@
 collections:
   pst-awards-ceremony-2022:
     output: true
-    order: []
+    order:
+      - PST Awards Ceremony 2022.md
