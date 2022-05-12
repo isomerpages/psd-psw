@@ -2,6 +2,7 @@ collections:
   exclusives-2022:
     output: true
     order:
+      - Example Title.md
       - CSC Membership Promotion.md
       - CSC Merchant Exclusives.md
       - CSC Facilities & Chalet Promotions.md
