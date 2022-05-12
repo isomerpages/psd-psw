@@ -3,7 +3,6 @@ title: CSC Merchant Exclusives
 permalink: /exclusives-2022/merchant-exclusives
 description: ""
 ---
-
 # CSC Merchant Exclusives
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum vel neque sit amet consequat. Ut at blandit nisi. Sed in libero nisi. Nam tellus dui, tincidunt vitae molestie non, posuere vitae felis. Nullam velit turpis, euismod eu iaculis sit amet, vestibulum quis nisl. Curabitur dapibus id lectus sit amet posuere.
+Civil Service Club is joined by our wide range of merchant partners in the celebration of Public Service Week! Public service officers can look forward to great deals and exclusive discounts from retailers, attractions, restaurants and more! The merchant listing will be revealed by June 2022.
