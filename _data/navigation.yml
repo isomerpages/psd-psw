@@ -1,14 +1,16 @@
-logo: /images/PSW_Logo.png
+logo: /images/PSW2022_LogoColour1-small1.png
 links:
-  - title: What is PSW
+  - title: What is PSW?
     url: /what-is-psw/
   - title: OPSOC
-    collection: opsoc-2021
+    collection: opsoc-2022
   - title: PSTAC
-    url: https://pstac2021.sg
+    collection: pst-awards-ceremony-2022
+  - title: PST Awards (COVID)
+    collection: pst-awards-covid-2022
   - title: PSTC
-    collection: pstc-2021
+    collection: pstc-2022
   - title: Learning Festival
-    url: https://pswlf2021.squarespace.com
+    url: https://go.gov.sg/pswlf2022
   - title: Exclusives
-    collection: exclusives-2021
+    collection: exclusives-2022

@@ -1,15 +1,34 @@
 ---
-title: 'What is PSW?'
+title: What is PSW?
 permalink: /what-is-psw
 ---
+### What is Public Service Week?
 
-### What is Public Service Week
 
-The theme for Public Service Week 2021 is Emerging Stronger as One Public Service.<br>
+The theme for Public Service Week 2022 is 'Be The New'.<br>
 <br>
-Even as we continue the battle to keep the pandemic at bay, we need to also look ahead and seize opportunities to rebuild our economy, society and people for a post-COVID-19 world. While COVID-19 is the challenge of a generation, many opportunities for transformation have also arisen from this crisis that we can take hold of to improve the lives of Singaporeans.<br>
+It is a call for officers to uncover their hidden traits and unleash new aspects of
+themselves that will redefine the
+meaning of work and awaken their sense
+of purpose.
 <br>
-Together, we will emerge stronger as One Public Service.<br>
 <br>
-PSW2021 will be held virtually. <br>
+The new normal is no longer new –
+disruptions and braving uncertainties
+together have become our way of life.
+
+What's new, is within you.
+
+New mindset, capabilities and
+perspectives.
+Enabling you to experiment boldly,
+work differently and grow with diversity.
 <br>
+
+Let's build on our good work and build each other up.
+
+It's time to Be The New______. And what’s new, is up to you.<br>
+
+
+
+![](/images/PSW2022_LogoColour1-small1.png)

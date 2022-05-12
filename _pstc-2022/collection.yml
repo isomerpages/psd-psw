@@ -1,0 +1,9 @@
+collections:
+  pstc-2022:
+    output: true
+    order:
+      - About.md
+      - Future of Work.md
+      - Future Workforce.md
+      - Future Workplace.md
+      - Calendar of Events and Activities.md
