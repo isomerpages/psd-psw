@@ -4,8 +4,6 @@ permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/permalink
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
-
-
 | Level | Award Categories |
 | -------- | -------- |
 | WOG   | One Public Service Award | 
@@ -22,5 +20,3 @@ third_nav_title: PST Awards Ceremony 2022
 |  | Exemplary Leader Award |
 |  | Exemplary Service Excellence Award |
 |  | Exemplary SkillsFuture @ Public Service Award |
-
-
