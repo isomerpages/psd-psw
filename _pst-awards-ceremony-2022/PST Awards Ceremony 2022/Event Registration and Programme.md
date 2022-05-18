@@ -14,22 +14,11 @@ The event is open to all public service officers
 
 | Time | Programme |
 | -------- | -------- |
-| 3.40 pm     | Pre-event activities |
-| 4.00 pm     | Opening by emcees |
-| 4.02 pm     | Opening Dance Performance by Zhenghua Secondary School 
- |
-| 4.10 pm     | Opening Address by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service 
- |
-| 4.25 pm    | PSTAC Award Presentation |
-| 5.45 pm    | Closing Performance by Ministry of Sustainability and the Environment Family Band
- |
- | 5.50 pm    | Announcement of winners of pre-event activities
- |
- | 6.00 pm    | Closing by emcees |
- 
- 
-
-
-
-
- 
+| 3.40pm     | Pre-event Activities |
+| 4.00pm     | Opening by Emcees |
+| 4.02pm     | Opening Dance Performance by Zhenghua Secondary School |
+| 4.10pm     | Opening Address by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service |
+| 4.25pm    | PSTAC Awards Presentation |
+| 5.45pm    | Closing Performance by Ministry of Sustainability and the Environment Family Band |
+ | 5.50pm    | Announcement of Winners of Pre-event Activities|
+ | 6.00pm    | Closing by Emcees |
