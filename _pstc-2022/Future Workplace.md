@@ -8,7 +8,7 @@ description: ""
 
 Speakers:<br>
 * Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower 
-* Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)    
+* Prof David Chan, Professor of Psychology and Director of Behavioural Sciences Initiative (Singapore Management University)    
 * Ms Emiley Yeow, Chief Operating Officer (Allen & Overy)
 <br>
 
