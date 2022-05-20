@@ -9,7 +9,7 @@ In line with the themes of the PST Convention, we have lined up a series of side
 
 Look forward to Team Challenges that you can partake in with your fellow public officers and win exciting prizes. Also, check out the wide variety of activities that you can sign up for, ranging from workshops and guided tours to events and festivals. There’s something to cater to everyone’s interests, whether you’re interested in nature, arts, sports or wellness. 
 
-Broadly categorised under Arts & Culture, Gardening, Nature, Sports & Wellness and Special Events, these activities are carefully curated and organised by the National Parks Board (NParks), Health Promotion Board (HPB), People’s Association (PA) and SportSG.
+Broadly categorised under Gardening, Nature, Sports & Wellness and Special Events, these activities are carefully curated and organised by the National Parks Board (NParks), Health Promotion Board (HPB), People’s Association (PA) and SportSG.
 
 Do also check out the learning activities offered under the <a href="http://go.gov.sg/pswlf2022">PSW Learning Festival</a> for more activities organised by our fellow public sector agencies, aimed to empower officers as we step into the new normal.
 <p><small>
