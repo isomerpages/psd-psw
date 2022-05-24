@@ -144,11 +144,3 @@ The top 20 winners will know their placing at the end of the quiz. Winners will 
 OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
 For further assistance, you may submit a query to <a href="mailto:OPSOC@scdf.gov.sg">OPSOC@scdf.gov.sg</a><br><b>[For HDB's Inputs]</b>
 <br>
-
-<h3 style="color:red;">OPSOC Teaser Video</h3>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br>
-<b>NOTE:</b><i>Recommended to view the video on Youtube/Google Chrome.</i><br>
-<br>
