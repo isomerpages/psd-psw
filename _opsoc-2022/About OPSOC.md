@@ -3,8 +3,8 @@ title: About OPSOC
 permalink: /opsoc-2022/about-opsoc
 description: ""
 ---
-<b>SCAN THE QR CODE<img src="/images/QRCode%20(1).png" alt="QR Code" style="width:200px;" align="left"/>
-	OR CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC 2022. </b><br>
+<b>SCAN THE QR CODE<img src="/images/QR%20registration.png" alt="QR Code" style="width:200px;" align="left"/>
+	OR CLICK <a href="https://go.gov.sg/08r7m2"><b>HERE</b></a> TO REGISTER FOR OPSOC 2022. </b><br>
 <b>Time and Date</b>: 8 July 2022, 4.00pm - 5.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <i>The event is open to all public officers</i><br>
