@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - About OPSOC.md
-      - Example Title.md
