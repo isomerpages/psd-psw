@@ -25,7 +25,7 @@ description: ""
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-      • <a href="#quiz">One Public Service Quiz (Part 1)</a>*<br>
+      • <a href="#quiz">One Public Service Quiz </a>*<br>
         • Encourage use of AR-enabled Photobooth & e-Message Board<br>
     </td>
   </tr>
@@ -71,7 +71,6 @@ description: ""
       Interactive and engaging activities:<br>
         • Unveiling of Mosaic<br>
         • Screening of Appreciation Messages<br>
-			 <a href="#quiz">• One Public Service Quiz (Part 2)</a>*<br>
     </td>
   </tr>
   <tr>
