@@ -22,4 +22,22 @@ yoga workouts.
 <br>**Contact:** Constance at 
 6391 5607 or
 constancelow@csc.sg
-<br>Register by: 28 Jun ’22 OR 26 Jul ’22
+<br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
+
+
+#### Zumba Fitness
+Zumba Fitness is perfect for
+everybody and every body! A
+fitness programme that combines
+Latin and international music with
+dance moves and incorporates
+interval training to help improve
+cardiovascular fitness. We take the
+“work” out of workout, by mixing low-intensity and highintensity moves for an interval-style, calorie-burning
+dance fitness party.
+
+
+**Date:** Fri, 15 Jul ’22
+<br>**Time:** 7.30pm – 8.30pm
+<br>**Contact:** Constance at 6391 5607 or constancelow@csc.sg
+<br>Register by: 11 Jul ’22
