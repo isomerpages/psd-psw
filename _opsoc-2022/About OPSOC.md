@@ -117,6 +117,10 @@ Participate in the One Public Service Quiz and stand a chance to win attractive 
 <td>6th to 20th Place<br></td>
 <td>$10 credits<br></td>
 </tr>
+<tr>
+<td>21st to 50th Place<br></td>
+<td>$5 credits<br></td>
+</tr>
 </table>
 <br>
 <u><b>Frequently Asked Questions</b></u><br>
