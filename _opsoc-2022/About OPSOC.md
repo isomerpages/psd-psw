@@ -99,7 +99,7 @@ Participate in the One Public Service Quiz and stand a chance to win attractive 
 <table width="100%" border="1">
 <tr>
 <td width="50%">1st Place<br></td>
-<td width="50%">$500 credits<br></td>
+<td width="50%">$50 credits<br></td>
 </tr>
 <tr>
 <td>2nd Place<br></td>
