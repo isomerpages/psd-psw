@@ -8,7 +8,6 @@ description: ""
 <b>Time and Date</b>: 8 July 2022, 4.00pm - 5.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <i>The event is open to all public officers</i><br>
-<br>
 <h3>Programme</h3>
 <table width="100%" border="1">
   <tr>
