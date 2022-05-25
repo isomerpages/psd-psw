@@ -95,27 +95,27 @@ description: ""
 <h3><a name="quiz">One Public Service Quiz</a></h3>
 How well do you know the Public Service? Put your knowledge to the test!<br>
 <br>
-Participate in the One Public Service Quiz and stand a chance to win up to $200 worth of e-vouchers! <br>
+Participate in the One Public Service Quiz and stand a chance to win attractive e-vouchers! <br>
 <table width="100%" border="1">
 <tr>
 <td width="50%">1st Place<br></td>
-<td width="50%">$200 credits<br></td>
+<td width="50%">$500 credits<br></td>
 </tr>
 <tr>
 <td>2nd Place<br></td>
-<td>$150 credits<br></td>
+<td>$40 credits<br></td>
 </tr>
 <tr>
 <td>3rd Place<br></td>
-<td>$100 credits<br></td>
+<td>$30 credits<br></td>
 </tr>
 <tr>
 <td>4th and 5th Place<br></td>
-<td>$50 credits<br></td>
+<td>$20 credits<br></td>
 </tr>
 <tr>
 <td>6th to 20th Place<br></td>
-<td>$20 credits<br></td>
+<td>$10 credits<br></td>
 </tr>
 </table>
 <br>
