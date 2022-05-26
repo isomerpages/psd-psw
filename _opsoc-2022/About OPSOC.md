@@ -15,4 +15,9 @@ description: ""
 * Recital of Public Service Pledge & Singing of National Anthem
 * One Public Service Quiz
 * Performance by an energetic crew
-* And catch your colleagues on screen in our #BeTheNew series of activities! 
+* And catch your colleagues on screen in our #BeTheNew series of activities!
+
+<br>
+OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
+For further assistance, you may submit a query to <a href="mailto:HDB-OPSOC@hdb.gov.sg">HDB-OPSOC@hdb.gov.sg</a><br>
+<br>
