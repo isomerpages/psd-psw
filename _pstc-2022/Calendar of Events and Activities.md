@@ -11,6 +11,6 @@ Look forward to Team Challenges that you can partake in with your fellow public 
 
 Broadly categorised under Gardening, Nature, Sports & Wellness and Special Events, these activities are carefully curated and organised by the National Parks Board (NParks), Health Promotion Board (HPB), People’s Association (PA) and SportSG.
 
-Click [here](/files/PSTC%202022%20Prog%20Listing%20(Final).pdf) to download the programme booklet to find out more about the various activities offered, as well as registration details.
+Click [here](/files/PSTC%202022%20Prog%20Listing%2026%20May.pdf) to download the programme booklet to find out more about the various activities offered, as well as registration details.
 
 Do also check out the learning activities offered under the <a href="http://go.gov.sg/pswlf2022">PSW Learning Festival</a> for more activities organised by our fellow public sector agencies, aimed to empower officers as we step into the new normal.
