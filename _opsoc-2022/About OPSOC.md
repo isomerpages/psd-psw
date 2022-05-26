@@ -12,8 +12,8 @@ description: ""
 <br> <br/>
 # Programme Highlights
 
-* Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing & Head of Civil Service, Mr Leo Yip
-* Recital of Public Service Pledge & Singing of National Anthem
+* Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing and Head of Civil Service, Mr Leo Yip
+* Recital of Public Service Pledge and Singing of National Anthem
 * One Public Service Quiz
 * Performance by an energetic crew
 * And catch your colleagues on screen in our #BeTheNew series of activities!
