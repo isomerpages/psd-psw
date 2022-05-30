@@ -12,7 +12,7 @@ sections:
         - title: Celebrate Together
           url: https://pstac2021.sg
         - title: Be Inspired
-          url: /pstc-2022/about
+          url: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
         - title: Learn and Grow
           url: https://go.gov.sg/pswlf2022
 ---
