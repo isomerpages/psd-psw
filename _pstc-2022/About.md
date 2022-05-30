@@ -38,7 +38,7 @@ Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureS
 			
 Speakers:<br>
 ●  Mr Jason Chen, Deputy Secretary (Workplaces), Ministry of Manpower <br>
-●  Prof David Chan, Professor of Psychology and Director of Behavioural Science Initiative (Singapore Management University)<br>
+●  Prof David Chan, Professor of Psychology and Director of Behavioural Sciences Initiative (Singapore Management University)<br>
 ●  Ms Emiley Yeow, Chief Operating Officer (Allen & Overy)<br><br>
 
 Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)
