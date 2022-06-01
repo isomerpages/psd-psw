@@ -22,7 +22,7 @@ yoga workouts.
 <br>**Time:** 4pm – 5pm
 <br>**Contact:** Constance at 
 6391 5607 or
-constancelow@csc.sg
+mailto:constancelow@csc.sg
 <br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 <br>
@@ -40,7 +40,7 @@ dance fitness party.
 
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 7.30pm – 8.30pm
-<br>**Contact:** Constance at 6391 5607 or constancelow@csc.sg
+<br>**Contact:** Constance at 6391 5607 or mailto:constancelow@csc.sg
 <br>Register by: 11 Jul ’22
 <br>
 <br>
@@ -57,7 +57,7 @@ be covered.
 <br>
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 3pm – 4pm
-<br>**Contact:** 6391 5641 or events@csc.sg
+<br>**Contact:** 6391 5641 or mailto:events@csc.sg
 <br>**Register by:** 1 week before session
 <br>
 <br>
@@ -70,7 +70,18 @@ dough, add the fillings and mould them
 into shapes and designs. 
 <br>**Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12pm<br>
-**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Contact:** Serene Cho at 6391 5620 or mailto:serenecho@csc.sg<br>
 **Register by:** 13 Jul ’22
 <br>
 <br>
+#### How to Achieve a Healthy Weight
+A study in January 2021 of 500 adults in Singapore (age 21–74 years) found 
+that 30% gained an average of 4.8kg over eight months, while 55% wants 
+to  lose  weight.  Weight  gain  during  the  pandemic  is  likely  to  stem  from 
+changes in eating habits, and sleep/exercise patterns, and work-from-home 
+challenges.  Come  join  our  Nutrition  Educator  in  an  engaging  session  to 
+learn effective and safe weight management strategies.<br><br>
+**Date:** Fri, 22 Jul ’22
+**Time:** 3pm – 4pm
+**Contact:**  6391 5641 or mailto:events@csc.sg <br>
+**Register by:** 1 week before session
