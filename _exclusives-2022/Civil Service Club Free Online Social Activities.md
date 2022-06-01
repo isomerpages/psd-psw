@@ -74,7 +74,3 @@ into shapes and designs.
 **Register by:** 13 Jul ’22
 <br>
 <br>
-**Date:** Fri, 15 Jul ’22
-<br>**Time:** 3pm – 4pm
-<br>**Contact:** 6391 5641 or events@csc.sg
-<br>**Register by:** 1 week before session
