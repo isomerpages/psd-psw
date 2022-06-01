@@ -85,3 +85,13 @@ learn effective and safe weight management strategies.<br><br>
 **Time:** 3pm – 4pm
 **Contact:**  6391 5641 or mailto:events@csc.sg <br>
 **Register by:** 1 week before session
+<br><br>
+#### Dress Well and Feel Good Everyday
+When you are dressed well, you feel good! This is a workshop designed to help you dress well and conduct yourself 
+appropriately  in  work  settings  to  boost  confidence.  Participants  will  also  learn  how  to  shop  yet  save  money. 
+Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
+women who desire an outlook change, build new relationships, or are seeking a new career or a new direction in life.
+
+
+
+
