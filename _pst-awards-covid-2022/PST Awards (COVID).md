@@ -12,10 +12,3 @@ The COVID PST Awards Ceremony celebrates the exemplary achievements of our publi
 <b>Time and Date</b>: 6 July 2022, 10.00am - 12.00pm<br>
 <b>Venue</b>: ITE College Central (only for invited guests)<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
-
-
-
-
-![Main banner](/images/MAIN.jpeg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vstibulum vel neque sit amet consequat. Ut at blandit nisi. Sed in libero nisi. Nam tellus dui, tincidunt vitae molestie non, posuere vitae felis. Nullam velit turpis, euismod eu iaculis sit amet, vestibulum quis nisl. Curabitur dapibus id lectus sit amet posuere.
