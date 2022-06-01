@@ -91,7 +91,3 @@ When you are dressed well, you feel good! This is a workshop designed to help yo
 appropriately  in  work  settings  to  boost  confidence.  Participants  will  also  learn  how  to  shop  yet  save  money. 
 Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
 women who desire an outlook change, build new relationships, or are seeking a new career or a new direction in life.
-
-
-
-
