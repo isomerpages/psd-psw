@@ -8,7 +8,7 @@ description: ""
 We bring the social to you! Public service officers can enjoy FREE online social activities in July. The free activities are also available for Civil Service Club Members (including Supplementary Members). Stay tuned for the list of social activities!
 <br>
 <br>
-#### **Yoga to Boost Your Immunity**
+#### Yoga to Boost Your Immunity
 
 Yoga does not only help to
 calm your body and mind, it
@@ -57,5 +57,24 @@ be covered.
 <br>
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 3pm – 4pm
-<br>**Contact:** Jerren at 6391 5641 or jerrentan@csc.sg
+<br>**Contact:** 6391 5641 or events@csc.sg
+<br>**Register by:** 1 week before session
+<br>
+<br>
+#### Strawberry Red Bean Mochi Demo
+This  is  a  traditional  dessert  made 
+with soft chewy mochi stuffed with 
+strawberry and sweet red bean paste. 
+Learn  how  to  make  the  soft  mochi 
+dough, add the fillings and mould them 
+into shapes and designs. 
+<br>**Date:** Sat, 16 Jul ’22<br>
+**Time:** 11am – 12pm<br>
+**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Register by:** 13 Jul ’22
+<br>
+<br>
+**Date:** Fri, 15 Jul ’22
+<br>**Time:** 3pm – 4pm
+<br>**Contact:** 6391 5641 or events@csc.sg
 <br>**Register by:** 1 week before session
