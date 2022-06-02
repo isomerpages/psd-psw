@@ -11,7 +11,7 @@ As one of the key events of Public Service Week 2022, this year’s Convention c
 <p>
 
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-of-work ">Future of Work</a>: 14 July (Thurs), 3pm</b><br>
-	<i>Theme: Supporting Singapore and Singaporeans Beyond COVID-19</i><br>
+	<i>Theme: Beyond COVID-19: Adapting and seizing opportunities to face new uncertainties</i><br>
 <br>Speakers:
 	<br>
 
@@ -23,7 +23,7 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 	<p>
 		
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workforce ">Future Workforce</a>: 21 July (Thurs), 3pm</b><br>
-<i>Theme: Building a More Resilient and Grounded Public Service</i>
+<i>Theme: Building a more resilient and grounded Public Service</i>
 <br><br>Speakers:<br>
 ●  Assoc Prof Ang Seng Bin, Chair of Board of Directors (AMKFSC Community Services Ltd)<br>
 ●  Mr Peter Ho, Executive Chairman (Hope Technik)<br>
