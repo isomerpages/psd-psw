@@ -9,7 +9,6 @@ description: ""
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <i>The event is open to all public officers</i><br>
 
-<br> <br/>
 # Programme Highlights
 
 * Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing and Head of Civil Service, Mr Leo Yip
