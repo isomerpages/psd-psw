@@ -14,7 +14,7 @@ Speakers:<br>
 
 Moderator: Mr Jordan Tan, Director, Digital Workplace (GovTech)<br>
 
-With an emphasis on the paradigm shift to focus on individuals and their well-being, which in turn serves as a key enabler, this webinar explores how organisations have transformed the way they work, engage and communicate to enable officers to thrive in a hybrid work environment.  
+The speakers will share the science behind good communication and engagement at the workplace, progressive approaches to strengthen organisational cohesion in a hybrid workplace, as well as the Government’s perspective about flexible work arrangements.
 <p>
 <b>Date:</b> 28 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm – 4.30pm <br>
