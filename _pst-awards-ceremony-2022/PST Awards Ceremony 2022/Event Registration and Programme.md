@@ -10,7 +10,7 @@ third_nav_title: PST Awards Ceremony 2022
 
 **Venue**: Stephen Riady Auditorium (NTUC Centre) (invited quests only)
 
-**Virtual Platform**: Zoom Webinar  (open to all public service officers)
+**Virtual Platform**: Zoom Webinar  (open to all public service officers). Click https://form.gov.sg/629430d37dc739001279a35c to register!
 
 
 
