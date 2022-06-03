@@ -20,4 +20,4 @@ The webinar will share good practices for managing talent mobility and facilitat
 <b>Date:</b> 21 July 2022 (Thursday) <br>
 <b>Time:</b> 3pm – 4.30pm <br>
 
-<small><i>Registration details will be shared soon.</i></small>
+[Click here to register.](https://go.gov.sg/pstc2022-futureworkforce)
