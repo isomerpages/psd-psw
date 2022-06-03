@@ -22,4 +22,4 @@ The webinar will look at how agencies and officers can seize opportunities quick
 <b>Time:</b> 3pm - 4.30pm <br>
 
 
-<small><i>Registration details will be shared soon.</i></small>
+[Click here to register.](https://go.gov.sg/pstc2022-futureofwork)
