@@ -4,13 +4,11 @@ permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/permalink
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
-
-
 **Date and Time**:  29 July 2022, 4.00pm – 6.00pm
 
 **Venue**: Stephen Riady Auditorium (NTUC Centre) (invited quests only)
 
-**Virtual Platform**: Zoom Webinar  (open to all public service officers)
+**Virtual Platform**: Zoom Webinar  (open to all public service officers). Click [here](https://form.gov.sg/629430d37dc739001279a35c) to register!
 
 
 
@@ -23,6 +21,4 @@ third_nav_title: PST Awards Ceremony 2022
 | 4.25pm | Awards Presentation | 
 | 5.45pm | Band Performance by Ministry of Sustainability and the Environment (MSE) Family Band | 
 | 5.50pm | Public Service Pledge and National Anthem | 
-| 6.00pm | Closing by Emcees | 
-
-
+| 6.00pm | Closing by Emcees |
