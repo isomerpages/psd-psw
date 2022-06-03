@@ -4,7 +4,7 @@ permalink: /pstc-2022/future-of-work
 description: ""
 ---
 ### Future of Work
-<b>Supporting Singapore and Singaporeans Beyond COVID-19</b>
+<b>Beyond COVID-19: Adapting and seizing opportunities to face new uncertainties</b>
 <br>
 
 Speakers:<br>
@@ -17,9 +17,9 @@ Speakers:<br>
 Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)
 <br>
 
-This webinar will focus on how forward-looking organisations stay nimble and constantly transform themselves, redirect resources and seize opportunities to better serve their customers and achieve growth.
+The webinar will look at how agencies and officers can seize opportunities quickly and establish new ways of working, as well as good practices to uphold standards and governance amid rising workload by leveraging innovation and Science, Technology and Engineering.
 <br><br><b>Date:</b> 14 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm - 4.30pm <br>
 
 
-<small><i>Registration details will be shared soon.</i></small>
+[Click here to register.](https://go.gov.sg/pstc2022-futureofwork)

@@ -1,11 +1,11 @@
 ---
 title: PSTAC
-permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
+permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/permalink
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
-
-The Public Sector Transformation (PST) Awards Ceremony is a Whole-of-Government (WOG) pinnacle platform to recognise WOG, agencies and officers for excellence in their work and organisational practices. 
+ # Public Sector Transformation (PST) Awards Ceremony # 
+ is a Whole-of-Government (WOG) pinnacle platform to recognise WOG, agencies and officers for excellence in their work and organisational practices. 
 
 The Awards constitute a key culture-shaping lever, through spurring officers and agencies to pursue PST, showcasing best practices for inspiration across the Public Service, and recognising behaviours that reflect the PST Outcomes:
 
