@@ -18,5 +18,5 @@ The speakers will share the science behind good communication and engagement at 
 <p>
 <b>Date:</b> 28 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm – 4.30pm <br>
-
+<br>
 <a href="https://go.gov.sg/pstc2022-futureworkplace">Click here to register.</a>
