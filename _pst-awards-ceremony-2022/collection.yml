@@ -2,4 +2,5 @@ collections:
   pst-awards-ceremony-2022:
     output: true
     order:
+      - PST Awards Ceremony 2022/PSTAC.md
       - PST Awards Ceremony 2022/.keep
