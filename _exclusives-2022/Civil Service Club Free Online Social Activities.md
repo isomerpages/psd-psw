@@ -101,3 +101,18 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 **Time:** 10am – 11am<br>
 **Contact**: Serene Cho at 6391 5620 or serenecho@csc.sg<br>
 **Register by:** 29 Jun ’22
+<br> <br>
+#### Plan Your Will & Lasting Power of Attorney (LPA) Talk
+A  properly  executed  Will  ensures  the  smooth 
+distribution of estate among surviving beneficiaries, 
+while a Lasting Power of Attorney (LPA) empowers 
+your  trusted  donees  to  act  on  your  behalf  in  the 
+event of a loss of mental capacity. Come and learn 
+the importance of both instruments.
+<br><br>
+**Date:** Sat, 16 Jul ’22<br>
+**Time:** 11am – 12.30pm<br>
+**Contact:** Gek Cheng at 6391 5624 or 
+kuagekcheng@csc.sg<br>
+**Register by:** 1 week before class
+
