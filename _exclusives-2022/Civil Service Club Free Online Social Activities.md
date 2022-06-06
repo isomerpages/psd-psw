@@ -132,4 +132,17 @@ bones and joints healthy.
 **Contact:** Gek Cheng at 6391 5624 or  
 kuagekcheng@csc.sg<Br>
 **Register by:** 1 week before class
-
+<br><br>
+#### Digital Device and Vision: Caring for Your Eyes in Digital Era 
+Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
+more of such devices. Eye care has become not just essential but pressing. Come and listen to Ken Tong, Optometrist 
+and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br>
+**Synopsis:**
+• Digital Transformation – how does it affect our vision<br>
+• Debunking the myth of blue light<br>
+• Tips and tricks to minimise digital eye strain<br>
+• Q&A<br><br>
+**Date:** Sat, 23 Jul ’22<br>
+**Time:** 11am – 12pm<br>
+**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Register by:** 20 Jul ’22 
