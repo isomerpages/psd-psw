@@ -13,19 +13,11 @@ and participate in free social activities. We look forward to having you and you
 
 
 ##### FREE weekday access to CSC swimming pools in July
-![CSC_pools](/images/CSC%20Pools.png)
+![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
 ##### Members’ rate at CSC bowling centres in July
-![CSC_bowling](/images/CSC%20Bowling_1.png)
+![CSC swimming bowling](/images/CSC%20swimming%20poolsbowlingfunction%202.png)
 
 ##### Members’ rate for booking of CSC facilities in July 
-
-
-
-| All Chalet | All Function Rooms | All BBQ Pits |
-| -------- | -------- | -------- |
-
-
-
 *(Use period: Aug to Oct 2022)*
-![](/images/CSC%20Facilities.png)
+![CSC function rooms](/images/CSC%20swimming%20poolsbowlingfunction%203.png)
