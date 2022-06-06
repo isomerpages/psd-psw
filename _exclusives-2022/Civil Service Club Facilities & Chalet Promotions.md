@@ -13,8 +13,7 @@ and participate in free social activities. We look forward to having you and you
 
 
 ##### FREE weekday access to CSC swimming pools in July
-
-![](/images/CSC%20@%20Tessensohn%20(1).png)
+![ CSC swimming pools](/images/CSC%20@%20Tessensohn%20(1).png)
 
 ##### Members’ rate at CSC bowling centres in July
 
