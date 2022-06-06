@@ -66,7 +66,7 @@ with soft chewy mochi stuffed with
 strawberry and sweet red bean paste. 
 Learn  how  to  make  the  soft  mochi 
 dough, add the fillings and mould them 
-into shapes and designs. 
+into shapes and designs. <br>
 <br>**Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12pm<br>
 **Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
@@ -80,8 +80,8 @@ to  lose  weight.  Weight  gain  during  the  pandemic  is  likely  to  stem  fr
 changes in eating habits, and sleep/exercise patterns, and work-from-home 
 challenges.  Come  join  our  Nutrition  Educator  in  an  engaging  session  to 
 learn effective and safe weight management strategies.<br><br>
-**Date:** Fri, 22 Jul ’22
-**Time:** 3pm – 4pm
+**Date:** Fri, 22 Jul ’22<br>
+**Time:** 3pm – 4pm<br>
 **Contact:**  6391 5641 or events@csc.sg <br>
 **Register by:** 1 week before session
 <br><br>
