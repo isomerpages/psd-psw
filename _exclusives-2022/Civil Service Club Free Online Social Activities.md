@@ -130,8 +130,7 @@ bones and joints healthy.
 <br> <Br>
 **Date:** Sat, 16 Jul ’22<Br>
 **Time:** 2.30pm – 4pm<Br>
-**Contact:** Gek Cheng at 6391 5624 or  
-kuagekcheng@csc.sg<Br>
+**Contact:** Gek Cheng at 6391 5624 or kuagekcheng@csc.sg<br>
 **Register by:** 1 week before class
 <br><br>
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
