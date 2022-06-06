@@ -66,7 +66,8 @@ with soft chewy mochi stuffed with
 strawberry and sweet red bean paste. 
 Learn  how  to  make  the  soft  mochi 
 dough, add the fillings and mould them 
-into shapes and designs. <br>
+into shapes and designs. 
+<br>
 <br>**Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12pm<br>
 **Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
