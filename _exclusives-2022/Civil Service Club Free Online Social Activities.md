@@ -9,7 +9,7 @@ We bring the social to you! Public service officers can enjoy FREE online social
 <br>
 <br>
 #### Yoga to Boost Your Immunity
-
+![yoga_to_boost_your_immunity](/images/Yoga.jpg)
 Yoga does not only help to
 calm your body and mind, it
 also builds cardio, strength
@@ -26,6 +26,7 @@ yoga workouts.
 <br>
 <br>
 #### Zumba Fitness
+![zumba_fitness](/images/Zumba.jpg)
 Zumba Fitness is perfect for
 everybody and every body! A
 fitness programme that combines
@@ -44,6 +45,7 @@ dance fitness party.
 <br>
 <br>
 #### Healthy Eating for a Busy Lifestyle
+![healthy_eating_for_a_busy_lifestyle](/images/Meal%20wLaptop.jpg)
 This engaging talk covers the
 challenges of keeping to a
 balanced yet yummy diet for
