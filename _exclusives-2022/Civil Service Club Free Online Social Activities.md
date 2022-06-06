@@ -137,7 +137,7 @@ bones and joints healthy.
 Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
 more of such devices. Eye care has become not just essential but pressing. Come and listen to Ken Tong, Optometrist 
 and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br><br>
-**Synopsis:**
+**Synopsis:**<br>
 • Digital Transformation – how does it affect our vision<br>
 • Debunking the myth of blue light<br>
 • Tips and tricks to minimise digital eye strain<br>
