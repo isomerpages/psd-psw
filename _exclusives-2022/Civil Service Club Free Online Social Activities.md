@@ -78,6 +78,7 @@ into shapes and designs.
 <br>
 <br>
 #### How to Achieve a Healthy Weight
+![how_to_achieve_a_healthy_weight](/images/Weights.jpg)
 A study in January 2021 of 500 adults in Singapore (age 21–74 years) found 
 that 30% gained an average of 4.8kg over eight months, while 55% wants 
 to  lose  weight.  Weight  gain  during  the  pandemic  is  likely  to  stem  from 
@@ -90,6 +91,7 @@ learn effective and safe weight management strategies.<br><br>
 **Register by:** 1 week before session
 <br><br>
 #### Dress Well and Feel Good Everyday
+![Dress Well and Feel Good Everyday](/images/BodyShape.jpg)
 When you are dressed well, you feel good! This is a workshop designed to help you dress well and conduct yourself 
 appropriately  in  work  settings  to  boost  confidence.  Participants  will  also  learn  how  to  shop  yet  save  money. 
 Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
@@ -106,6 +108,7 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 **Register by:** 29 Jun ’22
 <br> <br>
 #### Plan Your Will & Lasting Power of Attorney (LPA) Talk
+![Plan Your Will & Lasting Power of Attorney](/images/Last%20Will.jpg)
 A  properly  executed  Will  ensures  the  smooth 
 distribution of estate among surviving beneficiaries, 
 while a Lasting Power of Attorney (LPA) empowers 
@@ -120,6 +123,7 @@ kuagekcheng@csc.sg<br>
 **Register by:** 1 week before class
 <br><br>
 #### Principles for Healthy Bones  and Joints
+
 Singaporeans  are  living  longer. 
 It  is  important  to  learn  how 
 to  take  care  of  our  bones  and 
@@ -137,6 +141,7 @@ bones and joints healthy.
 **Register by:** 1 week before class
 <br><br>
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
+![Digital Device and Vision: Caring for Your Eyes in Digital Era](/images/Tired.jpg)
 Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
 more of such devices. Eye care has become not just essential but pressing. Come and listen to Ken Tong, Optometrist 
 and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br><br>
