@@ -21,8 +21,7 @@ yoga workouts.
 **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22
 <br>**Time:** 4pm – 5pm
 <br>**Contact:** Constance at 
-6391 5607 or
-mailto:constancelow@csc.sg
+6391 5607 or constancelow@csc.sg
 <br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 <br>
@@ -40,7 +39,7 @@ dance fitness party.
 
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 7.30pm – 8.30pm
-<br>**Contact:** Constance at 6391 5607 or mailto:constancelow@csc.sg
+<br>**Contact:** Constance at 6391 5607 or constancelow@csc.sg
 <br>Register by: 11 Jul ’22
 <br>
 <br>
@@ -57,7 +56,7 @@ be covered.
 <br>
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 3pm – 4pm
-<br>**Contact:** 6391 5641 or mailto:events@csc.sg
+<br>**Contact:** 6391 5641 or events@csc.sg
 <br>**Register by:** 1 week before session
 <br>
 <br>
@@ -70,7 +69,7 @@ dough, add the fillings and mould them
 into shapes and designs. 
 <br>**Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12pm<br>
-**Contact:** Serene Cho at 6391 5620 or mailto:serenecho@csc.sg<br>
+**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
 **Register by:** 13 Jul ’22
 <br>
 <br>
@@ -83,7 +82,7 @@ challenges.  Come  join  our  Nutrition  Educator  in  an  engaging  session  to
 learn effective and safe weight management strategies.<br><br>
 **Date:** Fri, 22 Jul ’22
 **Time:** 3pm – 4pm
-**Contact:**  6391 5641 or mailto:events@csc.sg <br>
+**Contact:**  6391 5641 or events@csc.sg <br>
 **Register by:** 1 week before session
 <br><br>
 #### Dress Well and Feel Good Everyday
@@ -114,5 +113,23 @@ the importance of both instruments.
 **Time:** 11am – 12.30pm<br>
 **Contact:** Gek Cheng at 6391 5624 or 
 kuagekcheng@csc.sg<br>
+**Register by:** 1 week before class
+<br><br>
+#### Principles for Healthy Bones  and Joints
+Singaporeans  are  living  longer. 
+It  is  important  to  learn  how 
+to  take  care  of  our  bones  and 
+joints  so  that  we  can  live  a 
+healthy  and  active  lifestyle 
+in  our  golden  years.  At  this 
+workshop,  participants  will  learn  potential  risks 
+to bones and joints health, the various causes of 
+knee pain, and fundamental principles to keep our 
+bones and joints healthy.
+<br> <Br>
+**Date:** Sat, 16 Jul ’22<Br>
+**Time:** 2.30pm – 4pm<Br>
+**Contact:** Gek Cheng at 6391 5624 or  
+kuagekcheng@csc.sg<Br>
 **Register by:** 1 week before class
 
