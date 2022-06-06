@@ -91,7 +91,7 @@ appropriately  in  work  settings  to  boost  confidence.  Participants  will  a
 Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
 women who desire an outlook change, build new relationships, or are seeking a new career or a new direction in life.
 
-###### Course Highlights:
+**Course Highlights:**<br>
 • Finding your own style
 <br>• Knowing your body shape and how to dress for it<br>
 • Bringing out the best of your skin tone (warm or cool)<br>
@@ -136,7 +136,7 @@ kuagekcheng@csc.sg<Br>
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
 Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
 more of such devices. Eye care has become not just essential but pressing. Come and listen to Ken Tong, Optometrist 
-and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br>
+and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br><br>
 **Synopsis:**
 • Digital Transformation – how does it affect our vision<br>
 • Debunking the myth of blue light<br>
@@ -145,4 +145,4 @@ and Founder of eyesight.sg how you can save your eyes from the harmful effects a
 **Date:** Sat, 23 Jul ’22<br>
 **Time:** 11am – 12pm<br>
 **Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
-**Register by:** 20 Jul ’22 
+**Register by:** 20 Jul ’22
