@@ -13,12 +13,10 @@ and participate in free social activities. We look forward to having you and you
 
 
 ##### FREE weekday access to CSC swimming pools in July
-![ CSC swimming pools](/images/CSC%20@%20Tessensohn%20(1).png)
+![](/images/_CSC%20swimming%20pools%20(1).png)
 
 ##### Members’ rate at CSC bowling centres in July
-
-*Coming Soon*
-
+![](/images/CSC%20Bowling.png)
 
 ##### Members’ rate for booking of CSC facilities in July 
 *(Use period: Aug to Oct 2022)*
