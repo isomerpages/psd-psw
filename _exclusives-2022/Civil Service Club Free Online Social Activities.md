@@ -91,3 +91,13 @@ When you are dressed well, you feel good! This is a workshop designed to help yo
 appropriately  in  work  settings  to  boost  confidence.  Participants  will  also  learn  how  to  shop  yet  save  money. 
 Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
 women who desire an outlook change, build new relationships, or are seeking a new career or a new direction in life.
+
+###### Course Highlights:
+• Finding your own style
+<br>• Knowing your body shape and how to dress for it<br>
+• Bringing out the best of your skin tone (warm or cool)<br>
+
+**Date:** Sat, 2 Jul ’22<br>
+**Time:** 10am – 11am<br>
+**Contact**: Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Register by:** 29 Jun ’22
