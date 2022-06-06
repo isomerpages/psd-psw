@@ -13,3 +13,16 @@ and participate in free social activities. We look forward to having you and you
 
 
 ##### FREE weekday access to CSC swimming pools in July
+
+*Coming Soon*
+
+##### Members’ rate at CSC bowling centres in July
+
+*Coming Soon*
+
+
+##### Members’ rate for booking of CSC facilities in July 
+*(Use period: Aug to Oct 2022)*
+
+*Coming Soon*
+
