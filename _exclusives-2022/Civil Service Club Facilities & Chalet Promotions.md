@@ -16,7 +16,7 @@ and participate in free social activities. We look forward to having you and you
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
 ##### Members’ rate at CSC bowling centres in July
-![CSC swimming bowling](/images/CSC%20swimming%20poolsbowlingfunction%202.png)
+![CSC bowling](/images/_CSC%20swimming%20poolsbowlingfunction%20(3).png)
 
 ##### Members’ rate for booking of CSC facilities in July 
 *(Use period: Aug to Oct 2022)*
