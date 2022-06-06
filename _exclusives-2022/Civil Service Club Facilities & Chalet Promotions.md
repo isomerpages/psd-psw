@@ -19,6 +19,13 @@ and participate in free social activities. We look forward to having you and you
 ![CSC_bowling](/images/CSC%20Bowling_1.png)
 
 ##### Members’ rate for booking of CSC facilities in July 
-*(Use period: Aug to Oct 2022)*
 
-*Coming Soon*
+
+
+| All Chalet | All Function Rooms | All BBQ Pits |
+| -------- | -------- | -------- |
+
+
+
+*(Use period: Aug to Oct 2022)*
+![](/images/CSC%20Facilities.png)
