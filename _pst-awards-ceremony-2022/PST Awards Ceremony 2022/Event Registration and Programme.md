@@ -1,9 +1,10 @@
 ---
 title: Event Registration and Programme
-permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/permalink
+permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/event-registration-and-programme
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
+
 **Date and Time**:  29 July 2022, 4.00pm – 6.00pm
 
 **Venue**: Stephen Riady Auditorium (NTUC Centre) (invited quests only)
