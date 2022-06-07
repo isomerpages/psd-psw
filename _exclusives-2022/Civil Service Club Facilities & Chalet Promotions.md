@@ -16,13 +16,14 @@ and participate in free social activities. We look forward to having you and you
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
 ###### Terms & Conditions 
-* Valid on weekdays from 1 to 31 July '22 via walk-in.
-* Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. 
-* Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
-* For more information about the swimming pools, please visit:
-* CSC @ Bukit Batok
-* CSC @ Changi l
-CSC @ Tessensohn
+<p style="font-size:15px">
+* Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+* Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br>
+* Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.<br>
+* For more information about the swimming pools, please visit: <br><br>
+* CSC @ Bukit Batok<br>
+* CSC @ Changi l<br>
+* CSC @ Tessensohn<br>
 
 ##### Members’ rate at CSC bowling centres in July
 ![CSC bowling](/images/CSC%20bowling%20(2).png)
