@@ -11,7 +11,7 @@ Capture these #BeTheNew moments at our OPSOC virtual photobooth and have fun wit
 
 
 # Snap a shot now! 📸
-<img src="/images/opsoc22-qr-registration.png" alt="QR Code" style="width:200px;" align="left"/>
+<img src="/images/opsoc2022booth.png" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br><br><br>
 <i>(This is an internet-facing website)</i>
 
@@ -28,7 +28,7 @@ First 100 unique entries will receive a surprise gift!
 
 <b>Step 4: </b><span>Scan the QR code below to visit the photobooth gallery and check out other fun moments captured by our public officers!  </span>
 
-<img src="/images/opsoc22-qr-registration.png" alt="QR Code" style="width:200px;" align="left"/>
+<img src="/images/opsoc2022gallery.png" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br><br><br>
 <i>(This is an internet-facing website)</i>
 
