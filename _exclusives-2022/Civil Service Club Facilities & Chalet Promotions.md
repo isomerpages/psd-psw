@@ -75,9 +75,18 @@ ions-Family-Recreation
 
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
-<b>1.</b> Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
-<b>2.</b> Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter. <br>  
-<i>For more information about the bowling centres and rates, please visit:</I> </p>
-<p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
-  <a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
+<b>1.</b> Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
+for stay period between 1 Aug and 31 Oct '22. 
+<br>
+<b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
+<b>3.</b>	Prebooking is required.
+ <br>  
+<b>4.</b>	For booking of chalets, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and use the relevant <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
+=5b92f5ad&f=y&p=n">Public Service Priority Code</a> 
+<br>
+	<b>5.</b>	Public service officers must present their Civil Service card or
+staff pass in person for verification purposes at the front office on the day of check in. <br> 
+<i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
+<p style="font-size:15px"> <a href="http://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
+ 
 <br> <br> </p>
