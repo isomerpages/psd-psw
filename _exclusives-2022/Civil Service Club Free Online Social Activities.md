@@ -17,7 +17,7 @@ We bring the social to you! Public service officers can enjoy FREE online social
 
 |  | Zumba Fitness|
 | -------- | -------- |
-| ![](/images/Zumba.jpg)| Zumba Fitness is perfect for everybody and every body! A fitness programme that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and highintensity moves for an interval-style, calorie-burning dance fitness party. <br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** Register by: 11 Jul ’22
+| ![](/images/zumba.png)| Zumba Fitness is perfect for everybody and every body! A fitness programme that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and highintensity moves for an interval-style, calorie-burning dance fitness party. <br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** Register by: 11 Jul ’22
 <br>|
 
 
