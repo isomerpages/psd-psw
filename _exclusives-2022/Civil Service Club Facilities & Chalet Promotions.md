@@ -14,7 +14,7 @@ and participate in free social activities. We look forward to having you and you
 
 <center><h6><a href="#swimming">Swimming Pool</a> | <a href="#bowling"> Bowling</a>|<a href="#BBQ"> BBQ Pit</a>| <a href="#chalet"> Chalet</a>|<a href="#function"> Function Rooms </a></h6>
 
-
+	
 ##### FREE weekday access to CSC swimming pools in July
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
