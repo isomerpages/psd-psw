@@ -16,11 +16,13 @@ and participate in free social activities. We look forward to having you and you
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
 ###### Terms & Conditions 
-<p style="font-size:10px">
-* Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
-* Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
-* Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.<br>
-* For more information about the swimming pools, please visit: <br>
-* [CSC@Bukit Batok](https://www.cscbukitbatok.sg/)<br> 
-* [CSC@Changi I](https://www.cscchangi.sg/)<br>
-* [CSC@Tessensohn](https://www.csctessensohn.sg/)<br>
+<p style="font-size:15px">
+1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+2. Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
+3. Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
+<br> 4. For more information about the swimming pools, please visit: <br> </p> 
+
+<p style="font-size:15px">
+	<a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
+	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
+	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a> <br>
