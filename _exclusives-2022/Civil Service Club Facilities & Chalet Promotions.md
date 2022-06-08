@@ -43,7 +43,6 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
 <br> <br> </p>
 
-<a id="facilities">facilties</a>
 ##### MEMBERS' RATE for booking of any BBQ facilities 
 <p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
 
