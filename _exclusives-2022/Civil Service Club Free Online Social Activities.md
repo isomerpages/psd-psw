@@ -11,10 +11,10 @@ We bring the social to you! Public service officers can enjoy FREE online social
 
 ### Yoga to Boost Your Immunity 
 ![](/images/CSC_Social_Yoga.png)
-
+<br>
 Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. 
 <br><br>
-**Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** 28 Jun ’22 OR 26 Jul ’22
+**Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 
 |  |  |  |
@@ -22,7 +22,7 @@ Yoga does not only help to calm your body and mind, it also builds cardio, stren
 
 #### Zumba Fitness 
 ![](/images/CSC_Social_Zumba.png)
-
+<br>
 Zumba Fitness is perfect for everybody and every body! A fitness programme that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high intensity moves for an interval-style, calorie-burning dance fitness party. 
 <br><br>
 **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
@@ -31,7 +31,8 @@ Zumba Fitness is perfect for everybody and every body! A fitness programme that 
 | -------- | -------- | -------- |
 
 #### Healthy Eating for a Busy Lifestyle
-![healthy_eating_for_a_busy_lifestyle](/images/Meal%20wLaptop.jpg)
+![](/images/CSC_Social_Lifestyle.png)
+<br>
 This engaging talk covers the
 challenges of keeping to a
 balanced yet yummy diet for
@@ -51,7 +52,8 @@ be covered.
 |  |  |  |
 | -------- | -------- | -------- |
 #### Strawberry Red Bean Mochi Demo
-
+![](/images/CSC_Social_Mochi.png)
+<br>
 This  is  a  traditional  dessert  made 
 with soft chewy mochi stuffed with 
 strawberry and sweet red bean paste. 
@@ -68,7 +70,8 @@ into shapes and designs.
 |  |  |  |
 | -------- | -------- | -------- |
 #### How to Achieve a Healthy Weight
-![how_to_achieve_a_healthy_weight](/images/Weights.jpg)
+![](/images/CSC_Social_Healthy.png)
+<br>
 A study in January 2021 of 500 adults in Singapore (age 21–74 years) found 
 that 30% gained an average of 4.8kg over eight months, while 55% wants 
 to  lose  weight.  Weight  gain  during  the  pandemic  is  likely  to  stem  from 
@@ -83,7 +86,8 @@ learn effective and safe weight management strategies.<br><br>
 |  |  |  |
 | -------- | -------- | -------- |
 #### Dress Well and Feel Good Everyday
-![Dress Well and Feel Good Everyday](/images/BodyShape.jpg)
+![](/images/CSC_Social_FeelGood.png)
+<br>
 When you are dressed well, you feel good! This is a workshop designed to help you dress well and conduct yourself 
 appropriately  in  work  settings  to  boost  confidence.  Participants  will  also  learn  how  to  shop  yet  save  money. 
 Conducted by certified style and high-performance coach Ms Julia, this workshop is suitable for both men and 
@@ -102,7 +106,8 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 |  |  |  |
 | -------- | -------- | -------- |
 #### Plan Your Will & Lasting Power of Attorney (LPA) Talk
-![Plan Your Will & Lasting Power of Attorney](/images/Last%20Will.jpg)
+![](/images/CSC_Social_LastWill.png)
+<br>
 A  properly  executed  Will  ensures  the  smooth 
 distribution of estate among surviving beneficiaries, 
 while a Lasting Power of Attorney (LPA) empowers 
@@ -119,7 +124,8 @@ the importance of both instruments.
 |  |  |  |
 | -------- | -------- | -------- |
 #### Principles for Healthy Bones  and Joints
-
+![](/images/CSC_Social_Bones_Joints.png)
+<br>
 Singaporeans  are  living  longer. 
 It  is  important  to  learn  how 
 to  take  care  of  our  bones  and 
@@ -139,7 +145,8 @@ bones and joints healthy.
 |  |  |  |
 | -------- | -------- | -------- |
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
-![Digital Device and Vision: Caring for Your Eyes in Digital Era](/images/Tired.jpg)
+![](/images/CSC_Social_DigitalEra.png)
+<br>
 Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
 more of such devices. Eye care has become not just essential but pressing. Come and listen to Ken Tong, Optometrist 
 and Founder of eyesight.sg how you can save your eyes from the harmful effects and minimise the risks. <br><br>
