@@ -10,9 +10,10 @@ We bring the social to you! Public service officers can enjoy FREE online social
 <br>
 
 
-|  | Column 2 |
+|  |Yoga to Boost Your Immunity|
 | -------- | -------- |
-|![](/images/Yoga.jpg)| Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. |
+|![](/images/Yoga.jpg)| Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. <br><br> **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** 28 Jun ’22 OR 26 Jul ’22
+<br>|
 
 
 #### Yoga to Boost Your Immunity
