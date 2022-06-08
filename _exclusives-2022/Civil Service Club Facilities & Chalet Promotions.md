@@ -99,4 +99,8 @@ for stay period between 1 Aug and 31 Oct '22.
 <b>3.</b>	Prebooking is required.
  <br>  
 <b>4.</b>Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
+<b>5.</b>	Public service officers must present their Civil Service card or
+staff pass in person for verification purposes at the front office on the day of check in. <br> 
+<i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
+<p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
 <br> <br> </p>
