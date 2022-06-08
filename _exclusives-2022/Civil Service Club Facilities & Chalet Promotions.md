@@ -61,6 +61,9 @@ staff pass in person for verification purposes at the front office on the day of
 <a href="mailto:bukitbatok@csc.sg">bukitbatok@csc.sg</a> for Treehouse BBQ, CSC
 @ Bukit Batok
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
-<p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
-	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
+
+<p style="font-size:15px"> <a href="https://www.cscchangi.sg/Fun_BBQ.aspx">BBQ Pavilion, CSC @ Changi</a> <br> 
+	<a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavil
+ions-Family-Recreation
+">Treehouse BBQ, CSC@ Bukit Batok</a>
 <br> <br>
