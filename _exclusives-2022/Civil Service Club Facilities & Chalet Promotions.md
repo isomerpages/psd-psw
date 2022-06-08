@@ -20,8 +20,7 @@ and participate in free social activities. We look forward to having you and you
 * Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
 * Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
 * Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.<br>
-* For more information about the swimming pools, please visit: <br><br>
+* For more information about the swimming pools, please visit: <br>
 * [CSC@Bukit Batok](https://www.cscbukitbatok.sg/)<br> 
 * [CSC@Changi I](https://www.cscchangi.sg/)<br>
 * [CSC@Tessensohn](https://www.csctessensohn.sg/)<br>
-	
