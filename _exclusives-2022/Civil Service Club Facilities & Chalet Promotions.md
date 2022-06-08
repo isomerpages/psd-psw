@@ -104,3 +104,25 @@ staff pass in person for verification purposes at the front office on the day of
 <i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
 <br> <br> </p>
+
+#####  MEMBERS' RATE for booking of any Civil Service Club function rooms
+
+![](/images/PSW%20Function%20Room.png)
+
+<p style="font-size:15px">
+	<b>Terms & Conditions</b> <br>
+<b>1.</b> Valid for booking of function rooms for personal events and
+functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
+<br>
+<b>2.</b> Prebooking is required. <br>  
+<b>3.</b> To book or to enquire about the rates, please email to: <br>
+<a href="mailto:tessensohn@csc.sg">Tessenohn@csc.sg</a> for CSC @ Tessensohn<br>
+<a href="mailto:bukitbatok@csc.sg">Bukitbatok@csc.sg</a> fo CSC @ Bukit Batok<br>
+<a href="mailto:changi@csc.sg">Changi@csc.sg</a>for CSC @ Changi<br>
+
+
+
+<i>For more information about the bowling centres and rates, please visit:</I> </p>
+<p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
+	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
+<br> <br> </p>
