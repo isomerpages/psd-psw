@@ -116,7 +116,7 @@ functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
 <br>
 <b>2.</b> Prebooking is required. <br>  
 <b>3.</b> To book or to enquire about the rates, please email to: <br>
-<a href="mailto:tessensohn@csc.sg">Tessenohn@csc.sg</a> for CSC @ Tessensohn<br>
+<a href="mailto:tessensohn@csc.sg">Tessensohn@csc.sg</a> for CSC @ Tessensohn<br>
 <a href="mailto:bukitbatok@csc.sg">Bukitbatok@csc.sg</a> for CSC @ Bukit Batok<br>
 <a href="mailto:changi@csc.sg">Changi@csc.sg</a> for CSC @ Changi<br>
 <b>4.</b> Public service officers must present their Civil Service card or
