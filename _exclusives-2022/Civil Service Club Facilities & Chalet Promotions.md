@@ -22,7 +22,6 @@ and participate in free social activities. We look forward to having you and you
 2. Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
 3. Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
 <br> 4. For more information about the swimming pools, please visit: </p> 
-
 <p style="font-size:15px">
 	<a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
 	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
