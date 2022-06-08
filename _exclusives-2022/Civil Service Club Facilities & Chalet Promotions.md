@@ -81,7 +81,7 @@ for stay period between 1 Aug and 31 Oct '22.
 <b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
 <b>3.</b>	Prebooking is required.
  <br>  
-<b>4.</b>	For booking of chalets, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and use the relevant <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
+<b>4.</b>	For booking of chalets, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and use the relevant  <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
 =5b92f5ad&f=y&p=n">Public Service Priority Code</a> 
 <br>
 	<b>5.</b>	Public service officers must present their Civil Service card or
@@ -89,4 +89,14 @@ staff pass in person for verification purposes at the front office on the day of
 <i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
  
+##### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
+<p style="font-size:15px">
+  <b>Terms & Conditions</b> <br>
+<b>1.</b> Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
+for stay period between 1 Aug and 31 Oct '22. 
+<br>
+<b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
+<b>3.</b>	Prebooking is required.
+ <br>  
+<b>4.</b>Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
 <br> <br> </p>
