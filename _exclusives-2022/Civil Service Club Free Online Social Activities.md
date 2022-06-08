@@ -17,9 +17,6 @@ Yoga does not only help to calm your body and mind, it also builds cardio, stren
 **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 
-|  |  |  |
-| -------- | -------- | -------- |
-
 #### Zumba Fitness 
 ![](/images/CSC_Social_Zumba.png)
 <br>
@@ -27,8 +24,6 @@ Zumba Fitness is perfect for everybody and every body! A fitness programme that 
 <br><br>
 **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
 <br>
-|  |  |  |
-| -------- | -------- | -------- |
 
 #### Healthy Eating for a Busy Lifestyle
 ![](/images/CSC_Social_Lifestyle.png)
@@ -49,8 +44,7 @@ be covered.
 <br>**Register by:** 1 week before session
 <br>
 <br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### Strawberry Red Bean Mochi Demo
 ![](/images/CSC_Social_Mochi.png)
 <br>
@@ -67,8 +61,7 @@ into shapes and designs.
 **Register by:** 13 Jul ’22
 <br>
 <br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### How to Achieve a Healthy Weight
 ![](/images/CSC_Social_Healthy.png)
 <br>
@@ -83,8 +76,7 @@ learn effective and safe weight management strategies.<br><br>
 **Contact:**  6391 5641 or <a href="mailto:events@csc.sg">events@csc.sg</a><br>
 **Register by:** 1 week before session
 <br><br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### Dress Well and Feel Good Everyday
 ![](/images/CSC_Social_FeelGood.png)
 <br>
@@ -103,8 +95,7 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 **Contact**: Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 29 Jun ’22
 <br> <br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### Plan Your Will & Lasting Power of Attorney (LPA) Talk
 ![](/images/CSC_Social_LastWill.png)
 <br>
@@ -121,8 +112,7 @@ the importance of both instruments.
 <a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>
 **Register by:** 1 week before class
 <br><br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### Principles for Healthy Bones  and Joints
 ![](/images/CSC_Social_Bones_Joints.png)
 <br>
@@ -142,8 +132,7 @@ bones and joints healthy.
 **Contact:** Gek Cheng at 6391 5624 or <a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a><br>
 **Register by:** 1 week before class
 <br><br>
-|  |  |  |
-| -------- | -------- | -------- |
+
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
 ![](/images/CSC_Social_DigitalEra.png)
 <br>
@@ -159,5 +148,3 @@ and Founder of eyesight.sg how you can save your eyes from the harmful effects a
 **Time:** 11am – 12pm<br>
 **Contact:** Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 20 Jul ’22
-|  |  |  |
-| -------- | -------- | -------- |
