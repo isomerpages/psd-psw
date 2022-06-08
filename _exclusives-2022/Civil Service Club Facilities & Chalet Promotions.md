@@ -29,8 +29,6 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a>
 <br> <br> </p>
 
-<a id="swimming">Swimmming</a>
-<br> 
 
 #####  MEMBERS' RATE at CSC bowling centres in July 
 
