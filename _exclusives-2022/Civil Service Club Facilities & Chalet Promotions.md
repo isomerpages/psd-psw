@@ -25,4 +25,24 @@ and participate in free social activities. We look forward to having you and you
 <i>For more information about the swimming pools, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
 	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
-	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a> <br>
+	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a>
+<br> <br>
+
+
+##### Members’ rate at CSC bowling centres in July 
+
+![](/images/CSC%20Bowling_1.png)
+
+<p style="font-size:15px">
+	<b>Terms & Conditions</b> <br>
+1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+2. Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter. <br>  
+<i>For more information about the bowling centres and rates, please visit:</I> </p>
+<p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
+	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
+	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a>
+<br> <br>
+	
+
+
+
