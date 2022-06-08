@@ -32,7 +32,7 @@ and participate in free social activities. We look forward to having you and you
 
 #####  MEMBERS' RATE at CSC bowling centres in July 
 
-![](/images/CSC%20Bowling_1.png)
+![](/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png)
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
