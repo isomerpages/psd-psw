@@ -69,13 +69,13 @@ ions-Family-Recreation
 <br> <br>
 
 
-#####  MEMBERS' RATE for booking of any CSC @ Changi l chalets
+#####  MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet 
 
 ![](/images/PSW%20CHALET.png)
 
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
-<b>1.</b> Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
+<b>1.</b> Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalet from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
 <b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
@@ -86,7 +86,7 @@ for stay period between 1 Aug and 31 Oct '22.
 <br>
 	<b>5.</b>	Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
-<i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
+<i>For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> </p>
  
 ##### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
