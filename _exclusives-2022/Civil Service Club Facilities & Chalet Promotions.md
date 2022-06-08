@@ -35,8 +35,8 @@ and participate in free social activities. We look forward to having you and you
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
-1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
-2. Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter. <br>  
+<b>1.</b> Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+<b>2.</b> Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter. <br>  
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
 	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
@@ -50,18 +50,16 @@ and participate in free social activities. We look forward to having you and you
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
-1. Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ,
+	<b>1.</b> Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ,
 CSC @ Bukit Batok from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22
 <br>
-2. Prebooking is required.<br> 
-3. To book, please email to:<br> 
+<b>2.</b> Prebooking is required.<br>
+<b>3.</b> Public service officers must present their Civil Service card or
+staff pass in person for verification purposes at the front office on the day of use.<br>
+<b>4.</b> To book, please email to:<br> 
 <a href="mailto:changi@csc.sg">changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi
 <a href="mailto:bukitbatok@csc.sg">bukitbatok@csc.sg</a> for Treehouse BBQ, CSC
 @ Bukit Batok
-
-
-
-
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
 	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
