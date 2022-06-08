@@ -26,7 +26,7 @@ and participate in free social activities. We look forward to having you and you
 <p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
 	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
 	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a>
-<br> <br>
+<br> <br> </p>
 
 
 ##### Members’ rate at CSC bowling centres in July 
