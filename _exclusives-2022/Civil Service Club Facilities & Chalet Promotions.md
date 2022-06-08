@@ -98,7 +98,7 @@ for stay period between 1 Aug and 31 Oct '22.
 <b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
 <b>3.</b>	Prebooking is required.
  <br>  
-<b>4.</b>Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
+<b>4.</b> Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
 <b>5.</b>	Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
 <i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
@@ -119,10 +119,11 @@ functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
 <a href="mailto:tessensohn@csc.sg">Tessenohn@csc.sg</a> for CSC @ Tessensohn<br>
 <a href="mailto:bukitbatok@csc.sg">Bukitbatok@csc.sg</a> fo CSC @ Bukit Batok<br>
 <a href="mailto:changi@csc.sg">Changi@csc.sg</a>for CSC @ Changi<br>
-
-
-
+<b>4.</b> Public service officers must present their Civil Service card or
+staff pass in person for verification purposes at the front office on the day of use.
+ <br>  
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
-<p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
-	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
+<p style="font-size:15px"> <a href="https://www.csctessensohn.sg/">CSC @ Tessensohn</a> <br> 
+	<a href="https://www.cscbukitbatok.sg/">CSC@ Bukit Batok</a><br>
+	<a href="https://www.cscchangi.sg/">CSC@ Changi</a>
 <br> <br> </p>
