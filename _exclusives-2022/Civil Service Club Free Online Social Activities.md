@@ -21,7 +21,7 @@ yoga workouts.
 **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22
 <br>**Time:** 4pm – 5pm
 <br>**Contact:** Constance at 
-6391 5607 or constancelow@csc.sg
+6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a>
 <br>**Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 <br>
@@ -40,7 +40,7 @@ dance fitness party.
 
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 7.30pm – 8.30pm
-<br>**Contact:** Constance at 6391 5607 or constancelow@csc.sg
+<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a>
 <br>Register by: 11 Jul ’22
 <br>
 <br>
@@ -58,7 +58,7 @@ be covered.
 <br>
 **Date:** Fri, 15 Jul ’22
 <br>**Time:** 3pm – 4pm
-<br>**Contact:** 6391 5641 or events@csc.sg
+<br>**Contact:** 6391 5641 or <a href="mailto:events@csc.sg">events@csc.sg</a>
 <br>**Register by:** 1 week before session
 <br>
 <br>
@@ -73,7 +73,7 @@ into shapes and designs.
 <br>
 <br>**Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12pm<br>
-**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Contact:** Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 13 Jul ’22
 <br>
 <br>
@@ -87,7 +87,7 @@ challenges.  Come  join  our  Nutrition  Educator  in  an  engaging  session  to
 learn effective and safe weight management strategies.<br><br>
 **Date:** Fri, 22 Jul ’22<br>
 **Time:** 3pm – 4pm<br>
-**Contact:**  6391 5641 or events@csc.sg <br>
+**Contact:**  6391 5641 or <a href="mailto:events@csc.sg">events@csc.sg</a><br>
 **Register by:** 1 week before session
 <br><br>
 #### Dress Well and Feel Good Everyday
@@ -104,7 +104,7 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 
 **Date:** Sat, 2 Jul ’22<br>
 **Time:** 10am – 11am<br>
-**Contact**: Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Contact**: Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 29 Jun ’22
 <br> <br>
 #### Plan Your Will & Lasting Power of Attorney (LPA) Talk
@@ -119,7 +119,7 @@ the importance of both instruments.
 **Date:** Sat, 16 Jul ’22<br>
 **Time:** 11am – 12.30pm<br>
 **Contact:** Gek Cheng at 6391 5624 or 
-kuagekcheng@csc.sg<br>
+<a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>
 **Register by:** 1 week before class
 <br><br>
 #### Principles for Healthy Bones  and Joints
@@ -137,7 +137,7 @@ bones and joints healthy.
 <br> <Br>
 **Date:** Sat, 16 Jul ’22<Br>
 **Time:** 2.30pm – 4pm<Br>
-**Contact:** Gek Cheng at 6391 5624 or kuagekcheng@csc.sg<br>
+**Contact:** Gek Cheng at 6391 5624 or <a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a><br>
 **Register by:** 1 week before class
 <br><br>
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
@@ -152,5 +152,5 @@ and Founder of eyesight.sg how you can save your eyes from the harmful effects a
 • Q&A<br><br>
 **Date:** Sat, 23 Jul ’22<br>
 **Time:** 11am – 12pm<br>
-**Contact:** Serene Cho at 6391 5620 or serenecho@csc.sg<br>
+**Contact:** Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 20 Jul ’22
