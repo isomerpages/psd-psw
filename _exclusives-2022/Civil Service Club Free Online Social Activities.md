@@ -10,14 +10,18 @@ We bring the social to you! Public service officers can enjoy FREE online social
 <br>
 
 
-|  | Yoga to Boost Your Immunity|
+|| Yoga to Boost Your Immunity|
 | -------- | -------- |
 |![](/images/Yoga.png)| Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. <br><br> **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>|
 
-|  | Zumba Fitness|
+|| Zumba Fitness|
 | -------- | -------- |
-| ![](/images/PSW%20Social%20Activity.png) | Zumba Fitness combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. <br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
+| ![](/images/PSW%20Social%20Activity.png)| Zumba Fitness combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. 
+
+
+
+<br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
 <br>|
 
 
