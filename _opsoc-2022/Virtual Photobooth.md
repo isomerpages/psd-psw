@@ -9,10 +9,7 @@ Many of us have committed to something new or looking forward to try new things 
 
 Capture these #BeTheNew moments at our OPSOC virtual photobooth and have fun with your family, friends & colleagues! 
 
-<img src="/images/bethenew2022.png" alt="QR Code" style="width:200px;" align="left"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-											 
-											 
+<img src="/images/bethenew2022.png" alt="QR Code" style="width:200px;" align="left"/>								 
 
 # Snap a shot now! 📸
 <img src="/images/Photo QR.png" alt="QR Code" style="width:200px;" align="left"/>
@@ -22,7 +19,6 @@ First 100 unique entries will receive a surprise gift!
 
 
 # How do I participate? 
-
 <b>Step 1: </b><span>Scan the above QR code with your mobile devices to access the virtual photobooth. </span>
 
 <b>Step 2: </b><span>Get creative with your poses and have fun with the various photos frames, effects, filters and stickers! </span>
