@@ -16,7 +16,6 @@ Capture these #BeTheNew moments at our OPSOC virtual photobooth and have fun wit
 
 # Snap a shot now! 📸
 <img src="/images/Photo QR.png" alt="QR Code" style="width:200px;" align="left"/>
-<br><br><br><br><br><br><br>
 <i>(This is an internet-facing website)</i>
 
 First 100 unique entries will receive a surprise gift!
@@ -33,7 +32,6 @@ First 100 unique entries will receive a surprise gift!
 <b>Step 4: </b><span>Scan the QR code below to visit the photobooth gallery and check out other fun moments captured by our public officers!  </span>
 
 <img src="/images/Gallery QR.png" alt="QR Code" style="width:200px;" align="left"/>
-<br><br><br><br><br><br><br>
 <i>(This is an internet-facing website)</i>
 
 <b>Step 5: </b><span>Mark your calendar – join us at the OPSOC on 8 July 2022 for the unveiling of the photo mosaic, which your amazing shot will be part of!</span>
