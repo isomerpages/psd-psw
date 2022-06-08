@@ -9,6 +9,10 @@ Many of us have committed to something new or looking forward to try new things 
 
 Capture these #BeTheNew moments at our OPSOC virtual photobooth and have fun with your family, friends & colleagues! 
 
+<img src="/images/bethenew2022.png" alt="QR Code" style="width:200px;" align="left"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+											 
+											 
 
 # Snap a shot now! 📸
 <img src="/images/opsoc2022booth.png" alt="QR Code" style="width:200px;" align="left"/>
