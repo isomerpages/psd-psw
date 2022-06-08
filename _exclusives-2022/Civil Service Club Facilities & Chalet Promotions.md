@@ -12,7 +12,7 @@ and chalets. Enjoy month long access to our swimming pools as well as members’
 and participate in free social activities. We look forward to having you and your family at our premises!
 
 
-<a href="#swimming">Swimming</a> | <a href="#facilities"> Facilities</a> 
+<center><a href="#swimming">Swimming Pool</a> | <a href="#bowling"> Bowling</a>|<a href="#BBQ"> BBQ Pit</a>| <a href="#chalet"> Chalet</a>|<a href="#function"> Function Rooms </a>
 
 
 ##### FREE weekday access to CSC swimming pools in July
