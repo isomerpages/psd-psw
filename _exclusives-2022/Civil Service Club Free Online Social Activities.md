@@ -17,7 +17,7 @@ We bring the social to you! Public service officers can enjoy FREE online social
 
 |  | Zumba Fitness|
 | -------- | -------- |
-| ![](/images/PSW%20Social%20Activity.png) | Zumba Fitness combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. With a combination of low-intensity and high intensity moves for an interval-style, calorie-burning dance fitness party<br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** Register by: 11 Jul ’22
+| ![](/images/PSW%20Social%20Activity.png) | Zumba Fitness combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. <br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
 <br>|
 
 
