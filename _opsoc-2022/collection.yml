@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - About OPSOC.md
+      - Virtual Photobooth.md

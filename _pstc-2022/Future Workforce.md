@@ -13,7 +13,7 @@ Speakers:
 * Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
 <br><br>
 
-Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)<br>
+Moderator: Dr Gog Soon Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)<br>
 <br>
 The webinar will share good practices for managing talent mobility and facilitating exposure of staff beyond their core roles, as well as the importance of developing broader networks and relationships for effective policy implementation. <br>
 
