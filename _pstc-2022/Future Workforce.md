@@ -4,7 +4,7 @@ permalink: /pstc-2022/future-workforce
 description: ""
 ---
 ### Future Workforce
-<b>Building a More resilient and grounded Public Service</b><br>
+<b>Building a more resilient and grounded Public Service</b><br>
 
 Speakers:
 <br>
