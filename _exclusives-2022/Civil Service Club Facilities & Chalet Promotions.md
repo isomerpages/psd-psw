@@ -29,7 +29,7 @@ and participate in free social activities. We look forward to having you and you
 <br> <br> </p>
 
 
-##### Members’ rate at CSC bowling centres in July 
+#####  MEMBERS' RATE at CSC bowling centres in July 
 
 ![](/images/CSC%20Bowling_1.png)
 
@@ -40,4 +40,20 @@ and participate in free social activities. We look forward to having you and you
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
 	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
+<br> <br> </p>
+
+
+##### MEMBERS' RATE for booking of any BBQ facilities 
+<p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
+
+![](/images/PSW%20BBQ.png)
+
+<p style="font-size:15px">
+	<b>Terms & Conditions</b> <br>
+1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+2. Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter. <br>  
+<i>For more information about the bowling centres and rates, please visit:</I> </p>
+<p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
+	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a>
 <br> <br>
+
