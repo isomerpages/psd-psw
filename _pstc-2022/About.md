@@ -30,7 +30,7 @@ Moderator: Ms Lim Sze Ling, Chief Transformation Officer, Service SG (Public Ser
 ● Ms WiWi Goh, Google Market HR Lead, SG, People Ops (Google)
 <br><br>
 	
-Moderator: Dr Gog Soon-Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)
+Moderator: Dr Gog Soon Joo, Chief Skills Officer & Chief Futurist (SkillsFutureSG)
 		<p>
 			
 <b><a href="https://www.publicserviceweek.gov.sg/pstc-2022/future-workplace ">Future Workplace</a>: 28 July (Thurs), 3pm</b><br>
