@@ -25,11 +25,3 @@ and participate in free social activities. We look forward to having you and you
 * [CSC@Changi I](https://www.cscchangi.sg/)<br>
 * [CSC@Tessensohn](https://www.csctessensohn.sg/)<br>
 	
-	
-	
-#### Members’ rate at CSC bowling centres in July
-
-
-
-##### Members’ rate for booking of CSC facilities in July 
-*(Use period: Aug to Oct 2022)*
