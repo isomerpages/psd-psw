@@ -15,20 +15,14 @@ and participate in free social activities. We look forward to having you and you
 ##### FREE weekday access to CSC swimming pools in July
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
-###### Terms & Conditions 
+
 <p style="font-size:15px">
-* Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
-* Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br>
-* Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.<br>
-* For more information about the swimming pools, please visit: <br><br>
-* CSC @ Bukit Batok<br>
-* CSC @ Changi l<br>
-* CSC @ Tessensohn<br>
-
-#### Members’ rate at CSC bowling centres in July
-
-![](/images/CSC%20bowling%20(2).png)
-
-##### Members’ rate for booking of CSC facilities in July 
-*(Use period: Aug to Oct 2022)*
-![CSC function rooms](/images/CSC%20swimming%20poolsbowlingfunction%203.png)
+	<b>Terms & Conditions</b> <br>
+1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
+2. Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
+3. Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
+	<br> 
+<i>For more information about the swimming pools, please visit:</I> </p>
+<p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
+	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
+	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a> <br>
