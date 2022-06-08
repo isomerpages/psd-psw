@@ -9,18 +9,26 @@ We bring the social to you! Public service officers can enjoy FREE online social
 <br>
 <br>
 
-#### Yoga to Boost Your Immunity
+### Yoga to Boost Your Immunity 
 ![](/images/CSC_Social_Yoga.png)
 
-Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. <br><br> **Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** 28 Jun ’22 OR 26 Jul ’22
-<br>|
-
-#### Zumba Fitness
-![](/images/CSC_Social_Zumba.png)
-
-Zumba Fitness is perfect for everybody and every body! A fitness programme that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high intensity moves for an interval-style, calorie-burning dance fitness party. <br><br> **Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
+Yoga does not only help to calm your body and mind, it also builds cardio, strength and muscle toning. Relax your mind and rejuvenate your body with simple and effective yoga workouts. 
+<br><br>
+**Dates:** Sat, 2 Jul ’22 OR 30 Jul ’22<br>**Time:** 4pm – 5pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> **Register by:** 28 Jun ’22 OR 26 Jul ’22
 <br>
 
+|  |  |  |
+| -------- | -------- | -------- |
+
+#### Zumba Fitness 
+![](/images/CSC_Social_Zumba.png)
+
+Zumba Fitness is perfect for everybody and every body! A fitness programme that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high intensity moves for an interval-style, calorie-burning dance fitness party. 
+<br><br>
+**Dates:** Fri, 15 Jul ’22<br>**Time:** 3pm – 4pm<br>**Contact:** Constance at 6391 5607 or <a href="mailto:constancelow@csc.sg">constancelow@csc.sg</a> <br>**Register by:** Register by: 11 Jul ’22
+<br>
+|  |  |  |
+| -------- | -------- | -------- |
 
 #### Healthy Eating for a Busy Lifestyle
 ![healthy_eating_for_a_busy_lifestyle](/images/Meal%20wLaptop.jpg)
@@ -40,6 +48,8 @@ be covered.
 <br>**Register by:** 1 week before session
 <br>
 <br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### Strawberry Red Bean Mochi Demo
 
 This  is  a  traditional  dessert  made 
@@ -55,6 +65,8 @@ into shapes and designs.
 **Register by:** 13 Jul ’22
 <br>
 <br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### How to Achieve a Healthy Weight
 ![how_to_achieve_a_healthy_weight](/images/Weights.jpg)
 A study in January 2021 of 500 adults in Singapore (age 21–74 years) found 
@@ -68,6 +80,8 @@ learn effective and safe weight management strategies.<br><br>
 **Contact:**  6391 5641 or <a href="mailto:events@csc.sg">events@csc.sg</a><br>
 **Register by:** 1 week before session
 <br><br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### Dress Well and Feel Good Everyday
 ![Dress Well and Feel Good Everyday](/images/BodyShape.jpg)
 When you are dressed well, you feel good! This is a workshop designed to help you dress well and conduct yourself 
@@ -85,6 +99,8 @@ women who desire an outlook change, build new relationships, or are seeking a ne
 **Contact**: Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 29 Jun ’22
 <br> <br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### Plan Your Will & Lasting Power of Attorney (LPA) Talk
 ![Plan Your Will & Lasting Power of Attorney](/images/Last%20Will.jpg)
 A  properly  executed  Will  ensures  the  smooth 
@@ -100,6 +116,8 @@ the importance of both instruments.
 <a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>
 **Register by:** 1 week before class
 <br><br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### Principles for Healthy Bones  and Joints
 
 Singaporeans  are  living  longer. 
@@ -118,6 +136,8 @@ bones and joints healthy.
 **Contact:** Gek Cheng at 6391 5624 or <a href="kuagekcheng@csc.sg">kuagekcheng@csc.sg</a><br>
 **Register by:** 1 week before class
 <br><br>
+|  |  |  |
+| -------- | -------- | -------- |
 #### Digital Device and Vision: Caring for Your Eyes in Digital Era 
 ![Digital Device and Vision: Caring for Your Eyes in Digital Era](/images/Tired.jpg)
 Digital devices have become an integral part of our lives making it impossible to imagine a day without using one or 
@@ -132,3 +152,5 @@ and Founder of eyesight.sg how you can save your eyes from the harmful effects a
 **Time:** 11am – 12pm<br>
 **Contact:** Serene Cho at 6391 5620 or <a href="serenecho@csc.sg">serenecho@csc.sg</a> <br>
 **Register by:** 20 Jul ’22
+|  |  |  |
+| -------- | -------- | -------- |
