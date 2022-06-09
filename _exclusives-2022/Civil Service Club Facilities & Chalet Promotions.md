@@ -22,9 +22,8 @@ and participate in free social activities. We look forward to having you and you
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
-1. Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
-2. Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
-3. Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
+<li>Valid on weekdays from 1 to 31 July '22 via walk-in.<li>Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter. <br> 
+<li>Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
 	<br> 
 <i>For more information about the swimming pools, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
