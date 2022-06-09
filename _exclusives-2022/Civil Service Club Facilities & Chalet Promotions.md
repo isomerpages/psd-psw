@@ -56,13 +56,13 @@ and participate in free social activities. We look forward to having you and you
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
-	<b>1.</b> Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ,
+•  Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ,
 CSC @ Bukit Batok from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22
 <br>
-<b>2.</b> Prebooking is required.<br>
-<b>3.</b> Public service officers must present their Civil Service card or
+• Prebooking is required.<br>
+• Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of use.<br>
-<b>4.</b> To book, please email to:<br> 
+• To book, please email to:<br> 
 <a href="mailto:changi@csc.sg">changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi and 
 <a href="mailto:bukitbatok@csc.sg">bukitbatok@csc.sg</a> for Treehouse BBQ, CSC
 @ Bukit Batok
@@ -80,16 +80,16 @@ ions-Family-Recreation
 
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
-<b>1.</b> Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalet from 1 to 31 July '22
+• Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalet from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
-<b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
-<b>3.</b>	Prebooking is required.
+• To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
+• Prebooking is required.
  <br>  
-<b>4.</b>	For booking of chalets, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and use the relevant  <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
+• For booking of chalets, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and use the relevant  <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
 =5b92f5ad&f=y&p=n">Public Service Priority Code</a> 
 <br>
-	<b>5.</b>	Public service officers must present their Civil Service card or
+• Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
 <i>For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit:</I> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a><br>
  <i>For more information about the CSC @ Loyang chalets , please visit: </I> <a href="www.csc.loyang.sg">www.csc.loyang.sg</a> </p> 
@@ -97,14 +97,14 @@ staff pass in person for verification purposes at the front office on the day of
 <h4>50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite</h4>
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
-<b>1.</b> Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
+• Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
-<b>2.</b> To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
-<b>3.</b>	Prebooking is required.
+• To view chalet availability and rates, please visit <a href="http://www.cscchalets.sg">www.cscchalets.sg</a> and select check availability. <br>
+• Prebooking is required.
  <br>  
-<b>4.</b> Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
-<b>5.</b>	Public service officers must present their Civil Service card or
+• Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
+• Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
 <i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
@@ -116,15 +116,15 @@ staff pass in person for verification purposes at the front office on the day of
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
-<b>1.</b> Valid for booking of function rooms for personal events and
+• Valid for booking of function rooms for personal events and
 functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
 <br>
-<b>2.</b> Prebooking is required. <br>  
-<b>3.</b> To book or to enquire about the rates, please email to: <br>
+• Prebooking is required. <br>  
+• To book or to enquire about the rates, please email to: <br>
 <a href="mailto:tessensohn@csc.sg">Tessensohn@csc.sg</a> for CSC @ Tessensohn<br>
 <a href="mailto:bukitbatok@csc.sg">Bukitbatok@csc.sg</a> for CSC @ Bukit Batok<br>
 <a href="mailto:changi@csc.sg">Changi@csc.sg</a> for CSC @ Changi<br>
-<b>4.</b> Public service officers must present their Civil Service card or
+• Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of use.
  <br>  
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
