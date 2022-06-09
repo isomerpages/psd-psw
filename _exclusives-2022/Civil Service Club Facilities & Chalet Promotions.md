@@ -13,7 +13,7 @@ and participate in free social activities. We look forward to having you and you
 
 
 
-<center><h6><a href="#swim">Swimming PoolS</a> | <a href="#bowl"> Bowling Centres</a>|<a href="#BBQ"> BBQ Pits</a>| <a href="#chalet"> Chalets</a>|<a href="#function"> Function Rooms </a></h6> 
+<center><h6><a href="#swim">Swimming Pools</a> | <a href="#bowl"> Bowling Centres</a>|<a href="#BBQ"> BBQ Pits</a>| <a href="#chalet"> Chalets</a>|<a href="#function"> Function Rooms </a></h6> 
 
 	
 <h4><b><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></b></h4>
