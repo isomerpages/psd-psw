@@ -13,7 +13,7 @@ and participate in free social activities. We look forward to having you and you
 
 
 	
-##### FREE weekday access to CSC swimming pools in July
+##### FREE weekday access to any Civil Service Club swimming pools
 ![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
 
 
