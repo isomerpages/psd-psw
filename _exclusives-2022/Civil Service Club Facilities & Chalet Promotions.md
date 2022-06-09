@@ -30,7 +30,7 @@ and participate in free social activities. We look forward to having you and you
 <br> <br> </p>
 
 
-<h5><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></h5>
+<h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></b></h4>
 
 ![](/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png)
 
@@ -45,7 +45,7 @@ and participate in free social activities. We look forward to having you and you
 
 <br> <br> </p>
 
-<h5><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></h5>
+<h4><b><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
 
 <img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600">
 
@@ -72,7 +72,7 @@ ions-Family-Recreation
 ">Treehouse BBQ, CSC@ Bukit Batok</a> </p>
 <br> <br>
 
-<h5><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a></h5>
+<h4><b><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a><b></h4>
 
 <img src="/images/PSW%20CHALET.png" alt="chalets" width="500" height="600">
 
@@ -108,7 +108,7 @@ staff pass in person for verification purposes at the front office on the day of
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
 <br> <br> </p>
 
-<h5><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a></h5>
+<h4><b><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a><b></h4>
 
 <img src="/images/PSW%20Function%20Room.png" width="500" height="600">
 
