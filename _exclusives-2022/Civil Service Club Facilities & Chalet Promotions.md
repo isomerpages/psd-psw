@@ -3,9 +3,9 @@ title: Civil Service Club Facilities & Chalet Promotions
 permalink: /exclusives-2022/facilities-chalet-promotions
 description: ""
 ---
-# Civil Service Club Facilities & Chalet Promotions
+<h1> Civil Service Club Facilities & Chalet Promotions </h1>
 
-#### CELEBRATING PUBLIC SERVICE WEEK 2022
+<h4>CELEBRATING PUBLIC SERVICE WEEK 2022</h4>
 In celebration of Public Service Week 2022 as we honour the men and women who serve our nation, CSC 
 welcomes public service officers to let down your hair, kick up your heels and unwind at our clubhouses 
 and chalets. Enjoy month long access to our swimming pools as well as members’ rates for our facilities, 
