@@ -32,7 +32,7 @@ and participate in free social activities. We look forward to having you and you
 
 <h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></b></h4>
 
-![](/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png)
+<img src="/images/CSC%20swimming%20poolsbowlingfunction%201.png" alt="swiming_pools" width="500" height="600">
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
@@ -72,7 +72,7 @@ ions-Family-Recreation
 ">Treehouse BBQ, CSC@ Bukit Batok</a> </p>
 <br> <br>
 
-<h4><b><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a><b></h4>
+<h4><b><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a></b></h4>
 
 <img src="/images/PSW%20CHALET.png" alt="chalets" width="500" height="600">
 
