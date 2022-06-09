@@ -5,7 +5,6 @@ description: ""
 ---
 <h1> Civil Service Club Facilities & Chalet Promotions </h1>
 
-<h4>Celebrating Public Service Week 2022</h4>
 In celebration of Public Service Week 2022 as we honour the men and women who serve our nation, CSC 
 welcomes public service officers to let down your hair, kick up your heels and unwind at our clubhouses 
 and chalets. Enjoy month long access to our swimming pools as well as members’ rates for our facilities, 
@@ -49,9 +48,6 @@ and participate in free social activities. We look forward to having you and you
 <h4><b><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
 
 <img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600">
-
-<p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
-
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
@@ -126,7 +122,7 @@ functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
 • Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of use.
  <br>  
-<i>For more information about the function room rates, please visit:</I> </p>
+* <i>For more information about the function room rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csctessensohn.sg/">CSC @ Tessensohn</a> <br> 
 	<a href="https://www.cscbukitbatok.sg/">CSC@ Bukit Batok</a><br>
 	<a href="https://www.cscchangi.sg/">CSC@ Changi</a>
