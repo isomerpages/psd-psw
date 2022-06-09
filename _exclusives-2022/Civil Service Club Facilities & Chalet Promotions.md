@@ -108,7 +108,7 @@ staff pass in person for verification purposes at the front office on the day of
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
 <br> <br> </p>
 
-<h4><b><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a><b></h4>
+<h4><b><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a></b></h4>
 
 <img src="/images/PSW%20Function%20Room.png" width="500" height="600">
 
