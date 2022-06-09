@@ -91,7 +91,7 @@ for stay period between 1 Aug and 31 Oct '22.
 • Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
 <i>For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit:</I> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a><br>
- <i>For more information about the CSC @ Loyang chalets , please visit: </I> <a href="www.csc.loyang.sg">www.csc.loyang.sg</a> </p> 
+ <i>For more information about the CSC @ Loyang chalets , please visit: </I> <a href="https://www.cscloyang.sg/">www.cscloyang.sg/</a> </p> 
  
 <h4>50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite</h4>
 <p style="font-size:15px">
