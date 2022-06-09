@@ -13,7 +13,7 @@ and participate in free social activities. We look forward to having you and you
 
 
 <br>
-<center><h5><b><a href="#swim">Swimming Pools</a> | <a href="#bowl"> Bowling Centres</a> | <a href="#BBQ"> BBQ Pits</a> | <a href="#chalet"> Chalets</a> | <a href="#function"> Function Rooms </a></b></h5></center> 
+<center><h5><b><a href="#swim">Swimming Pools</a> | <a href="#bowl"> Bowling Centres</a> | <a href="#bbq">BBQ Pits</a> | <a href="#chalet"> Chalets</a> | <a href="#function"> Function Rooms </a></b></h5></center> 
 <br>
 	
 <h4><b><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></b></h4>
@@ -46,8 +46,7 @@ and participate in free social activities. We look forward to having you and you
 <a href="https://www.csc.sg/resortbowl">Resort Bowl, CSC@ Changi I</a>
 
 <br> <br> </p>
-
-<h4><b><a id="BBQ">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
+<h4><b><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
 
 <img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600">
 
