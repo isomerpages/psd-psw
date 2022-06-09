@@ -72,10 +72,9 @@ ions-Family-Recreation
 ">Treehouse BBQ, CSC@ Bukit Batok</a> </p>
 <br> <br>
 
+<h5><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a></h5>
 
-#####  MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet 
-
-![](/images/PSW%20CHALET.png)
+<img src="/images/PSW%20CHALET.png" alt="chalets" width="500" height="600">
 
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
@@ -109,9 +108,9 @@ staff pass in person for verification purposes at the front office on the day of
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a> <br> 
 <br> <br> </p>
 
-#####  MEMBERS' RATE for booking of any Civil Service Club function rooms
+<h5><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a></h5>
 
-![](/images/PSW%20Function%20Room.png)
+<img src="/images/PSW%20Function%20Room.png" width="500" height="600">
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
