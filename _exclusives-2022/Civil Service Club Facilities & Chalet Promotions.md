@@ -47,7 +47,7 @@ and participate in free social activities. We look forward to having you and you
 
 <br> <br> </p>
 
-<h4><b><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
+<h4><b><a id="BBQ">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
 
 <img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600">
 
