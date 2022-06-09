@@ -126,7 +126,7 @@ functions, from 1 to 31 July '22 for use period between 1 Aug and 31 Oct '22.
 • Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of use.
  <br>  
-<i>For more information about the bowling centres and rates, please visit:</I> </p>
+<i>For more information about the function room rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csctessensohn.sg/">CSC @ Tessensohn</a> <br> 
 	<a href="https://www.cscbukitbatok.sg/">CSC@ Bukit Batok</a><br>
 	<a href="https://www.cscchangi.sg/">CSC@ Changi</a>
