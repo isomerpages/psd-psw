@@ -32,7 +32,7 @@ and participate in free social activities. We look forward to having you and you
 
 <h5><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></h5>
 
-<img src="/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png" alt="bowling_centres" width="500" height="600">
+![](/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png)
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
