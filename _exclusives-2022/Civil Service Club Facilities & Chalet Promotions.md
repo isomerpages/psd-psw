@@ -47,7 +47,9 @@ and participate in free social activities. We look forward to having you and you
 
 <h5><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></h5>
 
-<img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600"><p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
+<img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600">
+
+<p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
 
 
 <p style="font-size:15px">
