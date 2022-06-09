@@ -34,7 +34,6 @@ and participate in free social activities. We look forward to having you and you
 
 <img src="/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png" alt="bowling_centres" width="500" height="600">
 
-
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
 <b>1.</b> Valid on weekdays from 1 to 31 July '22 via walk-in.<br>
@@ -46,10 +45,10 @@ and participate in free social activities. We look forward to having you and you
 
 <br> <br> </p>
 
-##### MEMBERS' RATE for booking of any BBQ facilities 
-<p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
+<h5><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></h5>
 
-![](/images/PSW%20BBQ.png)
+<img src="/images/PSW%20BBQ.png" alt="BBQ pits" width="500" height="600"><p style="font-size:15px">(Use period: Aug to Oct 2022)</p>
+
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
