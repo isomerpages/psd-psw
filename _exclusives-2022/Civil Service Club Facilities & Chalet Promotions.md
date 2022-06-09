@@ -13,9 +13,9 @@ and participate in free social activities. We look forward to having you and you
 
 
 	
-<h5> FREE weekday access to any Civil Service Club swimming pools</h5>
+<h5><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></h5>
 
-<img src="/images/CSC%20swimming%20poolsbowlingfunction%201.png" alt="Girl in a jacket" width="500" height="600">
+<img src="/images/CSC%20swimming%20poolsbowlingfunction%201.png" alt="swiming_pools" width="500" height="600">
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
@@ -30,9 +30,10 @@ and participate in free social activities. We look forward to having you and you
 <br> <br> </p>
 
 
-#####  MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl
+<h5><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></h5>
 
-![](/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png)
+<img src="/images/_CSC%20swimming%20poolsbowlingfunction%20(4).png" alt="bowling_centres" width="500" height="600">
+
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
