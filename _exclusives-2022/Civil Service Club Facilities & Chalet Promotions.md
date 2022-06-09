@@ -13,7 +13,7 @@ and participate in free social activities. We look forward to having you and you
 
 
 	
-<h5><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></h5>
+<h5><b><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></b></h5>
 
 <img src="/images/CSC%20swimming%20poolsbowlingfunction%201.png" alt="swiming_pools" width="500" height="600">
 
