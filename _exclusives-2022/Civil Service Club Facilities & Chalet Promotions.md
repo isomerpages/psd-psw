@@ -12,9 +12,9 @@ and chalets. Enjoy month long access to our swimming pools as well as members’
 and participate in free social activities. We look forward to having you and your family at our premises!
 
 
-
-<center><h6><a href="#swim">Swimming Pools</a> | <a href="#bowl"> Bowling Centres</a> | <a href="#BBQ"> BBQ Pits</a> | <a href="#chalet"> Chalets</a> | <a href="#function"> Function Rooms </a></h6></center> 
-
+<br>
+<center><h5><b><a href="#swim">Swimming Pools</a> | <a href="#bowl"> Bowling Centres</a> | <a href="#BBQ"> BBQ Pits</a> | <a href="#chalet"> Chalets</a> | <a href="#function"> Function Rooms </a></b></h5></center> 
+<br>
 	
 <h4><b><a id="swim">FREE weekday access to any Civil Service Club swimming pools</a></b></h4>
 
@@ -95,7 +95,7 @@ staff pass in person for verification purposes at the front office on the day of
 <i>For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit:</I> <a href="https://www.cscchangi.sg/">www.cscchangi.sg</a><br>
  <i>For more information about the CSC @ Loyang chalets , please visit: </I> <a href="www.csc.loyang.sg">www.csc.loyang.sg</a> </p> 
  
-<h4>50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite</h4> <br>
+<h4>50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite</h4>
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
 <b>1.</b> Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
