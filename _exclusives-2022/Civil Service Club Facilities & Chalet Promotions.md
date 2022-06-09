@@ -13,9 +13,9 @@ and participate in free social activities. We look forward to having you and you
 
 
 	
-##### FREE weekday access to any Civil Service Club swimming pools
-![CSC swimming pools](/images/CSC%20swimming%20poolsbowlingfunction%201.png)
+<h5> FREE weekday access to any Civil Service Club swimming pools</h5>
 
+<img src="/images/CSC%20swimming%20poolsbowlingfunction%201.png" alt="Girl in a jacket" width="500" height="600">
 
 <p style="font-size:15px">
 	<b>Terms & Conditions</b> <br>
