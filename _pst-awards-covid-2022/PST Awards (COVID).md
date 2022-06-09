@@ -7,6 +7,8 @@ description: ""
 
 ![PST Awards Logo](/images/PUBLIC%20SERVICE%20WEEK%202022/PST%20Award%20Logo%20(002)-01.jpg)
 
+<img src="/images/PUBLIC%20SERVICE%20WEEK%202022/PST%20Award%20Logo%20(002)-01.jpg" alt="PST Logo" style="width:400px;" align="middle"/>
+
 The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices.
 
 On 6 July 2022, the COVID PST Awards Ceremony will recognise 97 recipients across 9 award categories who have made sacrifices and worked hard to help citizens and businesses during the pandemic while displaying PST traits such as agility, service excellence and innovation.
