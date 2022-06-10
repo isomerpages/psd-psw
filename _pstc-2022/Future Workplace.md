@@ -7,7 +7,7 @@ description: ""
 ![PSTC - Future Workplace](/images/PSTC-Future%20Workplace.png)
 
 The speakers will share the science behind good communication and engagement at the workplace, progressive approaches to strengthen organisational cohesion in a hybrid workplace, as well as the Government’s perspective about flexible work arrangements.
-<p>
+
 <b>Date:</b> 28 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm – 4.30pm <br>
 <br>
