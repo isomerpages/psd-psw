@@ -13,7 +13,7 @@ On 6 July 2022, the COVID PST Awards Ceremony will recognise 97 recipients acros
 
 The physical ceremony will be open to invited guests only and all other officers are invited to join in the virtual celebration from 10.00am on 6 July 2022. 
 
-Watch this space! The registration details for the COVID PST Awards Ceremony will be shared in the coming days.
+Click [here](https://go.gov.sg/pstac-c-registration-virtual-attendees) to sign up for the COVID PST Awards (Virtual Ceremony).
 
 <b>Time and Date</b>: 6 July 2022, 10.00am - 12.00pm<br>
 <b>Venue</b>: ITE College Central (only for invited guests)<br>
