@@ -4,21 +4,12 @@ permalink: /pstc-2022/future-of-work
 description: ""
 ---
 ### Future of Work
-<b>Beyond COVID-19: Adapting and seizing opportunities to face new uncertainties</b>
-<br>
-
-Speakers:<br>
-* Mr Tan Kwang Cheak, Chief Executive Officer (Agency for Integrated Care)    <br>
-* Mr Allan Lim, Chairman and Founder (ComCrop)
-* Ms Linda Lee, Managing Director & Regional Head of Future of Work, Transformation Group (DBS Bank)
-<br>
-
-
-Moderator: Ms Lim Sze Ling, Chief Transformation Officer, ServiceSG (Public Service Division)
-<br>
+![PSTC Future of Work](/images/PSTC-Future%20of%20Work.png)
 
 The webinar will look at how agencies and officers can seize opportunities quickly and establish new ways of working, as well as good practices to uphold standards and governance amid rising workload by leveraging innovation and Science, Technology and Engineering.
 <br><br><b>Date:</b> 14 July 2022 (Thursday)<br>
 <b>Time:</b> 3pm - 4.30pm <br>
 
 <a href="https://go.gov.sg/pstc2022-futureofwork">Click here to register.</a>
+
+Read more about our speakers and moderator [here](/files/Future%20of%20Work.pdf). 
