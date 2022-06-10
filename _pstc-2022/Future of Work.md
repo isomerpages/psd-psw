@@ -12,4 +12,4 @@ The webinar will look at how agencies and officers can seize opportunities quick
 
 <a href="https://go.gov.sg/pstc2022-futureofwork">Click here to register.</a>
 
-Read more about our speakers and moderator [here](/files/Future%20of%20Work.pdf). 
+Read more about our speakers and moderator [here](/files/Future%20of%20Work.pdf).
