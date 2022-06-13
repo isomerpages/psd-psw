@@ -61,7 +61,7 @@ staff pass in person for verification purposes at the front office on the day of
 <a href="mailto:changi@csc.sg">changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi and 
 <a href="mailto:bukitbatok@csc.sg">bukitbatok@csc.sg</a> for Treehouse BBQ, CSC
 @ Bukit Batok
-<i>For more information about the bowling centres and rates, please visit:</I> </p>
+<i>For more information about the BBQ pits and rates, please visit:</I> </p>
 
 <p style="font-size:15px"> <a href="https://www.cscchangi.sg/Fun_BBQ.aspx">BBQ Pavilion, CSC @ Changi</a> <br> 
 	<a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavil
