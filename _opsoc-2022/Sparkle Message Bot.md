@@ -27,7 +27,7 @@ You can also read messages from our public officers on <b>[WOG] Sparkle for PSW 
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
 <img src="/images/psw-com.jpg" alt="Sparkle Bot" style="width:800px; margin-bottom:16px;" align="left"/>
 <img src="/images/psw-ios.jpg" alt="Sparkle Bot" style="width:800px; margin-bottom:16px;" align="left"/><img src="/images/psw-android.jpg" alt="Sparkle Bot" style="width:800px; " align="left"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Not on Workplace yet?
 Claim your One Public Service Workplace account and sign up with these easy steps!
