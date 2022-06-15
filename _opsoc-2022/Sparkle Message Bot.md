@@ -12,7 +12,7 @@ Many of us have stepped up with #newMindset, #newPerspective and #newCapabilitie
 
 Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate your colleagues for their hard work and contributions to #BeTheNew! Let us be inspired and ignite the #BeTheNew SPARK. 
 <br>
-<img src="/images/sparklebot.png" alt="QR Code" style="width:800px;" align="left"/>
+<img src="/images/sparklebot.png" alt="Sparkle Bot" style="width:800px;" align="left"/>
 
 <b>Scan the QR code and let the Sparkle Bot on Workplace Chat guide you in sending encouraging messages to your colleagues now!</b> First 100 participants will receive a surprise gift.
 <br>
