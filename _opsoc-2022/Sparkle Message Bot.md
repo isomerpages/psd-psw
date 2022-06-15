@@ -27,4 +27,5 @@ You can also read messages from our public officers on <b>[WOG] Sparkle for PSW 
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
 
 ### Not on Workplace yet?
-Claim your One Public Service Workplace account and sign up with these easy steps!
+Claim your One Public Service Workplace account and sign up with these easy steps!<br>
+[Workplace Claim Guide](/files/Workplace%20Claim%20Guide.pdf)
