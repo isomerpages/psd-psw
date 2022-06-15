@@ -4,7 +4,7 @@ permalink: /pstc-2022/about
 description: ""
 ---
 ## Public Sector Transformation Convention | Building Our Future Public Service
-![PSTC Banner](/images/PSTC.png)
+![](/images/PSTC%20Banner%20Updated_%20Posters%20panel%201%20only-01.png)
 
 The Public Sector Transformation Convention 2022 is a platform where we share best practices from within and beyond the Public Service with our officers, to inspire transformation of our work, workforce, and workplace.
 <p>
