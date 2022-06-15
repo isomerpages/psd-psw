@@ -11,14 +11,15 @@ description: "Many of us have stepped up with #newMindset, #newPerspective and
 Many of us have stepped up with #newMindset, #newPerspective and #newCapabilities to embrace the new normal. 
 
 Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate your colleagues for their hard work and contributions to #BeTheNew! Let us be inspired and ignite the #BeTheNew SPARK. 
-
-
-<img src="/images/bethenew2022.png" alt="QR Code" style="width:200px;" align="left"/>
-<br><br><br><br><br><br><br><br><br><br>
+<br>
+<img src="/images/.png" alt="QR Code" style="width:200px;" align="left"/>
+<br><br><br>
 
 <b>Scan the QR code and let the Sparkle Bot on Workplace Chat guide you in sending encouraging messages to your colleagues now!</b> First 100 participants will receive a surprise gift.
-<img src="/images/Photo QR.png" alt="QR Code" style="width:200px;" align="left"/>
-<i>Issues accessing the Sparkle Bot or not on Workplace? View instructions below.</i><br>
+<br>
+<img src="/images/.png" alt="QR Code" style="width:200px;" align="left"/>
+<br><br><br><br>
+<i>Issues accessing the Sparkle Bot or not on Workplace? View instructions below.</i>
 
 You can also read messages from our public officers on <b>[WOG] Sparkle for PSW #BeTheNew</b> group on Workplace.
 
