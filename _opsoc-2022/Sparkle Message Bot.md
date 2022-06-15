@@ -25,8 +25,8 @@ You can also read messages from our public officers on <b>[WOG] Sparkle for PSW 
 <br><br><br><br><br>
 <h2 id="workplacechat">How do I access the Sparkle Bot on Workplace Work Chat?</h2>
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
-<a href="https://onepublicservice.workplace.com/"><img src="/images/psw-com-a.png" alt="Sparkle Bot-Computer" style="width:800px;" align="left"/></a>
-<a href="https://go.gov.sg/sparklebot"><img src="/images/psw-com-b.png" alt="Sparkle Bot-Computer" style="width:798px; margin-bottom:16px;" align="left"/></a>
+<a href="https://onepublicservice.workplace.com/"><img src="/images/psw-com-a.jpg" alt="Sparkle Bot-Computer" style="width:800px;" align="left"/></a>
+<a href="https://go.gov.sg/sparklebot"><img src="/images/psw-com-b.jpg" alt="Sparkle Bot-Computer" style="width:800px; margin-bottom:16px;" align="left"/></a>
 <img src="/images/psw-ios.png" alt="Sparkle Bot-ios" style="width:800px; margin-bottom:16px;" align="left"/><img src="/images/psw-android.png" alt="Sparkle Bot-android" style="width:800px; " align="left"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
