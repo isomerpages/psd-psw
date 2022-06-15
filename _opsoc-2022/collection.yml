@@ -2,6 +2,6 @@ collections:
   opsoc-2022:
     output: true
     order:
-      - Sparkle Message Bot.md
       - About OPSOC.md
       - Virtual Photobooth.md
+      - Sparkle Message Bot.md
