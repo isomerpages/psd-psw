@@ -25,9 +25,9 @@ You can also read messages from our public officers on <b>[WOG] Sparkle for PSW 
 <br><br><br><br><br>
 <h2 id="workplacechat">How do I access the Sparkle Bot on Workplace Work Chat?</h2>
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
-<img src="/images/psw-com.jpg" alt="Sparkle Bot" style="width:400px;" align="left"/>
+<img src="/images/psw-com.jpg" alt="Sparkle Bot" style="width:500px;" align="left"/>
 <br><br><br><br><br><br>
-<img src="/images/psw-ios.jpg" alt="Sparkle Bot" style="width:400px;" align="left"/><img src="/images/psw-android.jpg" alt="Sparkle Bot" style="width:400px; margin-left:16px;" align="left"/>
+<img src="/images/psw-ios.jpg" alt="Sparkle Bot" style="width:500px;" align="left"/><img src="/images/psw-android.jpg" alt="Sparkle Bot" style="width:500px; margin-left:16px;" align="left"/>
 <br><br><br><br>
 
 ### Not on Workplace yet?
