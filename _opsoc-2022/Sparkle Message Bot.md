@@ -18,13 +18,13 @@ Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate
 <br>
 <img src="/images/SparkleBotQRCode.jpg" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br>
-<i>Issues accessing the Sparkle Bot or not on Workplace? View instructions below.</i>
+<i>Issues accessing the Sparkle Bot or not on Workplace? [View instructions below.](https://psd-psw-staging.netlify.app/opsoc-2022/sparkle-message-bot#workplacechat)</i>
 
 You can also read messages from our public officers on <b>[WOG] Sparkle for PSW #BeTheNew</b> group on Workplace.<br>
 <img src="/images/SparkleforPSWWPGroupQRCode.jpg" alt="PSWWPGroup QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br>
-## How do I access the Sparkle Bot on Workplace Work Chat?
-2 easy ways to access the Sparkle Bot via your computer or mobile devices!
+<h2 id="workplacechat">How do I access the Sparkle Bot on Workplace Work Chat?
+2 easy ways to access the Sparkle Bot via your computer or mobile devices!</h2>
 
 ### Not on Workplace yet?
 Claim your One Public Service Workplace account and sign up with these easy steps!<br>
