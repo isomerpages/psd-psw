@@ -25,9 +25,9 @@ and participate in free social activities. We look forward to having you and you
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.
 	<br> 
 <i>For more information about the swimming pools, please visit:</I> </p>
-<p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/">CSC@Bukit Batok</a> <br>
-	<a href="https://www.cscchangi.sg//">CSC@Changi I</a><br> 
-	<a href="https://www.csctessensohn.sg/">CSC@Tessensohn</a>
+<p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/Civil-Service-Club-Bukit-Batok-Swimming-Pool-Club-House-Water-Park-Feature">CSC@Bukit Batok</a> <br>
+	<a href="https://www.cscchangi.sg/Fun_Swimming.aspx">CSC@Changi I</a><br> 
+	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p>
 
 
