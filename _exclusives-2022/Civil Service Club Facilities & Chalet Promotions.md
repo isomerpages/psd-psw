@@ -81,8 +81,7 @@ for stay period between 1 Aug and 31 Oct '22.
 • To view chalet availability and rates, please visit <a href="https://www.cscchalets.sg">https://www.cscchalets.sg</a> and select check availability. <br>
 • Prebooking is required.
  <br>  
-• For booking of chalets, please visit <a href="https://www.cscchalets.sg">https://www.cscchalets.sg</a> and use the relevant  <a href="https://urlsand.esvalabs.com/?u=http%3A%2F%2Fwww.cscchalets.sg&e=1a8b98d0&h
-=5b92f5ad&f=y&p=n">Public Service Priority Code</a> 
+• For booking of chalets, please visit <a href="https://www.cscchalets.sg">https://www.cscchalets.sg</a> and use the relevant  <a href="https://www.cscchangi.sg/Upload/Whats-Happening/PDF/8/CSC%20Chalets%20FAQ.pdf">Public Service Priority Code</a> 
 <br>
 • Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
