@@ -22,14 +22,14 @@ Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate
 <i>Issues accessing the Sparkle Bot or not on Workplace? [View instructions below.](https://psd-psw-staging.netlify.app/opsoc-2022/sparkle-bot#workplacechat)</i>
 
 You can also read messages from our public officers on <b>[WOG] Sparkle for PSW #BeTheNew</b> group on Workplace.<br>
-<img src="/images/SparkleforPSWWPGroupQRCode.jpg" alt="PSWWPGroup QR Code" style="width:200px;" align="left"/>
+<img src="/images/WOG Workplace Group QR Code.png" alt="PSWWPGroup QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br>
 <a href="https://go.gov.sg/sparkleforpsw2022" style="font-size:16px;">https://go.gov.sg/sparkleforpsw2022</a><br>
 <h2 id="workplacechat">How do I access the Sparkle Bot on Workplace Work Chat?</h2>
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
-<a href="https://onepublicservice.workplace.com"><img src="/images/psw-com-a.png" alt="Sparkle Bot-Computer" style="width:800px;" align="left"/></a>
-<a href="https://go.gov.sg/sparklebot"><img src="/images/psw-com-b.png" alt="Sparkle Bot-Computer" style="width:800px; margin-bottom:16px;" align="left"/></a>
-<a href="https://go.gov.sg/sparklebot"><img src="/images/psw-ios.png" alt="Sparkle Bot-ios" style="width:800px; margin-bottom:16px;" align="left"/></a><a href="https://go.gov.sg/sparklebot"><img src="/images/psw-android.png" alt="Sparkle Bot-android" style="width:800px; " align="left"/></a>
+<a href="https://onepublicservice.workplace.com"><img src="/images/opsoc2a.png" alt="Sparkle Bot-Computer" style="width:800px;" align="left"/></a>
+<a href="https://go.gov.sg/sparklebot"><img src="/images/opsoc2b.png" alt="Sparkle Bot-Computer" style="width:800px; margin-bottom:16px;" align="left"/></a>
+<a href="https://go.gov.sg/sparklebot"><img src="/images/opsoc3.png" alt="Sparkle Bot-ios" style="width:800px; margin-bottom:16px;" align="left"/></a><a href="https://go.gov.sg/sparklebot"><img src="/images/opsoc4.png" alt="Sparkle Bot-android" style="width:800px; " align="left"/></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Not on Workplace yet?
