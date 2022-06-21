@@ -28,8 +28,9 @@ and participate in free social activities. We look forward to having you and you
 <p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/Civil-Service-Club-Bukit-Batok-Swimming-Pool-Club-House-Water-Park-Feature">CSC@Bukit Batok</a> <br>
 	<a href="https://www.cscchangi.sg/Fun_Swimming.aspx">CSC@Changi I</a><br> 
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
-<br> <br> </p><br>
-<h4> FREE Weekend fun pool access!</h4>
+<br> <br> </p>
+
+<h5>FREE Weekend fun pool access!</h5>
 <img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
 
 <p style="font-size:15px">
