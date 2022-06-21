@@ -32,13 +32,14 @@ and participate in free social activities. We look forward to having you and you
 <h4> FREE Weekend fun pool access!</h4>
 <img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
 
-
+<p style="font-size:15px">
 There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows:
 
-* 8.00am to 10.00am
-* 10.30am to 12.30pm
-* 1.30pm to 3.30pm
-*  4.00pm to 6.00pm
+•  8.00am to 10.00am <br>
+•  10.30am to 12.30pm <br>
+•  1.30pm to 3.30pm<br>
+•  4.00pm to 6.00pm<br>
+</P>
 
 <p style="font-size:15px">
 <b>Terms & Conditions</b> <br>
