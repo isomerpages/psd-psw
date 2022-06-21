@@ -45,15 +45,14 @@ There are 4 sessions. Each Public Officer is allowed to book only one time slot 
 <p style="font-size:15px">
 <b>Terms & Conditions</b> <br>
 
-•  Bookings shall be made by email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a><br>
+•  Bookings shall be made by via email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a><br>
 
-•  A Public Officer may register a maximum of 5 participants including the applicant, family members and guests.<br>
+•  A Public Officer may register up to 5 participants including the applicant, family members and guests.<br>
 
-•  A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
+•  A Public Officer may only sign in a up to 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
 
-•  A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
 
-• Please email <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the member intends to bring in more than 5 participants. Subject to capacity limit, a confirmation response will be provided once the request is approved.<br>
+• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the member intends to bring in more than 5 participants. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
 
 <br> <br> </p>
 
