@@ -34,7 +34,7 @@ and participate in free social activities. We look forward to having you and you
 <img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
 
 <p style="font-size:15px">
-There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows:
+There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows: <br>
 
 •  8.00am to 10.00am <br>
 •  10.30am to 12.30pm <br>
