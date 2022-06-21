@@ -30,6 +30,8 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p><br>
 <h4> FREE Weekend fun pool access!</h4>
+<img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
+
 
 There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows:
 
