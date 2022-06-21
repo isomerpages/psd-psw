@@ -5,4 +5,24 @@ description: ""
 ---
 # Sports & Family Day
 
-The Sports & Family Day is organised by the Civil Service Club and will make a comeback this year after a two-year hiatus. The event aims at promoting a healthy lifestyle and fostering camaraderie amongst public service officers. The event will be held at Bay East Garden (11 Rhu Cross) on 30 July 2022. The activities include Inter-Agency sporting events, such as a Public Service Telematch and an Amazing Race, sports try-outs for officers to try their hand in, and a host of family and fringe activities to engage all participants and promote family bonding. Do watch this space for the details!
+The Sports & Family Day is organised by the Civil Service Club and will make a comeback this year after a two-year hiatus. The event aims at promoting a healthy lifestyle and fostering camaraderie amongst public service officers.
+
+The event will be held at Bay East Garden (11 Rhu Cross) on 30 July 2022.
+
+The activities include Inter-Agency sporting events, such as a Public Service Telematch and an Amazing Race, sports try-outs for officers to try their hand in, and a host of family and fringe activities to engage all participants and promote family bonding. Participation is FREE!
+
+Date: Sat, 30 Jul '22
+
+Venue: Bay East Garden (11 Rhu Cross)
+
+Time: 7.30am - 1pm
+
+Register now before 3 Jul:  <[](https://go.gov.sg/ps-sports-family-day)[https://go.gov.sg/ps-sports-family-day](https://go.gov.sg/ps-sports-family-day "https://go.gov.sg/ps-sports-family-day")\>
+
+[](https://go.gov.sg/ps-sports-family-day)[https://go.gov.sg/ps-sports-family-day](https://go.gov.sg/ps-sports-family-day "https://go.gov.sg/ps-sports-family-day")
+
+For more information about the Sports & Family Day, please visit:
+
+<[](https://www.csc.sg/sportsday/)[https://www.csc.sg/sportsday/](https://www.csc.sg/sportsday/ "https://www.csc.sg/sportsday/")\> [](https://www.csc.sg/sportsday/)[https://www.csc.sg/sportsday/](https://www.csc.sg/sportsday/ "https://www.csc.sg/sportsday/")
+
+[](https://www.publicserviceweek.gov.sg/exclusives-2022/merchant-exclusives)[https://www.publicserviceweek.gov.sg/exclusives-2022/merchant-exclusives](https://www.publicserviceweek.gov.sg/exclusives-2022/merchant-exclusives "https://www.publicserviceweek.gov.sg/exclusives-2022/merchant-exclusives")
