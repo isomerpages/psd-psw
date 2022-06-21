@@ -28,7 +28,26 @@ and participate in free social activities. We look forward to having you and you
 <p style="font-size:15px"> <a href="https://www.cscbukitbatok.sg/Civil-Service-Club-Bukit-Batok-Swimming-Pool-Club-House-Water-Park-Feature">CSC@Bukit Batok</a> <br>
 	<a href="https://www.cscchangi.sg/Fun_Swimming.aspx">CSC@Changi I</a><br> 
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
-<br> <br> </p>
+<br> <br> </p><br>
+<h4> FREE Weekend fun pool access!</h4>
+
+There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows:
+
+* 8.00am to 10.00am
+* 10.30am to 12.30pm
+* 1.30pm to 3.30pm
+*  4.00pm to 6.00pm
+
+<p style="font-size:15px">
+	<b>Terms & Conditions</b> <br>
+
+* Bookings shall be made by email to [tessensohn@csc.sg](mailto:tessensohn@csc.sg "Send email to tessensohn@csc.sg"). Walk-ins are subjected to availability of time slots.
+*   A Public Officer may register a maximum of 5 participants including the applicant, family members and guests.
+*   A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person.
+*   Please email [tessensohn@csc.sg](mailto:tessensohn@csc.sg "Send email to tessensohn@csc.sg") if the member intends to bring in more than 5 participants. Subject to capacity limit, a confirmation response will be provided once the request is approved.
+
+*   No changing/postponement of bookings shall be entertained.
+
 
 
 <h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></b></h4>
