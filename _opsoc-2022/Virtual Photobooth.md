@@ -15,6 +15,7 @@ Capture these #BeTheNew moments at our OPSOC virtual photobooth and have fun wit
 # Snap a shot now! 📸
 <img src="/images/Photo QR.png" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br>
+<a href="https://go.gov.sg/opsoc2022booth" style="font-size:12px;">https://go.gov.sg/opsoc2022booth</a><br>
 <i>(This is an internet-facing website)</i><br>
 First 100 unique entries will receive a surprise gift!
 
@@ -30,5 +31,6 @@ First 100 unique entries will receive a surprise gift!
 
 <img src="/images/Gallery QR.png" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br>
+<a href="https://go.gov.sg/opsoc2022gallery" style="font-size:12px;">https://go.gov.sg/opsoc2022gallery</a><br>
 <i>(This is an internet-facing website)</i><br>
 <b>Step 5: </b><span>Mark your calendar – join us at the OPSOC on 8 July 2022 for the unveiling of the photo mosaic, which your amazing shot will be part of!</span>
