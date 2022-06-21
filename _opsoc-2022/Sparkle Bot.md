@@ -17,13 +17,13 @@ Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate
 <b>Scan the QR code and let the Sparkle Bot on Workplace Chat guide you in sending encouraging messages to your colleagues now!</b> First 100 participants will receive a surprise gift.
 <br>
 <img src="/images/SparkleBotQRCode.jpg" alt="QR Code" style="width:200px;" align="left"/>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <a href="https://go.gov.sg/sparklebot" style="font-size:16px;">https://go.gov.sg/sparklebot</a><br>
 <i>Issues accessing the Sparkle Bot or not on Workplace? [View instructions below.](https://psd-psw-staging.netlify.app/opsoc-2022/sparkle-bot#workplacechat)</i>
 
 You can also read messages from our public officers on <b>[WOG] Sparkle for PSW #BeTheNew</b> group on Workplace.<br>
 <img src="/images/SparkleforPSWWPGroupQRCode.jpg" alt="PSWWPGroup QR Code" style="width:200px;" align="left"/>
-<br><br><br><br>
+<br><br><br><br><br>
 <a href="https://go.gov.sg/sparkleforpsw2022" style="font-size:16px;">https://go.gov.sg/sparkleforpsw2022</a><br>
 <h2 id="workplacechat">How do I access the Sparkle Bot on Workplace Work Chat?</h2>
 2 easy ways to access the Sparkle Bot via your computer or mobile devices!
