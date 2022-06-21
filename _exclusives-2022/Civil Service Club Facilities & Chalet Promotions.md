@@ -94,14 +94,14 @@ staff pass in person for verification purposes at the front office on the day of
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
-• To view chalet availability and rates, please visit <a href="https://www.cscchalets.sg">https://www.cscloyang.sg/</a> and select check availability. <br>
+• To view chalet availability and rates, please visit <a href="https://www.cscloyang.sg/">https://www.cscloyang.sg/</a> and select check availability. <br>
 • Prebooking is required.
  <br>  
 • Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
 • Public service officers must present their Civil Service card or
 staff pass in person for verification purposes at the front office on the day of check in. <br> 
 <i>For more information about the CSC @ Changi l chalets, please visit:</I> </p>
-<p style="font-size:15px"> <a href="https://www.cscchangi.sg/">https://www.cscchangi.sg/</a> <br> 
+<p style="font-size:15px"> <a href="https://www.cscchangi.sg/Stay_SingleSuite.aspx">Superior or Deluxe suites, CSC @ Changi</a> <br> 
 <br> <br> </p>
 
 <h4><b><a id="function">MEMBERS' RATE for booking of any Civil Service Club function rooms</a></b></h4>
