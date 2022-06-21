@@ -16,13 +16,11 @@ The activities include Inter-Agency sporting events, such as a Public Service Te
 • Venue: Bay East Garden (11 Rhu Cross)<br>
 • Time: 7.30am - 1pm<br>
 • Register now before 3 Jul: 
-
 <a href="https://go.gov.sg/ps-sports-family-day">https://go.gov.sg/ps-sports-family-day</a> <br>
 
  
 
 For more information about the Sports & Family Day, please visit:
-
 <a href="https://www.csc.sg/sportsday/">https://www.csc.sg/sportsday/</a> <br>
 
 </p>
