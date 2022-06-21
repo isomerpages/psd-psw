@@ -69,13 +69,13 @@ ions-Family-Recreation
 ">Treehouse BBQ, CSC@ Bukit Batok</a> </p>
 <br> <br>
 
-<h4><b><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalet</a></b></h4>
+<h4><b><a id="chalet">MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalets</a></b></h4>
 
 <img src="/images/PSW%20CHALET.png" alt="chalets" width="500" height="600">
 
 <p style="font-size:15px">
   <b>Terms & Conditions</b> <br>
-• Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalet from 1 to 31 July '22
+• Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalets from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
 • To view chalet availability and rates, please visit <a href="https://www.cscchalets.sg">https://www.cscchalets.sg</a> and select check availability. <br>
