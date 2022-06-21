@@ -41,15 +41,19 @@ There are 4 sessions. Each Public Officer is allowed to book only one time slot 
 *  4.00pm to 6.00pm
 
 <p style="font-size:15px">
-	<b>Terms & Conditions</b> <br>
+<b>Terms & Conditions</b> <br>
 
-* Bookings shall be made by email to [tessensohn@csc.sg](mailto:tessensohn@csc.sg "Send email to tessensohn@csc.sg"). Walk-ins are subjected to availability of time slots.
-*   A Public Officer may register a maximum of 5 participants including the applicant, family members and guests.
-*   A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person.
-*   Please email [tessensohn@csc.sg](mailto:tessensohn@csc.sg "Send email to tessensohn@csc.sg") if the member intends to bring in more than 5 participants. Subject to capacity limit, a confirmation response will be provided once the request is approved.
+•  Bookings shall be made by email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a><br>
 
-*   No changing/postponement of bookings shall be entertained.
+•  A Public Officer may register a maximum of 5 participants including the applicant, family members and guests.<br>
 
+•  A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
+
+•  A Public Officer may only sign in a maximum of 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
+
+• Please email <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the member intends to bring in more than 5 participants. Subject to capacity limit, a confirmation response will be provided once the request is approved.<br>
+
+<br> <br> </p>
 
 
 <h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></b></h4>
