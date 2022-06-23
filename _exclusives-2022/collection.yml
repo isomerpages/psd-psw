@@ -2,9 +2,9 @@ collections:
   exclusives-2022:
     output: true
     order:
-      - Exclusives 2022/Sports & Family Day.md
-      - Exclusives 2022/Merchant Exclusives.md
-      - Exclusives 2022/Civil Service Club Membership Promotion.md
-      - Exclusives 2022/Civil Service Club Free Online Social Activities.md
-      - Exclusives 2022/Civil Service Club Facilities & Chalet Promotions.md
       - Exclusives 2022/.keep
+      - Exclusives 2022/Civil Service Club Facilities & Chalet Promotions.md
+      - Exclusives 2022/Civil Service Club Free Online Social Activities.md
+      - Exclusives 2022/Civil Service Club Membership Promotion.md
+      - Exclusives 2022/Merchant Exclusives.md
+      - Exclusives 2022/Sports & Family Day.md
