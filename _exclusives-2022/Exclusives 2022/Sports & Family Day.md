@@ -2,7 +2,9 @@
 title: Sports & Family Day
 permalink: /exclusives-2022/sports-family-day
 description: ""
+third_nav_title: Exclusives 2022
 ---
+
 # Sports & Family Day
 
 The Sports & Family Day is organised by the Civil Service Club and will make a comeback this year after a two-year hiatus. The event aims at promoting a healthy lifestyle and fostering camaraderie amongst public service officers.
