@@ -9,7 +9,7 @@ third_nav_title: Exclusives 2022
 In celebration of Public Service Week 2022 as we honour the men and women who serve our nation, CSC 
 welcomes public service officers to let down your hair, kick up your heels and unwind at our clubhouses 
 and chalets. Enjoy month long access to our swimming pools as well as members’ rates for our facilities, 
-and participate in free social activities. We look forward to having you and your family at our premises!
+and participate in FREE social activities. We look forward to having you and your family at our premises!
 
 
 <br>
@@ -31,7 +31,7 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p>
 
-<h5>FREE Weekend fun pool access!</h5>
+<h4>FREE Weekend fun pool access!</h4>
 <img src="/images/Weekend%20Fun%20Pool.png" width="500" height="600">
 
 <p style="font-size:15px">
