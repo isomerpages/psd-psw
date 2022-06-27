@@ -18,7 +18,7 @@ The activities include Inter-Agency sporting events, such as a Public Service Te
 • Date: Sat, 30 Jul '22 <br>
 • Venue: Bay East Garden<br>
 • Time: 7.30am - 1pm<br>
-• Register now before 3 Jul: <br>
+• Register now before 3 Jul: 
 <a href="https://go.gov.sg/ps-sports-family-day">https://go.gov.sg/ps-sports-family-day</a> <br>
 
  
