@@ -35,7 +35,7 @@ and participate in FREE social activities. We look forward to having you and you
 <img src="/images/Weekend%20Fun%20Pool.png" width="500" height="600">
 
 <p style="font-size:15px">
-The FREE weekend fun pool access is only available on Saturday, 16 July 2022. There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows: <br>
+The FREE weekend fun pool access is only available on Saturday, 16 July 2022 with only 4 sessions. Each public service officer is allowed to book only one time slot of 120 minutes on a first-come first-served basis as follows: <br>
 
 •  8.00am to 10.00am <br>
 •  10.30am to 12.30pm <br>
@@ -48,12 +48,12 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2022. Th
 
 •  Bookings shall be made by via email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a><br>
 
-•  A Public Officer may register up to 5 participants including the applicant, family members and guests.<br>
+•  Public service officers may register up to 5 participants including the applicant, family members and guests.<br>
 
-•  A Public Officer may only sign in a up to 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
+•  Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person. <br>
 
 
-• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the member intends to bring in more than 5 participants. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
+• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the public service officer intends to bring in more than 5 participants. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
 
 <br> <br> </p>
 
