@@ -121,7 +121,7 @@ staff pass in person for verification purposes at the front office on the day of
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
-• To view chalet availability and rates, please visit <a href="https://www.cscloyang.sg/">https://www.cscloyang.sg/</a> and select check availability. <br>
+• To view chalet availability and rates, please visit <a href="https://www.cscchalets.sg/">https://www.cscchalets.sg/</a> and select check availability. <br>
 • Prebooking is required.
  <br>  
 • Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
