@@ -4,7 +4,6 @@ permalink: /exclusives-2022/facilities-chalet-promotions
 description: ""
 third_nav_title: Exclusives 2022
 ---
-
 <h1> Civil Service Club Facilities & Chalet Promotions </h1>
 
 In celebration of Public Service Week 2022 as we honour the men and women who serve our nation, CSC 
@@ -32,7 +31,7 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p>
 
-<h5>FREE Weekend fun pool access!</h5>
+<h5>FREE Weekend fun pool access!(Saturday 16 July 2022)</h5>
 <img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
 
 <p style="font-size:15px">
