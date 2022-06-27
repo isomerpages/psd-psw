@@ -6,8 +6,6 @@ third_nav_title: Exclusives 2022
 ---
 # Merchant Exclusives
 
-Civil Service Club is joined by our wide range of merchant partners in the celebration of Public Service Week! Public service officers can look forward to great deals and exclusive discounts from retailers, attractions, restaurants and more! The merchant listing will be revealed soon! 
+Civil Service Club is joined by our wide range of merchant partners in the celebration of Public Service Week! Public service officers can look forward to great deals and exclusive discounts from retailers, attractions, restaurants. Find out more about the exclusive deals in the link below! 
 
-[PSW 2022 Exclusive Merchant (Updated on 24th June 2022)](/files/PSW%20Exclusive%20Merchant%20List_240622.pdf)
-
-![](/images/PSW_Merchant_list_updated.png)
+[Public Service Week Exclusive Merchants ](/files/PSW%20Merchant%20List_27_june_compressed.pdf)
