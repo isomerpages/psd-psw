@@ -12,7 +12,7 @@ The event will be held at Bay East Garden (11 Rhu Cross) on 30 July 2022.
 
 The activities include Inter-Agency sporting events, such as a Public Service Telematch and an Amazing Race, sports try-outs for officers to try their hand in, and a host of family and fringe activities to engage all participants and promote family bonding. Participation is FREE!
 
-![](/images/CSC_Sports_&_Family_Day.png)
+![](/images/PSW_sportsnfamily_poster.png)
 
 <p style="font-size:17px"><b>
 • Date: Sat, 30 Jul '22 <br>
