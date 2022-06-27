@@ -32,7 +32,7 @@ and participate in free social activities. We look forward to having you and you
 <br> <br> </p>
 
 <h5>FREE Weekend fun pool access!</h5>
-<img src="/images/CSC_Weekend_fun_pool.png" width="500" height="600">
+<img src="/images/Weekend%20Fun%20Pool.png" width="500" height="600">
 
 <p style="font-size:15px">
 The FREE weekend fun pool access is only available on Saturday, 16 July 2022. There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows: <br>
