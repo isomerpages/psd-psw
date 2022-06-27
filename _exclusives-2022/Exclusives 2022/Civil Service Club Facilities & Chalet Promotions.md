@@ -31,7 +31,7 @@ and participate in FREE social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p>
 
-<h4>FREE Weekend fun pool access!</h4>
+<h4>FREE access to Weekend Family Fun Pool</h4>
 <img src="/images/Weekend%20Fun%20Pool.png" width="500" height="600">
 
 <p style="font-size:15px">
@@ -53,7 +53,7 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2022 wit
 •  Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person. <br>
 
 
-• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the public service officer intends to bring in more than 5 participants. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
+• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
 
 <br> <br> </p>
 
