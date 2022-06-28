@@ -4,13 +4,12 @@ permalink: /exclusives-2022/facilities-chalet-promotions
 description: ""
 third_nav_title: Exclusives 2022
 ---
-
 <h1> Civil Service Club Facilities & Chalet Promotions </h1>
 
 In celebration of Public Service Week 2022 as we honour the men and women who serve our nation, CSC 
 welcomes public service officers to let down your hair, kick up your heels and unwind at our clubhouses 
 and chalets. Enjoy month long access to our swimming pools as well as members’ rates for our facilities, 
-and participate in free social activities. We look forward to having you and your family at our premises!
+and participate in FREE social activities. We look forward to having you and your family at our premises!
 
 
 <br>
@@ -32,11 +31,11 @@ and participate in free social activities. We look forward to having you and you
 	<a href="https://www.csctessensohn.sg/fun_SwimmingPool.aspx">CSC@Tessensohn</a>
 <br> <br> </p>
 
-<h5>FREE Weekend fun pool access!</h5>
-<img src="/images/Weekend_fun_pool.png" alt="swiming_pools" width="500" height="600">
+<h4>FREE access to Weekend Family Fun Pool</h4>
+<img src="/images/Weekend%20Fun%20Pool.png" width="500" height="600">
 
 <p style="font-size:15px">
-There are 4 sessions. Each Public Officer is allowed to book only one time slot of 120 minutes on a first-come first- served basis as follows: <br>
+The FREE weekend fun pool access is only available on Saturday, 16 July 2022 with only 4 sessions. Each public service officer is allowed to book only one time slot of 120 minutes on a first-come first-served basis as follows: <br>
 
 •  8.00am to 10.00am <br>
 •  10.30am to 12.30pm <br>
@@ -49,12 +48,12 @@ There are 4 sessions. Each Public Officer is allowed to book only one time slot 
 
 •  Bookings shall be made by via email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a><br>
 
-•  A Public Officer may register up to 5 participants including the applicant, family members and guests.<br>
+•  Public service officers may register up to 5 participants including the applicant, family members and guests.<br>
 
-•  A Public Officer may only sign in a up to 3 guests (non-public officers). There will be a guest fee of $5 per person. <br>
+•  Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person. <br>
 
 
-• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the member intends to bring in more than 5 participants. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
+• Please email to <a href="mailto:tessensohn@csc.sg">tessensohn@csc.sg </a> if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.<br>
 
 <br> <br> </p>
 
@@ -122,7 +121,7 @@ staff pass in person for verification purposes at the front office on the day of
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July '22
 for stay period between 1 Aug and 31 Oct '22. 
 <br>
-• To view chalet availability and rates, please visit <a href="https://www.cscloyang.sg/">https://www.cscloyang.sg/</a> and select check availability. <br>
+• To view chalet availability and rates, please visit <a href="https://www.cscchalets.sg/">https://www.cscchalets.sg</a> and select check availability. <br>
 • Prebooking is required.
  <br>  
 • Email to <a href="mailto:rooms@csc.sg">rooms@csc.sg</a> to book <br> 
