@@ -10,5 +10,5 @@ Civil Service Club is joined by our wide range of merchant partners in the celeb
 
 [Public Service Week Exclusive Merchants List](/files/PSW%20Merchant%20List_29_June.pdf)
 
-
-![](/images/PSW_Merchant_list_updated.png)
+![](/images/F&B%20Partners.png)
+![](/images/Attractions_Retail_Others%20Partners.png)
