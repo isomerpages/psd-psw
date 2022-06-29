@@ -6,7 +6,7 @@ third_nav_title: Exclusives 2022
 ---
 # Civil Service Club Membership Promotion
 
-There’s no better time to join as a Civil Service Club member! Enjoy the below exclusive membership promotion if you sign up between 1 to 31 Jul 2022.
+Don't miss this greater savings opportunity when you sign up now as a Civil Service Club member! Enjoy this limited-time offer when you sign up between 1 to 31 Jul 2022.
 
 ![](/images/CSC_membership_promo_2022.jpg)
 
