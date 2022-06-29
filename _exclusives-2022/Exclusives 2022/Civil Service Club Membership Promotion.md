@@ -14,4 +14,4 @@ Don't miss this greater savings opportunity when you sign up now as a Civil Serv
 
  
 
-Besides the exclusive Public Service Week membership promotion, do check out the other membership promotions [here](https://www.csc.sg/Civil-Service-Club-Membership-Promotions). You can also read about the 8 amazing Civil Service Club members’ benefits [here](https://www.csc.sg/HTML/Newsletter/aprjun2021/mm.html).
+Besides the exclusive Public Service Week membership promotion, do check out the other membership promotions [here](https://www.csc.sg/Civil-Service-Club-Membership-Promotions). You can also read about the 9 amazing Civil Service Club members’ benefits [here](https://www.csc.sg/Civil-Service-Club-Membership-General-Information).
