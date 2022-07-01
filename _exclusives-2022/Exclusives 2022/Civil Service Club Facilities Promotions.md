@@ -58,7 +58,7 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2022 wit
 <br> <br> </p>
 
 
-<h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Resort Bowl and Westwood Bowl</a></b></h4>
+<h4><b><a id="bowl">MEMBERS' RATE at Planet Bowl, Gallop Bowl (Former Resort Bowl) and Westwood Bowl</a></b></h4>
 
 <img src="/images/csc_bowling_ctr.png" width="500" height="600">
 
