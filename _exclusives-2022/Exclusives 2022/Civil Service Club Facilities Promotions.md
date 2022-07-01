@@ -69,7 +69,7 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2022 wit
 <i>For more information about the bowling centres and rates, please visit:</I> </p>
 <p style="font-size:15px"> <a href="https://www.csc.sg/planetbowl/">Planet Bowl, CSC @ Tessensohn</a> <br> 
 	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl, CSC@ Bukit Batok</a><br>
-<a href="https://www.csc.sg/resortbowl">Resort Bowl, CSC@ Changi I</a>
+<a href="https://www.cscchangi.sg/Fun_Bowling.aspx">Gallop Bowl, CSC@ Changi I</a>
 
 <br> <br> </p>
 <h4><b><a id="bbq">MEMBERS' RATE for booking of any BBQ facilities</a></b></h4>
