@@ -23,7 +23,7 @@ How well do you know the Public Service? Put your knowledge to the test!
 
 Participate in the One Public Service Quiz and stand a chance to win attractive prizes ✌
 
-<table><tbody><tr><td  style="border:none"width="100">1<sup>st</sup></td><td width="200" style="border:none">$50 e-vouchers</td></tr><tr><td width="100" style="border:none">2<sup>nd</sup></td><td width="200" style="border:none">$40 e-vouchers</td></tr><tr><td width="100" style="border:none">3<sup>rd</sup></td><td width="200" style="border:none">$30 e-vouchers</td></tr><tr><td width="100" style="border:none">4<sup>th</sup> – 5<sup>th</sup></td><td width="200" style="border:none">$20 e-vouchers</td></tr><tr><td width="100" style="border:none">6<sup>th</sup> –  35<sup>th</sup></td><td width="200" style="border:none">$10 e-vouchers</td></tr></tbody></table>
+<table><tbody><tr><td width="100" style="border:none">1<sup>st</sup></td><td width="200" style="border:none">$50 e-vouchers</td></tr><tr><td width="100" style="border:none">2<sup>nd</sup></td><td width="200" style="border:none">$40 e-vouchers</td></tr><tr><td width="100" style="border:none">3<sup>rd</sup></td><td width="200" style="border:none">$30 e-vouchers</td></tr><tr><td width="100" style="border:none">4<sup>th</sup> – 5<sup>th</sup></td><td width="200" style="border:none">$20 e-vouchers</td></tr><tr><td width="100" style="border:none">6<sup>th</sup> –  35<sup>th</sup></td><td width="200" style="border:none">$10 e-vouchers</td></tr></tbody></table>
 
 ### Frequently Asked Questions  
   
