@@ -23,6 +23,8 @@ How well do you know the Public Service? Put your knowledge to the test!
 
 Participate in the One Public Service Quiz and stand a chance to win attractive prizes ✌
 
+<table><tbody><tr><td width="150">1<sup>st</sup></td><td width="265">$50 e-vouchers</td></tr><tr><td width="150">2<sup>nd</sup></td><td width="265">$40 e-vouchers</td></tr><tr><td width="150">3<sup>rd</sup></td><td width="265">$30 e-vouchers</td></tr></tbody></table>
+
 ### Frequently Asked Questions  
   
 **Q1: How do I take part in the One Public Service Quiz?**
