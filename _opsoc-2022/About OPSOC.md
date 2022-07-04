@@ -13,11 +13,15 @@ description: ""
 
 * Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing and Head of Civil Service, Mr Leo Yip
 * Recital of Public Service Pledge and Singing of National Anthem
-* One Public Service Quiz
+* <a href=#ops-quiz"">One Public Service Quiz</a>
 * Performance by an energetic crew
 * And catch your colleagues on screen in our #BeTheNew series of activities!
 
-## One Public Service Quiz
+<h2 id="ops-quiz">One Public Service Quiz</h2>
+
+How well do you know the Public Service? Put your knowledge to the test!
+
+Participate in the One Public Service Quiz and stand a chance to win attractive prizes ✌
 
 <br>
 OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
