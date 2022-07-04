@@ -13,7 +13,7 @@ description: ""
 
 * Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing and Head of Civil Service, Mr Leo Yip
 * Recital of Public Service Pledge and Singing of National Anthem
-* <a href=#ops-quiz"">One Public Service Quiz</a>
+* <a href="#ops-quiz">One Public Service Quiz</a>
 * Performance by an energetic crew
 * And catch your colleagues on screen in our #BeTheNew series of activities!
 
