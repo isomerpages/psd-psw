@@ -23,6 +23,28 @@ How well do you know the Public Service? Put your knowledge to the test!
 
 Participate in the One Public Service Quiz and stand a chance to win attractive prizes ✌
 
+### Frequently Asked Questions  
+  
+**Q1: How do I take part in the One Public Service Quiz?**
+* Register to attend OPSOC 2022 [here](https://go.gov.sg/opsoc22-registration)
+* Join the OPSOC Zoom streaming at 4pm on 8 July (Fri) and **be the 1st 2,000 participants to enter the One Public Service Quiz on Kahoot!**
+
+  
+**Q2: What do I need to join the Quiz?**
+*   All you need is an internet-enabled desktop, laptop, tablet or mobile device!
+
+**_Pro tip_**_: It is recommended (but not mandatory) to use a separate device from the one you are using for OPSOC Zoom streaming._
+
+**Q3: How do I enter the Quiz on Kahoot?**
+*   Go to [https://kahoot.it](https://kahoot.it/) and key in the Game PIN shown on the screen during the OPSOC Zoom streaming
+*   Fill in your work email address and name 
+
+**Q4: How do I redeem the prize should I make it to the top 35 winners?**
+*   Winners will receive their e-vouchers via the work email address provided when they join the Kahoot! quiz
+*   Do remember to acknowledge our email upon receipt of the e-vouchers!
+
+**_Note_**_: Do ensure your work email address is keyed in accurately._
+
 <br>
 OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
 For further assistance, you may submit a query to <a href="mailto:HDB-OPSOC@hdb.gov.sg">HDB-OPSOC@hdb.gov.sg</a><br>
