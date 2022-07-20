@@ -12,14 +12,12 @@ The event will be held at Bay East Garden  on 30 July 2022.
 
 The activities include Inter-Agency sporting events, such as a Public Service Telematch and Public Service Explorer Challenge, sports try-outs for officers to try their hand in, and a host of family and fringe activities to engage all participants and promote family bonding. Participation is FREE!
 
-![](/images/PSW_sportsnfamily_poster.png)
-
-
-• Date: Sat, 30 Jul '22 <br>
+• Date: Saturday, 30 July 2022 <br>
 • Venue: Bay East Garden<br>
-• Time: 7.30am - 1pm<br>
-• Registration for the Sports & Family Day has closed <br>
+• Time: 7.30am - 1.00pm<br>
+**• Registration for the Sports & Family Day has closed <br>**
 
+![Sports & Family Day Poster](/images/Poster_FINAL-Correcton_V3.png)
  
 
 For more information about the Sports & Family Day, please visit:
