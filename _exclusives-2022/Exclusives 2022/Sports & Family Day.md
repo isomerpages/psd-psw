@@ -17,8 +17,7 @@ The activities include Inter-Agency sporting events, such as a Public Service Te
 • Time: 7.30am - 1.00pm<br>
 **• Registration for the Sports & Family Day has closed <br>**
 
-![Sports & Family Day Poster](/images/Poster_FINAL-Correcton_V3.png)
- 
+ ![](/images/Poster_FINAL-Correcton_FINAL.png)
 
 For more information about the Sports & Family Day, please visit:
 <a href="https://www.csc.sg/sportsday/">https://www.csc.sg/sportsday/</a> <br>
