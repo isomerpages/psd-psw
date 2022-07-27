@@ -3,7 +3,7 @@ title: Calendar of Events and Activities
 permalink: /pstc-2022/eventsandactivities
 description: ""
 ---
-Download the [programme booklet](/files/PSTC%202022%20Prog%20Listing%20050722.pdf) (updated 5 July 2022) to find out more about the events and activities offered, as well as registration details.
+Download the [programme booklet (updated 26 July 2022)](/files/PSTC%202022%20Prog%20Listing%20260722.pdf) to find out more about the events and activities offered, as well as registration details.
 
 Well-being is a critical enabler in transformation. To build a resilient and grounded public service, we need to shape a workplace environment that supports officers’ well-being.  Even as we redefine the meaning of work, reignite our sense of purpose, and transform our work, workforce and workplace, we will continue to support our officers’ well-being. 
 
