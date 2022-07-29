@@ -4,6 +4,7 @@ permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/award-categories
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
+Download the  [PSTAC 2022 Awards Booklet]() to find out more.
 
 | Level | Award Categories |
 | -------- | -------- |
