@@ -6,7 +6,7 @@ third_nav_title: PST Awards Ceremony 2022
 ---
 **Date and Time**:  29 July 2022, 3.30pm – 6.00pm
 
-**Venue**: Stephen Riady Auditorium (NTUC Centre) (invited quests only)
+**Venue**: Stephen Riady Auditorium (NTUC Centre) (invited guests only)
 
 **Virtual Platform**: Zoom Webinar  (open to all public service officers). Click [here](https://form.gov.sg/629430d37dc739001279a35c) to register!
  
