@@ -4,8 +4,6 @@ permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/award-categories
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
-Download the  [PSTAC 2022 Award Booklet[](/files/2022%20PSTAC%20Award%20Booklet.pdf)]() 
-
 | Level | Award Categories |
 | -------- | -------- |
 | WOG  | One Public Service Award     |
