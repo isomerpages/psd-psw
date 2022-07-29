@@ -4,6 +4,9 @@ permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/event-registration
 description: ""
 third_nav_title: PST Awards Ceremony 2022
 ---
+View the PSTAC Award Booklet
+[**here!**](/files/2022%20PSTAC_Award%20Booklet.pdf)
+
 **Date and Time**:  29 July 2022, 3.30pm – 6.00pm
 
 **Venue**: Stephen Riady Auditorium (NTUC Centre) (invited guests only)
