@@ -2,5 +2,4 @@ collections:
   opsoc-2022:
     output: true
     order:
-      - Virtual Photobooth.md
       - Sparkle Bot.md
