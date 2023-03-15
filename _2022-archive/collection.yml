@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - PSTAC.md
       - Opsoc 2022/Sparkle Bot.md
       - Opsoc 2022/Virtual Photobooth.md
       - Opsoc 2022/About OPSOC.md
