@@ -10,9 +10,9 @@ sections:
         - title: Pledge as One
           url: ""
         - title: Celebrate Together
-          url: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
+          url: ""
         - title: Be Inspired
-          url: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
+          url: ""
         - title: Learn and Grow
-          url: https://go.gov.sg/pswlf2022
+          url: ""
 ---
