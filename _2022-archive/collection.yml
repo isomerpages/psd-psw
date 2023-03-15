@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - Sparkle Bot.md
       - Virtual Photobooth.md
       - About OPSOC.md
       - PST Awards Covid 2022/PST Awards (COVID).md
