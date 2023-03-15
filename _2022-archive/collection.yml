@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - Exclusives 2022/.keep
       - Sports & Family Day.md
       - Merchant Exclusives.md
       - Civil Service Club Membership Promotion.md
