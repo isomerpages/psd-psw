@@ -1,5 +1,4 @@
 collections:
   opsoc-2022:
     output: true
-    order:
-      - Sparkle Bot.md
+    order: []
