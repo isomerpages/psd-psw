@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Public Service Week 2022
+title: Public Service Week 2023
 permalink: /
 sections:
   - hero:
@@ -15,4 +15,7 @@ sections:
           url: ""
         - title: Learn and Grow
           url: ""
+description: Description
+image: /images/isomer-logo.svg
 ---
+
