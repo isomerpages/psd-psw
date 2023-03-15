@@ -1,5 +1,4 @@
 collections:
   pst-awards-covid-2022:
     output: true
-    order:
-      - PST Awards (COVID).md
+    order: []
