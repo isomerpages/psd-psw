@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - Award Categories.md
       - PSTAC.md
       - Opsoc 2022/Sparkle Bot.md
       - Opsoc 2022/Virtual Photobooth.md
