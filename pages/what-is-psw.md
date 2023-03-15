@@ -1,34 +1,7 @@
 ---
 title: What is PSW?
-permalink: /what-is-psw
+permalink: /what-is-psw/
 ---
 ### What is Public Service Week?
 
-
-The theme for Public Service Week 2022 is 'Be The New'.<br>
-<br>
-It is a call for officers to uncover their hidden traits and unleash new aspects of
-themselves that will redefine the
-meaning of work and awaken their sense
-of purpose.
-<br>
-<br>
-The new normal is no longer new –
-disruptions and braving uncertainties
-together have become our way of life.
-
-What's new, is within you.
-
-New mindset, capabilities and
-perspectives.
-Enabling you to experiment boldly,
-work differently and grow with diversity.
-<br>
-
-Let's build on our good work and build each other up.
-
-It's time to Be The New______. And what’s new, is up to you.<br>
-
-
-
-![](/images/PSW2022_LogoColour1-small1.png)
+Public Service Week (PSW) is an annual event that was first held in 2008. Its purpose is to cultivate a deeper appreciation and pride for the work carried out by the Public Service. PSW aims to inspire public officers to embody the core values and ethos of the Public Service, to be ready for the future, and to promote a greater sense of cohesion and community among public officers.
