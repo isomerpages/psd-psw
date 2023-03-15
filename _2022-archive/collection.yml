@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - Pst Awards Ceremony 2022/Event Registration and Programme.md
       - Pst Awards Ceremony 2022/Award Categories.md
       - Pst Awards Ceremony 2022/PSTAC.md
       - Pst Awards Ceremony 2022/.keep
