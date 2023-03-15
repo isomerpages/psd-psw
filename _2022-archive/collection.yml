@@ -2,6 +2,7 @@ collections:
   2022-archive:
     output: true
     order:
+      - Opsoc 2022/.keep
       - Sparkle Bot.md
       - Virtual Photobooth.md
       - About OPSOC.md
