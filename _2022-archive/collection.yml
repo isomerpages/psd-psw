@@ -2,4 +2,5 @@ collections:
   2022-archive:
     output: true
     order:
+      - PST Awards Covid 2022/PST Awards (COVID).md
       - PST Awards Covid 2022/.keep
