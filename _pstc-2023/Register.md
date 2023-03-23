@@ -3,4 +3,5 @@ title: Register
 permalink: /pstc-2023/permalink/
 description: ""
 ---
-TESTING
+
+Register [here](https://form.gov.sg)
