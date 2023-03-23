@@ -1,4 +1,5 @@
 collections:
   opsoc-2023:
     output: true
-    order: []
+    order:
+      - OPSOC.md
