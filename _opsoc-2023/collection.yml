@@ -2,5 +2,5 @@ collections:
   opsoc-2023:
     output: true
     order:
-      - Register.md
       - About OPSOC.md
+      - Register.md
