@@ -2,4 +2,5 @@ collections:
   pstc-2023:
     output: true
     order:
+      - Register.md
       - About PSTC.md
