@@ -2,4 +2,4 @@ collections:
   pstc-2023:
     output: true
     order:
-      - TEST.md
+      - About PSTC.md
