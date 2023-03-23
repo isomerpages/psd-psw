@@ -2,4 +2,4 @@ collections:
   opsoc-2023:
     output: true
     order:
-      - OPSOC.md
+      - About OPSOC.md
