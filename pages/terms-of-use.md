@@ -16,7 +16,6 @@ This Web Site is maintained by PSD, PMO - the Public Service Division, Prime Min
 [Click here to review this Web Site Privacy Statement.](https://www.careers.gov.sg/privacy-statement)
 
 ##### **Restrictions on use of Materials**
-##### 
 Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PSD, PMO. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of PSD, PMO’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of PSD, PMO.
 
 
@@ -31,14 +30,11 @@ PSD, PMO shall also not be liable for any damage or loss of any kind caused as a
 
 
 ##### **Right of Access**
-
 PSD, PMO reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular Internet address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 
-##### **Links from this Web Site to other web sites**
-##### 
+##### **Links from this Web Site to other web sites** 
 This Web Site contains hyperlinks to web sites which are not maintained by PSD, PMO. PSD, PMO is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall PSD, PMO be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
-
 
 Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited. You must secure permission from PSD, PMO prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. PSD, PMO reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
 
@@ -49,7 +45,6 @@ In no circumstances shall PSD, PMO be considered to be associated or affiliated 
 PSD, PMO reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 
 PSD, PMO reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
-
 
 ##### **Governing Law**
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
