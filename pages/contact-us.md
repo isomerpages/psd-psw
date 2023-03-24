@@ -9,5 +9,5 @@ contacts:
       - email: publicserviceweek@psd.gov.sg
       - other: ""
     title: Email
-agency_name: Public Service Week Team
+agency_name: Public Service Week
 ---
