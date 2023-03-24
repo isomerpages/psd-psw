@@ -40,8 +40,6 @@ PSD, PMO reserves all rights to deny or restrict access to this Web Site to any 
 This Web Site contains hyperlinks to web sites which are not maintained by PSD, PMO. PSD, PMO is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall PSD, PMO be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 
-##### **Links to this Web Site from other web sites**
-##### 
 Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited. You must secure permission from PSD, PMO prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. PSD, PMO reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
 
 Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
@@ -54,5 +52,4 @@ PSD, PMO reserves the right to disable any unauthorised links or frames and disc
 
 
 ##### **Governing Law**
-##### 
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
