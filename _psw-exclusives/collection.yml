@@ -2,4 +2,4 @@ collections:
   psw-exclusives:
     output: true
     order:
-      - PSW Exclusives.md
+      - Promotions.md
