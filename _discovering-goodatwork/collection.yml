@@ -1,4 +1,5 @@
 collections:
   discovering-goodatwork:
     output: true
-    order: []
+    order:
+      - About Discovering Good@Work.md
