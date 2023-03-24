@@ -1,5 +1,5 @@
 collections:
-  exclusives:
+  exclusives-2023:
     output: false
     order:
       - promotions.md
