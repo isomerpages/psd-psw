@@ -2,4 +2,5 @@ collections:
   discovering-goodatwork:
     output: true
     order:
+      - Register Here.md
       - About Discovering Good@Work.md
