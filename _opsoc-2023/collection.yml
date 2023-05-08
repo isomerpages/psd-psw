@@ -2,5 +2,5 @@ collections:
   opsoc-2023:
     output: true
     order:
-      - About OPSOC.md
+      - "About PSW: Spark.md"
       - Register Here.md
