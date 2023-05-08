@@ -2,8 +2,8 @@ logo: /images/PSW2023/psw2023 logo.png
 links:
   - title: ABOUT PSW
     url: /about-psw/
-  - title: "PSW: SPARK"
-    collection: opsoc-2023
+  - title: Pswspark
+    collection: pswspark
   - title: PSTC
     collection: pstc-2023
   - title: Learning Festival
