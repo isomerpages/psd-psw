@@ -4,7 +4,6 @@ title: Public Service Week 2023
 permalink: /
 sections:
   - hero:
-      background: /images/PSW2023/psw2023 logo.png
       url: /what-is-psw/
       key_highlights:
         - title: Celebrate Together
