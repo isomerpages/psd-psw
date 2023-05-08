@@ -2,7 +2,7 @@ logo: /images/PSW2023/psw2023 logo.png
 links:
   - title: ABOUT
     url: /about-psw/
-  - title: "Psw: spark"
+  - title: "PSW: Spark"
     collection: pswspark
   - title: PSTC
     collection: pstc-2023
