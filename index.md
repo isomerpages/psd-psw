@@ -16,6 +16,5 @@ sections:
         - title: Learn and Grow
           url: ""
 description: Description
-image: /images/isomer-logo.svg
+image: /images/PSW2023/psw2023 logo.png
 ---
-
