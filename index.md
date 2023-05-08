@@ -7,13 +7,13 @@ sections:
       background: /images/PSW2023/psw2023 logo.png
       url: /what-is-psw/
       key_highlights:
-        - title: Pledge as One
-          url: ""
         - title: Celebrate Together
-          url: ""
+          url: /opsoc-2023/about/
         - title: Be Inspired
+          url: /pstc-2023/about/
+        - title: Expand Skills
           url: ""
-        - title: Learn and Grow
+        - title: Dive in
           url: ""
 description: Description
 image: /images/PSW2023/psw2023 logo.png
