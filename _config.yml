@@ -7,7 +7,7 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: news
-favicon: /images/PSW2023/psd2023_corner element - blue.svg
+favicon: /images/PSW2023/psw2023_corner element.png
 google-analytics: UA-40876833-17
 permalink: none
 baseurl: ""
