@@ -4,7 +4,7 @@ title: Public Service Week 2023
 permalink: /
 sections:
   - hero:
-      background: /images/PUBLIC SERVICE WEEK 2022/PSW 2022 CMS website  (7).png
+      background: /images/PSW2023/psw2023 logo.png
       url: /what-is-psw/
       key_highlights:
         - title: Pledge as One
