@@ -1,5 +1,5 @@
 collections:
-  opsoc-2023:
+  pswspark:
     output: true
     order:
       - "About PSW: Spark.md"
