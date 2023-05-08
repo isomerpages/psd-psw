@@ -14,6 +14,7 @@ sections:
           url: ""
         - title: Dive in
           url: ""
+      background: /images/PSW2023/psd2023_cover.png
 description: Description
 image: /images/PSW2023/psw2023 logo.png
 ---
