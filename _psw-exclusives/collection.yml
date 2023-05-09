@@ -2,5 +2,5 @@ collections:
   psw-exclusives:
     output: true
     order:
-      - Clubhouse Facilities & Chalet Promotions.md
+      - Facilities & Chalet Promotions.md
       - Promotions.md
