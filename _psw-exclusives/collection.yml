@@ -2,6 +2,7 @@ collections:
   psw-exclusives:
     output: true
     order:
+      - Free Online Social Activities.md
       - Membership Promotions.md
       - Merchant Promotions.md
       - Facilities & Chalet Promotions.md
