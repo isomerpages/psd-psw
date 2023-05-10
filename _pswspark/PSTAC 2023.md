@@ -17,6 +17,9 @@ The Awards constitute a key culture-shapping lever, through spurring officers an
 View the PSTAC 2023 Award Booklet here.
 
 ### Award Categories
+The PST Awards recognise efforts at three levels - Whole of Government (WOG), agency and individual levels. The PST Awards focus on working as One Public Service, engaging citizens, innovating and digitalising services and functions, improving our regulatory environment, and encouraging business transformation and workforce transformation.
+
+The PST Award categories are as follows:
 
 | Level| Award Category |
 | --- | -------- | 
@@ -30,7 +33,6 @@ View the PSTAC 2023 Award Booklet here.
 |     | Agility Award     |
 | Individual     | Exemplary Leader Award     |
 |     | Exemplary SkillsFuture @ Public Service Award    |
-|    | Exemplary Service Excellence Award    |
-| Individual/Agency    | Exemplary Innovator Award    |
+|  | Exemplary Innovator Award    |
 |      | Dare to Do Award    |
-
+|    | Exemplary Service Excellence Award    |
