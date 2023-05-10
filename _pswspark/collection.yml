@@ -2,6 +2,7 @@ collections:
   pswspark:
     output: true
     order:
+      - One Public Service Quiz.md
       - "About PSW: Spark.md"
       - Guided Tours and Registration.md
       - PSTAC 2023.md
