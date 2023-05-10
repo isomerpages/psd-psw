@@ -18,6 +18,4 @@ PSW: Spark 2023 brings public officers together to celebrate and recognise offic
 | 3.00pm     | PST Award Presentation     | 
 | 3.45pm     | Fireside Chat with PST Award Winners & TED Talk by Business Transformation Award Recipient     | 
 | 4.25pm     | Public Service Pledge and National Anthem Closing     | 
-| 4.30pm     | Post-event Activities: Pre-signed Up Guided Tours  | 
-
-
+| 4.30pm     | Post-event Activities: Pre-signed Up Guided Tours  |
