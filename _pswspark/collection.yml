@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - "About PSW: Spark.md"
-      - Register Here.md
+      - Guided Tours and Registration.md
