@@ -3,7 +3,7 @@ title: About PSTC
 permalink: /pstc-2023/about/
 description: ""
 ---
-# Public Sector Transformation (PST) Awards Ceremony
+## Public Sector Transformation (PST) Awards Ceremony
 
 The Public Sector Transformation (PST) Awards Ceremony is a Whole-of-Government (WOG) pinnacle platform to recognise WOG, agencies and officers for excellence in their work and organisational practices.
 
