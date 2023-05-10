@@ -2,6 +2,6 @@ collections:
   pstc-2023:
     output: true
     order:
-      - Event Registration and Programme.md
       - About PSTC.md
+      - Event Registration and Programme.md
       - Register Here.md
