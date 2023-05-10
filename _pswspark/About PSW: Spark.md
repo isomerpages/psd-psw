@@ -9,7 +9,7 @@ PSW: Spark brings public officers together to celebrate and recognise officers a
 
 #### Event Registration
 
-Scan the QR code or click HERE to register for PSW: Spark!
+Scan the QR code or click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PSW: Spark!
 
 **Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 5.00pm
 
