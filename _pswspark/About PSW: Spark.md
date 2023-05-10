@@ -4,9 +4,15 @@ permalink: /opsoc-2023/about/
 description: ""
 ---
 ## Public Service Week (PSW): Spark
-PSW: Spark 2023 brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisation practices and innovation.
-#### Programme
+PSW: Spark 2023 brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisation practices and innovation. The event details are as follows.
 
+**Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 5.00pm
+
+**Venue:** One Punggol, Multi-purpose Hall at Level 5 (ServiceSG location)
+
+**Virtual Platform:**
+
+#### Programme
 
 | Time | Programme | 
 | -------- | -------- | 
