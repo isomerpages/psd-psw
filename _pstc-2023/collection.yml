@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About PSTC.md
-      - Event Registration and Programme.md
       - Register Here.md
+      - Event Registration and Programme.md
