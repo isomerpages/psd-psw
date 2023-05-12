@@ -2,6 +2,7 @@ collections:
   pswlf-2023:
     output: true
     order:
+      - Useful Resources.md
       - About Learning Festival.md
       - Day 1, 20 July.md
       - Day 2, 21 July.md
