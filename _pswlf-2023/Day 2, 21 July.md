@@ -7,12 +7,19 @@ description: ""
 
 | Time | Programme | 
 | -------- | -------- | 
-| 1.40pm     | Pre-event Activities: Pre-signed Up Guided Tours  | 
-| 2.30pm     | Opening by Emcees     | 
-| 2.40pm     | Opening Performance    | 
-| 2.45pm     | Speech by Minister-in-charge of Public Service - Mr Chan Chun Sing     | 
-| 2.55pm     | Screening of PST Awards Video     | 
-| 3.00pm     | PST Award Presentation     | 
-| 3.45pm     | Fireside Chat with PST Award Winners & TED Talk by Business Transformation Award Recipient     | 
-| 4.25pm     | Public Service Pledge and National Anthem Closing     | 
-| 4.30pm     | Post-event Activities: Pre-signed Up Guided Tours  |
+| 10.00am     | CDG for Officers | 
+|      | CDG for Supervisors     | 
+| 1.30pm    | Digitalisation: Ops Tech for Directors    | 
+|    | Sustainability for Policy Officers     | 
+|    | Social Service Integration for Policy Officers     | 
+|   | Strategic Comms for Policy Officers     | 
+|   | Digitalisation for Support Officers    | 
+| 3.30pm     | Functional Leaders Engagement Sessions  - Public Comms MCI  | 
+|  | Functional Leaders Engagement Sessions  - Finance AGD | 
+|  | Functional Leaders Engagement Sessions  - Procurement MOF | 
+| | Functional Leaders Engagement Sessions  - ICT & SS SNDGG | 
+|  | Functional Leaders Engagement Sessions  - Partnership & Engagement MCCY | 
+| | Functional Leaders Engagement Sessions  - Service Delivery PSD / ServiceSG | 
+|  | Functional Leaders Engagement Sessions  - Human Resource PSD / CHROO | 
+|  | Functional Leaders Engagement Sessions  - Science, Tech & Engineering S&TPPO | 
+|  | Career Longevity for Corporate Support Officers  |
