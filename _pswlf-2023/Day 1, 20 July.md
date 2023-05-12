@@ -10,12 +10,13 @@ Speakers from the public and private sectors will highlight how the Public Servi
 
 | Time | Programme |
 | --- | --- |
-| 1.40pm | Pre-event Activities: Pre-signed Up Guided Tours |
-| 2.30pm | Opening by Emcees |
-| 2.40pm | Opening Performance |
-| 2.45pm | Speech by Minister-in-charge of Public Service - Mr Chan Chun Sing |
-| 2.55pm | Screening of PST Awards Video |
-| 3.00pm | PST Award Presentation |
-| 3.45pm | Fireside Chat with PST Award Winners & TED Talk by Business Transformation Award Recipient |
-| 4.25pm | Public Service Pledge and National Anthem Closing |
-| 4.30pm | Post-event Activities: Pre-signed Up Guided Tours |
+| 9.30am | Keynote Address |
+| 10.00am | Introduction of the Opening Plenary by Moderator |
+| 10.05am | CDG - Private Sector Perspective |
+| 10.20am | CDG - Public Sector Perspective |
+| 10.35am | Digitalisation |
+| 10.50am | Sustainability |
+| 11.05am | Social Services |
+| 11.20am | Strat Comms and Partnership & Engagement |
+| 11.35am | Panel Discussion and Q&A |
+| 12.05pm | Refreshments and Networking |
