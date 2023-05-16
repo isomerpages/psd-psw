@@ -3,12 +3,14 @@ title: About Learning Festival
 permalink: /pswlf-2023/aboutpswlf/
 description: ""
 ---
-![](/images/PSW2023/pswlf2023_cover.jpg)
+![pswlf2023](/images/PSW2023/pswlf2023_cover.jpg)
 
-Public Service Learning Festival (PSWLF) is an annual learning event as part of the Public Service Week 2023 (PSW2023). As one of the highlights during PSW2023, the Learning Festival is focused on encouraging public service officers to take ownership of their career development by upskilling themselves with emerging skills and embracing competency-driven growth.
+Public Service Learning Festival (PSWLF) is an annual learning event as part of the Public Service Week 2023 (PSW2023). This year PSWLF is redesigned to be focused and compact, with an emphasis to encourage public officers to take charge of their development. Topics such as competency-driven growth (CDG) and upskilling in sunrise areas will permeate through the various sessions. The experience will be curated to benefit all public officers, with special attention to specific groups of officers (i.e., policy officers, support officers, officers in specific job families) to support their growth and career development.
 
-[Click here to find out more!](http://pswlf2023.squarespace.com/)
 
-#### PSWLF Registration
+#### PSWLF Microsite
 
-Scan the QR code or click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register!
+
+
+Scan the QR code or click [HERE](https://www.go.gov.sg/pswlf2023) 
+
