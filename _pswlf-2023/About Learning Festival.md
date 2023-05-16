@@ -10,7 +10,6 @@ Public Service Learning Festival (PSWLF) is an annual learning event as part of 
 
 #### PSWLF Microsite
 
+Visit our microsite to dive deeper into the details of the Learning Festival. You'll find all the information you need about the schedule, speakers, and topics covered. 
 
-
-Scan the QR code or click [HERE](https://www.go.gov.sg/pswlf2023) 
-
+Scan the QR code or click [HERE](https://www.go.gov.sg/pswlf2023)
