@@ -2,5 +2,6 @@ collections:
   discovering-goodatwork:
     output: true
     order:
+      - Example Title.md
       - About Discovering Good@Work.md
       - Register Here.md
