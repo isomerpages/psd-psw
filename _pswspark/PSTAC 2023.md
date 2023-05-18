@@ -14,7 +14,6 @@ The Awards constitute a key culture-shapping lever, through spurring officers an
 * With Skilled and Adaptable Leaders and Officers
 * Leading Globally in Service Delivery and Innovation
 
-View the PSTAC 2023 Award Booklet here.
 
 #### Award Categories
 The PST Awards recognise efforts at three levels - Whole of Government (WOG), agency and individual levels. The PST Awards focus on working as One Public Service, engaging citizens, innovating and digitalising services and functions, improving our regulatory environment, and encouraging business transformation and workforce transformation.
