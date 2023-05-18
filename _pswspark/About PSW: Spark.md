@@ -13,7 +13,7 @@ Scan the QR code or click [HERE](https://www.gevme.com/public-service-week-2023-
 
 **Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 5.00pm
 
-**Venue:** One Punggol, Multi-purpose Hall at Level 5 (ServiceSG location)
+**Venue:** One Punggol, Multi-purpose Hall at Level 5
 
 **Virtual Platform:**
 
