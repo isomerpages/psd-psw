@@ -4,7 +4,7 @@ permalink: /opsoc-2023/about/
 description: ""
 ---
 ### Public Service Week (PSW): Spark
-PSW: Spark brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisation practices and innovation. 
+Public Service Week (PSW) 2023 kicks off with PSW: Spark, our opening event that brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisational practices and innovation. Key highlights include Public Sector Transformation (PST) Awards Ceremony, which recognises WOG agencies and officers for excellence. 
 
 
 #### Event Registration
@@ -17,16 +17,20 @@ Scan the QR code or click [HERE](https://www.gevme.com/public-service-week-2023-
 
 **Virtual Platform:**
 
-#### Event Programme
+#### Programme Highlights
 
-| Time | Programme | 
-| -------- | -------- | 
-| 1.40pm     | Pre-event Activities: Pre-signed Up Guided Tours  | 
-| 2.30pm     | Opening by Emcees     | 
-| 2.40pm     | Opening Performance    | 
-| 2.45pm     | Speech by Minister-in-charge of Public Service - Mr Chan Chun Sing     | 
-| 2.55pm     | Screening of PST Awards Video     | 
-| 3.00pm     | PST Award Presentation     | 
-| 3.45pm     | Fireside Chat with PST Award Winners & TED Talk by Business Transformation Award Recipient     | 
-| 4.25pm     | Public Service Pledge and National Anthem Closing     | 
-| 4.30pm     | Post-event Activities: Pre-signed Up Guided Tours  |
+*   Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing 
+    
+*   Recital of Public Service Pledge and Singing of National Anthem 
+    
+*   [Guided Tours to Punggol Regional Library and ServiceSG Centre](https://psd-psw-staging.netlify.app/opsoc-2023/guidedtours/) 
+    
+*   [Public Sector Transformation (PST) Awards Ceremony](https://psd-psw-staging.netlify.app/pswspark/pstac-2023/) 
+    
+*   TED Talk by PST Award Winner 
+    
+*   Digital Exhibition Panels to Showcase PST Winners 
+    
+*   [One Public Service Quiz](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/) 
+    
+*   Opening Performance by an Energetic Crew
