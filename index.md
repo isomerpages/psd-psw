@@ -11,7 +11,7 @@ sections:
         - title: Be Inspired
           url: /pstc-2023/about/
         - title: Expand Skills
-          url: https://pswlf2023.squarespace.com/
+          url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: ""
       background: /images/PSW2023/psd2023_cover.png
