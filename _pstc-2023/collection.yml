@@ -2,8 +2,8 @@ collections:
   pstc-2023:
     output: true
     order:
+      - About PSTC.md
+      - Programme/.keep
       - Programme/Programme.md
       - Programme/Panel Discussion.md
-      - Programme/.keep
-      - About PSTC.md
       - Register Here.md
