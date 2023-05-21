@@ -291,7 +291,7 @@ Venue:&nbsp; HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944
   &quot;Open Sans&quot;;mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Veryret</span><span style="font-size:11.0pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Veyret</span><span style="font-size:11.0pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
