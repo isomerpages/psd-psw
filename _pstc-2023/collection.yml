@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - About PSTC.md
-      - Programme/Breakout Sessions.md
       - Programme/.keep
       - Programme/Programme.md
       - Programme/Panel Discussion.md
+      - Programme/Breakout Sessions.md
       - Register Here.md
