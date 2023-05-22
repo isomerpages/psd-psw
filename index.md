@@ -14,6 +14,7 @@ sections:
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: ""
+      background: /images/PSW2023/psd2023_cover1.jpg
 description: Description
 image: /images/PSW2023/psw2023 logo.png
 ---
