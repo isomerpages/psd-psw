@@ -7,7 +7,7 @@ sections:
       url: /what-is-psw/
       key_highlights:
         - title: Celebrate Together
-          url: /opsoc-2023/about/
+          url: /pswspark/about/
         - title: Be Inspired
           url: /pstc-2023/about/
         - title: Expand Skills
