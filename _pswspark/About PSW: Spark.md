@@ -9,7 +9,7 @@ Public Service Week (PSW) 2023 kicks off with PSW: Spark, our opening event that
 
 #### Event Registration
 
-Scan the QR code or click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PSW: Spark!
+Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PSW: Spark!
 
 **Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 5.00pm
 
