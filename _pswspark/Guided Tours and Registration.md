@@ -23,4 +23,4 @@ Duration: 20 minutes/session
 No. of participants: 20 pax/session
 
 ### Registration
-Click here to sign up for the guided tours now!
+Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to sign up for the guided tours now!
