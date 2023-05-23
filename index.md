@@ -14,7 +14,8 @@ sections:
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: /discovering-goodatwork/about/
-      background: /images/PSW2023/cover2.png
+      background: /images/PSW2023/microsite banner.png
 description: Description
 image: /images/PSW2023/psw2023 logo.png
+notification: ""
 ---
