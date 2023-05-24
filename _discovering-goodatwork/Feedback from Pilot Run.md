@@ -7,8 +7,8 @@ description: ""
   <div class="testimonial-slide">
     <img src="images/Discovering Good@Work 2023/learning innovator.JPG">
     <blockquote>
-      <p>Quote 1</p>
-      <cite>Author 1</cite>
+      <p>I feel that it has been a great learning experience for me</p>
+      <cite>Andrew Lim</cite>
     </blockquote>
   </div>
 
