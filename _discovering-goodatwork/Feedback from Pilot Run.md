@@ -5,7 +5,7 @@ description: ""
 ---
 <div class="slideshow-container">
   <div class="testimonial-slide">
-    <img src="psd-psw/images/Discovering Good@Work 2023/learning innovator.JPG alt="Learning Innovator">
+    <img src="images/Discovering Good@Work 2023/learning innovator.JPG alt="Learning Innovator">
     <blockquote>
       <p>I feel that it has been a great learning experience for me</p>
       <cite>Andrew Lim</cite>
