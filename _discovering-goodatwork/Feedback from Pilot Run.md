@@ -3,6 +3,30 @@ title: Feedback from Pilot Run
 permalink: /discovering-goodatwork/pilotrun/
 description: ""
 ---
+<div class="slideshow-container">
+  <div class="testimonial-slide">
+    <img src="path/to/image1.jpg" alt="Testimonial 1">
+    <blockquote>
+      <p>Quote 1</p>
+      <cite>Author 1</cite>
+    </blockquote>
+  </div>
+
+  <div class="testimonial-slide">
+    <img src="path/to/image2.jpg" alt="Testimonial 2">
+    <blockquote>
+      <p>Quote 2</p>
+      <cite>Author 2</cite>
+    </blockquote>
+  </div>
+
+  <!-- Add more slides as needed -->
+
+  <!-- Navigation buttons -->
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
+
 **Assistant Conservator, National Archives Singapore (NAS)**
 
 "Extremely interesting sprint that exposed me to a line of work that I probably will never get to experience again."
