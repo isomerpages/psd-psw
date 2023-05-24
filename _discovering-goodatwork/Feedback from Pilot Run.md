@@ -38,5 +38,3 @@ description: ""
 **Project Manager, NLB**
 
 "Learnt about using robots and Al to help in various areas of work to enhance effectiveness when it comes to digitalization."
-
-let slideIndex = 0; showSlide(slideIndex); function changeSlide(n) { showSlide(slideIndex += n); } function showSlide(n) { const slides = document.getElementsByClassName("testimonial-slide"); // Wrap around to the first slide if at the end if (n &gt;= slides.length) { slideIndex = 0; } // Wrap around to the last slide if at the beginning if (n &lt; 0) { slideIndex = slides.length - 1; } // Hide all slides for (let i = 0; i &lt; slides.length; i++) { slides\[i\].style.display = "none"; } // Display the current slide slides\[slideIndex\].style.display = "block"; }
