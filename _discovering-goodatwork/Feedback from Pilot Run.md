@@ -20,13 +20,12 @@ description: ""
     </blockquote>
   </div>
 
-  <div class="testimonial-slide">
-    <img src="path/to/image2.jpg" alt="Testimonial 2">
-    <blockquote>
-      <p>Quote 2</p>
-      <cite>Author 2</cite>
-    </blockquote>
-  </div>
+  <!-- Add more slides as needed -->
+
+  <!-- Navigation buttons -->
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
   
   
   <!-- Add more slides as needed -->
