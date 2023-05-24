@@ -2,6 +2,9 @@ collections:
   discovering-goodatwork:
     output: true
     order:
+      - About Discovering Good@Work.md
+      - Feedback from Pilot Run.md
+      - Example Title.md
       - FAQs/.keep
       - FAQs/What is the Job Sprint?.md
       - FAQs/What is the objective of the Job Sprint?.md
@@ -9,7 +12,4 @@ collections:
       - FAQs/I have been confirmed by the host agency but I am unable to attend,
         what should I do?.md
       - FAQs/I have more questions, who should I ask?.md
-      - About Discovering Good@Work.md
-      - Feedback from Pilot Run.md
-      - Example Title.md
       - Register Here.md
