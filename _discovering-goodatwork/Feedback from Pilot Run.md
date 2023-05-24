@@ -5,7 +5,7 @@ description: ""
 ---
 <div class="slideshow-container">
   <div class="testimonial-slide">
-    <img src="path/to/image1.jpg" alt="Testimonial 1">
+    <img src="path/to/image1.jpg" alt="Learning Innovator">
     <blockquote>
       <p>Quote 1</p>
       <cite>Author 1</cite>
@@ -13,7 +13,7 @@ description: ""
   </div>
 
   <div class="testimonial-slide">
-    <img src="path/to/image2.jpg" alt="Testimonial 2">
+    <img src="path/to/image2.jpg" alt="Assistant Conservator">
     <blockquote>
       <p>Quote 2</p>
       <cite>Author 2</cite>
