@@ -15,6 +15,10 @@ The Job Sprint is similar to existing learning stints to augment learning and de
 
 Apart from enhancing knowledge and skillsets to apply in their current role, this experience aims to encourage officers to contribute towards the overarching transformation movement happening within the Public Service.
 
+**What is the difference between Job Sprint and STIP?**
+![](/images/JS%20Gen/stip%20similar.png)
+![](/images/JS%20Gen/stip%20diff.png)
+
 **I have been confirmed by the host agency but I am unable to attend. What should I do?**
 
 Please inform your programme lead immediately if you are unable to attend the Job Sprint with a valid reason, and keep the MINDEF Organising Team in the loop at [Job_Sprint_PSW@mindef.gov.sg](mailto:Job_Sprint_PSW@mindef.gov.sg).
