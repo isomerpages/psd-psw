@@ -5,7 +5,7 @@ description: ""
 ---
 <div class="slideshow-container">
   <div class="testimonial-slide">
-    <img src="path/to/images/Discovering Good@Work 2023/learning innovator.JPG">
+    <img src="images/Discovering Good@Work 2023/learning innovator.JPG">
     <blockquote>
       <p>Quote 1</p>
       <cite>Author 1</cite>
