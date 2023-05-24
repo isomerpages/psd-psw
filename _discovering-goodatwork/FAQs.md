@@ -17,8 +17,8 @@ Apart from enhancing knowledge and skillsets to apply in their current role, thi
 
 **I have been confirmed by the host agency but I am unable to attend. What should I do?**
 
-Please inform your programme lead immediately if you are unable to attend the Job Sprint with a valid reason, and keep the MINDEF Organising Team in the loop at Job Sprint PSW@mindef.gov.sg.
+Please inform your programme lead immediately if you are unable to attend the Job Sprint with a valid reason, and keep the MINDEF Organising Team in the loop at [Job_Sprint_PSW@mindef.gov.sg](mailto:Job_Sprint_PSW@mindef.gov.sg).
 
 **I have more questions, who should I ask?**
 
-If you have questions on the programme details, please contact the programme lead listed in the confirmation email. If you have questions on the Job Sprint, please email Job Sprint [PSW@mindef.gov.sg](mailto:PSW@mindef.gov.sg).
+If you have questions on the programme details, please contact the programme lead listed in the confirmation email. If you have questions on the Job Sprint, please email [Job_Sprint_PSW@mindef.gov.sg](mailto:Job_Sprint_PSW@mindef.gov.sg).
