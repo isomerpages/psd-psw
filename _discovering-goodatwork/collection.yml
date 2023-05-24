@@ -2,8 +2,8 @@ collections:
   discovering-goodatwork:
     output: true
     order:
-      - Feedback from Pilot Run.md
       - About Discovering Good@Work.md
+      - Feedback from Pilot Run.md
       - Example Title.md
       - FAQs.md
       - Register Here.md
