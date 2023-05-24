@@ -23,17 +23,17 @@ description: ""
   <!-- Add more slides as needed -->
 
   <!-- Navigation buttons -->
-  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
-  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+  <a class="prev">❮</a>
+  <a class="next">❯</a>
 </div>
   
   
   <!-- Add more slides as needed -->
 
   <!-- Navigation buttons -->
-  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
-  <a class="next" onclick="changeSlide(1)">&#10095;</a>
-</div>
+  <a class="prev">❮</a>
+  <a class="next">❯</a>
+
 
 **Assistant Conservator, National Archives Singapore (NAS)**
 
