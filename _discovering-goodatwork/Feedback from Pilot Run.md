@@ -20,6 +20,15 @@ description: ""
     </blockquote>
   </div>
 
+  <div class="testimonial-slide">
+    <img src="path/to/image2.jpg" alt="Testimonial 2">
+    <blockquote>
+      <p>Quote 2</p>
+      <cite>Author 2</cite>
+    </blockquote>
+  </div>
+  
+  
   <!-- Add more slides as needed -->
 
   <!-- Navigation buttons -->
