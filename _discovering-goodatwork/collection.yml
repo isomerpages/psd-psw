@@ -2,6 +2,8 @@ collections:
   discovering-goodatwork:
     output: true
     order:
+      - FAQs/I have been confirmed by the host agency but I am unable to attend,
+        what should I do?.md
       - FAQs/What is the difference between Job Sprint and STIP?.md
       - FAQs/What is the objective of the Job Sprint?.md
       - FAQs/What is the Job Sprint?.md
