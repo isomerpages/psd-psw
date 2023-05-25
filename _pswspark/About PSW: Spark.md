@@ -11,7 +11,7 @@ Public Service Week (PSW) 2023 kicks off with PSW: Spark, our opening event that
 
 Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PSW: Spark!
 
-**Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 4.30pm
+**Date and Time:** 5 July 2023 (Wednesday), 2pm – 4.30pm
 
 **Venue:** One Punggol, Multi-purpose Hall at Level 5
 
