@@ -4,18 +4,18 @@ permalink: /pswspark/onepsquiz/
 description: ""
 ---
 ### One Public Service Quiz
-Put your knowledge on the Public Service to the test by participating in the One Public Service Quiz and stand a chance to win attractive prizes!
+Put your knowledge of the Public Service to the test by participating in the One Public Service Quiz and stand a chance to win attractive prizes!
 
-* 1st - $50 e-vouchers 
-* 2nd - $40 e-vouchers 
-* 3rd - $30 e-vouchers 
-* 4th – 5th - $20 e-vouchers 
-* 6th – 35th - $10 e-vouchers
+* **1st Place:** $50 e-voucher
+* **2nd Place:**  $40 e-voucher 
+* **3rd Place:** $30 e-voucher 
+* **4th and 5th Place:** $20 e-voucher 
+* **6th to 35th Place:** $10 e-voucher
 
 #### Frequently Asked Questions (FAQs)
 
-**Q1: How do I take part in the One Public Service Quiz**
-* Register to attend PSW: Spark here.
+**How do I take part in the One Public Service Quiz?**
+* Register to attend PSW: Spark HERE
 * Join the PSW: Spark Live streaming at 2.30pm on 5 July 2023 (Wednesday) and **be the 1st 2,000 participants to enter the One Public Service Quiz on Kahoot!**
 
 **Q2: What do I need to join the Quiz?**
