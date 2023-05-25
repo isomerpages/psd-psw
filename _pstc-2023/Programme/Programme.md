@@ -8,10 +8,33 @@ third_nav_title: Programme
 **Date and Time: &nbsp; 11 July 2023 (Tuesday), 1.00 pm to 5.00 pm   
 Venue:&nbsp; HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944**
 
-##### **What to expect**
-* Keynote address by Head, Civil Service, Mr Leo Yip
+### **What to expect**
+Keynote address by Head, Civil Service, Mr. Leo Yip
 * Panel discussion on the Soul of Transformation
 * Breakout sessions to dive into the Heart of Transformation through case studies
+
+### **Programme Highlights**
+* Keynote Address Head, Civil Service, Mr. Leo Yip
+* Panel Discussion: "The Soul of Transformation <br> - Ms Teoh Zsin Woon, PS(Development), MND &amp; PSD <br> - Mr Philipp Kandal, Chief Product Officer, Grab
+
+#### Programme Highlights
+
+*   Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;
+    
+*   Recital of Public Service Pledge and Singing of National Anthem&nbsp;
+    
+*   [Guided Tours to Punggol Regional Library and ServiceSG Centre](https://psd-psw-staging.netlify.app/opsoc-2023/guidedtours/)&nbsp;
+    
+*   [Public Sector Transformation (PST) Awards Ceremony](https://psd-psw-staging.netlify.app/pswspark/pstac-2023/)&nbsp;
+    
+*   TED Talk by PST Award Winner&nbsp;
+    
+*   Digital Exhibition Panels to Showcase PST Winners&nbsp;
+    
+*   [One Public Service Quiz](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/)&nbsp;
+    
+*   Opening Performance by an Energetic Crew
+
    <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border:.25pt solid #AFABAB; background:#59ABAA; mso-pattern:auto none; text-align:justify; vertical-align:top; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} .oa2 {border:.25pt solid #AFABAB; text-align:justify; vertical-align:top; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} -->
 
 <table style="border-collapse:
