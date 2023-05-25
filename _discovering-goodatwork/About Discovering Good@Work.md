@@ -19,36 +19,23 @@ description: ""
 ![](/images/10.jpg)
 ![](/images/1.jpg)
 
-      }
-    
-    // fist we need to ask DOM for all p &gt; img tags
-    let imgs = document.querySelectorAll('P &gt; IMG');
-    for (let i = 1; i &lt; imgs.length; i++) {
-      let h = imgs[i].naturalHeight;
-      let w = imgs[i].naturalWidth;
-      let pe = imgs[i].previousElementSibling;
-      if (!pe) {
-        continue;
-      }
-      if (pe.nodeName != "IMG") {
-        continue;
-      }
-      let sh = pe.naturalHeight;
-      let sw = pe.naturalWidth;
-      if (sw != w || sh != h) {
-        continue;
-      }
-      if (imgs[i].carousel) {
-        continue;
-      }
-      if (!pe.carousel) {
-        pe.carousel = [ pe ];
-        setCarousel(pe);
-      }
-      pe.carousel.push(imgs[i]);
-      imgs[i].carousel = pe.carousel;
-      setCarouselEvents(imgs[i]);
-      // set parent size
-      pe.parentElement.style.minWidth = "calc(" + sw + "px + 2em)";
-      pe.parentElement.style.minHeight = "calc(" + sh + "px + 2em)";
-    }
+  ---
+title: Slideshow Example
+permalink: /slideshow-example/
+---
+
+<div class="slideshow-container">
+
+Slide 1
+![Slide 1](/path/to/image1.jpg)
+Slide 1 Text
+
+Slide 2
+![Slide 2](/path/to/image2.jpg)
+Slide 2 Text
+
+Slide 3
+![Slide 3](/path/to/image3.jpg)
+Slide 3 Text
+
+</div>
