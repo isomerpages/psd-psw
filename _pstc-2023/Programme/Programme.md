@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Programme
 ---
 # **Details**   
-**Date and Time: &nbsp; 11 July 2023 (Tuesday), 1.00 pm to 5.00 pm   
+**Date and Time: &nbsp; 11 July 2023 (Tuesday), 1.00 pm to 5.30 pm   
 Venue:&nbsp; HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944**
 
 ### **What to expect**
