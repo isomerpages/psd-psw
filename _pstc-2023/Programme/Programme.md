@@ -14,7 +14,6 @@ third_nav_title: Programme
 * Breakout sessions to dive into the Heart of Transformation through case studies
 
 #### Programme Highlights
-
 *   **1.00pm – 2.00pm**: Keynote Address by Head, Civil Service, Mr. Leo Yip
 *   **2.00pm – 2.45pm**: Panel Discussion: "The Soul of Transformation"
 *   **4.00pm – 4.30pm**: Tea Break/Networking
