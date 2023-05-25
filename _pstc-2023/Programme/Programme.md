@@ -19,4 +19,4 @@ third_nav_title: Programme
 *   **4.00pm – 4.30pm**: Tea Break/Networking
 *   **4.30pm – 5.30pm**: [Breakout Sessions: “Diving into the Heart of Transformation: Case Studies”](https://www.publicserviceweek.gov.sg/pstc-2023/breakoutsessions/)
     
-Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PST Convention!
+#### Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PST Convention!
