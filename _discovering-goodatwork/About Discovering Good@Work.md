@@ -21,72 +21,70 @@ description: ""
 ![](/images/1.jpg)
 
 
+**
 
-  <style>
-    .slideshow-container {
-      position: relative;
-      width: 600px; /* Adjust the width as per your preference */
-      height: 400px; /* Adjust the height as per your preference */
-      overflow: hidden;
-    }
+<div class="images">
 
-    .slideshow-container img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
+&nbsp;&nbsp;<img id="image0">
 
-    .testimonial-slide {
-      position: absolute;
-      top: 0;
-      left: 0;
-      opacity: 0;
-      transition: opacity 0.5s ease;
-    }
+&nbsp;&nbsp;<img id="image1">
 
-    .testimonial-slide.active {
-      opacity: 1;
-    }
+&nbsp;&nbsp;<img id="image2">
 
-    .slide-title {
-      font-size: 20px;
-      font-weight: bold;
-    }
+&nbsp;&nbsp;<img id="image3">
 
-    .slide-text {
-      font-size: 16px;
-    }
-  </style>
+</div>
+
   
 
+<div id="lightbox" class="lightbox">
 
-  <div class="slideshow-container">
-    <div class="testimonial-slide active">
-      <img src="images/1.jpg" alt="Image 1">
-      <div class="slide-content">
-        <h2 class="slide-title">Title 1</h2>
-        <p class="slide-text">Text 1</p>
-      </div>
-    </div>
-    <div class="testimonial-slide">
-      <img src="images/1.jpg" alt="Image 2">
-      <div class="slide-content">
-        <h2 class="slide-title">Title 2</h2>
-        <p class="slide-text">Text 2</p>
-      </div>
-    </div>
-    <div class="testimonial-slide">
-      <img src="images/1.jpg" alt="Image 3">
-      <div class="slide-content">
-        <h2 class="slide-title">Title 3</h2>
-        <p class="slide-text">Text 3</p>
-      </div>
-    </div>
-  </div>
+&nbsp;&nbsp;<button class="close-btn">
 
-  <button id="prevButton">Previous</button>
-  <button id="nextButton">Next</button>
+&nbsp;&nbsp;&nbsp;&nbsp;Close
 
+&nbsp;&nbsp;</button>
 
+  
 
+&nbsp;&nbsp;<div class="image-preview">
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img id="preview-image">
+
+&nbsp;&nbsp;</div>
+
+  
+
+&nbsp;&nbsp;<div class="control-btns">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<button class="control-left">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;</button>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<button class="control-left">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;</button>
+
+&nbsp;&nbsp;</div>
+
+  
+
+&nbsp;&nbsp;<div id="modal-images-block" class="lightbox\_\_images">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img id="l-image0">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img id="l-image1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img id="l-image2">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img id="l-image3">
+
+&nbsp;&nbsp;</div>
+
+</div>
+
+**
