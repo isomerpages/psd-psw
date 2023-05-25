@@ -39,15 +39,19 @@ third_nav_title: Programme
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr Wong Yan Jun is the Deputy Chief Executive Officer at the Singapore Central Provident Fund (CPF) Board. He is responsible for all the services and operations that contribute to Singaporeans’ secure retirement, through lifelong income, healthcare financing and home financing.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Wong Yan Jun is the Deputy Chief Executive Officer at the Singapore Central Provident Fund (CPF) Board. He is responsible for all the services and operations that contribute to Singaporeans’ secure retirement, through lifelong income, healthcare financing and home financing.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Yan Jun started his career with the CPF Board as a policy and research officer in 2006.&nbsp;Over the years, he has led departments and groups in the services, operations and most recently, the technology domains. Prior to his current appointment, he was the Group Director for Digital Services and concurrently the Chief Information Officer.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
@@ -55,9 +59,19 @@ third_nav_title: Programme
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Yan Jun graduated with a First Class Honours in Economics from the National University of Singapore. He also has a Masters in Business Administration (Beta Gamma Sigma) from Queen’s University in Canada.&nbsp;</span></p></td></tr><tr style="mso-height-source:userset;height:11.43pt" height="23"><td style="height:11.43pt;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Yan Jun graduated with a First Class </span><span style="font-size:10.5pt;
+  font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:
+  &quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:
+  13;mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
+  mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:black;
+  mso-style-textfill-fill-alpha:100.0%">Honours</span><span style="font-size:
+  10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:
+  &quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:
+  13;mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
+  mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:black;
+  mso-style-textfill-fill-alpha:100.0%"> in Economics from the National University of Singapore. He also has a Masters in Business Administration (Beta Gamma Sigma) from Queen’s University in Canada.&nbsp;</span></p></td></tr><tr style="mso-height-source:userset;height:11.43pt" height="23"><td style="height:11.43pt;
   width:779pt" width="1558" class="oa3" height="23" colspan="2"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
   none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;
@@ -72,23 +86,15 @@ third_nav_title: Programme
   &quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:
   13;mso-font-kerning:12.0pt;language:en-SG;mso-style-textfill-type:solid;
   mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:black;
-  mso-style-textfill-fill-alpha:100.0%">For assistance in adding Mr, </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-style-textfill-fill-alpha:100.0%">For assistance in adding Mr, Stephan </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
-  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Stephan </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:
-  &quot;Open Sans&quot;;mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Veyret</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">, </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
-  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Decathlon’s Photo here please</span></p></td><td style="width:598pt" width="1196" class="oa3"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">, Decathlon’s Photo here please</span></p></td><td style="width:598pt" width="1196" class="oa3"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
@@ -102,11 +108,7 @@ third_nav_title: Programme
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
-  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">is the CEO of Decathlon, a global sporting goods retailer. As the CEO, he provides strategic leadership and oversees the overall operations of the company, focusing on driving growth, innovation, and customer satisfaction.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> is the CEO of Decathlon, a global sporting goods retailer. As the CEO, he provides strategic leadership and oversees the overall operations of the company, focusing on driving growth, innovation, and customer satisfaction.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
@@ -141,35 +143,62 @@ third_nav_title: Programme
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">A published author, Tamsin has 25 years’ experience delivering transformation programmes integrating human-centred design, communications, and strategy practices for long-lasting impacts</span><span style="font-size:10.5pt;
-  font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:
-  &quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#1A1A1A;mso-font-kerning:
-  12.0pt;language:en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-color:
-  #1A1A1A;mso-style-textfill-fill-alpha:100.0%">.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
-  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
-  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
-  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
-  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
-  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tamsin established and currently heads School of X, a real-world learning platform building human-centred design skills whilst tackling social challenges</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">A published author, Tamsin has 25 years’ experience delivering transformation </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
   color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">programmes</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> integrating human-</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;
+  mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:&quot;Open Sans&quot;;
+  mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:13;mso-font-kerning:
+  12.0pt;language:en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">centred</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> design, communications, and strategy practices for long-lasting impacts.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
   mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Previously, she founded and led the Smart Health Leadership Centre at the National University of Singapore, which sought to transform health outcomes through design, data, and digital technology</span><span style="font-size:10.5pt;
-  font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:
-  &quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:
-  13;mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
-  mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:black;
-  mso-style-textfill-fill-alpha:100.0%">.</span></p></td></tr></tbody></table>
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tamsin established and currently heads School of X, a real-world learning platform building human-</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;
+  mso-ascii-font-family:&quot;Open Sans&quot;;mso-fareast-font-family:&quot;Open Sans&quot;;
+  mso-bidi-font-family:&quot;Open Sans&quot;;color:black;mso-color-index:13;mso-font-kerning:
+  12.0pt;language:en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">centred</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> design skills whilst tackling social challenges.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Previously, she founded and led the Smart Health Leadership Centre at the National University of Singapore, which sought to transform health outcomes through design, data, and digital technology.</span></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Before moving to Singapore, she ran a strategic innovation company that </span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">specialised</span><span style="font-size:10.5pt;font-family:&quot;Open Sans&quot;;mso-ascii-font-family:&quot;Open Sans&quot;;
+  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
+  color:black;mso-color-index:13;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> in complex public-private sector challenges, and she was part of the senior leadership team for the UK's largest civil engineering project at that time, the award-winning, £260M Public-Private Partnership New Tyne Crossing.</span></p></td></tr></tbody></table>
