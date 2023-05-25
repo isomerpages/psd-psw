@@ -61,3 +61,14 @@ A fitness program that combines Latin and international music with dance moves a
 Assam Laksa is a traditional Malaysian fish-based sour noodle soup. Watch the cooking demo to learn how to prepare this dish, in its five basic tastes: sweet, sour, bitter, salty and umami (savouriness)!
 <br><br>
 **Dates:** Sat, 8 Jul ’23 <br>**Time:** 10am – 11am<br>**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** 28 Jun ’23
+
+### Baking Demo: Orange Pound Cake &amp; Egg Tart
+![](/images/CSC_Social_Yoga.png)
+<br>
+Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of Nanatang. Suitable for beginners.
+
+Orange Pound Cake 8 July, Saturday, 11am to 12pm Egg Tart 29 July, Saturday, 11am to 12pm
+<br><br>
+**Orange Pound Cake Date:** Sat, 8 Jul ’23 <br>**Time:** 11am – 12pm<br><br>**Egg Tart Date:** Sat, 29 Jul ’23 <br>**Time:** 11am – 12pm<br>
+
+**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** 28 Jun ’23
