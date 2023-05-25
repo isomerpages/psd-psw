@@ -20,5 +20,35 @@ description: ""
 ![](/images/10.jpg)
 ![](/images/1.jpg)
 
-\--- title: Features Showcase permalink: /features-showcase/ --- | Feature 1 | Feature 2 | | ----------------------------- | ----------------------------- | | !\[Feature 1\](/path/to/image1.jpg) | !\[Feature 2\](/path/to/image2.jpg) | | Description for Feature 1 | Description for Feature 2 |
+
+title: Features Showcase
+permalink: /features-showcase/
+---
+
+| Feature 1                     | Feature 2                     |
+| ----------------------------- | ----------------------------- |
+| ![Feature 1](/path/to/images/1.jpg) | ![Feature 2](/path/to/images/1.jpg) |
+| Description for Feature 1     | Description for Feature 2     |
+
+
+---
+title: Slideshow Example
+permalink: /slideshow-example/
+---
+
+<div class="slideshow-container">
+
+Slide 1
+![Slide 1](/path/to/image1.jpg)
+Slide 1 Text
+
+Slide 2
+![Slide 2](/path/to/image2.jpg)
+Slide 2 Text
+
+Slide 3
+![Slide 3](/path/to/image3.jpg)
+Slide 3 Text
+
+</div>
 
