@@ -20,7 +20,7 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to sign up
 ###  Punggol Regional Library Guided Tour   
 Singapore's latest public library that boasts five floors of extensive and accessible features. It is also the first library which brings to life the National Library Board's LAB25 (Libraries and Archives Blueprint 2025), a journey of constant innovation and experimentation.
 
-**No. of sessions:**  sessions (2 pre-event and 2 post-event)
+**No. of sessions:** 4 sessions (2 pre-event and 2 post-event)
 
 **Duration:** 20 minutes per session
 
