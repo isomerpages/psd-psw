@@ -29,4 +29,12 @@ Our skin health and overall appearance is directly affected by lifestyle habits 
 • Key nutrients for healthy skin, hair and nails  <br>
 • Lifestyle tips<br>
 <br><br>
-**Dates:** Tue, 4 Jul ’23 <br>**Time:** 12apm – 1pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csssc.sg</a> <br>**Register by:** 28 Jun ’23
+**Dates:** Tue, 4 Jul ’23 <br>**Time:** 12pm – 1pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** 28 Jun ’23
+
+### Workshop: Refresh and Recharge Your Mind and Body with Meridian Self-Therapy Workshop
+![](/images/CSC_Social_Yoga.png)
+<br>
+Amidst our fast-paced and busy daily lives, stress and anxiety often become unavoidable, leading to potential mental and physical health consequences. Explore the art of Meridian Self-Therapy techniques, designed to alleviate bodily tension, promote relaxation, and enhance sleep quality, helping you navigate the challenges of stress more effectively.
+
+<br><br>
+**Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 9pm<br>**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** 28 Jun ’23
