@@ -38,3 +38,19 @@ Amidst our fast-paced and busy daily lives, stress and anxiety often become unav
 
 <br><br>
 **Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 9pm<br>**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** 28 Jun ’23
+
+### Workout: Animal Flow by Trainer Vienna Goh
+![](/images/CSC_Social_Yoga.png)
+<br>
+Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a bodyweight movement fitness workout focused on ground-based work to improve mobility, stability, strength and power. It challenges the body through multiple planes of movements and is a great complement to barbell work and explosive power athletes (runners, jumpers, martial arts, etc).
+
+<br><br>
+**Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** 28 Jun ’23
+
+### Workout: Zumba Fitness by Trainer Sue Kromaino (Pinky)
+![](/images/CSC_Social_Yoga.png)
+<br>
+A fitness program that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high-intensity moves for an interval-style, calorie-burning dance fitness party.
+
+<br><br>
+**Dates:** Fri, 28 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** 28 Jun ’23
