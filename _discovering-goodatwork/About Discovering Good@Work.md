@@ -21,5 +21,4 @@ description: ""
 ![](/images/1.jpg)
 
 
-
-<div> <div> <img src="/path/to/images1.jpg" alt="Slide 1"> <div class="slide-content"> <h2>Slide 1 Title</h2> <p>Slide 1 Text</p> </div> </div> <div class="slide"> <img src="/path/to/images1.jpg" alt="Slide 2"> <div class="slide-content"> <h2>Slide 2 Title</h2> <p>Slide 2 Text</p> </div> </div> <div class="slide"> <img src="/path/to/images1.jpg" alt="Slide 3"> <div class="slide-content"> <h2>Slide 3 Title</h2> <p>Slide 3 Text</p> </div> </div> </div>
+`.features-container {   display: flex;   flex-wrap: wrap; }  .feature {   width: 50%;   padding: 20px;   box-sizing: border-box; }  .feature img {   width: 100%; }  .feature-content {   margin-top: 10px; }`
