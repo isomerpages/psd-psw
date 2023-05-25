@@ -20,5 +20,5 @@ description: ""
 ![](/images/10.jpg)
 ![](/images/1.jpg)
 
+\--- title: Features Showcase permalink: /features-showcase/ --- | Feature 1 | Feature 2 | | ----------------------------- | ----------------------------- | | !\[Feature 1\](/path/to/image1.jpg) | !\[Feature 2\](/path/to/image2.jpg) | | Description for Feature 1 | Description for Feature 2 |
 
-`.features-container {   display: flex;   flex-wrap: wrap; }  .feature {   width: 50%;   padding: 20px;   box-sizing: border-box; }  .feature img {   width: 100%; }  .feature-content {   margin-top: 10px; }`
