@@ -16,8 +16,8 @@ third_nav_title: Programme
 #### Programme Highlights
 
 *   **1.00pm – 2.00pm**: Keynote Address by Head, Civil Service, Mr. Leo Yip
-*   **2.00pm – 2.45pm**: Panel Discussion: "The Soul of Transformation"<br> - Ms Teoh Zsin woon, PS(Development), MND &amp; PSD<br> - Mr Philipp Kandal, Chief Product Officer, Grab<br> -Mr Jayson Goh, Changi Airport Group<br>Moderator: Lim Sze Ling, Chief Transformation Officer, ServiceSG
+*   **2.00pm – 2.45pm**: Panel Discussion: "The Soul of Transformation"
 *   **4.00pm – 4.30pm**: Tea Break/Networking
-*   **4.30pm – 5.30pm**: Breakout Sessions: "Diving into the Heart of Transformation: Case Studies<br>- Session 1: Mr Wong Yan Jun, Dy CEO (Services) Central Provident Fund Board<br>- Session 2: Mr Stephan Veyret, CEO, Decathlon<br>- Session 3: Ms Tasmin Greulich-Smith, Dir, School of X, DesignSingapore Council
+*   **4.30pm – 5.30pm**: Breakout Sessions: "Diving into the Heart of Transformation: Case Studies
     
 Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PST Convention!
