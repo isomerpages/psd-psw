@@ -2,10 +2,10 @@ collections:
   discovering-goodatwork:
     output: true
     order:
-      - FAQs.md
       - About Discovering Good@Work.md
       - Feedback from Pilot Run.md
       - Example Title.md
+      - FAQs.md
       - FAQs/.keep
       - FAQs/What is the Job Sprint?.md
       - FAQs/What is the objective of the Job Sprint?.md
