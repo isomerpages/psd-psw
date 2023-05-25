@@ -6,6 +6,8 @@ third_nav_title: Programme
 ---
 ### Panel Discussion: “The Soul of Transformation”
 
+
+
 ![Ms Teoh Zsin Woon, PS(Development), MND &amp; PSD](/images/pst%20convention%20speaker_teoh%20zsin%20woon.png)
 
 ![Mr Philipp Kandal, Chief Product Officer, Grab](/images/pst%20convention%20speaker_philipp%20kandal.png)
@@ -27,28 +29,7 @@ third_nav_title: Programme
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Speakers</span></p></td></tr><tr style="mso-height-source:userset;height:19.21pt" height="38"><td style="height:19.21pt;width:185pt" width="370" class="oa3" height="38"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;
-  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:Calibri;mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  mso-ascii-theme-font:minor-latin;color:black;mso-color-index:13;mso-font-kerning:
-  12.0pt;language:en-SG;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">For assistance in adding Teoh </span><span style="font-size:10.5pt;font-family:
-  Calibri;mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Open Sans&quot;;
-  mso-bidi-font-family:&quot;Open Sans&quot;;mso-ascii-theme-font:minor-latin;color:black;
-  mso-color-index:13;mso-font-kerning:12.0pt;language:en-SG;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:
-  black;mso-style-textfill-fill-alpha:100.0%">Zsin</span><span style="font-size:10.5pt;font-family:Calibri;mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  mso-ascii-theme-font:minor-latin;color:black;mso-color-index:13;mso-font-kerning:
-  12.0pt;language:en-SG;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> </span><span style="font-size:10.5pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  mso-ascii-theme-font:minor-latin;color:black;mso-color-index:13;mso-font-kerning:
-  12.0pt;language:en-SG;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Woon’s</span><span style="font-size:10.5pt;font-family:Calibri;mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Open Sans&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;
-  mso-ascii-theme-font:minor-latin;color:black;mso-color-index:13;mso-font-kerning:
-  12.0pt;language:en-SG;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  dark1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Photo here please</span></p></td><td style="width:610pt" width="1221" class="oa3"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><img style="width:100px" src="/images/pst%20convention%20speaker_teoh%20zsin%20woon.png"></p></td><td style="width:610pt" width="1221" class="oa3"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:
   embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.5pt;font-family:Calibri;mso-ascii-font-family:Calibri;
   mso-ascii-theme-font:minor-latin;color:black;mso-color-index:13;mso-font-kerning:
