@@ -19,23 +19,55 @@ description: ""
 ![](/images/10.jpg)
 ![](/images/1.jpg)
 
-  ---
-title: Slideshow Example
-permalink: /slideshow-example/
+ 
+---
+title: Image Carousel Example
+permalink: /image-carousel-example/
 ---
 
-<div class="slideshow-container">
+<div data-ride="carousel" class="carousel slide" id="myCarousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li class="active" data-slide-to="0" data-target="#myCarousel"></li>
+    <li data-slide-to="1" data-target="#myCarousel"></li>
+    <li data-slide-to="2" data-target="#myCarousel"></li>
+  </ol>
 
-Slide 1
-![Slide 1](/path/to/image1.jpg)
-Slide 1 Text
+  <!-- Slides -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      ![Slide 1](/path/to/image1.jpg)
+      <div class="carousel-caption">
+        <h3>Slide 1</h3>
+        <p>Slide 1 Text</p>
+      </div>
+    </div>
 
-Slide 2
-![Slide 2](/path/to/image2.jpg)
-Slide 2 Text
+    <div class="carousel-item">
+      ![Slide 2](/path/to/image2.jpg)
+      <div class="carousel-caption">
+        <h3>Slide 2</h3>
+        <p>Slide 2 Text</p>
+      </div>
+    </div>
 
-Slide 3
-![Slide 3](/path/to/image3.jpg)
-Slide 3 Text
+    <div class="carousel-item">
+      ![Slide 3](/path/to/image3.jpg)
+      <div class="carousel-caption">
+        <h3>Slide 3</h3>
+        <p>Slide 3 Text</p>
+      </div>
+    </div>
+  </div>
 
+  <!-- Controls -->
+  <a data-slide="prev" role="button" href="#myCarousel" class="carousel-control-prev">
+    <span aria-hidden="true" class="carousel-control-prev-icon"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a data-slide="next" role="button" href="#myCarousel" class="carousel-control-next">
+    <span aria-hidden="true" class="carousel-control-next-icon"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
+
