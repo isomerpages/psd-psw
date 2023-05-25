@@ -54,3 +54,10 @@ A fitness program that combines Latin and international music with dance moves a
 
 <br><br>
 **Dates:** Fri, 28 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** 28 Jun ’23
+
+### Cooking Demo: Assam Laksa by Michele
+![](/images/CSC_Social_Yoga.png)
+<br>
+Assam Laksa is a traditional Malaysian fish-based sour noodle soup. Watch the cooking demo to learn how to prepare this dish, in its five basic tastes: sweet, sour, bitter, salty and umami (savouriness)!
+<br><br>
+**Dates:** Sat, 8 Jul ’23 <br>**Time:** 10am – 11am<br>**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** 28 Jun ’23
