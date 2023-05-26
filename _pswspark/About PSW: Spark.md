@@ -13,7 +13,7 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to registe
 
 **Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 4.30pm
 
-**Venue:** 1 Punggol Drive, One Punggol, Singapore 828629. Multi-purpose Hall at Level 5
+**Venue:** One Punggol, Multi-purpose Hall at Level 5 (1 Punggol Drive, Singapore 828629)
 
 **Virtual Platform:** The event will be livestreamed via Zoom. Details will be shared closer to the event.
 
