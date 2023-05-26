@@ -9,13 +9,14 @@ third_nav_title: Programme
 **Venue**: HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944
 
 #### What to expect
-* Keynote address by Head, Civil Service, Mr. Leo Yip
+* Keynote address by Mr. Leo Yip, Head, Civil Service
 * Panel discussion on the Soul of Transformation
 * Breakout sessions to dive into the Heart of Transformation through case studies
 
 #### Programme Highlights
-*   **1.00pm – 2.00pm**: Keynote Address by Head, Civil Service, Mr. Leo Yip
-*   **2.00pm – 2.45pm**: [Panel Discussion: "The Soul of Transformation"](https://www.publicserviceweek.gov.sg/pstc-2023/paneldiscussion/)
+*   **1.00pm – 2.00pm**: Commencement of Registration
+*   **2.00pm – 2.45pm**: Keynote Address by Mr. Leo Yip, Head, Civil Service
+*   **2.45pm – 4.00pm**: [Panel Discussion: "The Soul of Transformation"](https://www.publicserviceweek.gov.sg/pstc-2023/paneldiscussion/)
 *   **4.00pm – 4.30pm**: Tea Break/Networking
 *   **4.30pm – 5.30pm**: [Breakout Sessions: “Diving into the Heart of Transformation: Case Studies”](https://www.publicserviceweek.gov.sg/pstc-2023/breakoutsessions/)
     
