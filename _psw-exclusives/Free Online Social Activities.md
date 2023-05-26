@@ -47,7 +47,7 @@ Amidst our fast-paced and busy daily lives, stress and anxiety often become unav
 
 
 ### Workout: Animal Flow by Trainer Vienna Goh
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/animal%20flow%20by%20trainer%20vienna%20goh.jpg)
 <br>
 Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a bodyweight movement fitness workout focused on ground-based work to improve mobility, stability, strength and power. It challenges the body through multiple planes of movements and is a great complement to barbell work and explosive power athletes (runners, jumpers, martial arts, etc).
 
@@ -57,7 +57,7 @@ Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a body
 
 
 ### Workout: Zumba Fitness by Trainer Sue Kromaino (Pinky)
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/zumba%20fitness%20by%20trainer%20%20sue%20kromaino%20(pinky).jpg)
 <br>
 A fitness program that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high-intensity moves for an interval-style, calorie-burning dance fitness party.
 
@@ -66,7 +66,7 @@ A fitness program that combines Latin and international music with dance moves a
 
 
 ### Cooking Demo: Assam Laksa by Michele
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/assam%20laksa%20by%20michele.jpg)
 <br>
 Assam Laksa is a traditional Malaysian fish-based sour noodle soup. Watch the cooking demo to learn how to prepare this dish, in its five basic tastes: sweet, sour, bitter, salty and umami (savouriness)!
 <br><br>
@@ -75,7 +75,7 @@ Assam Laksa is a traditional Malaysian fish-based sour noodle soup. Watch the co
 
 
 ### Baking Demo: Orange Pound Cake &amp; Egg Tart
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/baking%20demo_%20%20orange%20pound%20cake%20&amp;%20egg%20tart.jpg)
 <br>
 Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of Nanatang. Suitable for beginners.
 
@@ -86,7 +86,7 @@ Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of 
 
 
 ### Workshop: Pastel Nagomi Art Demo
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/pastel%20nagomi%20art%20demo.jpg)
 <br>
 Learn the joy of creating gentle, soft and beautiful art forms through simple finger techniques using soft pastels.
 
@@ -99,7 +99,7 @@ Orange Pound Cake 8 July, Saturday, 11am to 12pm Egg Tart 29 July, Saturday, 11a
 
 
 ### Talk: Public Speaking Skills
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/public%20speaking%20skills.jpg)
 <br>
 It is normal to feel the butterflies in your stomach when you are going to give a speech. There are tips that help you to be more prepared and build your confidence. Our experienced speaker, Ms Josey Koh, has delivered many public speeches and will share her journey and story with you.
 
@@ -109,7 +109,7 @@ It is normal to feel the butterflies in your stomach when you are going to give 
 
 
 ### Talk: Plan Your Will &amp; Lasting Power of Attorney (LPA)
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/plan%20your%20will%20&amp;%20lasting%20power%20of%20attorney%20(lpa).jpg)
 <br>
 Tune in to this talk for an overview on the importance of making a Will and a Lasting Power of Attorney (LPA) and their respective legal implications. Both tools help you to plan ahead for the efficient distribution and management of your estate in your absence or should you be mentally incapacitated. 12 July, Wednesday, 7.30pm to 9pm
 
