@@ -19,7 +19,7 @@ Our digestive system plays a crucial role in breaking down the foods we consume,
 • Functions of the digestive system <br>
 • Signs and symptoms of unhealthy gut <br>
 • What to eat for good gut health?<br>
-<br>
+
 **Dates:** Sat, 1 Jul ’23 <br>
 **Time:** 11am – 12.30pm<br>
 **Contact:** To register, please email   Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a><br>
@@ -35,7 +35,7 @@ Our skin health and overall appearance is directly affected by lifestyle habits 
 • Foods that are good and bad for your skin, hair and nails <br>
 • Key nutrients for healthy skin, hair and nails  <br>
 • Lifestyle tips<br>
-<br>
+
 **Dates:** Tue, 4 Jul ’23 <br>**Time:** 12pm – 1pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
@@ -53,7 +53,6 @@ Amidst our fast-paced and busy daily lives, stress and anxiety often become unav
 <br>
 Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a bodyweight movement fitness workout focused on ground-based work to improve mobility, stability, strength and power. It challenges the body through multiple planes of movements and is a great complement to barbell work and explosive power athletes (runners, jumpers, martial arts, etc).
 
-<br><br>
 **Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
@@ -63,7 +62,6 @@ Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a body
 <br>
 A fitness program that combines Latin and international music with dance moves and incorporates interval training to help improve cardiovascular fitness. We take the “work” out of workout, by mixing low-intensity and high-intensity moves for an interval-style, calorie-burning dance fitness party.
 
-<br><br>
 **Dates:** Fri, 28 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
@@ -81,7 +79,6 @@ Assam Laksa is a traditional Malaysian fish-based sour noodle soup. Watch the co
 <br>
 Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of Nanatang. Suitable for beginners.
 
-<br><br>
 **Orange Pound Cake Date:** Sat, 8 Jul ’23 <br>**Time:** 11am – 12pm<br><br>**Egg Tart Date:** Sat, 29 Jul ’23 <br>**Time:** 11am – 12pm<br>
 
 **Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
@@ -91,11 +88,8 @@ Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of 
 ![](/images/PSW2023%20Exclusive_image/pastel%20nagomi%20art%20demo.jpg)
 <br>
 Learn the joy of creating gentle, soft and beautiful art forms through simple finger techniques using soft pastels.
-
 <br><br>
-Orange Pound Cake 8 July, Saturday, 11am to 12pm Egg Tart 29 July, Saturday, 11am to 12pm
-<br><br>
-**Orange Pound Cake Date:** Sat, 15 Jul ’23 <br>**Time:** 11am – 12pm<br><br>**Egg Tart Date:** Sat, 19 Jul ’23 <br>**Time:** 11am – 12pm<br><br> 
+**Racial Harmony theme:** Sat, 15 Jul ’23 <br>**Time:** 11am – 12pm<br><br>**Our Lovely Island theme:** Sat, 19 Jul ’23 <br>**Time:** 11am – 12pm<br><br> 
 **Contact:** To register, please email   Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
@@ -105,7 +99,7 @@ Orange Pound Cake 8 July, Saturday, 11am to 12pm Egg Tart 29 July, Saturday, 11a
 <br>
 It is normal to feel the butterflies in your stomach when you are going to give a speech. There are tips that help you to be more prepared and build your confidence. Our experienced speaker, Ms Josey Koh, has delivered many public speeches and will share her journey and story with you.
 
-<br><br>
+
 **Dates:** Sat, 8 Jul ’23 <br>**Time:** 11am – 12pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
@@ -115,7 +109,6 @@ It is normal to feel the butterflies in your stomach when you are going to give 
 <br>
 Tune in to this talk for an overview on the importance of making a Will and a Lasting Power of Attorney (LPA) and their respective legal implications. Both tools help you to plan ahead for the efficient distribution and management of your estate in your absence or should you be mentally incapacitated. 12 July, Wednesday, 7.30pm to 9pm
 
-<br><br>
-**Date:** Wed, 12 Jul ’23 <br>**Time:** 7.30pm – 9pm<br>
+**Date:** Wed, 12 Jul ’23 <br>**Time:** 7.30pm – 9pm
 
 **Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
