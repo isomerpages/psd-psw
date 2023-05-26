@@ -19,8 +19,11 @@ Our digestive system plays a crucial role in breaking down the foods we consume,
 • Functions of the digestive system <br>
 • Signs and symptoms of unhealthy gut <br>
 • What to eat for good gut health?<br>
-<br><br>
-**Dates:** Sat, 1 Jul ’23 <br>**Time:** 11am – 12.30pm<br>**Contact:** To register, please email   Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
+<br>
+**Dates:** Sat, 1 Jul ’23 <br>
+**Time:** 11am – 12.30pm<br>
+**Contact:** To register, please email   Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a><br>
+**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
 
@@ -32,7 +35,7 @@ Our skin health and overall appearance is directly affected by lifestyle habits 
 • Foods that are good and bad for your skin, hair and nails <br>
 • Key nutrients for healthy skin, hair and nails  <br>
 • Lifestyle tips<br>
-<br><br>
+<br>
 **Dates:** Tue, 4 Jul ’23 <br>**Time:** 12pm – 1pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
