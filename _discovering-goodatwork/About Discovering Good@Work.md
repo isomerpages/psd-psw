@@ -13,6 +13,7 @@ description: ""
 * Allows officers to experience a real sense of change and contribute ideas towards ongoing transformation initiatives.  
 
 * Strengthens cross-learning among agencies.
+
 [pdf file text](/files/Bell%20Boating%20and%20Kayaking%20Try-out%202019.pdf)
  
 ---
