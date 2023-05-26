@@ -3,7 +3,7 @@ title: About PSTC
 permalink: /pstc-2023/about/
 description: ""
 ---
-# Public Sector Transformation Convention (PSTC)
+# Public Sector Transformation Convention (PST Convention)
 
 PST Convention is an event where public officers can:
 * Pick up good practices from leading private and public organisations on transformation-related topics
