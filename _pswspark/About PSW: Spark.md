@@ -15,7 +15,7 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to registe
 
 **Venue:** One Punggol, Multi-purpose Hall at Level 5
 
-**Virtual Platform:** Will be announced closer to date
+**Virtual Platform:** The event will be livestreamed via Zoom. Details will be shared closer to the event.
 
 #### Programme Highlights
 
