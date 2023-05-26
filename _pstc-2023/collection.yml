@@ -2,9 +2,9 @@ collections:
   pstc-2023:
     output: true
     order:
-      - Registration.md
       - About PSTC.md
       - Programme/.keep
       - Programme/Programme.md
       - Programme/Panel Discussion.md
       - Programme/Breakout Sessions.md
+      - Registration.md
