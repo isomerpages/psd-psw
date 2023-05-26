@@ -10,7 +10,7 @@ third_nav_title: Programme
 
 #### What to expect
 * Keynote address by Head, Civil Service, Mr. Leo Yip
-* Panel discussion on the SOul of Transformation
+* Panel discussion on the Soul of Transformation
 * Breakout sessions to dive into the Heart of Transformation through case studies
 
 #### Programme Highlights
