@@ -2,7 +2,7 @@ collections:
   pstc-2023:
     output: true
     order:
-      - About PSTC.md
+      - About PST Convention.md
       - Programme/.keep
       - Programme/Programme.md
       - Programme/Panel Discussion.md
