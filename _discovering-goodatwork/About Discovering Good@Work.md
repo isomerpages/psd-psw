@@ -14,11 +14,6 @@ description: ""
 
 * Strengthens cross-learning among agencies.
 
-
-
-![](/images/10.jpg)
-![](/images/1.jpg)
-
  
 ---
 title: Image Carousel Example
@@ -36,7 +31,7 @@ permalink: /image-carousel-example/
   <!-- Slides -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      ![Slide 1](/path/to/image1.jpg)
+      ![Slide 1](/images/1.jpg)
       <div class="carousel-caption">
         <h3>Slide 1</h3>
         <p>Slide 1 Text</p>
@@ -44,7 +39,7 @@ permalink: /image-carousel-example/
     </div>
 
     <div class="carousel-item">
-      ![Slide 2](/path/to/image2.jpg)
+      ![Slide 2](/images/10.jpg)
       <div class="carousel-caption">
         <h3>Slide 2</h3>
         <p>Slide 2 Text</p>
@@ -70,4 +65,3 @@ permalink: /image-carousel-example/
     <span class="sr-only">Next</span>
   </a>
 </div>
-
