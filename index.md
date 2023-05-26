@@ -13,7 +13,7 @@ sections:
         - title: Expand Skills
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
-          url: /discovering-goodatwork/about/
+          url: /discovering-goodatwork/permalink/discovering-about/
       background: /images/PSW2023/microsite banner.png
 description: Description
 image: /images/PSW2023/psw2023 logo.png
