@@ -2,9 +2,9 @@ collections:
   pstc-2023:
     output: true
     order:
-      - Breakout Sessions.md
-      - Panel Discussion.md
       - About PST Convention.md
+      - Panel Discussion.md
+      - Breakout Sessions.md
       - Programme/.keep
       - Programme/Programme.md
       - Registration.md
