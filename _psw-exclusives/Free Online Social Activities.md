@@ -12,6 +12,7 @@ We bring the social to you! Public service officers can enjoy FREE online social
 
 
 ### Talk: How to Restore and Rebuild Your Gut 
+![](/images/PSW2023%20Exclusive_image/how%20to%20restore%20and%20rebuild%20your%20gut.jpg)
 <br>
 Our digestive system plays a crucial role in breaking down the foods we consume, ensuring that the nutrients they contain are effectively absorbed into our bodies through the bloodstream. Therefore, maintaining a healthy digestive system is of utmost significance. In this talk, learn more about:
 
@@ -24,7 +25,7 @@ Our digestive system plays a crucial role in breaking down the foods we consume,
 
 
 ### Talk: Good Food for Healthy Skin
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/good%20food%20for%20healthy%20skin.jpg)
 <br>
 Our skin health and overall appearance is directly affected by lifestyle habits and what we eat. Find out how to maximise your collagen production, improve the strength of our hair and nails, and learn if supplements are good for our skin. In this talk, learn more about:
 
@@ -36,7 +37,7 @@ Our skin health and overall appearance is directly affected by lifestyle habits 
 
 
 ### Workshop: Refresh and Recharge Your Mind and Body with Meridian Self-Therapy Workshop
-![](/images/CSC_Social_Yoga.png)
+![](/images/PSW2023%20Exclusive_image/refresh%20and%20recharge%20your%20mind%20and%20body.jpg)
 <br>
 Amidst our fast-paced and busy daily lives, stress and anxiety often become unavoidable, leading to potential mental and physical health consequences. Explore the art of Meridian Self-Therapy techniques, designed to alleviate bodily tension, promote relaxation, and enhance sleep quality, helping you navigate the challenges of stress more effectively.
 
