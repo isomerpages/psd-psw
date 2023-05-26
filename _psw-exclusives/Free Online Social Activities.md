@@ -12,7 +12,6 @@ We bring the social to you! Public service officers can enjoy FREE online social
 
 
 ### Talk: How to Restore and Rebuild Your Gut 
-![](/images/CSC_Social_Yoga.png)
 <br>
 Our digestive system plays a crucial role in breaking down the foods we consume, ensuring that the nutrients they contain are effectively absorbed into our bodies through the bloodstream. Therefore, maintaining a healthy digestive system is of utmost significance. In this talk, learn more about:
 
