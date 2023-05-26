@@ -40,7 +40,6 @@ Our skin health and overall appearance is directly affected by lifestyle habits 
 ![](/images/PSW2023%20Exclusive_image/refresh%20and%20recharge%20your%20mind%20and%20body.jpg)
 <br>
 Amidst our fast-paced and busy daily lives, stress and anxiety often become unavoidable, leading to potential mental and physical health consequences. Explore the art of Meridian Self-Therapy techniques, designed to alleviate bodily tension, promote relaxation, and enhance sleep quality, helping you navigate the challenges of stress more effectively.
-
 <br><br>
 **Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 9pm<br>**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
