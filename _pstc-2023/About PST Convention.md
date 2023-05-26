@@ -11,7 +11,7 @@ PST Convention is an event where public officers can:
 * Explore how we transform the way we deliver our services to achieve greater purpose, i.e. by putting our stakeholders at the heart of what we do
 
 #### Event Registration
-**Click&nbsp;[HERE](https://www.gevme.com/public-service-week-2023-43276652)&nbsp;to register for PST Convention!**<br>
+#### **Click&nbsp;[HERE](https://www.gevme.com/public-service-week-2023-43276652)&nbsp;to register for PST Convention!**<br>
 **Date and Time:**&nbsp;11 July 2023 (Tuesday), 1.00pm – 5.30pm<br>
 **Venue:**&nbsp;HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944
 
