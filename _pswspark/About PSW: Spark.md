@@ -31,4 +31,4 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to registe
 
 * Digital Exhibition Panels to Showcase PST Winners 
 
-* [Recital of Public Service Pledge and Singing of National Anthem](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/ "https://psd-psw-staging.netlify.app/pswspark/onepsquiz/")
+* Recital of Public Service Pledge and Singing of National Anthem
