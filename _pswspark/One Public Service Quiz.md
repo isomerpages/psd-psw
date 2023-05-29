@@ -32,4 +32,4 @@ Put your knowledge of the Public Service to the test by participating in the One
 
 ***Important:*** *Do ensure your work email address is keyed in accurately.*
 
-PSW: Spark Planning Committee's decision is final and no correspondence will be entertained. For further assistance, you may submit a query to PSWSpark@mci.gov.sg.
+PSW: Spark Planning Committee's decision is final. For further assistance, you may submit a query to PSWSpark@mci.gov.sg
