@@ -5,6 +5,14 @@ description: ""
 ---
 ### Public Service Week (PSW): Spark
 
+
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">| 
+
+
+
 <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">
 
 ![](/images/PSW2023/screenshot%202023-05-291.png)
