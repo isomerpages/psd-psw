@@ -4,10 +4,10 @@ permalink: /pswspark/onepsquiz/
 description: ""
 ---
 ### One Public Service Quiz
-![](/images/PSW2023/opsoc-6.jpg)*Public officers participating in the One Public Service Quiz at PSW2022.*<br>
+<img style="width:600px" src="/images/PSW2023/opsoc-6.jpg">*Public officers participating in the One Public Service Quiz at PSW2022.*<br>
 
 &gt; Put your knowledge of the Public Service to the test by participating in the One Public Service Quiz and stand a chance to win attractive prizes!
-&gt; 
+
 * **1st Place:** $50 e-voucher
 * **2nd Place:**  $40 e-voucher&nbsp;
 * **3rd Place:** $30 e-voucher&nbsp;
