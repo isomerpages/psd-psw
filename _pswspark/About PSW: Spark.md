@@ -7,17 +7,13 @@ description: ""
 
 
 
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">| 
+| Column 1 | Column 2 | Column 3 | 
+| -------- | -------- | -------- | 
+| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">| <img style="width:400px" src="/images/PSW2023/opsoc-6.jpg">| <img style="width:400px" src="/images/PSW2023/screenshot%202023-05-291.png">| 
 
 
 
-<img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">
-
-![](/images/PSW2023/screenshot%202023-05-291.png)
-
-![](/images/PSW2023/screenshot%202023-05-29.png)
+<img style="width:400px" src="/images/PSW2023/screenshot%202023-05-291.png">
 
 Public Service Week (PSW) 2023 kicks off with PSW: Spark, our opening event that brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisational practices and innovation. Key highlights include the Public Sector Transformation (PST) Awards Ceremony, speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing, a One Public Service quiz with e-vouchers to be won and an exciting dance item by So Drama! Entertainment.
 
