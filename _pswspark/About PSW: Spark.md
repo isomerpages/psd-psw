@@ -6,10 +6,9 @@ description: ""
 ### Public Service Week (PSW): Spark
 
 
-
 |  | | 
 | -------- | -------- | 
-| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">*Speech by Minister-in-Charge of the Public Service, Mr. Chan Chun Sing at PSW2022.*| <img style="width:400px" src="/images/PSW2023/pstacawards.jpg">*PST awards presentation by Mr. Leo Yip, Head, Civil Service at PSW2022.*| 
+| <img style="width:400px" src="/images/PSW2023/opsoc-4.jpg">*Minister-in-Charge of the Public Service, Mr. Chan Chun Sing at PSW2022.*| <img style="width:400px" src="/images/PSW2023/pstacawards.jpg">*PST awards presentation by Mr. Leo Yip, Head, Civil Service at PSW2022.*| 
 
 ![](/images/PSW2023/sdeperf.png)*Performance by So Drama! Entertainment.*
 
