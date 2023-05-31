@@ -4,7 +4,7 @@ permalink: /pswspark/onepsquiz/
 description: ""
 ---
 ### One Public Service Quiz
-<img style="width:600px" src="/images/PSW2023/opsoc-6.jpg"><center>*Public officers participating in the One Public Service Quiz at PSW2022.*</center><br>
+<img style="width:600px" src="/images/PSW2023/opsoc-6.jpg"> 
 
 Put your knowledge of the Public Service to the test by participating in the One Public Service Quiz and stand a chance to win attractive prizes!
 
