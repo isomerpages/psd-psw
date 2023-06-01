@@ -20,12 +20,6 @@ sections:
       subtitle: about
       description: An annual event first held in 2008, it serves to cultivate a deeper
         appreciation and pride for the work carried out by the Public Service.
-  - infobar:
-      title: Enriching Your Experience, Transforming Our Service
-      subtitle: Theme for Public service week
-      description: It celebrates how the Public Sector Transformation movement has
-        enriched the experience of citizens and officers by empowering officers
-        to innovate and grow.
   - infopic:
       title: Theme for 2023
       description: It celebrates how the Public Sector Transformation movement has
