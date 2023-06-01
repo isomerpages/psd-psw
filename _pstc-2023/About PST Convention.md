@@ -21,4 +21,6 @@ PST Convention is an event where public officers can:
 *   **3.45pm – 4.30pm**: Tea Break/Networking
 *   **4.30pm – 5.30pm**: [Breakout Sessions: “Diving into the Heart of Transformation: Case Studies”](https://www.publicserviceweek.gov.sg/pstc-2023/breakoutsessions/)
 
-![](/images/pst%20convention%20speaker_teoh%20zsin%20woon.png)
+| |  |
+| -------- | -------- | 
+![](/images/pst%20convention%20speaker_teoh%20zsin%20woon.png) ![](/images/pst%20convention%20speaker_jerry%20lim%20(grab).png)
