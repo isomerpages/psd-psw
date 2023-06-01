@@ -15,13 +15,8 @@ PST Convention is an event where public officers can:
 **Venue:**&nbsp;HomeTeamNS Khatib, 2 Yishun Walk, Singapore 767944
 
 #### Programme Highlights
-| | | 
-| -------- | -------- | 
 **1:00pm – 2:00pm**: Commencement of Registration
-| | | 
 
-| | | 
-| -------- | -------- | 
 **2:00pm – 2:40pm**: Keynote Address by Mr Leo Yip, Head, Civil Service
 | <img style="width:400px" src="/images/PSW2023/edited_-16.jpg">
 
