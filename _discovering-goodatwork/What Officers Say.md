@@ -3,13 +3,15 @@ title: What Officers Say
 permalink: /discovering-goodatwork/pilotrun/
 description: ""
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sv8Vq3KluOk" height="315" width="560"></iframe>
 More than 50 officers participated in the Job Sprint pilot which took place from 24-28 Apr 2023, and were hosted by CSC, IMDA, MCI, MINDEF, NLB and PSD across
 14 positions. After the pilot, they gained a better appreciation of the work done in other agencies, and explored new areas of possibilities within their role.
 
 **Assistant Conservator, National Archives Singapore (NAS)**
 
 "Extremely interesting sprint that exposed me to a line of work that I probably will never get to experience again."
-
+___________
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JqUoKVyx5mM" height="315" width="560"></iframe>
 **Senior Analyst, CSC**
 
 "Allowed me to rethink and reflect on current work process to consider how to be more customer-centric."
