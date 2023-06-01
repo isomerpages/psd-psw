@@ -3,8 +3,6 @@ title: About Discovering Good@Work
 permalink: /discovering-goodatwork/permalink/discovering-about/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sv8Vq3KluOk" height="315" width="560"></iframe>
-
 ![](/images/JS%20Gen/about%20js.png)Discovering Good@Work Job Sprint is an opportunity for public officers to sign up for short 0.5- to 2-day job immersion programmes to find out more about public sector jobs that involve transformation and/or cross-agency work. The programmes can either be physical or virtual.
 
 #### Objectives
