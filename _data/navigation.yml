@@ -1,10 +1,8 @@
 logo: /images/PSW2023/psw2023 logo.png
 links:
-  - title: ABOUT
-    url: /about-psw/
   - title: "PSW: Spark"
     collection: pswspark
-  - title: PSTC
+  - title: PST CONVENTION
     collection: pstc-2023
   - title: Learning Festival
     url: https://go.gov.sg/pswlf2023
