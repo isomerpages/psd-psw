@@ -39,5 +39,5 @@ PST Convention is an event where public officers can:
 
 | **4:30pm – 5:30pm**, [Breakout Sessions: “Diving into the Heart of Transformation: Case Studies”](https://www.publicserviceweek.gov.sg/pstc-2023/breakoutsessions/) | | 
 | -------- | -------- | 
-| <img style="width:200px" src="/images/pst%20convention%20breakout%20speaker_wong%20yan%20jun.png">*Mr Wong Yan Jun, Dy CEO (Services), Central Provident Fund Board*| <img style="width:300px" src="/images/pst%20convention%20breakout%20speaker_stephan%20veryret.png">*Mr Stephen Veyret, CEO, Decathlon*| 
+| <img style="width:200px" src="/images/pst%20convention%20breakout%20speaker_wong%20yan%20jun.png">*Mr Wong Yan Jun, Dy CEO (Services), Central Provident Fund Board*| <img style="width:200px" src="/images/pst%20convention%20breakout%20speaker_stephan%20veryret.png">*Mr Stephen Veyret, CEO, Decathlon*| 
 | <img style="width:200px" src="/images/pst%20convention%20breakout%20speaker_tamsin.png">*Ms Tamsin Greulich-Smith, Dir, School of X, DesignSingapore Council*|
