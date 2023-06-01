@@ -27,39 +27,9 @@ More than 50 officers participated in the Job Sprint pilot which took place from
 # More feedback from participants' experiences:
 ![](/images/Discovering%20Good@Work%202023/slide1.PNG)
 ![](/images/Discovering%20Good@Work%202023/slide2.PNG)
-![](/images/Discovering%20Good@Work%202023/slide3.PNG)
-**Assistant Conservator, National Archives Singapore (NAS)**
-
-"Extremely interesting sprint that exposed me to a line of work that I probably will never get to experience again."
-
-**Senior Analyst, CSC**
-
-"Allowed me to rethink and reflect on current work process to consider how to be more customer-centric."
-
-**Learning Innovator, CSC**
-
-"...showed me the possibility of a govt agency being innovative and fast- paced. The sharing of methodology gave me new lens to think about how programmes are run in libraries."
-
-**Career Transition Officer, PSD**
-
-"Introduction of useful frameworks applicable to domains outside of career transition - helps in comms and engagement of supervisor-staff relations."
-
-**Senior Analyst, CSC**
-
-"In such a data role, I learnt CSC's perspectives as well as from the WOG data community. I feel officers should be cognisant of what WOG agencies are doing in similar areas of work."
-
-**Digital Leaders Programme Office, IMDA**
-
-"Provided me with the foundational knowledge in technologies that I was not too familiar with before, and options I can recommend to our own departments as they embark on their own digitalisation efforts."
-
-**Digital Strategy and Plans, MINDEF**
-
-"...better understand the unique considerations MINDEF have and the reasons for them pushing through with their digital plans."
-
-**HR Development Officer, CSC**
-
-"…enlightening how CSC had contextualized certain competency frameworks to best suit their officers."
-
-**Project Manager, NLB**
-
-"Learnt about using robots and Al to help in various areas of work to enhance effectiveness when it comes to digitalization."
+![](/images/Discovering%20Good@Work%202023/slide4.PNG)
+![](/images/Discovering%20Good@Work%202023/slide5.PNG)
+![](/images/Discovering%20Good@Work%202023/slide6.PNG)
+![](/images/Discovering%20Good@Work%202023/slide7.PNG)
+![](/images/Discovering%20Good@Work%202023/slide8.PNG)
+![](/images/Discovering%20Good@Work%202023/slide9.PNG)
