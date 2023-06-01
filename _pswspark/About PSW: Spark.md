@@ -5,7 +5,7 @@ description: ""
 ---
 ### Public Service Week (PSW): Spark
 
-Public Service Week 2023 kicks off with PSW: Spark, our opening event that brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisational practices and innovation. 
+Public Service Week 2023 kicks off with PSW: Spark, our opening event that brings public officers together to celebrate and recognise officers and agencies for excellence in service delivery, organisational practices and innovation. Key highlights include the Public Sector Transformation (PST) Awards Ceremony, speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing, a One Public Service quiz with e-vouchers to be won and an exciting dance item by So Drama! Entertainment. 
 
 |  | | 
 | -------- | -------- | 
@@ -13,12 +13,6 @@ Public Service Week 2023 kicks off with PSW: Spark, our opening event that bring
 
 ![](/images/PSW2023/sdeperf.png)*Performance by So Drama! Entertainment.*
 
-
-Key highlights include:
-* Public Sector Transformation (PST) Awards Ceremony
-* Speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing
-* One Public Service quiz with e-vouchers to be won
-* An exciting dance item by So Drama! Entertainment
 
 
 #### Event Registration
