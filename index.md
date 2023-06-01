@@ -14,14 +14,14 @@ sections:
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: /discovering-goodatwork/permalink/discovering-about/
-      background: /images/PSW2023/microsite banner.png
+      background: /images/PSW2023/microsite banner1.png
   - infobar:
       title: Public Service Week
       subtitle: about
       description: It aims to inspire public officers to live out the core values and
         ethos of the Public Service and to be ready for the future.
   - infopic:
-      title: "Theme for Public Service Week "
+      title: Theme for Public Service Week
       description: It celebrates how the Public Sector Transformation movement has
         enriched the experience of citizens and officers by empowering officers
         to innovate and grow.
