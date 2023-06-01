@@ -18,8 +18,8 @@ sections:
   - infobar:
       title: Public Service Week
       subtitle: about
-      description: An annual event first held in 2008, it serves to cultivate a deeper
-        appreciation and pride for the work carried out by the Public Service.
+      description: It aims to inspire public officers to live out the core values and
+        ethos of the Public Service and to be ready for the future.
   - infopic:
       title: Theme for 2023
       description: It celebrates how the Public Sector Transformation movement has
