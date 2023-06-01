@@ -25,6 +25,9 @@ More than 50 officers participated in the Job Sprint pilot which took place from
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VoRqkjfE8Xc" height="315" width="560"></iframe>
 
 # More feedback from participants' experiences:
+![](/images/Discovering%20Good@Work%202023/slide1.PNG)
+![](/images/Discovering%20Good@Work%202023/slide2.PNG)
+![](/images/Discovering%20Good@Work%202023/slide3.PNG)
 **Assistant Conservator, National Archives Singapore (NAS)**
 
 "Extremely interesting sprint that exposed me to a line of work that I probably will never get to experience again."
