@@ -17,7 +17,7 @@ The PST Awards celebrate exceptional attainment of the PST Outcomes:
 
 |  | | 
 | -------- | -------- | 
-| <img style="width:400px" src="/images/PSW2023/pstac-7.jpg">*Minister-in-Charge of the Public Service, Mr. Chan Chun Sing looking at the PSTAC exhibibtion during PSW2022.*| <img style="width:400px" src="/images/PSW2023/pstac-4.jpg">*Photo-taking with Minister-in-Charge of the Public Service, Mr. Chan Chun Sing and Mr. Leo Yip, Head, Civil Service at PSW2022.*| 
+| <img style="width:400px" src="/images/PSW2023/pstac-7.jpg">*Minister-in-Charge of the Public Service, Mr. Chan Chun Sing looking at the PSTAC exhibition during PSW2022.*| <img style="width:400px" src="/images/PSW2023/pstac-4.jpg">*Photo-taking with Minister-in-Charge of the Public Service, Mr. Chan Chun Sing and Mr. Leo Yip, Head, Civil Service at PSW2022.*| 
 
 #### Award Categories
 The PST Awards recognise efforts at three levels - Whole of Government (WOG), agency, and individual levels. The PST Awards focus on working as One Public Service, engaging citizens, innovating and digitalising services and functions, improving our regulatory environment, and encouraging business transformation and workforce transformation.
