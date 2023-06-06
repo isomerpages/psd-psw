@@ -1,7 +1,0 @@
-collections:
-  opsoc-2022:
-    output: true
-    order:
-      - About OPSOC.md
-      - Virtual Photobooth.md
-      - Sparkle Bot.md

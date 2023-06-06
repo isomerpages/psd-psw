@@ -1,4 +1,4 @@
-title: Public Service Week 2022
+title: Public Service Week 2023
 description: Description
 url: https://www.publicserviceweek.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
@@ -7,7 +7,7 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: news
-favicon: /images/PSW_Logo.png
+favicon: /images/PSW2023/psw2023_corner element.png
 google-analytics: UA-40876833-17
 permalink: none
 baseurl: ""
@@ -25,13 +25,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: "#f153b4"
-  secondary-color: "#255cf3"
+  primary-color: "#0078c0"
+  secondary-color: "#ee1441"
   media-colors:
     - title: media-color-one
-      color: "#f9e41c"
+      color: "#ffd272"
     - title: media-color-two
-      color: "#9b9b9b"
+      color: "#c8dc69"
     - title: media-color-three
       color: "#ffffff"
     - title: media-color-four
@@ -39,3 +39,8 @@ colors:
     - title: media-color-five
       color: "#9b9b9b"
 is_government: true
+shareicon: /images/PSW2023/psw2023 logo.png
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""

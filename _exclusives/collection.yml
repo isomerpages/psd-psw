@@ -1,5 +1,0 @@
-collections:
-  exclusives:
-    output: false
-    order:
-      - promotions.md

@@ -1,18 +1,34 @@
 ---
 layout: homepage
-title: Public Service Week 2022
+title: Public Service Week 2023
 permalink: /
 sections:
   - hero:
-      background: /images/PUBLIC SERVICE WEEK 2022/PSW 2022 CMS website  (7).png
       url: /what-is-psw/
       key_highlights:
-        - title: Pledge as One
-          url: /opsoc-2022/about-opsoc
         - title: Celebrate Together
-          url: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
+          url: /pswspark/about/
         - title: Be Inspired
-          url: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/PSTAC
-        - title: Learn and Grow
-          url: https://go.gov.sg/pswlf2022
+          url: /pstc-2023/about/
+        - title: Expand Skills
+          url: https://go.gov.sg/pswlf2023
+        - title: Dive in
+          url: /discovering-goodatwork/permalink/discovering-about/
+      background: /images/PSW2023/microsite banner1.png
+  - infobar:
+      title: Public Service Week
+      subtitle: about
+      description: aims to inspire public officers to live out the core values and
+        ethos of the Public Service and to be ready for the future.
+  - infopic:
+      title: "This year, "
+      description: we celebrate how the Public Sector Transformation movement has
+        enriched the experience of citizens and officers by empowering officers
+        to innovate and grow.
+      image: /images/PSW2023/psw2023 logo.png
+      alt: Image alt text
+      subtitle: "2023"
+description: Description
+image: /images/PSW2023/psw2023 logo.png
+notification: ""
 ---
