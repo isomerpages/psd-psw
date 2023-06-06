@@ -1,6 +1,6 @@
 <!-- ---
 title: 'One Public Service Observance Ceremony'
-permalink: /opsoc-2020
+permalink: /opsoc-2020/
 
 --- -->
 

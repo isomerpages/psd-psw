@@ -1,6 +1,6 @@
 ---
 title: 'About'
-permalink: /pstc-2021/about
+permalink: /pstc-2021/about/
 ---
 
 ## Public Sector Transformation Convention | “Perspectives: Shaping Our Future.”

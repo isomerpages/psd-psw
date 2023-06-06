@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/IRAS6
+permalink: /events/learning-journeys/event-details/iras6/
 breadcrumb: 'Step into My Steps'
 
 --- -->

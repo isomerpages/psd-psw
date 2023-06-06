@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LA_IoLTAbGT
+permalink: /events/learning-journeys/event-details/la_ioltabgt/
 breadcrumb: 'Learning Activity'
 
 --- -->

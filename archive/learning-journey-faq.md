@@ -1,6 +1,6 @@
 <!-- ---
 title: FAQ
-permalink: events/learning-festival/faq
+permalink: events/learning-festival/faq/
 breadcrumb: 'Learning Festival'
 
 --- -->

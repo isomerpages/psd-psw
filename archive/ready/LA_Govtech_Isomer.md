@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LA_Isomer
+permalink: /events/learning-journeys/event-details/la_isomer/
 breadcrumb: 'Learning Activity'
 
 --- -->

@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LA_ToastmastersBetterYou
+permalink: /events/learning-journeys/event-details/la_toastmastersbetteryou/
 breadcrumb: 'Learning Activity'
 
 --- -->

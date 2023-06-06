@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Public Service Conference'
-permalink: /psc-2020
+permalink: /psc-2020/
 
 
 --- -->

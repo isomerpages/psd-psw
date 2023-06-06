@@ -1,6 +1,6 @@
 ---
 title: 'Public Sector Transformation Awards Ceremony'
-permalink: /pstac-2021
+permalink: /pstac-2021/
 
 
 ---

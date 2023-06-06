@@ -1,6 +1,6 @@
 ---
 title: 'CSC Facilities & Chalet Promotions'
-permalink: /CSC-clubhouse-2021
+permalink: /csc-clubhouse-2021/
 ---
 
 ## Civil Service Club Facilities & Chalet Promotions

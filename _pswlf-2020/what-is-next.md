@@ -1,6 +1,6 @@
 ---
 title: What is Next?
-permalink: /pswlf-2020/6-whats-next
+permalink: /pswlf-2020/6-whats-next/
 breadcrumb: 'What is Next?'
 ---
 ![Hero Image](/images/LINN_Hero_v2.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Free Online Social Activities
-permalink: /exclusives-2020/online-social-activities-2020
+permalink: /exclusives-2020/online-social-activities-2020/
 ---
 
 ### Free Online Social Activities <br>

@@ -1,6 +1,6 @@
 <!-- ---
 title: FAQ
-permalink: events/pst-conference/faq
+permalink: events/pst-conference/faq/
 breadcrumb: 'PST Conference'
 
 --- -->

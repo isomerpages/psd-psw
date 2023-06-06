@@ -1,6 +1,6 @@
 ---
 title: Civil Service Club Facilities and Chalet Promotions
-permalink: /exclusives-2020/clubhouse-promotions-2020
+permalink: /exclusives-2020/clubhouse-promotions-2020/
 ---
 
 ### Civil Service Club Facilities and Chalet Promotions <br>

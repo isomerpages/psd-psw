@@ -1,6 +1,6 @@
 ---
 title: 'CSC Membership Promotion'
-permalink: /CSC-Membership
+permalink: /csc-membership/
 
 ---
 ## Civil Service Club Membership Promotion 

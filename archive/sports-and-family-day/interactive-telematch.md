@@ -1,6 +1,6 @@
 <!-- ---
 title: 'PSSFD - Interactive Telematch'
-permalink: events/sports-and-family-day/event-details/interactive-telematch
+permalink: events/sports-and-family-day/event-details/interactive-telematch/
 breadcrumb: 'Sports and Family Day'
 
 --- -->

@@ -1,6 +1,6 @@
 ---
 title: 'Future Workplace'
-permalink: /pstc-2021/future-workplace
+permalink: /pstc-2021/future-workplace/
 ---
 
 ### Future Workplace 

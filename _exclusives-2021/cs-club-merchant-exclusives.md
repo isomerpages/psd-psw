@@ -1,6 +1,6 @@
 ---
 title: 'CSC Merchant Exclusives'
-permalink: /CSC-Merchant-Exclusives
+permalink: /csc-merchant-exclusives/
 
 ---
 

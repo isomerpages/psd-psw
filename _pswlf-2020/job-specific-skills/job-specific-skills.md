@@ -1,6 +1,6 @@
 ---
 title: Job Specific Skills
-permalink: /pswlf-2020/job-specific-skills/3a-jobspecific
+permalink: /pswlf-2020/job-specific-skills/3a-jobspecific/
 breadcrumb: 'Job Specific Skills'
 third_nav_title: Job Specific Skills
 ---

@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /pswlf-2020/5-faqs
+permalink: /pswlf-2020/5-faqs/
 breadcrumb: 'FAQ'
 
 ---

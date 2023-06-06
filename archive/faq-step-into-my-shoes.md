@@ -1,6 +1,6 @@
 <!-- ---
 title: FAQ
-permalink: events/learning-festival/faq-step-into-my-shoes
+permalink: events/learning-festival/faq-step-into-my-shoes/
 breadcrumb: 'Learning Festival'
 
 --- -->

@@ -1,6 +1,6 @@
 <!-- ---
 title: 'PSSFD - Bicentennial Walk'
-permalink: events/sports-and-family-day/event-details/bicentennial-walk
+permalink: events/sports-and-family-day/event-details/bicentennial-walk/
 breadcrumb: 'Sports and Family Day'
 
 --- -->

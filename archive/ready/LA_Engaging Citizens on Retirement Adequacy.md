@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LA_cpfretire
+permalink: /events/learning-journeys/event-details/la_cpfretire/
 breadcrumb: 'Learning Activity'
 
 --- -->

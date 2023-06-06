@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Public Sector Transformation Awards Celebration'
-permalink: /pstac-2020
+permalink: /pstac-2020/
 
 
 --- -->

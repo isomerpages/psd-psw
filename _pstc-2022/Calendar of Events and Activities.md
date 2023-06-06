@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events and Activities
-permalink: /pstc-2022/eventsandactivities
+permalink: /pstc-2022/eventsandactivities/
 description: ""
 ---
 Download the [programme booklet (updated 26 July 2022)](/files/PSTC%202022%20Prog%20Listing%20260722.pdf) to find out more about the events and activities offered, as well as registration details.
