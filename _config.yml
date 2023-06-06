@@ -16,8 +16,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://psd-psw-staging.netlify.app
-prod: https://psd-psw-prod.netlify.app
+staging: https://staging.dsikpkwzw4mio.amplifyapp.com/
+prod: https://master.dsikpkwzw4mio.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
