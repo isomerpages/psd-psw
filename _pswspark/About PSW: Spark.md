@@ -23,9 +23,8 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to registe
 **Venue:** One Punggol, Multi-purpose Hall at Level 5 (1 Punggol Drive, Singapore 828629)
 **Virtual Platform:** The event will be livestreamed via Zoom. Details will be shared closer to the event.
 
-#### Programme Highlights
-
-* [Guided Tours at Punggol Regional Library and ServiceSG Centre](publicserviceweek.gov.sg/opsoc-2023/guidedtours/) &nbsp;
+### Programme Highlights
+* [Guided Tours at Punggol Regional Library and ServiceSG Centre](www.publicserviceweek.gov.sg/opsoc-2023/guidedtours/)
 
 * [One Public Service Quiz](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/ "https://psd-psw-staging.netlify.app/pswspark/onepsquiz/")&nbsp;
 
