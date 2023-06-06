@@ -1,6 +1,6 @@
 <!-- ---
 title: 'PSSFD - Amazing Race'
-permalink: events/sports-and-family-day/event-details/amazing-race
+permalink: events/sports-and-family-day/event-details/amazing-race/
 breadcrumb: 'Sports and Family Day'
 
 --- -->

@@ -1,6 +1,6 @@
 ---
 title: 'About Learning Festival'
-permalink: /pswlf-2020/0-mainpage
+permalink: /pswlf-2020/0-mainpage/
 breadcrumb: 'About Learning Festival'
 
 ---

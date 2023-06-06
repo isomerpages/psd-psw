@@ -1,7 +1,7 @@
 
 <!--
 title: 'Gifting from the Heart'
-permalink: /opsoc-2021/gifting-from-the-heart
+permalink: /opsoc-2021/gifting-from-the-heart/
 -->
 
 

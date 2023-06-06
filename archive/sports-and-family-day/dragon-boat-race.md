@@ -1,6 +1,6 @@
 <!-- ---
 title: 'PSSFD - Dragon Boat'
-permalink: events/sports-and-family-day/event-details/dragon-boat
+permalink: events/sports-and-family-day/event-details/dragon-boat/
 breadcrumb: 'Sports and Family Day'
 
 --- -->

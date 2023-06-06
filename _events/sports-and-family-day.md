@@ -1,6 +1,6 @@
 ---
 title: 'Sports and Family Day'
-permalink: 'https://www.csc.sg/sportsday/Default.aspx'
+permalink: 'https://www.csc.sg/sportsday/default.aspx'/
 breadcrumb: 'Sports and Family Day'
 
 ---

@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LJ_DawsonTour
+permalink: /events/learning-journeys/event-details/lj_dawsontour/
 breadcrumb: 'Learning Journey'
 
 --- -->

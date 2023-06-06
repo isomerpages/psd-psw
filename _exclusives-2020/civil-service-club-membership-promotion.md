@@ -1,6 +1,6 @@
 ---
 title: Civil Service Club Membership Promotion
-permalink: /exclusives-2020/civil-service-club-membership-promotion-2020
+permalink: /exclusives-2020/civil-service-club-membership-promotion-2020/
 ---
 
 ### Civil Service Club Membership Promotion <br>

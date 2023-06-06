@@ -1,6 +1,6 @@
 ---
 title: Professional & Personal Development
-permalink: /pswlf-2020/4-ppdevelopment
+permalink: /pswlf-2020/4-ppdevelopment/
 breadcrumb: 'Professional & Personal Development'
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>

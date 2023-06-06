@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LA_IRASTransformation
+permalink: /events/learning-journeys/event-details/la_irastransformation/
 breadcrumb: 'Learning Activity'
 
 --- -->

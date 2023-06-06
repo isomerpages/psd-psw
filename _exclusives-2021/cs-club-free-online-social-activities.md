@@ -1,6 +1,6 @@
 ---
 title: 'CSC Free Online Social Activities'
-permalink: /CSC-Free-Social-Activities
+permalink: /csc-free-social-activities/
 
 ---
 

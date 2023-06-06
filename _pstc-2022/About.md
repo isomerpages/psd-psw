@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /pstc-2022/about
+permalink: /pstc-2022/about/
 description: ""
 ---
 ## Public Sector Transformation Convention | Building Our Future Public Service

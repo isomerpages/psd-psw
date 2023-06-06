@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /events/psw-learning-festival/faq
+permalink: /events/psw-learning-festival/faq/
 breadcrumb: FAQ
 third_nav_title: 'Learning Festival'
 

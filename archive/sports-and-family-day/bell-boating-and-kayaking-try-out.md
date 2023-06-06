@@ -1,6 +1,6 @@
 <!-- ---
 title: 'PSSFD - Bell Boating and Kayaking Try Outs'
-permalink: 'events/sports-and-family-day/event-details/bell-boating-&-kayaking-try-outs'
+permalink: 'events/sports-and-family-day/event-details/bell-boating-&-kayaking-try-outs'/
 breadcrumb: 'Sports and Family Day'
 
 --- -->

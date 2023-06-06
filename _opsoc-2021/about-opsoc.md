@@ -1,6 +1,6 @@
 ---
 title: 'About OPSOC'
-permalink: /opsoc-2021/about
+permalink: /opsoc-2021/about/
 ---
 
 <b>CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC2021. </b><br>

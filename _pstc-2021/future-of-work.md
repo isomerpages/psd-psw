@@ -1,6 +1,6 @@
 ---
 title: 'Future of Work'
-permalink: /pstc-2021/future-of-work
+permalink: /pstc-2021/future-of-work/
 ---
 
 ### Future of Work

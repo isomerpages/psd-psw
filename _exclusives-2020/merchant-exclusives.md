@@ -1,6 +1,6 @@
 ---
 title: Merchant Exclusives
-permalink: /exclusives-2020/merchant-exclusives-2020
+permalink: /exclusives-2020/merchant-exclusives-2020/
 ---
 
 ### Merchant Exclusives <br>

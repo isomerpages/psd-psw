@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/LC_FC_MOE
+permalink: /events/learning-journeys/event-details/lc_fc_moe/
 breadcrumb: 'Learning Activity'
 
 --- -->

@@ -1,6 +1,6 @@
 ---
 title: Public Service Week Trial
-permalink: /_jobspecific-details/trial_psw
+permalink: /_jobspecific-details/trial_psw/
 ---
 
 ### Testing page 3 for PSW

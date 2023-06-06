@@ -1,6 +1,6 @@
 <!-- ---
 title: 'Learning Festival 1-19 July 2019'
-permalink: /events/learning-journeys/event-details/MaDaaPO
+permalink: /events/learning-journeys/event-details/madaapo/
 breadcrumb: 'Step into My Shoes'
 
 --- -->

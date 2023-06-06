@@ -1,6 +1,6 @@
 ---
 title: Future Workforce
-permalink: /pstc-2022/future-workforce
+permalink: /pstc-2022/future-workforce/
 description: ""
 ---
 ### Future Workforce

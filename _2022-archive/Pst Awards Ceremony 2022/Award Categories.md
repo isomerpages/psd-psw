@@ -1,6 +1,6 @@
 ---
 title: Award Categories
-permalink: /pst-awards-ceremony-2022/PST-Awards-Ceremony-2022/award-categories/
+permalink: /pst-awards-ceremony-2022/pst-awards-ceremony-2022/award-categories/
 description: ""
 third_nav_title: Pst Awards Ceremony 2022
 ---
