@@ -24,7 +24,7 @@ Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to registe
 **Virtual Platform:** The event will be livestreamed via Zoom. Details will be shared closer to the event.
 
 ### Programme Highlights
-* [Guided Tours at Punggol Regional Library and ServiceSG Centre](/pswspark/guidedtours/)
+* [Guided Tours at Punggol Regional Library and ServiceSG Centre](https://www.publicserviceweek.gov.sg/pswspark/guidedtours/)
 
 * [One Public Service Quiz](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/ "https://psd-psw-staging.netlify.app/pswspark/onepsquiz/")&nbsp;
 
