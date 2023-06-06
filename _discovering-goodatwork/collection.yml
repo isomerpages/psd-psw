@@ -2,6 +2,7 @@ collections:
   discovering-goodatwork:
     output: true
     order:
+      - Sign Up for Job Sprint.md
       - About Discovering Good@Work.md
       - What Officers Say.md
       - Available Positions.md
