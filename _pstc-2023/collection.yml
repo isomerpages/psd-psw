@@ -2,7 +2,7 @@ collections:
   pstc-2023:
     output: true
     order:
-      - FAQs.md
       - About PST Convention.md
       - Panel Discussion.md
       - Breakout Sessions.md
+      - FAQs.md
