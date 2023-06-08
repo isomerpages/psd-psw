@@ -13,7 +13,7 @@ sections:
         - title: Expand Skills
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
-          url: https://www.publicserviceweek.gov.sg/discovering-goodatwork/about/
+          url: /discovering-goodatwork/about/
       background: /images/PSW2023/microsite banner1.png
   - infobar:
       title: Public Service Week
