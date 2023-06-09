@@ -17,7 +17,7 @@ Public Service Week 2023 kicks off with PSW: Spark. This opening event brings pu
 
 #### Event Registration
 
-Click [HERE](https://www.gevme.com/public-service-week-2023-43276652) to register for PSW: Spark!
+Click [HERE](https://go.gov.sg/psw2023reg) to register for PSW: Spark!
 
 **Date and Time:** 5 July 2023 (Wednesday), 2.30pm – 4.30pm   
 **Venue:** One Punggol, Multi-purpose Hall at Level 5 (1 Punggol Drive, Singapore 828629)

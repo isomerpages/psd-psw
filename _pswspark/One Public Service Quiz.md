@@ -17,7 +17,7 @@ Put your knowledge of the Public Service to the test by participating in the One
 #### Frequently Asked Questions (FAQs)
 
 **How do I take part in the One Public Service Quiz?**
-* Register to attend PSW: Spark [HERE](https://www.gevme.com/public-service-week-2023-43276652)
+* Register to attend PSW: Spark [HERE](https://go.gov.sg/psw2023reg)
 * Join the PSW: Spark live streaming at 2.30pm on 5 July 2023, Wednesday and **be the 1st 2,000 participants to enter the One Public Service Quiz on Kahoot!**
 
 **What do I need to join the Quiz?**

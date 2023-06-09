@@ -8,9 +8,9 @@ sections:
       key_highlights:
         - title: Celebrate Together
           url: /pswspark/about/
-        - title: Be Inspired
+        - title: Inspire Change
           url: /pstc-2023/about/
-        - title: Expand Skills
+        - title: Grow Skills
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: /discovering-goodatwork/about/
