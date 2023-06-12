@@ -6,9 +6,10 @@ description: Civil Service Club Facilities & Chalet Promotions
 ## Clubhouse Promotions 
 
 
-### FREE weekday access to any Civil Service Club swimming pools 
+### FREE access to any Civil Service Club swimming pools 
 
-FREE weekday access to any Civil Service Club swimming pools (officer and up to 2 paying guests)
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20swimming%20pools.png)
+FREE weekday access to any Civil Service Club swimming pools for officer and up to 2 paying guests. 
 
    
 
