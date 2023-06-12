@@ -9,7 +9,7 @@ description: Civil Service Club Facilities & Chalet Promotions
 ### FREE access to any Civil Service Club swimming pools 
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20swimming%20pools.png)
-FREE weekday access to any Civil Service Club swimming pools for officer and up to 2 paying guests. 
+Enjoy FREE weekday access to any Civil Service Club swimming pools for officer and up to 2 paying guests. 
 
    
 
@@ -22,8 +22,8 @@ For more information about the swimming pools, please visit:
 
 ### FREE access to Weekend Family Fun Pool
    
-
-FREE access to Weekend Family Fun Pool (1 Saturday)
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20weekend%20fun%20pool.png)
+Enjoy FREE access to Weekend Family Fun Pool on Saturday, 16 July 2023. 
 
 **Terms and Conditions**
 
@@ -38,9 +38,10 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2023 wit
 •  Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person.  
 • Please email to tessensohn@csc.sg if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
 
-### MEMBERS' RATE at Planet Bowl and Westwood Bowl
+### MEMBERS' RATE at Civil Service Club Bowling Alleys
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bowling%20alleys.png)
 
-MEMBERS' RATE at Planet Bowl and Westwood Bowl
+Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 **Terms and Conditions**
 
@@ -49,10 +50,10 @@ MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the bowling centres and rates, please visit:*
 
-### MEMBERS' RATE for booking of any BBQ facilities
+### MEMBERS' RATE for booking of any BBQ Facilities
 
 
-MEMBERS' RATE for booking of any BBQ facilities
+Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png)BBQ facilities
 
 **Terms and Conditions**
   
@@ -64,11 +65,11 @@ changi@csc.sg for BBQ Pavilion, CSC @ Changi and bukitbatok@csc.sg for Treehouse
 
 *For more information about the BBQ pits and rates, please visit:
 *
-### MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalets
+### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
-   
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20chalets.png)
 
-MEMBERS' RATE for booking of any CSC @ Changi l chalets, Changi II chalets and Loyang chalets
+Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chalets
 
 **Terms and Conditions**
    
@@ -83,7 +84,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
-   
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20superior%20deluxe.png)  
 
 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
@@ -101,6 +102,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
 ### 
    
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20function%20rooms.png)
 
 MEMBERS' RATE for booking of any Civil Service Club function rooms
 
