@@ -29,9 +29,10 @@ Click [HERE](https://go.gov.sg/psw2023reg) to register for PSW: Spark!
 
 * Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;
 
-* [Public Sector Transformation (PST) Awards Ceremony](https://psd-psw-staging.netlify.app/pswspark/pstac-2023/ "https://psd-psw-staging.netlify.app/pswspark/pstac-2023/")&nbsp;
+* [Public Sector Transformation (PST) Awards Ceremony](https://www.publicserviceweek.gov.sg/pswspark/pstac-2023/)&nbsp;
 
 * Presentation by PST Award Winner&nbsp;
+* Video by Head, Civil Service, Mr Leo Yip
 
 * Digital Exhibition Panels to Showcase PST Winners&nbsp;
 
