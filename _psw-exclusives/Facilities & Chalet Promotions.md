@@ -70,7 +70,10 @@ Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civ
 • To book, please email to:  
 changi@csc.sg for BBQ Pavilion, CSC @ Changi and bukitbatok@csc.sg for Treehouse BBQ, CSC @ Bukit Batok.
 
-*For more information about the BBQ pits and rates, please visit:*
+*For more information about the BBQ pits and rates, please visit:* <br>
+
+**Changi**: www.cscchangi.sg/Fun_BBQ.aspx <br> 
+**Bukit Batok**: www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation
 
 
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
