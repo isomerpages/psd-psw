@@ -29,8 +29,7 @@ Put your knowledge of the Public Service to the test by participating in the One
 * Go to https://kahoot.it and key in the Game PIN shown on the screen during the PSW: Spark live streaming.
 
 **How do I redeem the prize if I make it to the top 35?**
-* Winners will receive their e-vouchers via their work email address which they will provide when they join the Kahoot! quiz.
-* Do remember to acknowledge our email upon receipt of the e-vouchers!
+* Winners will be notified of the collection details during the event day.
 
 ***Important:*** *Do ensure your work email address is keyed in accurately.*
 
