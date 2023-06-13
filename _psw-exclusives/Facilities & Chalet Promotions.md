@@ -20,9 +20,9 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**Tessensohn**: www.csctessensohn.sg <br>
-**Changi**:  www.cscchangi.sg <br>
-**Bukit Batok**: www.cscbukitbatok.sg<br> 
+**[CSC Tessensohn](www.csctessensohn.sg)**: <br>
+**[CSC Bukit Batok](www.cscbukuitbatok.sg)**: <br>
+**[CSC Changi](www.cscchangi.sg/)**: <br>
 
 ### FREE access to Weekend Family Fun Pool
    
@@ -136,4 +136,4 @@ Changi@csc.sg for CSC @ Changi
  
 **Tessensohn**: www.csctessensohn.sg <br>
 **Changi**:  www.cscchangi.sg <br>
-**Bukit Batok**: www.cscbukitbatok.sg<br> 
+**Bukit Batok**: www.cscbukitbatok.sg<br>
