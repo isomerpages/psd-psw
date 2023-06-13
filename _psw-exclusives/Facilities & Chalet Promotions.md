@@ -91,7 +91,10 @@ Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chal
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: www.cscchangi.sg  
 
-*For more information about the CSC @ Loyang chalets , please visit: https://www.cscloyang.sg/*
+*For more information about the CSC @ Loyang chalets , please visit:*<br>
+
+**Changi**: https://www.cscchangi.sg <br>
+**Loyang**:https://www.cscloyang.sg
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
@@ -107,7 +110,9 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 • Email to rooms@csc.sg to book  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 
-*For more information about the CSC @ Changi l chalets, please visit:*
+*For more information about the CSC @ Changi l chalets, please visit:* <br>
+
+**Superior/ Deluxe Suite**: https://www.cscchangi.sg/Stay_SingleSuite.aspx 
 
 
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
@@ -127,4 +132,8 @@ Bukitbatok@csc.sg for CSC @ Bukit Batok
 Changi@csc.sg for CSC @ Changi  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
 
-*For more information about the function room rates, please visit:*
+*For more information about the function room rates, please visit:*<br>
+ 
+**Tessensohn**: www.csctessensohn.sg <br>
+**Changi**:  www.cscchangi.sg <br>
+**Bukit Batok**: www.cscbukitbatok.sg<br> 
