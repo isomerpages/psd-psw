@@ -32,15 +32,18 @@ Enjoy FREE access to Weekend Family Fun Pool on Saturday, 16 July 2023.
 **Terms and Conditions**
 
 The FREE weekend fun pool access is only available on Saturday, 16 July 2023 with only 4 sessions. Each public service officer is allowed to book only one time slot of 120 minutes on a first-come first-served basis as follows:  
+
 •&nbsp; 8.00am to 10.00am  
 •&nbsp; 10.30am to 12.30pm  
 •&nbsp; 1.30pm to 3.30pm  
 •&nbsp; 4.00pm to 6.00pm  
 
-•&nbsp; Bookings shall be made by via email to tessensohn@csc.sg  
+
+
+•&nbsp; Bookings shall be made by via email to<a href="tessensohn@csc.sg"> tessensohn@csc.sg</a><br>
 •&nbsp; Public service officers may register up to 5 participants including the applicant, family members and guests.  
 •&nbsp; Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person.  
-• Please email to tessensohn@csc.sg if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
+• Please email to <a href="tessensohn@csc.sg"> tessensohn@csc.sg</a> if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
 
 ### MEMBERS' RATE at Civil Service Club Bowling Alleys
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bowling%20alleys.png)
@@ -69,8 +72,7 @@ Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civ
 • Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ, CSC @ Bukit Batok from 1 to 31 July '23 for use period between 1 Aug and 31 Oct '23  
 • Prebooking is required.  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
-• To book, please email to:  
-changi@csc.sg for BBQ Pavilion, CSC @ Changi and bukitbatok@csc.sg for Treehouse BBQ, CSC @ Bukit Batok.
+• To book, please email to:<a href="changi@csc.sg"> changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi and <a href="changi@csc.sg"> bukitbatok@csc.sg</a> for Treehouse BBQ, CSC @ Bukit Batok.
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
@@ -108,7 +110,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July ‘23 for stay period between 1 Aug and 31 Oct ‘23.  
 • To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
 • Prebooking is required.  
-• Email to rooms@csc.sg to book  
+• Email to <a href="rooms@csc.sg"> rooms@csc.sg</a> to book  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 
 *For more information about the CSC @ Changi l chalets, please visit:* <br>
@@ -128,9 +130,9 @@ MEMBERS' RATE for booking of any Civil Service Club function rooms
 • Valid for booking of function rooms for personal events and functions, from 1 to 31 July ‘23 for use period between 1 Aug and 31 Oct ‘23.  
 • Prebooking is required.  
 • To book or to enquire about the rates, please email to:  
-Tessensohn@csc.sg for CSC @ Tessensohn  
-Bukitbatok@csc.sg for CSC @ Bukit Batok  
-Changi@csc.sg for CSC @ Changi  
+<a href="tessensohn@csc.sg"> tessensohn@csc.sg</a> for CSC @ Tessensohn  
+<a href="Bukitbatok@csc.sg"> Bukitbatok@csc.sg</a> for CSC @ Bukit Batok  
+<a href="changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
 
 *For more information about the function room rates, please visit:*<br>
