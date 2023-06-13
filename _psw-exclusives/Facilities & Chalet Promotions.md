@@ -20,9 +20,9 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**[CSC Tessensohn](www.csctessensohn.sg)**: <br>
-**[CSC Bukit Batok](www.cscbukuitbatok.sg)**: <br>
-**[CSC Changi](www.cscchangi.sg/)**: <br>
+**[CSC Tessensohn](www.csctessensohn.sg)** <br>
+**[CSC Bukit Batok](www.cscbukuitbatok.sg)** <br>
+**[CSC Changi](www.cscchangi.sg/)**<br>
 
 ### FREE access to Weekend Family Fun Pool
    
@@ -91,10 +91,9 @@ Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chal
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: www.cscchangi.sg  
 
-*For more information about the CSC @ Loyang chalets , please visit:*<br>
-
-**Changi**: https://www.cscchangi.sg <br>
-**Loyang**:https://www.cscloyang.sg
+*For more information about the CSC @ Loyang &amp; Changi I,II chalets , please visit:*<br>
+**[CSC Loyang](https://www.cscloyang.sg)** <br>
+**[CSC Changi](www.cscchangi.sg/)**<br>
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
@@ -112,7 +111,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 
 *For more information about the CSC @ Changi l chalets, please visit:* <br>
 
-**Superior/ Deluxe Suite**: https://www.cscchangi.sg/Stay_SingleSuite.aspx 
+**[CSC Changi I: Superior/ Deluxe Suite](https://www.cscchangi.sg/Stay_SingleSuite.aspx)**
 
 
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
@@ -134,6 +133,6 @@ Changi@csc.sg for CSC @ Changi
 
 *For more information about the function room rates, please visit:*<br>
  
-**Tessensohn**: www.csctessensohn.sg <br>
-**Changi**:  www.cscchangi.sg <br>
-**Bukit Batok**: www.cscbukitbatok.sg<br>
+**[CSC Tessensohn](www.csctessensohn.sg)** <br>
+**[CSC Bukit Batok](www.cscbukuitbatok.sg)** <br>
+**[CSC Changi](www.cscchangi.sg/)**<br>
