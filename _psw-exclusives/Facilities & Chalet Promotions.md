@@ -18,7 +18,11 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Valid on weekdays from 1 to 31 July '23 via walk-in.  
 • Public service officers must present their Civil Service card or staff pass in person, and register at the pool counter.  
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
-For more information about the swimming pools, please visit: 
+
+*For more information about the swimming pools, please visit:* <br> 
+**Tessensohn**: www.csctessensohn.sg <br>
+**Changi**:  www.cscchangi.sg <br>
+**Bukit Batok**: www.cscbukitbatok.sg<br> 
 
 ### FREE access to Weekend Family Fun Pool
    
@@ -28,14 +32,14 @@ Enjoy FREE access to Weekend Family Fun Pool on Saturday, 16 July 2023.
 **Terms and Conditions**
 
 The FREE weekend fun pool access is only available on Saturday, 16 July 2023 with only 4 sessions. Each public service officer is allowed to book only one time slot of 120 minutes on a first-come first-served basis as follows:  
-•  8.00am to 10.00am  
-•  10.30am to 12.30pm  
-•  1.30pm to 3.30pm  
-•  4.00pm to 6.00pm  
+•&nbsp; 8.00am to 10.00am  
+•&nbsp; 10.30am to 12.30pm  
+•&nbsp; 1.30pm to 3.30pm  
+•&nbsp; 4.00pm to 6.00pm  
 
-•  Bookings shall be made by via email to tessensohn@csc.sg  
-•  Public service officers may register up to 5 participants including the applicant, family members and guests.  
-•  Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person.  
+•&nbsp; Bookings shall be made by via email to tessensohn@csc.sg  
+•&nbsp; Public service officers may register up to 5 participants including the applicant, family members and guests.  
+•&nbsp; Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person.  
 • Please email to tessensohn@csc.sg if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
 
 ### MEMBERS' RATE at Civil Service Club Bowling Alleys
@@ -48,7 +52,10 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 • Valid on weekdays from 1 to 31 July ‘23 via walk-in.  
 • Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter.  
 
-*For more information about the bowling centres and rates, please visit:*
+*For more information about the bowling centres and rates, please visit:* <br> 
+**Planet Bowl**: www.csc.sg/planetbowl <br> 
+**Westwood Bow**l: www.csc.sg/westwoodbowl<br>
+
 
 ### MEMBERS' RATE for booking of any BBQ Facilities
 
@@ -63,8 +70,9 @@ Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civ
 • To book, please email to:  
 changi@csc.sg for BBQ Pavilion, CSC @ Changi and bukitbatok@csc.sg for Treehouse BBQ, CSC @ Bukit Batok.
 
-*For more information about the BBQ pits and rates, please visit:
-*
+*For more information about the BBQ pits and rates, please visit:*
+
+
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20chalets.png)
