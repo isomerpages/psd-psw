@@ -53,8 +53,10 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 • Public service officers must present their Civil Service card or staff pass in person, and register at the bowling counter.  
 
 *For more information about the bowling centres and rates, please visit:* <br> 
-**Planet Bowl**: www.csc.sg/planetbowl <br> 
-**Westwood Bow**l: www.csc.sg/westwoodbowl<br>
+
+**[CSC Planet Bowl](www.csc.sg/planetbowl)** <br>
+**[CSC Westwood Bowl](www.csc.sg/westwoodbowl)** <br>
+
 
 
 ### MEMBERS' RATE for booking of any BBQ Facilities
@@ -72,9 +74,9 @@ changi@csc.sg for BBQ Pavilion, CSC @ Changi and bukitbatok@csc.sg for Treehouse
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
-**Changi**: www.cscchangi.sg/Fun_BBQ.aspx <br> 
-**Bukit Batok**: www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation
 
+**[CSC Changi BBQ Pavillion](www.cscchangi.sg/Fun_BBQ.aspx)** <br>
+**[CSC Treehouse BBQ Pavilion](www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
 
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
