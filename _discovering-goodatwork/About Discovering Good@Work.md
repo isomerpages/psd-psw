@@ -3,7 +3,6 @@ title: About Discovering Good@Work
 permalink: /discovering-goodatwork/about/
 description: ""
 ---
-h
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DZu5GTZ_504" height="315" width="560"></iframe>
 </center>
