@@ -2,7 +2,7 @@ collections:
   discovering-goodatwork:
     output: true
     order:
-      - Avail Pos.md
+      - Browse Available Positions.md
       - About Discovering Good@Work.md
       - What Officers Say.md
       - Frequently Asked Questions (FAQs).md
