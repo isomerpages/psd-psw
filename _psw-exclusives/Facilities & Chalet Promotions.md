@@ -23,6 +23,7 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 **[CSC Tessensohn](www.csctessensohn.sg)** <br>
 **[CSC Bukit Batok](www.cscbukuitbatok.sg)** <br>
 **[CSC Changi](www.cscchangi.sg/)**<br>
+[www.csctessensohn.sg](www.csctessensohn.sg)
 
 ### FREE access to Weekend Family Fun Pool
    
