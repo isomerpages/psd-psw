@@ -20,7 +20,7 @@ Our digestive system plays a crucial role in breaking down the foods we consume,
 • Signs and symptoms of unhealthy gut <br>
 • What to eat for good gut health?<br>
 
-**Dates:** Sat, 1 Jul ’23 <br>
+**Dates:** Sat, 15 Jul ’23 <br>
 **Time:** 11am – 12.30pm<br>
 **Contact:** To register, please email   Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a><br>
 **Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
