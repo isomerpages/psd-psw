@@ -65,7 +65,7 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 ### MEMBERS' RATE for booking of any BBQ Facilities
 
 
-Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png)BBQ facilities
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png) Enjoy MEMBERS' RATE for booking of any BBQ facilities
 
 **Terms and Conditions**
   
