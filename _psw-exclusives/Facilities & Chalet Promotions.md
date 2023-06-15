@@ -20,9 +20,9 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**[CSC Tessensohn](www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](www.cscchangi.sg/)**<br>
+**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
+**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
+**[CSC Changi](https://www.cscchangi.sg/)**<br>
 
 ### FREE access to Weekend Family Fun Pool
    
@@ -40,10 +40,10 @@ The FREE weekend fun pool access is only available on Saturday, 16 July 2023 wit
 
 
 
-•&nbsp; Bookings shall be made by via email to<a href="tessensohn@csc.sg"> tessensohn@csc.sg</a><br>
+•&nbsp; Bookings shall be made by via email to<a href="mailto: tessensohn@csc.sg"> tessensohn@csc.sg</a><br>
 •&nbsp; Public service officers may register up to 5 participants including the applicant, family members and guests.  
 •&nbsp; Public service officers may only sign in a up to 4 guests (non-public officers). There will be a guest fee of $5 per person.  
-• Please email to <a href="tessensohn@csc.sg"> tessensohn@csc.sg</a> if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
+• Please email to <a href="mailto: tessensohn@csc.sg"> tessensohn@csc.sg</a> if the public service officer intends to bring in more than 4 guests. This will be subjected to capacity limit and a confirmation response will be provided once the request is approved.
 
 ### MEMBERS' RATE at Civil Service Club Bowling Alleys
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bowling%20alleys.png)
@@ -57,8 +57,8 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the bowling centres and rates, please visit:* <br> 
 
-**[CSC Planet Bowl](www.csc.sg/planetbowl)** <br>
-**[CSC Westwood Bowl](www.csc.sg/westwoodbowl)** <br>
+**[CSC Planet Bowl](https://www.csc.sg/planetbowl)** <br>
+**[CSC Westwood Bowl](https://www.csc.sg/westwoodbowl)** <br>
 
 
 
@@ -72,13 +72,12 @@ Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civ
 • Valid for booking of BBQ Pavilion, CSC @ Changi l or Treehouse BBQ, CSC @ Bukit Batok from 1 to 31 July '23 for use period between 1 Aug and 31 Oct '23  
 • Prebooking is required.  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
-• To book, please email to:<a href="changi@csc.sg"> changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi and <a href="changi@csc.sg"> bukitbatok@csc.sg</a> for Treehouse BBQ, CSC @ Bukit Batok.
+• To book, please email to:<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for BBQ Pavilion, CSC @ Changi and <a href="mailto: changi@csc.sg"> bukitbatok@csc.sg</a> for Treehouse BBQ, CSC @ Bukit Batok.
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
-
-**[CSC Changi BBQ Pavillion](www.cscchangi.sg/Fun_BBQ.aspx)** <br>
-**[CSC Treehouse BBQ Pavilion](www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
+**[CSC Changi BBQ Pavillion](https://www.cscchangi.sg/Fun_BBQ.aspx)** <br>
+**[CSC Treehouse BBQ Pavilion](https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
 
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
@@ -93,11 +92,11 @@ Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chal
 • Prebooking is required.  
 • For booking of chalets, please visit https://www.cscchalets.sg and use the relevant Public Service Priority Code  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
-For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: www.cscchangi.sg  
+For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: https://www.cscchangi.sg  
 
 *For more information about the CSC @ Loyang &amp; Changi I,II chalets , please visit:*<br>
 **[CSC Loyang](https://www.cscloyang.sg)** <br>
-**[CSC Changi](www.cscchangi.sg/)**<br>
+**[CSC Changi](https://www.cscchangi.sg/)**<br>
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
@@ -110,7 +109,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July ‘23 for stay period between 1 Aug and 31 Oct ‘23.  
 • To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
 • Prebooking is required.  
-• Email to <a href="rooms@csc.sg"> rooms@csc.sg</a> to book  
+• Email to <a href="mailto: rooms@csc.sg"> rooms@csc.sg</a> to book  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 
 *For more information about the CSC @ Changi l chalets, please visit:* <br>
@@ -130,13 +129,13 @@ MEMBERS' RATE for booking of any Civil Service Club function rooms
 • Valid for booking of function rooms for personal events and functions, from 1 to 31 July ‘23 for use period between 1 Aug and 31 Oct ‘23.  
 • Prebooking is required.  
 • To book or to enquire about the rates, please email to:  
-<a href="tessensohn@csc.sg"> tessensohn@csc.sg</a> for CSC @ Tessensohn  
-<a href="Bukitbatok@csc.sg"> Bukitbatok@csc.sg</a> for CSC @ Bukit Batok  
-<a href="changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi  
+<a href="mailto: tessensohn@csc.sg"> tessensohn@csc.sg</a> for CSC @ Tessensohn  
+<a href="mailto: Bukitbatok@csc.sg"> Bukitbatok@csc.sg</a> for CSC @ Bukit Batok  
+<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
 
 *For more information about the function room rates, please visit:*<br>
  
-**[CSC Tessensohn](www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](www.cscchangi.sg/)**<br>
+**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
+**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
+**[CSC Changi](https://www.cscchangi.sg/)**<br>
