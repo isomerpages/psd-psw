@@ -53,7 +53,7 @@ Amidst our fast-paced and busy daily lives, stress and anxiety often become unav
 <br>
 Crawl like a bear, scuttle like a crab, reach like an ape. Animal Flow is a bodyweight movement fitness workout focused on ground-based work to improve mobility, stability, strength and power. It challenges the body through multiple planes of movements and is a great complement to barbell work and explosive power athletes (runners, jumpers, martial arts, etc).
 
-**Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto:gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
+**Dates:** Fri, 14 Jul ’23 <br>**Time:** 7.30pm – 8.30pm<br>**Contact:** To register, please email Chong Chen @ <a href="mailto: gohchongchen@csc.sg">gohchongchen@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
 
