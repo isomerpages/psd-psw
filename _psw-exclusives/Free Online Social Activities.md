@@ -81,7 +81,7 @@ Learn how to whip up insta-worthy sweet treats from the Head ‘Cake-tist’ of 
 
 **Orange Pound Cake Date:** Sat, 8 Jul ’23 <br>**Time:** 11am – 12pm<br><br>**Egg Tart Date:** Sat, 29 Jul ’23 <br>**Time:** 11am – 12pm<br>
 
-**Contact:** To register, please email Gek Cheng @ <a href="mailto:kuagekcheng@csc.sg">kuagekcheng@csc.sg</a> <br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
+**Contact:** To register, please email Serene @ <a href="mailto:serenecho@csc.sg">serenecho@csc.sg</a><br>**Register by:** Pre-registration is required one week before the session. The event link will be emailed to participants upon confirmation of your registration.
 
 
 ### Workshop: Pastel Nagomi Art Demo
