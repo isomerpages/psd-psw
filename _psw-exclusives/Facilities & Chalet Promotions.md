@@ -77,6 +77,7 @@ Enjoy MEMBERS' RATE for booking of any ![](/images/PSW2023%20Exclusive_image/civ
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
+[CSC Changi BBQ Pavillion](www.cscchangi.sg/Fun_BBQ.aspx)
 
 **[CSC Changi BBQ Pavillion](www.cscchangi.sg/Fun_BBQ.aspx)** <br>
 **[CSC Treehouse BBQ Pavilion](www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
