@@ -28,6 +28,11 @@ sections:
       image: /images/PSW2023/psw2023 logo.png
       alt: Image alt text
       subtitle: "2023"
+  - infobar:
+      title: Register for PSW023
+      subtitle: Celebrate With Us
+      button: CLICK TO REGISTER
+      url: https://www.gevme.com/public-service-week-2023-43276652
 description: Description
 image: /images/PSW2023/psw2023 logo.png
 notification: ""
