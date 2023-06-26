@@ -20,6 +20,6 @@ payment page to enjoy the discount. <br>
 * Civil Service Club reserves the right to change or amend the terms &amp; conditions of the promotion at any time
 without prior notice.
 
-[Visit to Apply Now](https://gateway.csc.sg/webclub/membership/clubnewsignup.tbred?webpage=newmbrsignup&amp;ACTION=Continue)
+[Apply Now](https://gateway.csc.sg/webclub/membership/clubnewsignup.tbred?webpage=newmbrsignup&amp;ACTION=Continue)
 
-[Log In to Renew ](https://gateway.csc.sg/webclub/facilities/)
+[Renew Now ](https://gateway.csc.sg/webclub/facilities/)
