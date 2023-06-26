@@ -7,4 +7,9 @@ description: Civil Service Club Membership Promotions
 <br>
 ### Ordinary Term Membership Promotion
 ![](/images/PSW2023%20Exclusive_image/psw%20ordinary%20term%20membership%2023.jpg)<br> 
+
+
+**Terms and Conditions**
+
+
 [Apply Now](https://gateway.csc.sg/webclub/membership/clubnewsignup.tbred?webpage=newmbrsignup&amp;ACTION=Continue)
