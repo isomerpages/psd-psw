@@ -80,6 +80,8 @@ Embark on an unforgettable journey with Resorts World Cruises - Genting Dream an
 Fave is Southeast Asia’s fast growing smart payment app. They aim to bring customers the best deals and promotions to help them save money at all their favourite places. Browse, buy, and seamlessly redeem the best restaurant deals, as well as spa, massage, travel, and activity offers using the Fave app. With FavePay, Deals and eCards, they help customers save more. Save more on brands you love such as Ajisen Ramen, Kei Kaisendon, Mr The Tarik Express, Shi Li Fang Hot Pot, Jollibean Group, Ji De Chi Dessert, Hong Kong Egglet, Coucou Hotpot‧Brew Tea, Coslab, N20 Nail Spa, EX Stule Prestige, Sonic Bowl, Teo Heng KTV Studio, Cathat Cineplexes, Timezone Singapore, Nippon Home, Boarding Gate, Mr Fix, Shine Korea and many more.
 
 **Terms and Conditions**
+```
+```
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
 * Use **NEW4PSW** for new Fave users only on Fave app or https://myfave.com/ . Applicable to FavePay, eCards and FaveDeals transactions only
@@ -87,3 +89,5 @@ Fave is Southeast Asia’s fast growing smart payment app. They aim to bring cus
 * Both promocodes are valid till 31 July 2023
 * Offer not valid with other discounts, promotions, vouchers or privileges
 * The management reserves the right to amend the terms and conditions without prior notice
+```
+```
