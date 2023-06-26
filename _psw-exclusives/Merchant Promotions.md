@@ -15,7 +15,7 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion. <br>  
-* Use CSCTAKE5 on http://deliveroo.com.sg/ <br> 
+* Use CSCTAKE5 on [http://deliveroo.com.sg/](http://deliveroo.com.sg/) <br> 
 * Valid for dine-in and takeaway<br> 
 * Promotion is limited to 1,000 redemptions <br> 
 * Offer not valid with other discounts, promotions, vouchers or privileges <br> 
@@ -31,8 +31,8 @@ KLOOK is a world-leading travel activities and services booking platform. KLOOK 
 
 **Terms and Conditions**
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion.<br> 
-* Use KLOOKPSWEEK2023 on https://www.klook.com/en-SG/ <br> 
+* Use KLOOKPSWEEK2023 on [https://www.klook.com/en-SG/](https://www.klook.com/en-SG/) <br> 
 * Limited checkouts apply. <br> 
 * Offer not valid with other discounts, promotions, vouchers or privileges <br> 
 * The management reserves the right to amend the terms and conditions without prior notice <br> 
-* Please contact support@klook.com to enquire more
+* Please contact <a href="mailto: support@klook.com"> support@klook.com</a> to enquire more
