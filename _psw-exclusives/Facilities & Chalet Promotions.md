@@ -3,7 +3,8 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-## Clubhouse Promotions 
+![](/images/PSW2023%20Exclusive_image/psw%202023%20website%20image%20(2).png)
+
 
 
 ### FREE access to any Civil Service Club swimming pools 
