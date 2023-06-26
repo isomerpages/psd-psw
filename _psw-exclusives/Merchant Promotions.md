@@ -23,6 +23,8 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 
 <br> 
 
+![klook_banner](/images/PSW2023%20Exclusive_image/klook%20banner.png)
+
 ### Enjoy SGD 10 off your Klook purchase with a minimum spend of $150!
 
 
