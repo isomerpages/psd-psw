@@ -6,6 +6,8 @@ description: Civil Service Club Merchant Promotions
 ![](/images/PSW2023%20Exclusive_image/psw%202023%20merchant.png)
 <br> 
 
+Civil Service Club is delighted to partner with these merchants for a collection of exclusive promotions for public service officers and CSC members this Public Service Week. Take advantage of these enticing offers, available throughout the month of July! Terms apply.
+
 ### Order on Deliveroo and enjoy $5 off with minimum spend of $20!
 
 
