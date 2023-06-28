@@ -24,6 +24,8 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 * Offer not valid with other discounts, promotions, vouchers or privileges <br> 
 * The management reserves the right to amend the terms and conditions without prior notice.
 
+###### the management reserves the right
+
 <br> 
 
 ### Enjoy SGD 10 OFF your Klook purchase with a minimum spend of $150!
@@ -31,7 +33,6 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 ![klook_banner](/images/PSW2023%20Exclusive_image/klook%20banner.png)
 
 KLOOK is a world-leading travel activities and services booking platform. KLOOK empowers travellers around the world to discover, book and experience the most iconic things to do anywhere, anytime.
-
 
 **Terms and Conditions**
   
