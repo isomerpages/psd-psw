@@ -15,7 +15,7 @@ Civil Service Club is delighted to partner with these merchants for a collection
 
 From delightful brunches to satisfying dinners, party nights to cozy family cookouts, you can Deliveroo it when hunger hits! Order from the comfort of your own homes and get your food and groceries delivered right to your doorstep. 
 
-**Terms and Conditions**
+###### **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion. <br>  
 * Use **CSCTAKE5** on [http://deliveroo.com.sg/](http://deliveroo.com.sg/) <br> 
@@ -23,8 +23,6 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 * Promotion is limited to 1,000 redemptions <br> 
 * Offer not valid with other discounts, promotions, vouchers or privileges <br> 
 * The management reserves the right to amend the terms and conditions without prior notice.
-
-###### the management reserves the right
 
 <br> 
 
@@ -34,7 +32,7 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 
 KLOOK is a world-leading travel activities and services booking platform. KLOOK empowers travellers around the world to discover, book and experience the most iconic things to do anywhere, anytime.
 
-**Terms and Conditions**
+###### **Terms and Conditions**
   
 *   Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
 *   Use **“KLOOKPSWEEK2023**” on [https://www.klook.com/en-SG/](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.klook.com%2Fen-SG%2F&amp;e=d16cce0e&amp;h=24ecdd65&amp;f=y&amp;p=n "www.klook.com") to get SGD 10 off Klook activities with a minimum spend of S$150. Discount is applicable for all overseas and local activities unless specified otherwise.
@@ -65,7 +63,7 @@ KLOOK is a world-leading travel activities and services booking platform. KLOOK 
 
 Fave is Southeast Asia’s fast growing smart payment app. They aim to bring customers the best deals and promotions to help them save money at all their favourite places. Browse, buy, and seamlessly redeem the best restaurant deals, as well as spa, massage, travel, and activity offers using the Fave app. With FavePay, Deals and eCards, they help customers save more. Save more on brands you love such as Ajisen Ramen, Kei Kaisendon, Mr Teh Tarik Express, Shi Li Fang Hot Pot, Jollibean Group, Ji De Chi Dessert, Hong Kong Egglet, Coucou Hotpot‧Brew Tea, Coslab, N20 Nail Spa, EX Stule Prestige, Sonic Bowl, Teo Heng KTV Studio, Cathay Cineplexes, Timezone Singapore, Nippon Home, Boarding Gate, Mr Fix, Shine Korea and many more.
 
-**Terms and Conditions**
+###### **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
 * Use **NEW4PSW** for new Fave users only on Fave app or https://myfave.com/ . Applicable to FavePay, eCards and FaveDeals transactions only
