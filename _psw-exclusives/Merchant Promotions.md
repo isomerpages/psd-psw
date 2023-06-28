@@ -58,26 +58,6 @@ KLOOK is a world-leading travel activities and services booking platform. KLOOK 
 
 <br>
 
-### Get up to $100 OFF + up to $40 Complimentary onboard credits when you book a cruise and sail onboard Genting Dream
-
-Embark on an unforgettable journey with Resorts World Cruises - Genting Dream and enjoy fantastic savings of up to $100 per cabin and what’s more, you get complimentary up to $40 onboard credits to treat yourself to delicious dining experiences, exciting onboard activities, rejuvenating spa treatments, or indulge in some retail therapy. The choice is yours with these complimentary credits! Imagine the incredible destinations and breathtaking experiences awaiting you, all at a discounted price! Don't miss out on this amazing offer to make your cruise vacation a reality
-
-**Terms and Conditions**
-* Offer is applicable to valid Civil Service Club (CSC) member &amp; public service officers.
-* Strictly booking via email: <a href="mailto: sg.sales@rwcruises.com"> sg.sales@rwcruises.com</a>
-* Offers stated are based on per cabin basis
-* Booking period: 1 – 31 Jul 2023 for sailings till 28 Apr 2024
-* Applicable to Genting Dream Sailings Ex-Singapore only. 
-* Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested during reservation or at the terminal to enjoy the promotion.
-* Bookings are subjected to capacity control per sailing.
-* Not applicable to promotion such as Flash Deals and any promotions stated by Resorts World Cruises
-* Resorts World Cruises reserved the right to check your membership @ the terminal for verification purpose. 
-* The privilege may be changed without prior notice
-* Other Terms &amp; Conditions apply Please contact <a href="mailto: sg.sales@rwcruises.com"> sg.sales@rwcruises.com</a>  to make enquiries or reservation.
-
-<br> 
-
-
 ### Enjoy $4 Fave Cashback for new users + 10% Fave cashback for existing users
 
 ![](/images/csc-psw-670x290.png)
