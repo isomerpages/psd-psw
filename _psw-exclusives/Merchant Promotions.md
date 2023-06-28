@@ -16,11 +16,11 @@ Civil Service Club is delighted to partner with these merchants for a collection
 From delightful brunches to satisfying dinners, party nights to cozy family cookouts, you can Deliveroo it when hunger hits! Order from the comfort of your own homes and get your food and groceries delivered right to your doorstep. 
 
 ###### **Terms and Conditions**
-###### * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion. <br>  
-###### * Use **CSCTAKE5** on [http://deliveroo.com.sg/](http://deliveroo.com.sg/) <br> 
-###### * Valid for dine-in and takeaway<br> 
-###### * Promotion is limited to 1,000 redemptions <br> 
-###### * Offer not valid with other discounts, promotions, vouchers or privileges <br> 
+###### * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion.
+###### * Use **CSCTAKE5** on [http://deliveroo.com.sg/](http://deliveroo.com.sg/)
+###### * Valid for dine-in and takeaway
+###### * Promotion is limited to 1,000 redemptions
+###### * Offer not valid with other discounts, promotions, vouchers or privileges
 ###### * The management reserves the right to amend the terms and conditions without prior notice.
 
 <br> 
