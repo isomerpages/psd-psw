@@ -119,7 +119,6 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 
 
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
-### 
    
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20function%20rooms.png)
 
