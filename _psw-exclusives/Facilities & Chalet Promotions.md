@@ -61,10 +61,10 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 
 
-### MEMBERS' RATE for booking of any BBQ Facilities
+### MEMBERS' RATE for booking of any CSC BBQ Facilities
 
 
-![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png) Enjoy MEMBERS' RATE for booking of any BBQ facilities
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png) Enjoy MEMBERS' RATE for booking of any CSC BBQ facilities
 
 **Terms and Conditions**
   
@@ -75,8 +75,8 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
-**[CSC Changi BBQ Pavillion](https://www.cscchangi.sg/Fun_BBQ.aspx)** <br>
-**[CSC Treehouse BBQ Pavilion](https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
+**[CSC @ Changi I (BBQ Pavillion)](https://www.cscchangi.sg/Fun_BBQ.aspx)** <br>
+**[CSC @ Bukit Batok (Treehouse BBQ Pavilion)](https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
 
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
@@ -101,7 +101,7 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20superior%20deluxe.png)  
 
-50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
+50% OFF for 2nd night stay at CSC @ Changi I Superior or Deluxe suite
 
 **Terms and Conditions**
   
