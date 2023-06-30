@@ -88,6 +88,8 @@ Note: Stack this promotion with the [Existing Deal](https://csc.sg/Partners/rwc)
 
 KLOOK is a world-leading travel activities and services booking platform. KLOOK empowers travellers around the world to discover, book and experience the most iconic things to do anywhere, anytime.
 
+Note: Don't Miss the existing deals for [Public Service Officers](https://www.klook.com/business/pso-sg) and [CSC Members](https://csc.sg/Partners/klook)
+
 **Terms and Conditions**
   
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
