@@ -9,7 +9,6 @@ description: Civil Service Club Membership Promotions
 ![](/images/PSW2023%20Exclusive_image/psw%20ordinary%20term%20membership%202023.png)
 
 **Terms and Conditions**
-Terms and conditions:
 * Promotion is applicable for new and renewal of 1-Year Ordinary Term Membership between 1 Jul to 31 Aug 2023. <br>
 * Promotion is only applicable to active Public Service Officers. Applicants will need to submit their staff pass for
 verification.<br>
