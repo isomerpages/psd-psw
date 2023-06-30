@@ -3,7 +3,6 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-
 ![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
 ### FREE weekday access to any Civil Service Club swimming pools 
@@ -27,7 +26,7 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 ### FREE access to Weekend Family Fun Pool
    
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20weekend%20fun%20pool.png)
-Enjoy FREE access to Weekend Family Fun Pool on Saturday, 16 July 2023. 
+Enjoy FREE access to Weekend Family Fun Pool on Saturday on 16 July 2023. 
 
 **Terms and Conditions**
 
