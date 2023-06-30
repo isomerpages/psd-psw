@@ -9,6 +9,7 @@ description: Civil Service Club Merchant Promotions
 Civil Service Club is delighted to partner with these merchants for a collection of exclusive promotions for public service officers and CSC members this Public Service Week. Take advantage of these enticing offers, available throughout the month of July! Terms apply.
 
 
+
 ### Order on Deliveroo and enjoy $5 OFF with minimum spend of $20!
 
 ![](/images/PSW2023%20Exclusive_image/psw%20week%20listing%20-%2028062023-100.jpg)
@@ -27,7 +28,7 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 
 ### Enjoy $4 Fave Cashback for new users + 10% Fave cashback for existing users
 
-![](/images/csc-psw-670x290.png)
+![](/images/PSW2023%20Exclusive_image/fave_promo.jpg)
 
 Fave is Southeast Asia’s fast growing smart payment app. They aim to bring customers the best deals and promotions to help them save money at all their favourite places. Browse, buy, and seamlessly redeem the best restaurant deals, as well as spa, massage, travel, and activity offers using the Fave app. With FavePay, Deals and eCards, they help customers save more. Save more on brands you love such as Ajisen Ramen, Kei Kaisendon, Mr Teh Tarik Express, Shi Li Fang Hot Pot, Jollibean Group, Ji De Chi Dessert, Hong Kong Egglet, Coucou Hotpot‧Brew Tea, Coslab, N20 Nail Spa, EX Stule Prestige, Sonic Bowl, Teo Heng KTV Studio, Cathay Cineplexes, Timezone Singapore, Nippon Home, Boarding Gate, Mr Fix, Shine Korea and many more.
 
