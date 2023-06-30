@@ -6,8 +6,7 @@ description: Civil Service Club Membership Promotions
 ![](/images/PSW2023%20Exclusive_image/psw_membership_promo.png)
 <br>
 ### Ordinary Term Membership Promotion
-![](/images/PSW2023%20Exclusive_image/psw%20ordinary%20term%20membership%2023.jpg)<br> 
-
+![](/images/PSW2023%20Exclusive_image/psw%20ordinary%20term%20membership%202023.png)
 
 **Terms and Conditions**
 Terms and conditions:
