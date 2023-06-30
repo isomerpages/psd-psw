@@ -3,7 +3,7 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
+https://www.cscchalets.sg![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
 
 
@@ -88,16 +88,16 @@ Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chal
 
 **Terms and Conditions**
    
-• Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalets from 1 to 31 July '23 for stay period between 1 Aug and 31 Oct '23.  
-• To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
+• Valid for booking of CSC @ Changi l chalets, CSC @ Changi II chalets and CSC @ Loyang chalets from 1 to 31 July '23 for stay period between 1 Aug and 31 Oct '23.  
+• To view chalet availability and rates, please visit [https://www.cscchalets.sg](https://www.cscchalets.sg) and select check availability.  
 • Prebooking is required.  
-• For booking of chalets, please visit https://www.cscchalets.sg and use the relevant Public Service Priority Code  
+• For booking of chalets, please visit [ https://www.cscchalets.sg ]( https://www.cscchalets.sg ) and use the relevant Public Service Priority Code  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
-For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: https://www.cscchangi.sg  
+For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: [https://www.cscchalets.sg](https://www.cscchalets.sg)
 
 *For more information about the CSC @ Loyang &amp; Changi I,II chalets , please visit:*<br>
-**[CSC Loyang](https://www.cscloyang.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Loyang](https://www.cscloyang.sg)** <br>
+**[CSC @ Changi I &amp; II](https://www.cscchangi.sg/)**<br>
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
@@ -108,14 +108,14 @@ For more information about the CSC @ Changi l chalets and CSC @ Changi II chalet
 **Terms and Conditions**
   
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July ‘23 for stay period between 1 Aug and 31 Oct ‘23.  
-• To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
+• To view chalet availability and rates, please visit [https://www.cscchalets.sg](https://www.cscchalets.sg) and select check availability.  
 • Prebooking is required.  
 • Email to <a href="mailto: rooms@csc.sg"> rooms@csc.sg</a> to book  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 
 *For more information about the CSC @ Changi l chalets, please visit:* <br>
 
-**[CSC Changi I: Superior/ Deluxe Suite](https://www.cscchangi.sg/Stay_SingleSuite.aspx)**
+**[CSC @ Changi I: Superior/ Deluxe Suite](https://www.cscchangi.sg/Stay_SingleSuite.aspx)**
 
 
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
