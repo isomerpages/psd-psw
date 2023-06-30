@@ -3,11 +3,10 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-https://www.cscchalets.sg![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
+![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
-
-### FREE access to any Civil Service Club swimming pools 
+### FREE weekday access to any Civil Service Club swimming pools 
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20swimming%20pools.png)
 Enjoy FREE weekday access to any Civil Service Club swimming pools for officer and up to 2 paying guests. 
@@ -21,9 +20,9 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**[CSC @ Tessensohn](https://www.csctessensohn.sg)** <br>
-**[CSC @ Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
-**[CSC @ Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Tessensohn](https://www.csctessensohn.sg/fun_SwimmingPool.aspx)** <br>
+**[CSC @ Bukit Batok](https://www.cscbukitbatok.sg/Civil-Service-Club-Bukit-Batok-Swimming-Pool-Club-House-Water-Park-Feature)** <br>
+**[CSC @ Changi I](https://www.cscchangi.sg/Fun_Swimming.aspx)**<br>
 
 ### FREE access to Weekend Family Fun Pool
    
