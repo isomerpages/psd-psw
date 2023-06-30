@@ -3,7 +3,7 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-![](/images/PSW2023%20Exclusive_image/psw_clubhhouse_promo.png)
+![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
 
 
@@ -21,9 +21,9 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Tessensohn](https://www.csctessensohn.sg)** <br>
+**[CSC @ Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
+**[CSC @ Changi](https://www.cscchangi.sg/)**<br>
 
 ### FREE access to Weekend Family Fun Pool
    
@@ -58,8 +58,8 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the bowling centres and rates, please visit:* <br> 
 
-**[CSC Planet Bowl](https://www.csc.sg/planetbowl)** <br>
-**[CSC Westwood Bowl](https://www.csc.sg/westwoodbowl)** <br>
+**[Planet Bowl, CSC @ Tessensohn](https://www.csc.sg/planetbowl)** <br>
+**[Westwood Bowl,, CSC @ Bukit Batok](https://www.csc.sg/westwoodbowl)** <br>
 
 
 
