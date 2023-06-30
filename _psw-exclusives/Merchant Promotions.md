@@ -61,7 +61,7 @@ Sentosa is a sunny island in Singapore, home to exciting events, themed attracti
 
 ### Get up to $100 off + up to $40 Complimentary onboard credits when you book a cruise and sail onboard Genting Dream
 
-![](/images/PSW2023%20Exclusive_image/psw%20rwc%20kv_generic.png)
+![](/images/PSW2023%20Exclusive_image/rws_psw_promo.jpg)
 
 Embark on an unforgettable journey with Resorts World Cruises - Genting Dream and enjoy fantastic savings of up to $100 per cabin and what’s more, you get complimentary up to $40 onboard credits to treat yourself to delicious dining experiences, exciting onboard activities, rejuvenating spa treatments, or indulge in some retail therapy. The choice is yours with these complimentary credits! Imagine the incredible destinations and breathtaking experiences awaiting you, all at a discounted price! Don't miss out on this amazing offer to make your cruise vacation a reality!
 
