@@ -83,7 +83,7 @@ Embark on an unforgettable journey with Resorts World Cruises - Genting Dream an
 
 ### Enjoy SGD 10 OFF your Klook purchase with a minimum spend of $150!
 
-![klook_banner](/images/PSW2023%20Exclusive_image/klook%20banner.png)
+![](/images/PSW2023%20Exclusive_image/csc-public-service-week_670x290_csc-banner.png)
 
 KLOOK is a world-leading travel activities and services booking platform. KLOOK empowers travellers around the world to discover, book and experience the most iconic things to do anywhere, anytime.
 
