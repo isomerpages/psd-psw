@@ -44,7 +44,7 @@ Fave is Southeast Asia’s fast growing smart payment app. They aim to bring cus
 
 ### Sign up as an Islander Member to receive 800 points and be upgraded to the Insider tier
 
-![](/images/PSW2023%20Exclusive_image/sentosa_sg_islander_csc_670x290px.jpg)
+![](/images/PSW2023%20Exclusive_image/sentosa_sg_islander_psd_1220x600px.jpg)
 
 Sentosa is a sunny island in Singapore, home to exciting events, themed attractions, award-winning spas, lush rainforests, golden sandy beaches and resort-style hotels
 
