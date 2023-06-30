@@ -34,8 +34,8 @@ Fave is Southeast Asia’s fast growing smart payment app. They aim to bring cus
 **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
-* Use **NEW4PSW** for new Fave users only on Fave app or [https://myfave.com/](https://myfave.com/). Applicable to FavePay, eCards and FaveDeals transactions only
-* Use **FAVE10CSC** for all Fave users on Fave app or [https://myfave.com/](https://myfave.com/) . Applicable to eCards and FaveDeals transactions 
+* Use **NEW4PSW** for new Fave users only on Fave app or [https://myfave.com/](https://myfave.com/) Applicable to FavePay, eCards and FaveDeals transactions only
+* Use **FAVE10CSC** for all Fave users on Fave app or [https://myfave.com/](https://myfave.com/). Applicable to eCards and FaveDeals transactions 
 * Both promo codes are valid till 31 July 2023
 * Offer not valid with other discounts, promotions, vouchers or privileges
 * The management reserves the right to amend the terms and conditions without prior notice
