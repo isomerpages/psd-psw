@@ -18,7 +18,7 @@ From delightful brunches to satisfying dinners, party nights to cozy family cook
 **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion.
-* Use **CSCTAKE5** on [http://deliveroo.com.sg/](http://deliveroo.com.sg/)
+* Use **CSCTAKE5** on [http://deliveroo.com.sg/](http://deliveroo.com.sg/) 
 * Valid for dine-in and takeaway
 * Promotion is limited to 1,000 redemptions
 * Offer not valid with other discounts, promotions, vouchers or privileges
@@ -34,8 +34,8 @@ Fave is Southeast Asia’s fast growing smart payment app. They aim to bring cus
 **Terms and Conditions**
 
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
-* Use **NEW4PSW** for new Fave users only on Fave app or https://myfave.com/ . Applicable to FavePay, eCards and FaveDeals transactions only
-* Use **FAVE10CSC** for all Fave users on Fave app or https://myfave.com/ . Applicable to eCards and FaveDeals transactions 
+* Use **NEW4PSW** for new Fave users only on Fave app or [https://myfave.com/](https://myfave.com/). Applicable to FavePay, eCards and FaveDeals transactions only
+* Use **FAVE10CSC** for all Fave users on Fave app or [https://myfave.com/](https://myfave.com/) . Applicable to eCards and FaveDeals transactions 
 * Both promo codes are valid till 31 July 2023
 * Offer not valid with other discounts, promotions, vouchers or privileges
 * The management reserves the right to amend the terms and conditions without prior notice
@@ -50,7 +50,7 @@ KLOOK is a world-leading travel activities and services booking platform. KLOOK 
 **Terms and Conditions**
   
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion
-* Use **“KLOOKPSWEEK2023**” on [https://www.klook.com/en-SG/](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fwww.klook.com%2Fen-SG%2F&amp;e=d16cce0e&amp;h=24ecdd65&amp;f=y&amp;p=n "www.klook.com") to get SGD 10 off Klook activities with a minimum spend of S$150. Discount is applicable for all overseas and local activities unless specified otherwise.
+* Use **“KLOOKPSWEEK2023**” on [https://www.klook.com/en-SG/](https://www.klook.com/en-SG/) to get SGD 10 off Klook activities with a minimum spend of S$150. Discount is applicable for all overseas and local activities unless specified otherwise.
 * Limited checkouts apply.
 * Promo code can be used a maximum of 1 time per user account.
 * Discount will be applied on the final price and displayed on the payment page if promotion code is successfully applied. No discount will be given if promotion code fails to apply.
