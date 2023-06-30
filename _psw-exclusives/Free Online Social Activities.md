@@ -3,8 +3,6 @@ title: Free Online Social Activities
 permalink: /psw-exclusives/free-online-social-activities/
 description: Civil Service Club Free Online Social Activities
 ---
-
-
 We bring the social to you! Public service officers can enjoy FREE online social activities in July. The FREE activities are also available for Civil Service Club Members (including Supplementary Members). 
 <br>
 <br>
