@@ -76,7 +76,7 @@ KLOOK is a world-leading travel activities and services booking platform. KLOOK 
 Sentosa is a sunny island in Singapore, home to exciting events, themed attractions, award-winning spas, lush rainforests, golden sandy beaches and resort-style hotels
 
 * Key in referral code **“PSD800**” to receive 800 points and be upgraded to the Islander Insider tier. Enjoy FREE 365-day Island Admission, FREE 4-hour Parking, $10 Islander Voucher, $20 Birthday Voucher, more than 50 Welcome Vouchers and more! Other terms and conditions apply.
-* Privilege will be valid till 31 July 2023
+* Privilege will be valid till 31 Dec 2023
 * Sign up at [https://www.sentosa.com.sg/en/membership/islander/](https://www.sentosa.com.sg/en/membership/islander/) with referral code “**PSD800**” 
 * For new sign up of Islander Member only.
 * Verification of Civil Service card or staff pass for public service officers, Civil Service Club (CSC) Membership Card or Virtual Card via CSC App for CSC members, may be requested to enjoy the promotion.
