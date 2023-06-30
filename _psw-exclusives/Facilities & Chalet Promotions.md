@@ -129,11 +129,11 @@ MEMBERS' RATE for booking of any Civil Service Club function rooms
 • To book or to enquire about the rates, please email to:  
 <a href="mailto: tessensohn@csc.sg"> tessensohn@csc.sg</a> for CSC @ Tessensohn  
 <a href="mailto: Bukitbatok@csc.sg"> Bukitbatok@csc.sg</a> for CSC @ Bukit Batok  
-<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi  
+<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi I <br>
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
 
 *For more information about the function room rates, please visit:*<br>
  
-**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Tessensohn](https://www.csctessensohn.sg)** <br>
+**[CSC @ Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
+**[CSC @ Changi I](https://www.cscchangi.sg/)**<br>
