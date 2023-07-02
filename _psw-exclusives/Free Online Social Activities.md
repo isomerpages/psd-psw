@@ -3,12 +3,10 @@ title: Free Online Social Activities
 permalink: /psw-exclusives/free-online-social-activities/
 description: Civil Service Club Free Online Social Activities
 ---
-![](/images/PSW2023%20Exclusive_image/psw%202023%20social.png)
-
 We bring the social to you! Public service officers can enjoy FREE online social activities in July. The FREE activities are also available for Civil Service Club Members (including Supplementary Members). 
 <br>
 <br>
-
+![](/images/PSW2023%20Exclusive_image/psw_free_online_social.png)
 
 
 ### Talk: How to Restore and Rebuild Your Gut 

@@ -3,11 +3,9 @@ title: Facilities & Chalet Promotions
 permalink: /psw-exclusives/facilities-chalet-promotions/
 description: Civil Service Club Facilities & Chalet Promotions
 ---
-![](/images/PSW2023%20Exclusive_image/psw%202023%20website%20image%20(2).png)
+![](/images/PSW2023%20Exclusive_image/facilities%20&amp;%20chalet%20promotions.png)
 
-
-
-### FREE access to any Civil Service Club swimming pools 
+### FREE weekday access to any Civil Service Club swimming pools 
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20swimming%20pools.png)
 Enjoy FREE weekday access to any Civil Service Club swimming pools for officer and up to 2 paying guests. 
@@ -21,14 +19,14 @@ Enjoy FREE weekday access to any Civil Service Club swimming pools for officer a
 • Public service officers may sign in up to 2 guests. Guests are to pay prevailing guest rates.  
 
 *For more information about the swimming pools, please visit:* <br> 
-**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Tessensohn](https://www.csctessensohn.sg/fun_SwimmingPool.aspx)** <br>
+**[CSC @ Bukit Batok](https://www.cscbukitbatok.sg/Civil-Service-Club-Bukit-Batok-Swimming-Pool-Club-House-Water-Park-Feature)** <br>
+**[CSC @ Changi I](https://www.cscchangi.sg/Fun_Swimming.aspx)**<br>
 
 ### FREE access to Weekend Family Fun Pool
    
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20weekend%20fun%20pool.png)
-Enjoy FREE access to Weekend Family Fun Pool on Saturday, 16 July 2023. 
+Enjoy FREE access to Weekend Family Fun Pool on Saturday on 16 July 2023. 
 
 **Terms and Conditions**
 
@@ -58,15 +56,15 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the bowling centres and rates, please visit:* <br> 
 
-**[CSC Planet Bowl](https://www.csc.sg/planetbowl)** <br>
-**[CSC Westwood Bowl](https://www.csc.sg/westwoodbowl)** <br>
+**[Planet Bowl, CSC @ Tessensohn](https://www.csc.sg/planetbowl)** <br>
+**[Westwood Bowl,, CSC @ Bukit Batok](https://www.csc.sg/westwoodbowl)** <br>
 
 
 
-### MEMBERS' RATE for booking of any BBQ Facilities
+### MEMBERS' RATE for booking of any CSC BBQ Facilities
 
 
-![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png) Enjoy MEMBERS' RATE for booking of any BBQ facilities
+![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20bbq%20pits.png) Enjoy MEMBERS' RATE for booking of any CSC BBQ facilities
 
 **Terms and Conditions**
   
@@ -77,8 +75,8 @@ Enjoy MEMBERS' RATE at Planet Bowl and Westwood Bowl
 
 *For more information about the BBQ pits and rates, please visit:* <br>
 
-**[CSC Changi BBQ Pavillion](https://www.cscchangi.sg/Fun_BBQ.aspx)** <br>
-**[CSC Treehouse BBQ Pavilion](https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
+**[CSC @ Changi I (BBQ Pavillion)](https://www.cscchangi.sg/Fun_BBQ.aspx)** <br>
+**[CSC @ Bukit Batok (Treehouse BBQ Pavilion)](https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation)** <br>
 
 ### MEMBERS' RATE for CSC @ Changi l chalets, Changi II chalets and Loyang chalets
 
@@ -88,38 +86,37 @@ Enjoy MEMBERS' RATE for booking of any CSC @ Changi I, Changi II and Loyang chal
 
 **Terms and Conditions**
    
-• Valid for booking of CSC @ Changi l chalets, Changi II chalets and Loyang chalets from 1 to 31 July '23 for stay period between 1 Aug and 31 Oct '23.  
-• To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
+• Valid for booking of CSC @ Changi l chalets, CSC @ Changi II chalets and CSC @ Loyang chalets from 1 to 31 July '23 for stay period between 1 Aug and 31 Oct '23.  
+• To view chalet availability and rates, please visit [https://www.cscchalets.sg](https://www.cscchalets.sg) and select check availability.  
 • Prebooking is required.  
-• For booking of chalets, please visit https://www.cscchalets.sg and use the relevant Public Service Priority Code  
+• For booking of chalets, please visit [ https://www.cscchalets.sg ]( https://www.cscchalets.sg ) and use the relevant Public Service Priority Code  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
-For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: https://www.cscchangi.sg  
+For more information about the CSC @ Changi l chalets and CSC @ Changi II chalets, please visit: [https://www.cscchalets.sg](https://www.cscchalets.sg)
 
 *For more information about the CSC @ Loyang &amp; Changi I,II chalets , please visit:*<br>
-**[CSC Loyang](https://www.cscloyang.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Loyang](https://www.cscloyang.sg)** <br>
+**[CSC @ Changi I &amp; II](https://www.cscchangi.sg/)**<br>
 
 ### 50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
 
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20superior%20deluxe.png)  
 
-50% OFF for 2nd night stay at CSC @ Changi Superior or Deluxe suite
+50% OFF for 2nd night stay at CSC @ Changi I Superior or Deluxe suite
 
 **Terms and Conditions**
   
 • Valid for booking of CSC @ Changi l chalets from 1 to 31 July ‘23 for stay period between 1 Aug and 31 Oct ‘23.  
-• To view chalet availability and rates, please visit https://www.cscchalets.sg and select check availability.  
+• To view chalet availability and rates, please visit [https://www.cscchalets.sg](https://www.cscchalets.sg) and select check availability.  
 • Prebooking is required.  
 • Email to <a href="mailto: rooms@csc.sg"> rooms@csc.sg</a> to book  
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of check in.  
 
 *For more information about the CSC @ Changi l chalets, please visit:* <br>
 
-**[CSC Changi I: Superior/ Deluxe Suite](https://www.cscchangi.sg/Stay_SingleSuite.aspx)**
+**[CSC @ Changi I: Superior/ Deluxe Suite](https://www.cscchangi.sg/Stay_SingleSuite.aspx)**
 
 
 ### MEMBERS' RATE for booking of any Civil Service Club function rooms
-### 
    
 ![](/images/PSW2023%20Exclusive_image/civil%20service%20club%20function%20rooms.png)
 
@@ -132,11 +129,11 @@ MEMBERS' RATE for booking of any Civil Service Club function rooms
 • To book or to enquire about the rates, please email to:  
 <a href="mailto: tessensohn@csc.sg"> tessensohn@csc.sg</a> for CSC @ Tessensohn  
 <a href="mailto: Bukitbatok@csc.sg"> Bukitbatok@csc.sg</a> for CSC @ Bukit Batok  
-<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi  
+<a href="mailto: changi@csc.sg"> changi@csc.sg</a> for CSC @ Changi I <br>
 • Public service officers must present their Civil Service card or staff pass in person for verification purposes at the front office on the day of use.  
 
 *For more information about the function room rates, please visit:*<br>
  
-**[CSC Tessensohn](https://www.csctessensohn.sg)** <br>
-**[CSC Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
-**[CSC Changi](https://www.cscchangi.sg/)**<br>
+**[CSC @ Tessensohn](https://www.csctessensohn.sg)** <br>
+**[CSC @ Bukit Batok](https://www.cscbukuitbatok.sg)** <br>
+**[CSC @ Changi I](https://www.cscchangi.sg/)**<br>
