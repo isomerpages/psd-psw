@@ -16,6 +16,12 @@ sections:
           url: /discovering-goodatwork/about/
       background: /images/PSW2023/microsite banner1.png
   - infobar:
+      title: "Tune into PSW: Spark!"
+      subtitle: Celebrate With Us
+      button: Click to watch
+      url: go.gov.sg/psw2023
+      description: Happening 5 July, Wednesday, 2:30pm - 4:30pm
+  - infobar:
       title: Public Service Week
       subtitle: about
       description: aims to inspire public officers to live out the core values and
@@ -28,11 +34,6 @@ sections:
       image: /images/PSW2023/psw2023 logo.png
       alt: Image alt text
       subtitle: "2023"
-  - infobar:
-      title: Register for PSW 2023
-      subtitle: Celebrate With Us
-      button: CLICK TO REGISTER
-      url: https://www.gevme.com/public-service-week-2023-43276652
 description: Description
 image: /images/PSW2023/psw2023 logo.png
 notification: ""
