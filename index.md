@@ -16,12 +16,6 @@ sections:
           url: /discovering-goodatwork/about/
       background: /images/PSW2023/microsite banner1.png
   - infobar:
-      title: "Tune into PSW: Spark!"
-      subtitle: Celebrate With Us
-      button: Click to watch
-      url: go.gov.sg/psw2023
-      description: Happening 5 July, Wednesday, 2:30pm - 4:30pm
-  - infobar:
       title: Public Service Week
       subtitle: about
       description: aims to inspire public officers to live out the core values and
