@@ -17,11 +17,10 @@ Public Service Week 2023 kicks off with PSW: Spark. This opening event brings pu
 
 #### Event Registration
 
-Click [HERE](https://go.gov.sg/psw2023) to watch PSW: Spark virtually!
 
 **Date and Time:** 5 July 2023 (Wednesday), 2:30pm – 4:30pm   
 **Venue:** One Punggol, Multi-purpose Hall at Level 5 (1 Punggol Drive, Singapore 828629)
-**Virtual Platform:** Watch the livestream of PSW: Spark at go.gov.sg/psw2023 
+
 
 ### Programme Highlights
 * [Livestream Tour of Punggol Regional Library](https://www.publicserviceweek.gov.sg/pswspark/guidedtours/)
