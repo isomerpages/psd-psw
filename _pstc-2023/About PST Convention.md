@@ -3,6 +3,7 @@ title: About PST Convention
 permalink: /pstc-2023/about/
 description: ""
 ---
+ <script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 # Public Sector Transformation (PST) Convention 
 
 PST Convention is an event where public officers can:

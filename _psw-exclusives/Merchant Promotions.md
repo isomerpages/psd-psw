@@ -3,6 +3,7 @@ title: Merchant Promotions
 permalink: /psw-exclusives/merchant-promotions/
 description: Civil Service Club Merchant Promotions
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ![](/images/PSW2023%20Exclusive_image/psw_merchant_promo.png)
 <br> 
 

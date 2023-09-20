@@ -3,6 +3,7 @@ title: What Officers Say
 permalink: /discovering-goodatwork/pilotrun/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 More than 50 officers participated in the Job Sprint pilot which took place from 24-28 Apr 2023, and were hosted by CSC, IMDA, MCI, MINDEF, NLB and PSD across
 14 positions. After the pilot, they gained a better appreciation of the work done in other agencies, and explored new areas of possibilities within their role.
 

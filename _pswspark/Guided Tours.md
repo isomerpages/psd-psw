@@ -3,6 +3,7 @@ title: Guided Tours
 permalink: /pswspark/guidedtours/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ###  Tour of Punggol Regional Library
 ![](/images/punggol%20regional%20library.png)
 

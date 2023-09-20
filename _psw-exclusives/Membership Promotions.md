@@ -3,6 +3,7 @@ title: Membership Promotions
 permalink: /psw-exclusives/membership-promotions/
 description: Civil Service Club Membership Promotions
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ![](/images/PSW2023%20Exclusive_image/psw_membership_promo.png)
 <br>
 ### Ordinary Term Membership Promotion

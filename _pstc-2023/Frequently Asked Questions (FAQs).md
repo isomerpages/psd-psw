@@ -3,6 +3,7 @@ title: Frequently Asked Questions (FAQs)
 permalink: /pstc-2023/faqs/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ##### **I have signed up for the PST Convention but I am unable to attend, what should I do?** 
 
 If you are unable to attend the PST Convention, please inform the  Organising Team at [PST_Convention@mindef.gov.sg](PST_Convention@mindef.gov.sg). 

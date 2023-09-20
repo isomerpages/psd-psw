@@ -3,6 +3,7 @@ title: Panel Discussion
 permalink: /pstc-2023/paneldiscussion/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ### Panel Discussion: “The Soul of Transformation”
 
 

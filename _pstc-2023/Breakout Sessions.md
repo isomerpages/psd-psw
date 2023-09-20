@@ -3,6 +3,7 @@ title: Breakout Sessions
 permalink: /pstc-2023/programme/breakoutsessions/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ### Breakout Sessions: “Diving into the Heart of Transformation: Case Studies”
 
 | Speaker |  |
