@@ -3,6 +3,7 @@ title: One Public Service Quiz
 permalink: /pswspark/onepsquiz/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ### One Public Service Quiz
 <img style="width:600px" src="/images/PSW2023/opsoc-6.jpg"> 
 
