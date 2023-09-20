@@ -3,6 +3,7 @@ title: PSTAC 2023
 permalink: /pswspark/pstac-2023/
 description: ""
 ---
+<script src="[https://assets.dcube.cloud/scripts/wogaa.js](https://assets.dcube.cloud/scripts/wogaa.js)\"></script>
 ### Public Sector Transformation (PST) Awards Ceremony 2023
 
 The Public Sector Transformation (PST) Awards Ceremony is the Whole-of-Government (WOG) pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The awards are aimed at encouraging officers and agencies to pursue PST by recognising best practices, as well as desired behaviours and values that undergird achievements.
