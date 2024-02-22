@@ -22,7 +22,7 @@ Choose a <b>SPARK (Support, Praise, Affirm, Remember or Kudos)</b> to appreciate
 <img src="/images/SparkleBotQRCode.jpg" alt="QR Code" style="width:200px;" align="left"/>
 <br><br><br><br><br><br>
 <a href="https://go.gov.sg/sparklebot" style="font-size:16px;">https://go.gov.sg/sparklebot</a><br>
-<i>Issues accessing the Sparkle Bot or not on Workplace? [View instructions below.](https://psd-psw-staging.netlify.app/opsoc-2022/sparkle-bot#workplacechat)</i>
+<i>Issues accessing the Sparkle Bot or not on Workplace? [View instructions below.](/opsoc-2022/sparkle-bot#workplacechat)</i>
 
 You can also read messages from our public officers on <b>[WOG] Sparkle for PSW #BeTheNew</b> group on Workplace.<br>
 <img src="/images/WOG Workplace Group QR Code.png" alt="PSWWPGroup QR Code" style="width:200px;" align="left"/>
