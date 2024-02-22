@@ -25,7 +25,7 @@ Public Service Week 2023 kicks off with PSW: Spark. This opening event brings pu
 
 ### Programme Highlights
 * [Tour of Punggol Regional Library](https://www.publicserviceweek.gov.sg/pswspark/guidedtours/)
-* [One Public Service Quiz](https://psd-psw-staging.netlify.app/pswspark/onepsquiz/ "https://psd-psw-staging.netlify.app/pswspark/onepsquiz/")&nbsp;
+* [One Public Service Quiz](/pswspark/onepsquiz/)&nbsp;
 
 * Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;
 
