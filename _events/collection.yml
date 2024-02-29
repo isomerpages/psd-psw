@@ -1,0 +1,11 @@
+collections:
+  events:
+    output: false
+    order:
+      - learning-festival/.keep
+      - learning-festival/faq.md
+      - istana-reception.md
+      - pst-exhibition.md
+      - pst-conference.md
+      - awards-reception.md
+      - sports-and-family-day.md

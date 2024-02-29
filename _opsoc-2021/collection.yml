@@ -1,0 +1,7 @@
+collections:
+  opsoc-2021:
+    output: true
+    order:
+      - about-opsoc.md
+      - gifting-from-the-heart.md
+      - we-stand-as-one.md

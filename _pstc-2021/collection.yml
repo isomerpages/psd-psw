@@ -1,0 +1,8 @@
+collections:
+  pstc-2021:
+    output: true
+    order:
+      - about.md
+      - future-of-work.md
+      - future-workforce.md
+      - future-workplace.md

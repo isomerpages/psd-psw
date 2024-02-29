@@ -1,0 +1,10 @@
+collections:
+  allworkouts-archive:
+    output: false
+    order:
+      - all-workouts/.keep
+      - all-workouts/our-core-competencies-in-action.md
+      - all-workouts/the-3-ws-of-transformation.md
+      - all-workouts/job-specific-skills.md
+      - all-workouts/professional-personal-development.md
+      - public-service-week-trial.md

@@ -1,0 +1,28 @@
+collections:
+  pswlf-2020:
+    output: false
+    order:
+      - about-learning-festival.md
+      - learning-sessions-by-our-core-competencies/.keep
+      - learning-sessions-by-our-core-competencies/what-is-occ.md
+      - learning-sessions-by-our-core-competencies/occ-1-thinking-clearly-and-making-sound-judgements.md
+      - learning-sessions-by-our-core-competencies/occ-2-serving-with-heart-commitment-and-purpose.md
+      - learning-sessions-by-our-core-competencies/occ-3-working-as-one-public-service.md
+      - learning-sessions-by-our-core-competencies/occ-4-working-effectively-with-citizens-and-stakeholders.md
+      - learning-sessions-by-our-core-competencies/occ-5-improving-and-innovating-continuously.md
+      - learning-sessions-by-our-core-competencies/occ-6-keep-learning-and-putting-skills-into-action.md
+      - learning-sessions-by-our-core-competencies/occ-7-stewarding-systems-for-today-and-tomorrow-for-supervisors.md
+      - learning-sessions-by-our-core-competencies/occ-8-caring-for-developing-and-inspiring-staff-for-supervisors.md
+      - the-3-ws-of-transformation.md
+      - job-specific-skills/.keep
+      - job-specific-skills/job-specific-skills.md
+      - job-specific-skills/accounting-and-finance.md
+      - job-specific-skills/community-development-partnership-engagement.md
+      - job-specific-skills/corporate-administration-operations.md
+      - job-specific-skills/human-resources.md
+      - job-specific-skills/regulation-enforcement-compliance.md
+      - job-specific-skills/science-technology-engineering.md
+      - job-specific-skills/service-delivery.md
+      - professional-personal-development.md
+      - faq.md
+      - what-is-next.md

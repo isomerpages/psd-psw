@@ -1,0 +1,8 @@
+collections:
+  exclusives-2021:
+    output: true
+    order:
+      - cs-club-facilities-chalet-promotions.md
+      - cs-club-membership-promotions.md
+      - cs-club-merchant-exclusives.md
+      - cs-club-free-online-social-activities.md
