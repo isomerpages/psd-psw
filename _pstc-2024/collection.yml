@@ -2,5 +2,6 @@ collections:
   pstc-2024:
     output: true
     order:
+      - Frequently Asked Questions (FAQs).md
       - Panel Discussion.md
       - About PST Convention.md
