@@ -1,4 +1,5 @@
 collections:
   exclusives-2024:
     output: true
-    order: []
+    order:
+      - Merchant Promotions.md
