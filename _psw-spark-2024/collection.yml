@@ -2,5 +2,6 @@ collections:
   psw-spark-2024:
     output: true
     order:
+      - One Public Service Quiz.md
       - Guided Tours.md
       - "About PSW: Spark.md"
