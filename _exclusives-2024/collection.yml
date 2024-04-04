@@ -2,4 +2,5 @@ collections:
   exclusives-2024:
     output: true
     order:
+      - Free Online Social Activities.md
       - Merchant Promotions.md
