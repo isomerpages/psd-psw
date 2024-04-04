@@ -2,6 +2,6 @@ collections:
   psw-spark-2024:
     output: true
     order:
-      - PSTAC 2024.md
-      - Guided Tours.md
       - "About PSW: Spark.md"
+      - Guided Tours.md
+      - PSTAC 2024.md
