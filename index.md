@@ -14,7 +14,7 @@ sections:
           url: https://go.gov.sg/pswlf2023
         - title: Dive in
           url: /discovering-goodatwork/about/
-      background: /images/PSW2024_Microsite_Banner.jpg
+      background: /images/PSW24_microsite_banner_placeholder.png
   - infobar:
       title: Public Service Week
       subtitle: about
