@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Public Service Week 2023
+title: Public Service Week 2024
 permalink: /
 sections:
   - hero:
@@ -31,6 +31,6 @@ sections:
       image: /images/PSW2024_Brand_Guide__Internal___1_.png
       alt: Image alt text
 description: Description
-image: /images/PSW2023/psw2023 logo.png
+image: /images/PSW2024_Brand_Guide__Internal___1_.png
 notification: ""
 ---
