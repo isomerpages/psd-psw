@@ -15,6 +15,7 @@ sections:
         - title: Dive in
           url: /discovering-goodatwork/about/
       background: /images/PSW24_microsite_banner_placeholder.png
+      variant: image
   - infobar:
       title: Public Service Week
       subtitle: about
