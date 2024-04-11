@@ -27,7 +27,7 @@ sections:
       description: we celebrate how the Public Sector Transformation movement has
         enriched the experience of citizens and officers by empowering officers
         to innovate and grow.
-      image: /images/PSW2024_Brand_Guide__Internal_.png
+      image: /images/PSW2024_Brand_Guide__Internal___1_.png
       alt: Image alt text
 description: Description
 image: /images/PSW2023/psw2023 logo.png
