@@ -6,16 +6,14 @@ sections:
   - hero:
       url: /what-is-psw/
       key_highlights:
-        - title: Celebrate Together
+        - title: celebrate together
           url: /pswspark/about/
-        - title: Inspire Change
+        - title: Innovate for good
           url: /pstc-2023/about/
-        - title: Grow Skills
+        - title: Own Your Growth
           url: https://go.gov.sg/pswlf2023
-        - title: Dive in
-          url: /discovering-goodatwork/about/
       background: /images/PSW24_microsite_banner_placeholder.png
-      variant: image
+      variant: center
   - infobar:
       title: Public Service Week
       subtitle: about
