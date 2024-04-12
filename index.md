@@ -6,11 +6,11 @@ sections:
   - hero:
       url: /what-is-psw/
       key_highlights:
-        - title: celebrate together
+        - title: CARE
           url: /pswspark/about/
-        - title: Innovate for good
+        - title: Innovation
           url: /pstc-2023/about/
-        - title: Own Your Growth
+        - title: Growth
           url: https://go.gov.sg/pswlf2023
       background: /images/PSW24_microsite_banner_placeholder.png
       variant: center
