@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - "About PSW: Spark.md"
-      - Guided Tours.md
       - PSTAC 2024.md
