@@ -4,7 +4,7 @@ permalink: /panel-discussion/
 variant: tiptap
 description: ""
 ---
-<h3>Panel Discussion: </h3>
+<h3>Panel Discussion:</h3>
 <table>
 <tbody>
 <tr>
