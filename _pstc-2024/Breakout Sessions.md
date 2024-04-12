@@ -4,7 +4,7 @@ permalink: /breakout-sessions/
 variant: tiptap
 description: ""
 ---
-<h3>Breakout Sessions: </h3>
+<h3>Breakout Sessions:</h3>
 <table>
 <tbody>
 <tr>
