@@ -14,16 +14,19 @@ sections:
           url: https://go.gov.sg/pswlf2023
       background: /images/PSW24_microsite_banner_placeholder.png
       variant: center
-  - infobar:
-      title: Public Service Week
+  - infopic:
+      title: PUBLIC SERVICE WEEK
       subtitle: about
+      id: infopic
       description: aims to inspire public officers to be purpose-driven and
         forward-looking as one Public Service, ready for the future.
+      image: /images/PSW2024_Brand_Guide__Internal___1_.png
+      alt: Image alt text
   - textcards:
-      title: Public Service Week 2024
+      title: This year,
       id: textcards
-      description: "will emphasise Innovation, Growth and Care as key enablers to
-        support public officers in this effort:"
+      description: "Public Service Week will emphasise Innovation, Growth and Care as
+        key enablers to support public officers in this effort:"
       cards:
         - title: Care
           description: Care for your well-being and learn to foster flexibility
@@ -39,14 +42,7 @@ sections:
             future.
           linktext: Learn more
           url: /pstc-2023/about/
-  - infopic:
-      title: This year,
       subtitle: "2024"
-      id: infopic
-      description: we celebrate how the Public Sector Transformation movement has
-        supported the experience of officers to innovate and grow.
-      image: /images/PSW2024_Brand_Guide__Internal___1_.png
-      alt: Image alt text
 description: Description
 image: /images/PSW2024_Brand_Guide__Internal___1_.png
 notification: ""
