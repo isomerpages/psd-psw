@@ -41,7 +41,7 @@ sections:
           description: Be forward-looking and innovate today in your job & beyond for the
             future.
           linktext: Learn more
-          url: /pstc-2023/about/
+          url: /about-pst-convention/
       subtitle: "2024"
 description: Description
 image: /images/PSW2024_Brand_Guide__Internal___1_.png
