@@ -2,6 +2,7 @@ collections:
   pswlf-2024:
     output: true
     order:
+      - Day 1, 20 July.md
       - About Learning Festival.md
       - 24 July.md
       - 25 July.md
