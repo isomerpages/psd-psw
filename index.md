@@ -12,7 +12,7 @@ sections:
           url: /pstc-2023/about/
         - title: Growth
           url: https://go.gov.sg/pswlf2023
-      background: /images/PSW_2024_banner.jpg
+      background: /images/PSW_2024_banner_1.png
       variant: center
   - infopic:
       title: PUBLIC SERVICE WEEK
