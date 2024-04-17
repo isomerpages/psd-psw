@@ -28,7 +28,7 @@ description: ""
 </table>
 <p></p>
 <h4>Event Registration</h4>
-<p><strong>Date and Time:</strong> 10 July 2023 (Wednesday), 2:30pm –5.00pm
+<p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2:30pm –5.00pm
 <br><strong>Venue:</strong> ITE College Central (2 Ang Mo Kio Dr, Singapore
 567720)</p>
 <h3>Programme Highlights</h3>
