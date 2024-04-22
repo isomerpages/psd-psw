@@ -9,7 +9,7 @@ sections:
         - title: CARE
           url: /pswspark/about/
         - title: Innovation
-          url: /pstc-2023/about/
+          url: /about-pst-convention-2024/
         - title: Growth
           url: https://go.gov.sg/pswlf2023
       background: /images/PSW_2024_microsite_banner.png
