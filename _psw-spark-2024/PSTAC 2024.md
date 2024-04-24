@@ -5,11 +5,30 @@ variant: tiptap
 description: ""
 ---
 <h3>Public Sector Transformation (PST) Awards Ceremony 2024</h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>The Public Sector Transformation (PST) Awards Ceremony is the Whole-of-Government
+(WOG) pinnacle platform to recognise and reward public officers and public
+agencies for excellence in their work and organisational practices. The
+awards are aimed at encouraging officers and agencies to pursue PST by
+recognising best practices, as well as desired behaviours and values that
+undergird achievements.</p>
+<p>The PST Awards celebrate exceptional attainment of the PST Outcomes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One Public Service, Trusted, With Citizens at the Centre</p>
+</li>
+<li>
+<p>Lean, Agile, Digital</p>
+</li>
+<li>
+<p>With Skilled and Adaptable Leaders and Officers</p>
+</li>
+<li>
+<p>Leading Globally in Service Delivery and Innovation</p>
+</li>
+<li>
+<p>Achieving Our Future Singapore with Ambition, Alignment, Action</p>
+</li>
+</ul>
 <h4>Award Categories</h4>
 <p>The PST Awards recognise efforts at three levels - Whole of Government
 (WOG), agency, and individual levels. The PST Awards focus on working as
