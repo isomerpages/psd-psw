@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3>Public Service Week (PSW): Spark</h3>
-<p></p>
+<p>Public Service Week 2024 kicks off with PSW: Spark. This opening event
+brings public officers the Public Service together to celebrate and recognise
+officers and agencies for excellence in service delivery, organisational
+practices and innovation. Key highlights include the Public Sector Transformation
+(PST) Awards Ceremony, speech by Minister-in-charge of the Public Service,
+Mr. Chan Chun Sing, exciting performances by XXX and ITE.</p>
 <table>
 <tbody>
 <tr>
@@ -32,4 +37,21 @@ description: ""
 <br><strong>Venue:</strong> ITE College Central (2 Ang Mo Kio Dr, Singapore
 567720)</p>
 <h3>Programme Highlights</h3>
+<ul>
+<li>
+<p><a href="/pswspark/onepsquiz/" rel="noopener noreferrer nofollow" target="_blank">One Public Service Quiz</a>&nbsp;</p>
+</li>
+<li>
+<p>Speech by Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Video by Head, Civil Service, Mr Leo Yip</p>
+</li>
+<li>
+<p>Recitation of Public Service Pledge and Singing of National Anthem</p>
+</li>
+<li>
+<p>Public Sector Transformation (PST) Awards Ceremony</p>
+</li>
+</ul>
 <p></p>
