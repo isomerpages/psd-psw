@@ -11,6 +11,8 @@ officers and agencies for excellence in service delivery, organisational
 practices and innovation. Key highlights include the Public Sector Transformation
 (PST) Awards Ceremony, speech by Minister-in-charge of the Public Service,
 Mr. Chan Chun Sing, exciting performances by XXX and ITE.</p>
+<p>Participants can also look forward to exciting fringe activities and redeem
+limited edition PSW door gifts.</p>
 <table>
 <tbody>
 <tr>
