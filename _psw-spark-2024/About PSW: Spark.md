@@ -39,7 +39,7 @@ Mr. Chan Chun Sing, exciting performances by XXX and ITE.</p>
 <h3>Programme Highlights</h3>
 <ul>
 <li>
-<p><a href="/pswspark/onepsquiz2024/" rel="noopener noreferrer nofollow" target="_blank">One Public Service Quiz</a>
+<p><a href="/psw-spark-2024/onepsquiz2024/" rel="noopener noreferrer nofollow" target="_blank">One Public Service Quiz</a>
 </p>
 </li>
 <li>
