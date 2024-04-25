@@ -31,7 +31,7 @@ sections:
         - title: Care
           description: Care for your well-being and learn to foster flexibility
           linktext: Learn more
-          url: /about-psw-spark/
+          url: /about-psw-spark-2024/
         - title: Growth
           description: Grow your skills today so that you are ready for tomorrow's
             opportunities
