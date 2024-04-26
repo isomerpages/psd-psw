@@ -6,8 +6,8 @@ sections:
   - hero:
       url: /what-is-psw/
       key_highlights:
-        - title: CARE
-          url: /pswspark/about/
+        - title: Care
+          url: /about-psw-spark-2024/
         - title: Innovation
           url: /about-pst-convention-2024/
         - title: Growth
