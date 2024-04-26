@@ -12,7 +12,7 @@ sections:
           url: /about-pst-convention-2024/
         - title: Growth
           url: https://go.gov.sg/pswlf2023
-      background: /images/PSW_2024_microsite_banner.png
+      background: /images/PSW_2024_Banner_1.png
       variant: center
   - infopic:
       title: PUBLIC SERVICE WEEK
