@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About PST Convention.md
-      - Panel Discussion.md
+      - Main Session.md
       - Breakout Sessions.md
       - Frequently Asked Questions (FAQs).md
