@@ -5,21 +5,80 @@ variant: tiptap
 description: ""
 ---
 <h1>Public Sector Transformation (PST) Convention</h1>
-<p>PST Convention is an event where public officers can:</p>
-<ul>
-<li>
-<p>Pick up good practices from leading private and public organisations on
-transformation-related topics</p>
-</li>
-<li>
-<p>Explore how we transform the way we deliver our services to achieve greater
-purpose, i.e. by putting our stakeholders at the heart of what we do</p>
-</li>
-</ul>
-<h4><strong>Click&nbsp;<a href="https://go.gov.sg/psw2023reg" rel="noopener noreferrer nofollow" target="_blank">HERE</a>&nbsp;to register for PST Convention!</strong></h4>
+<p>The PST Convention is an annual event for public officers to come together,
+share and learn good practices not just from one another but also from
+leading private organizations as we continue our transformation journey
+and explore ways to better deliver our services to citizens and customers.&nbsp;&nbsp;</p>
+<p>The programme lined up for PST Convention 2024 focuses on a forward-looking
+public service, riding major disruptions ahead with innovation as key enabler.
+This embodies the key theme of the Public Service Week to “Make a Difference
+Today for Tomorrow”.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h4><strong>Look out for more information on the PST Convention 2024!</strong></h4>
+<p></p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
 – 5.00pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
 <h4>Programme Highlights</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm – 2pm&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration/Pre-event Engagement&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2pm – 2.30pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keynote Address by Head, Civil Service&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.30pm – 3.00pm&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by PST Award Winner&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm – 3.30pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by Mr Ong Kim Pong, Group CEO of PSA International&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30pm – 4.15pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea Break&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.15pm – 5pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Breakout Sessions: “Embracing the Heart of Transformation Through Technology:
+Case studies”&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
