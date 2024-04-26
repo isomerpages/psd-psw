@@ -36,7 +36,7 @@ sections:
           description: Grow your skills today so that you are ready for tomorrow's
             opportunities
           linktext: Learn more
-          url: https://go.gov.sg/pswlf2023
+          url: https://go.gov.sg/pswlf2024
         - title: Innovation
           description: Be forward-looking and innovate today in your job & beyond for the
             future.
