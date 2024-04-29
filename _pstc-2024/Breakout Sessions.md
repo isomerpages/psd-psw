@@ -49,10 +49,9 @@ organisational performance.</p>
 <br>Ministry of Finance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Ter Long is the Chief of Government</p>
-<p>Procurement and Director of the Government Procurement Function Office
-in MOF. Mr Tan has more than 20yrs of professional experience in both private
-and public sector</p>
+<p>Mr Tay Ter Long is the Chief of Government Procurement and Director of
+the Government Procurement Function Office in MOF. Mr Tan has more than
+20yrs of professional experience in both private and public sector</p>
 <p>&nbsp;</p>
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corportion, the Government’s appointed Centre of Excellence
