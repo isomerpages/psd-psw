@@ -18,6 +18,13 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_PSAJustinaTan.png">
+</div>
+<p>Ms Justina Tan</p>
+<p>Executive Vice President</p>
+<p>Corporate, People and Culture</p>
+<p>Changi Airport Group (CAG)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Justina Tan has more than 20yrs of experience in the airport industry
