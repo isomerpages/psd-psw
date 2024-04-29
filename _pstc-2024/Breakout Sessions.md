@@ -64,9 +64,9 @@ functions in JTC Corportion, the Government’s appointed Centre of Excellence
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_ChingTuanYee.jpg">
 </div>
-<p>Mr Ching Tuan Yee</p>
-<p>Director (Design &amp; Planning Lab)</p>
-<p>Urban Redevelopment Authority (URA)</p>
+<p>Mr Ching Tuan Yee
+<br>Director (Design &amp; Planning Lab)
+<br>Urban Redevelopment Authority (URA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ching Tuan Yee is the Director (Design &amp; Planning Lab) of URA where
