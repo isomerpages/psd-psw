@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - PSW 2024 Experience.md
-      - Booths.md
       - PSW Characters.md
+      - Booths.md
       - Collaterals.md
