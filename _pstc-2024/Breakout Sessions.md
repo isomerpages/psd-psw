@@ -19,8 +19,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_PSAJustinaTan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_JustinaTan.jpg">
 </div>
+<p></p>
 <p>Ms Justina Tan</p>
 <p>Executive Vice President</p>
 <p>Corporate, People and Culture</p>
