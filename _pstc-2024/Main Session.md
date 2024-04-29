@@ -34,6 +34,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_OngKimPong.jpg">
+</div>
+<p>Mr Ong Kim Pong</p>
+<p>Group CEO</p>
+<p>PSA International</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Kim Pong is the currently the Group CEO at PSA International and
@@ -51,5 +57,5 @@ at NUS Department of Industrial systems Engineering and Management.</p>
 </tr>
 </tbody>
 </table>
-<h4>Click <a href="https://go.gov.sg/psw2023reg" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for PST Convention!</h4>
+<h4>Click HERE to register for PST Convention!</h4>
 <p></p>
