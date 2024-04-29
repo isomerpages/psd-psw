@@ -37,9 +37,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_OngKimPong.jpg">
 </div>
-<p>Mr Ong Kim Pong</p>
-<p>Group CEO</p>
-<p>PSA International</p>
+<p>Mr Ong Kim Pong
+<br>Group CEO
+<br>PSA International</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Kim Pong is the currently the Group CEO at PSA International and
