@@ -34,17 +34,24 @@ international relations, airline marketing, airport retail to airport consultanc
 <p>With a passion for organizational development work, Ms Tan has driven
 cultural initiatives, spearheaded employee engagement efforts as well as
 look into the design of rewards and performance management systems to drive
-organisational performance</p>
+organisational performance.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Tay_Ter_Long.jpg">
+</div>
+<p>Mr Tay Ter Long</p>
+<p>Chief of Government</p>
+<p>Procurement and Director,</p>
+<p>Ministry of Finance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Ter Long is the Chief of Government Procurement and Director of
-the Government Procurement Function Office in MOF. Mr Tan has more than
-20yrs of professional experience in both private and public sector</p>
+<p>Mr Tay Ter Long is the Chief of Government</p>
+<p>Procurement and Director of the Government Procurement Function Office
+in MOF. Mr Tan has more than 20yrs of professional experience in both private
+and public sector</p>
 <p>&nbsp;</p>
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corportion, the Government’s appointed Centre of Excellence
@@ -53,7 +60,9 @@ functions in JTC Corportion, the Government’s appointed Centre of Excellence
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_ChingTuanYee.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ching Tuan Yee is the Director (Design &amp; Planning Lab) of URA where
