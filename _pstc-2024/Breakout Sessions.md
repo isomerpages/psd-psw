@@ -22,10 +22,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_JustinaTan.jpg">
 </div>
 <p></p>
-<p>Ms Justina Tan</p>
-<p>Executive Vice President</p>
-<p>Corporate, People and Culture</p>
-<p>Changi Airport Group (CAG)</p>
+<p>Ms Justina Tan
+<br>Executive Vice President
+<br>Corporate, People and Culture
+<br>Changi Airport Group (CAG)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Justina Tan has more than 20yrs of experience in the airport industry
@@ -43,10 +43,10 @@ organisational performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Tay_Ter_Long.jpg">
 </div>
-<p>Mr Tay Ter Long</p>
-<p>Chief of Government</p>
-<p>Procurement and Director,</p>
-<p>Ministry of Finance</p>
+<p>Mr Tay Ter Long
+<br>Chief of Government
+<br>Procurement and Director
+<br>Ministry of Finance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Ter Long is the Chief of Government</p>
