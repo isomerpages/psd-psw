@@ -48,7 +48,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.30pm – 3.00pm&nbsp;&nbsp;</p>
+<p>2.30pm – 3pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharing by PST Award Winner&nbsp;&nbsp;</p>
@@ -56,7 +56,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.00pm – 3.30pm&nbsp;</p>
+<p>3pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharing by Mr Ong Kim Pong, Group CEO of PSA International&nbsp;</p>
