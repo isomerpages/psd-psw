@@ -2,5 +2,6 @@ collections:
   fringe-activities-2024:
     output: true
     order:
+      - PSW Characters.md
       - PSW Collaterals.md
       - Booths.md
