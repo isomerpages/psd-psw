@@ -56,8 +56,5 @@ and redeem limited edition PSW gifts.</p>
 <li>
 <p>Public Sector Transformation (PST) Awards Ceremony</p>
 </li>
-<li>
-<p>.</p>
-</li>
 </ul>
 <p></p>
