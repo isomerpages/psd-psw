@@ -6,13 +6,13 @@ description: ""
 ---
 <h3>Public Service Week (PSW): Spark</h3>
 <p>Public Service Week 2024 kicks off with PSW: Spark. This opening event
-brings public officers the Public Service together to celebrate and recognise
-officers and agencies for excellence in service delivery, organisational
-practices and innovation. Key highlights include the Public Sector Transformation
+brings the Public Service together to celebrate and recognise officers
+and agencies for excellence in service delivery, organisational practices
+and innovation. Key highlights include the Public Sector Transformation
 (PST) Awards Ceremony, speech by Minister-in-charge of the Public Service,
-Mr. Chan Chun Sing, exciting performances by XXX and ITE.</p>
-<p>Participants can also look forward to exciting fringe activities and redeem
-limited edition PSW door gifts.</p>
+Mr. Chan Chun Sing, exciting performances by xxx and ITE.</p>
+<p>Participants can also look forward to exciting onsite fringe activities
+and redeem limited edition PSW gifts.</p>
 <table>
 <tbody>
 <tr>
@@ -35,7 +35,7 @@ limited edition PSW door gifts.</p>
 </table>
 <p></p>
 <h4>Event Registration</h4>
-<p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2:30pm –5.00pm
+<p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2:15pm –5.00pm
 <br><strong>Venue:</strong> ITE College Central (2 Ang Mo Kio Dr, Singapore
 567720)</p>
 <h3>Programme Highlights</h3>
