@@ -20,7 +20,11 @@ Today for Tomorrow”.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
 <h4>Programme Highlights</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,7 +55,7 @@ Singapore 569830</p>
 <p>2.30pm – 3pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing by PST Award Winner&nbsp;&nbsp;</p>
+<p>Main Session: Sharing by PST Award Winner&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +63,7 @@ Singapore 569830</p>
 <p>3pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing by Mr Ong Kim Pong, Group CEO of PSA International&nbsp;</p>
+<p>Main Session: Sharing by Mr Ong Kim Pong, Group CEO of PSA International&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +79,7 @@ Singapore 569830</p>
 <p>4.15pm – 5pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Sessions: “Embracing the Heart of Transformation Through Technology:
+<p>Breakout Session: “Embracing the Heart of Transformation Through Technology:
 Case studies”&nbsp;</p>
 </td>
 </tr>
