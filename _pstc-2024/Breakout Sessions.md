@@ -31,9 +31,10 @@ description: ""
 <br>Changi Airport Group (CAG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Justina Tan has more than 20yrs of experience in the airport industry
-and has held senior positions in various airport business functions from
-international relations, airline marketing, airport retail to airport consultancy.</p>
+<p>Ms Justina Tan has more than 20 years of professional experience in the
+airport industry and has held senior positions in various airport business
+functions from international relations, airline marketing, airport retail
+to airport consultancy.</p>
 <p>With a passion for organizational development work, Ms Tan has driven
 cultural initiatives, spearheaded employee engagement efforts as well as
 look into the design of rewards and performance management systems to drive
@@ -53,7 +54,7 @@ organisational performance.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Ter Long is the Chief of Government Procurement and Director of
 the Government Procurement Function Office in MOF. Mr Tan has more than
-20yrs of professional experience in both private and public sector.</p>
+20 years of professional experience in both private and public sector.</p>
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corporation, the Government’s appointed Centre of Excellence
 (CentEx) for building and infrastructure projects and facilities management.</p>
