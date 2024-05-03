@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Speaker</p>
+<p>Speakers</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
