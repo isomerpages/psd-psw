@@ -5,11 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h3>Panel Discussion:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Speaker</p>
+<p>Speakers</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
