@@ -25,7 +25,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_JustinaTan.jpg">
 </div>
-<p></p>
 <p>Ms Justina Tan
 <br>Executive Vice President
 <br>Corporate, People and Culture
