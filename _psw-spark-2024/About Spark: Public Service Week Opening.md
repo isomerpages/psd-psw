@@ -13,8 +13,9 @@ practices and innovation. Participants can also look forward to exciting
 onsite fringe activities and redeem limited edition PSW gifts.</p>
 <p>Key highlights include the Public Sector Transformation (PST) Awards Ceremony,
 speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing,
-exciting live performances by a Singapore Youth Festival (SYF) award-winning
-school and ITE.</p>
+exciting live performances by Oasis Primary School – a Singapore Youth
+Festival (SYF) award-winning school, as well as the Institute of Technical
+Education (ITE).</p>
 <p>Participants attending in person can also look forward to exciting onsite
 fringe activities and redeem limited edition PSW gifts.</p>
 <table style="minWidth: 50px">
@@ -46,7 +47,7 @@ fringe activities and redeem limited edition PSW gifts.</p>
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
 <br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
 (2 Ang Mo Kio Drive, Singapore 567720)</p>
-<p><em>Onsite registration and pre-event activities will start at 1.15pm. Guests to be seated by 2.05pm.</em>
+<p><em>Onsite registration and pre-event activities will start at 1.15pm. Guests to be seated by 2.05pm. PST Award Winners will be informed separately on the administrative details and registration time.</em>
 </p>
 <h3>Programme Highlights</h3>
 <ul>
