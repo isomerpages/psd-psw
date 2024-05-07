@@ -4,7 +4,7 @@ permalink: /pstac-2024/
 variant: tiptap
 description: ""
 ---
-<h3>Public Sector Transformation Awards Ceremony </h3>
+<h3>Public Sector Transformation Awards Ceremony</h3>
 <h4>Award Categories</h4>
 <p>The Public Sector Transformation (PST) Awards 2024 recognise efforts at
 three levels - Whole of Government (WOG), agency, and individual levels.
