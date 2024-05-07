@@ -4,13 +4,13 @@ permalink: /pstac-2024/
 variant: tiptap
 description: ""
 ---
-<h3>Public Sector Transformation Awards Ceremony 2024</h3>
+<h3>Public Sector Transformation Awards Ceremony </h3>
 <h4>Award Categories</h4>
-<p>The Public Sector Transformation (PST) Awards recognise efforts at three
-levels - Whole of Government (WOG), agency, and individual levels. The
-PST Awards focus on working as One Public Service, engaging citizens, innovating
-and digitalising services and functions, improving our regulatory environment,
-and encouraging business transformation and workforce transformation.</p>
+<p>The Public Sector Transformation (PST) Awards 2024 recognise efforts at
+three levels - Whole of Government (WOG), agency, and individual levels.
+The PST Awards focus on working as One Public Service, engaging citizens,
+innovating and digitalising services and functions, improving our regulatory
+environment, and encouraging business transformation and workforce transformation.</p>
 <p>The PST Award categories are as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
