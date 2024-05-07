@@ -12,7 +12,11 @@ One Public Service, engaging citizens, innovating and digitalising services
 and functions, improving our regulatory environment, and encouraging business
 transformation and workforce transformation.</p>
 <p>The PST Award categories are as follows:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
