@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>Spark: Public Service Week Opening</h3>
-<p>Public Service Week 2024 kicks off with Spark, the opening event that
-seeks to ignite public officers’ sense of purpose and calling as One Public
-Service, and brings the Public Service together to celebrate and recognise
-officers and agencies for excellence in service delivery, organisational
+<p>Public Service Week (PSW) 2024 kicks off with Spark, the opening event
+that seeks to ignite public officers’ sense of purpose and calling as One
+Public Service, and brings the Public Service together to celebrate and
+recognise officers and agencies for excellence in service delivery, organisational
 practices and innovation. Participants can also look forward to exciting
 onsite fringe activities and redeem limited edition PSW gifts.</p>
 <p>Key highlights include the Public Sector Transformation (PST) Awards Ceremony,
