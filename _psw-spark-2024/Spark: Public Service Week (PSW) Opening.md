@@ -4,7 +4,7 @@ permalink: /about-psw-spark-2024/
 variant: tiptap
 description: ""
 ---
-<h3>Spark: Public Service Week (PSW) Opening</h3>
+<h3>Spark: Public Service Week Opening</h3>
 <p>Public Service Week 2024 kicks off with Spark, the opening event that
 seeks to ignite public officers’ sense of purpose and calling as One Public
 Service, and brings the Public Service together to celebrate and recognise
