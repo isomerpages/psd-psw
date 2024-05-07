@@ -2,6 +2,6 @@ collections:
   psw-spark-2024:
     output: true
     order:
-      - "SPARK: Public Service Week (PSW) Opening.md"
+      - "Spark: Public Service Week (PSW) Opening.md"
       - One Public Service Quiz.md
       - Public Sector Transformation Award Ceremony 2024.md
