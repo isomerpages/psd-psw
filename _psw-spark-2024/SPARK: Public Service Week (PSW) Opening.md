@@ -4,16 +4,24 @@ permalink: /about-psw-spark-2024/
 variant: tiptap
 description: ""
 ---
-<h3>Public Service Week (PSW): Spark</h3>
-<p>Public Service Week 2024 kicks off with PSW: Spark. This opening event
-brings the Public Service together to celebrate and recognise officers
-and agencies for excellence in service delivery, organisational practices
-and innovation. Key highlights include the Public Sector Transformation
-(PST) Awards Ceremony, speech by Minister-in-charge of the Public Service,
-Mr. Chan Chun Sing, exciting performances by xxx and ITE.</p>
-<p>Participants can also look forward to exciting onsite fringe activities
-and redeem limited edition PSW gifts.</p>
-<table>
+<h3>SPARK: Public Service Week (PSW) Opening</h3>
+<p>Public Service Week 2024 kicks off with SPARK, the opening event that
+seeks to ignite public officers’ sense of purpose and calling as One Public
+Service, and brings the Public Service together to celebrate and recognise
+officers and agencies for excellence in service delivery, organisational
+practices and innovation. Participants can also look forward to exciting
+onsite fringe activities and redeem limited edition PSW gifts.</p>
+<p>Key highlights include the Public Sector Transformation (PST) Awards Ceremony,
+speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing,
+exciting live performances by a Singapore Youth Festival (SYF) award-winning
+school and ITE.</p>
+<p>Participants attending in person can also look forward to exciting onsite
+fringe activities and redeem limited edition PSW gifts.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,8 +44,10 @@ and redeem limited edition PSW gifts.</p>
 <p></p>
 <h4>Event Registration</h4>
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
-<br><strong>Venue:</strong> ITE College Central (2 Ang Mo Kio Dr, Singapore
-567720)</p>
+<br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
+(2 Ang Mo Kio Dr, Singapore 567720)</p>
+<p><em>Onsite registration and pre-event activities will start at 1.15pm. Guests to be seated by 2.05pm</em>
+</p>
 <h3>Programme Highlights</h3>
 <ul>
 <li>
