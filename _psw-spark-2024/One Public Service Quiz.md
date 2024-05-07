@@ -28,4 +28,6 @@ in the One Public Service Quiz and stand a chance to win attractive prizes!</p>
 <p>6th to 35th Place:&nbsp;$10 e-voucher</p>
 </li>
 </ul>
-<p></p>
+<h3>Frequently Asked Questions</h3>
+<p><em>Watch this space for updates in June!</em>
+</p>
