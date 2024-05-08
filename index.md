@@ -44,6 +44,6 @@ sections:
           url: /about-pst-convention-2024/
       subtitle: "2024"
 description: Description
-image: /images/PSW2024_Brand_Guide__Internal___1_.png
+image: /images/PSW2024_logo_bigger.png
 notification: ""
 ---
