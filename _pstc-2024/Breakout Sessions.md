@@ -80,6 +80,14 @@ a member of the Singapore Institute of Planners, American Institute of
 Certified Planners and the Royal Town Planning Institute.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PST Award Winner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details to be shared at a later time</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Click here to register for PST Convention!</h4>
