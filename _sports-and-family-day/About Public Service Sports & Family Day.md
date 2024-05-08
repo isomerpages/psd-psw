@@ -26,5 +26,8 @@ well-being, as well as nurturing strong family bonds.</p>
 <p><strong>Date and Time:</strong>&nbsp;27 July 2024 (Saturday), 8am – 1.30pm
 <br><strong>Venue:</strong>&nbsp;OCBC Square, Singapore Sports Hub</p>
 <p></p>
+<p><strong>General registration via FormSG will open in end May.</strong>
+</p>
+<p></p>
 <h4><strong>Stay tuned for more information on the Public Service Sports &amp; Family Day 2024!</strong></h4>
 <p></p>
