@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Facilities & Chalet Promotions.md
-      - Membership Promotions.md
       - Free Online Social Activities.md
       - Merchant Promotions.md
