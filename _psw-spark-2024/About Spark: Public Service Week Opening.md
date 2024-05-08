@@ -34,15 +34,16 @@ fringe activities and redeem limited edition PSW gifts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Insert exciting images of PSW2023 event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Insert exciting images of PSW2023 event</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Performance by ITE.</em>
+</p>
 <h4>Event Registration</h4>
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
 <br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
