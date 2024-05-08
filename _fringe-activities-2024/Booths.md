@@ -4,7 +4,8 @@ permalink: /psw-booths/
 variant: tiptap
 description: ""
 ---
-<h4>These booths will be available for these Public Service Week events - SPARK, PST Convention and Learning Festival.</h4>
+<h3>What are the booths?</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -69,3 +70,6 @@ to support your well-being.</div>
 </div>
 </div>
 <p></p>
+<p></p>
+<p>These booths will be available for these Public Service Week events -
+SPARK, PST Convention and Learning Festival.</p>
