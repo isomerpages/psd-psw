@@ -5,13 +5,6 @@ permalink: /
 sections:
   - hero:
       url: /what-is-psw/
-      key_highlights:
-        - title: Care
-          url: /about-psw-spark-2024/
-        - title: Innovation
-          url: /about-pst-convention-2024/
-        - title: Growth
-          url: https://go.gov.sg/pswlf2024
       background: /images/PSW2024/PSW_2024_Banner_Draft__1_.png
       variant: center
   - infopic:
@@ -26,22 +19,23 @@ sections:
       title: This year,
       id: textcards
       description: "Public Service Week will emphasise Innovation, Growth and Care as
-        key enablers to support public officers in this effort:"
+        key enablers to support public officers in making a difference today for
+        tomorrow:"
       cards:
         - title: Care
           description: Care for your well-being and learn to foster flexibility
           linktext: Learn more
           url: /about-psw-spark-2024/
+        - title: Innovation
+          description: Be forward-looking and innovate today in your job & beyond for the
+            future
+          linktext: Learn more
+          url: /about-pst-convention-2024/
         - title: Growth
           description: Grow your skills today so that you are ready for tomorrow's
             opportunities
           linktext: Learn more
           url: https://go.gov.sg/pswlf2024
-        - title: Innovation
-          description: Be forward-looking and innovate today in your job & beyond for the
-            future.
-          linktext: Learn more
-          url: /about-pst-convention-2024/
       subtitle: "2024"
 description: Description
 image: /images/PSW2024_logo_bigger.png
