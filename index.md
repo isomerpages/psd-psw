@@ -7,6 +7,16 @@ sections:
       url: /what-is-psw/
       background: /images/PSW2024/PSW_2024_Banner_Draft__1_.png
       variant: center
+      key_highlights:
+        - title: Care
+          description: ""
+          url: /about-psw-spark-2024/
+        - title: Innovation
+          description: ""
+          url: /about-pst-convention-2024/
+        - title: Growth
+          description: ""
+          url: https://go.gov.sg/pswlf2024
   - infopic:
       title: PUBLIC SERVICE WEEK
       subtitle: about
