@@ -90,5 +90,5 @@ Certified Planners and the Royal Town Planning Institute.</p>
 </tr>
 </tbody>
 </table>
-<h4>Click here to register for PST Convention!</h4>
+<h4>Click <a href="https://www.gevme.com/public-service-week-2024-33368419" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for PST Convention!</h4>
 <p></p>
