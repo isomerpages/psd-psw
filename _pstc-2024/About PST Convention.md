@@ -12,7 +12,7 @@ deliver services to citizens and customers.&nbsp;&nbsp;</p>
 public service, riding major disruptions ahead with innovation as key enabler.
 This embodies the key theme of the Public Service Week to “Make a Difference
 Today for Tomorrow”.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h4><strong>Look out for more information on the PST Convention 2024!</strong></h4>
+<h4>Click <a href="https://www.gevme.com/public-service-week-2024-33368419" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for the PST Convention 2024!</h4>
 <p></p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
 – 5.00pm
