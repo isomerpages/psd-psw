@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Care Bear" src="/images/bear.png">
+<img style="width: 100%" height="auto" width="100%" alt="Care Bear" src="/images/bear2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,7 +38,7 @@ to boost productivity and streamline processes!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Growth Owl" src="/images/owl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Growth Owl" src="/images/owl1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
