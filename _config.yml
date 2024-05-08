@@ -7,7 +7,7 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: news
-favicon: /images/PSW2024_logo.png
+favicon: /images/PSW2024_logo_bigger.png
 google-analytics: UA-40876833-17
 permalink: none
 baseurl: ""
@@ -39,7 +39,7 @@ colors:
     - title: media-color-five
       color: "#9b9b9b"
 is_government: true
-shareicon: /images/PSW2024_Brand_Guide__Internal___1_.png
+shareicon: /images/PSW2024_logo_bigger.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
