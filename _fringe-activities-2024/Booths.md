@@ -70,6 +70,21 @@ to support your well-being.</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Booth" src="/images/photo_booth.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Photo Booth</div>
+<div class="isomer-card-description">Visit the photo booth and let the good times roll! Capture fun and memorable
+moments with fellow public officers.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <p>These booths will be available for these Public Service Week events -
 SPARK, PST Convention and Learning Festival.</p>
