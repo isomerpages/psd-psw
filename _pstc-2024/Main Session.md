@@ -24,7 +24,7 @@ description: ""
 <p>PST Award Winner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be insert when PSD announced the PST Winner in May 2024</p>
+<p>To be inserted when PSD announced the PST Winner in May 2024</p>
 </td>
 </tr>
 <tr>
