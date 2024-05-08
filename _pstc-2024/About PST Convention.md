@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1>Public Sector Transformation (PST) Convention</h1>
-<p>The PST Convention is an annual event for public officers to come together,
-share and learn good practices not just from one another but also from
-leading private organizations as we continue our transformation journey
-and explore ways to better deliver our services to citizens and customers.&nbsp;&nbsp;</p>
+<p>The PST Convention 2024 is an annual event for public officers to share
+and learn good practices as we continue our transformation journey to better
+deliver services to citizens and customers.&nbsp;&nbsp;</p>
 <p>The programme lined up for PST Convention 2024 focuses on a forward-looking
 public service, riding major disruptions ahead with innovation as key enabler.
 This embodies the key theme of the Public Service Week to “Make a Difference
