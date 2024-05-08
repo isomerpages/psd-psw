@@ -1,4 +1,5 @@
 collections:
   sports-and-family-day:
     output: true
-    order: []
+    order:
+      - Public Service Sports & Family Day.md
