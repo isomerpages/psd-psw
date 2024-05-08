@@ -74,7 +74,7 @@ to support your well-being.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo Booth" src="/images/photo_booth.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Booth" src="/images/Photobooth_Rental_Singapore.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
