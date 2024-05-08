@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Care Bear" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Care Bear" src="/images/bear.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -25,7 +25,7 @@ time for self-care and nurture well-being in the workplace!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Innovative Dolphin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Innovative Dolphin" src="/images/dolphin.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,7 +38,7 @@ to boost productivity and streamline processes!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Growth Owl" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Growth Owl" src="/images/owl.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
