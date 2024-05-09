@@ -38,17 +38,17 @@ description: ""
 <br>PSA International</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kim Pong is the currently the Group CEO at PSA International and
-is responsible for the overall performance and strategic growth of the
-Group’s portfolios and partnerships. Mr Ong is a member of the National
-Research Foundation Board and the Urban Redevelopment Authority Board,
-he is also the Co-Chairman of the Manufacturing Trade &amp; Connectivity
-Domain International Advisory Panel.</p>
+<p>Mr Ong Kim Pong is the Group CEO at PSA International and is responsible
+for the overall performance and strategic growth of the Group’s portfolios
+and partnerships. Mr Ong is a member of the National Research Foundation
+Board and the Urban Redevelopment Authority Board, he is also the Co-Chairman
+of the Manufacturing Trade &amp; Connectivity Domain International Advisory
+Panel.</p>
 <p>&nbsp;</p>
 <p>Committed to nurturing emerging leaders, Mr Ong serves as the Chairman
 of the Centre for Maritime Studies Management Board, a member of the NUS
-Business School Management Advisory Board and also an Adjunct Professor
-at NUS Department of Industrial systems Engineering and Management.</p>
+Business School Management Advisory Board and an Adjunct Professor at NUS
+Department of Industrial systems Engineering and Management.</p>
 </td>
 </tr>
 </tbody>
