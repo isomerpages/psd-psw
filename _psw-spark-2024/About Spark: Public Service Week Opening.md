@@ -9,8 +9,7 @@ description: ""
 that seeks to ignite public officers’ sense of purpose and calling as One
 Public Service, and brings the Public Service together to celebrate and
 recognise officers and agencies for excellence in service delivery, organisational
-practices and innovation. Participants can also look forward to exciting
-onsite fringe activities and redeem limited edition PSW gifts.</p>
+practices and innovation.</p>
 <p>Key highlights include the Public Sector Transformation (PST) Awards Ceremony,
 speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing,
 exciting live performances by Oasis Primary School – a Singapore Youth
