@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Introducing our Public Service Week Characters</strong></h2>
-<p>Stay tuned for the reveal of the characters.</p>
+<p>Stay tuned for the reveal of the characters in June.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid">
