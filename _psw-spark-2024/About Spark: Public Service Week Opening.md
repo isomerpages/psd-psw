@@ -37,14 +37,6 @@ fringe activities and redeem limited edition PSW gifts.</p>
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Insert exciting images of PSW2023 event</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Insert exciting images of PSW2023 event</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><em>Performance by ITE.</em>
