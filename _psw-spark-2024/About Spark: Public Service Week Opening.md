@@ -17,28 +17,9 @@ Festival (SYF) award-winning school, as well as the Institute of Technical
 Education (ITE).</p>
 <p>Participants attending in person can also look forward to exciting onsite
 fringe activities and redeem limited edition PSW gifts.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/psw_2023_pic1.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><em>Performance by ITE.</em>
 </p>
 <h4>Event Registration</h4>
