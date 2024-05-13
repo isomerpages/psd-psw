@@ -26,6 +26,9 @@ fringe activities and redeem limited edition PSW gifts.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
