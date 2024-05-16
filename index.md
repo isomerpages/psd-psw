@@ -19,6 +19,21 @@ sections:
         forward-looking as one Public Service, ready for the future.
       image: /images/PSW2024_Brand_Guide__Internal___1_.png
       alt: Image alt text
+  - infobar:
+      title: Theme for 2024
+      id: infobar
+      description: "As public officers, we have one enduring purpose: to improve the
+        lives of Singaporeans and make a difference today for tomorrow."
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 16 May 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
