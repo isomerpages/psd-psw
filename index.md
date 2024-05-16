@@ -11,28 +11,6 @@ sections:
         - title: Reserve my spot
           description: ""
           url: https://www.gevme.com/public-service-week-2024-33368419
-  - textcards:
-      title: This year,
-      id: textcards
-      description: "Public Service Week will emphasise Innovation, Growth and Care as
-        key enablers to support public officers in making a difference today for
-        tomorrow:"
-      cards:
-        - title: Care
-          description: Care for your well-being and learn to foster flexibility
-          linktext: Learn more
-          url: /about-psw-spark-2024/
-        - title: Innovation
-          description: Be forward-looking and innovate today in your job & beyond for the
-            future
-          linktext: Learn more
-          url: /about-pst-convention-2024/
-        - title: Growth
-          description: Grow your skills today so that you are ready for tomorrow's
-            opportunities
-          linktext: Learn more
-          url: https://go.gov.sg/pswlf2024
-      subtitle: "2024"
   - infopic:
       title: PUBLIC SERVICE WEEK
       subtitle: about
