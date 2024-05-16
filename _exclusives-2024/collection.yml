@@ -2,5 +2,6 @@ collections:
   exclusives-2024:
     output: true
     order:
+      - About PSW Booths.md
       - About Sports & Family Day.md
       - Deals & Promotions.md
