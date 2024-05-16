@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Exclusive Deals</strong></h2>
-<p>Keep an eye out for more details at the end of May.</p>
+<p>Keep an eye out for more details in June.</p>
 <p></p>
 <p></p>
