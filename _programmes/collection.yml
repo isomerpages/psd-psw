@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Learning Festival/.keep
+      - PSW Spark/.keep
       - PSW Spark/Public Sector Transformation (PST) Award Ceremony.md
       - PSW Spark/One Public Service Quiz.md
       - "PSW Spark/About Spark: Public Service Week Opening.md"
-      - PSW Spark/.keep
+      - Learning Festival/.keep
