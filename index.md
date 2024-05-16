@@ -11,19 +11,6 @@ sections:
         - title: Reserve my spot
           description: ""
           url: https://www.gevme.com/public-service-week-2024-33368419
-  - infopic:
-      title: PUBLIC SERVICE WEEK
-      subtitle: about
-      id: infopic
-      description: To celebrate the work and community of public officers and inspire
-        them to live out the values and ethos of the Singapore Public Service.
-      image: /images/PSW2024_Brand_Guide__Internal___1_.png
-      alt: Image alt text
-  - infobar:
-      title: Theme for 2024
-      id: infobar
-      description: "As public officers, we have one enduring purpose: to improve the
-        lives of Singaporeans and make a difference today for tomorrow."
   - announcements:
       title: Key Event Dates
       id: announcements
@@ -55,6 +42,19 @@ sections:
             @ Singapore Sports Hub
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
+  - infopic:
+      title: PUBLIC SERVICE WEEK
+      subtitle: about
+      id: infopic
+      description: To celebrate the work and community of public officers and inspire
+        them to live out the values and ethos of the Singapore Public Service.
+      image: /images/PSW2024_Brand_Guide__Internal___1_.png
+      alt: Image alt text
+  - infobar:
+      title: Theme for 2024
+      id: infobar
+      description: "As public officers, we have one enduring purpose: to improve the
+        lives of Singaporeans and make a difference today for tomorrow."
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
