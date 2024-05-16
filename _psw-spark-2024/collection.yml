@@ -2,4 +2,5 @@ collections:
   psw-spark-2024:
     output: true
     order:
+      - One Public Service Quiz.md
       - Public Sector Transformation (PST) Award Ceremony.md
