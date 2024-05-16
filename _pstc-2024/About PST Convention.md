@@ -7,7 +7,10 @@ description: ""
 <h1>Public Sector Transformation (PST) Convention</h1>
 <p>The PST Convention 2024 is an annual event for public officers to share
 and learn good practices as we continue our transformation journey to better
-deliver services to citizens and customers.&nbsp;&nbsp;</p>
+deliver services to citizens and customers.</p>
+<p>Hear from Head, Civil Service, Mr Leo Yip, and leaders from the private
+and public sectors on how they leverage digital disruptions to innovate
+and transform their work, workforce and workplace.</p>
 <p>The programme lined up for PST Convention 2024 focuses on a forward-looking
 public service, riding major disruptions ahead with innovation as key enabler.
 This embodies the key theme of the Public Service Week to “Make a Difference
