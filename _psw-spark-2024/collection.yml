@@ -1,5 +1,4 @@
 collections:
   psw-spark-2024:
     output: true
-    order:
-      - Public Sector Transformation (PST) Award Ceremony.md
+    order: []
