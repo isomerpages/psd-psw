@@ -25,6 +25,6 @@ well-being, as well as nurturing strong family bonds.</p>
 </div>
 <p><strong>Date and Time:</strong>&nbsp;27 July 2024 (Saturday), 8am – 1.30pm
 <br><strong>Venue:</strong>&nbsp;OCBC Square, Singapore Sports Hub</p>
-<p><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
+<p><strong><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></strong>
 </p>
 <p></p>
