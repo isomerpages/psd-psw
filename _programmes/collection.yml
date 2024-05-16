@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - "PSW Spark/About Spark: Public Service Week Opening.md"
       - PSW Spark/.keep
