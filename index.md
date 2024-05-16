@@ -39,7 +39,7 @@ sections:
           date: 27 July 2024
           announcement: |-
             8am to 1.30pm
-            @ Singapore Sports Hub
+            @ OCBC Square, Singapore Sports Hub
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infobar:
