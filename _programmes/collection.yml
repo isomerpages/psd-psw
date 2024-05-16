@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PSW Spark/.keep
-      - PSW Spark/One Public Service Quiz.md
       - "PSW Spark/About Spark: Public Service Week Opening.md"
       - Learning Festival/Learning Festival.md
       - Learning Festival/.keep
