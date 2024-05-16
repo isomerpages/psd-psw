@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PSW Spark/.keep
-      - PSW Spark/Public Sector Transformation (PST) Award Ceremony.md
       - PSW Spark/One Public Service Quiz.md
       - "PSW Spark/About Spark: Public Service Week Opening.md"
       - Learning Festival/Learning Festival.md
