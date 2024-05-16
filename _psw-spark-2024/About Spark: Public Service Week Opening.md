@@ -5,16 +5,50 @@ variant: tiptap
 description: ""
 ---
 <h3>Spark: Public Service Week Opening</h3>
-<p>Public Service Week (PSW) 2024 kicks off with Spark, the opening event
-that seeks to ignite public officers’ sense of purpose and calling as One
-Public Service, and brings the Public Service together to celebrate and
-recognise officers and agencies for excellence in service delivery, organisational
-practices and innovation.</p>
-<p>Key highlights include the Public Sector Transformation (PST) Awards Ceremony,
-speech by Minister-in-charge of the Public Service, Mr. Chan Chun Sing,
-exciting live performances by Oasis Primary School – a Singapore Youth
-Festival (SYF) award-winning school, as well as the Institute of Technical
-Education (ITE).</p>
+<p><strong>Celebrate as One Public Service!&nbsp;</strong>
+</p>
+<ul>
+<li>
+<p>Hear from Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;</p>
+</li>
+<li>
+<p>Watch HCS’ video where he interact with officers&nbsp;</p>
+</li>
+<li>
+<p>Participate in the WOG moment – Public Service Pledge and National Anthem&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>One Public Service Quiz for chance to win attractive prizes&nbsp;</p>
+</li>
+<li>
+<p>Performances by Oasis Primary School (Singapore Youth Festival award-winning
+school) and ITE students&nbsp;</p>
+</li>
+<li>
+<p>Celebrate the winners of PST Awards&nbsp;Celebrate as One Public Service!&nbsp;</p>
+<ul>
+<li>
+<p>Hear from Minister-in-Charge of the Public Service, Mr Chan Chun Sing&nbsp;</p>
+</li>
+<li>
+<p>Watch HCS’ video where he interact with officers&nbsp;</p>
+</li>
+<li>
+<p>Participate in the WOG moment – Public Service Pledge and National Anthem&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>One Public Service Quiz for chance to win attractive prizes&nbsp;</p>
+</li>
+<li>
+<p>Performances by Oasis Primary School (Singapore Youth Festival award-winning
+school) and ITE students&nbsp;</p>
+</li>
+<li>
+<p>Celebrate the winners of PST Awards&nbsp;</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Participants attending in person can also look forward to exciting onsite
 fringe activities and redeem limited edition PSW gifts.</p>
 <div class="isomer-image-wrapper">
