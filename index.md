@@ -8,23 +8,9 @@ sections:
       background: /images/PSW_2024_Banner_hi_res.png
       variant: center
       key_highlights:
-        - title: Care
+        - title: Sign up now!
           description: ""
-          url: /about-psw-spark-2024/
-        - title: Innovation
-          description: ""
-          url: /about-pst-convention-2024/
-        - title: Growth
-          description: ""
-          url: https://go.gov.sg/pswlf2024
-  - infopic:
-      title: PUBLIC SERVICE WEEK
-      subtitle: about
-      id: infopic
-      description: aims to inspire public officers to be purpose-driven and
-        forward-looking as one Public Service, ready for the future.
-      image: /images/PSW2024_Brand_Guide__Internal___1_.png
-      alt: Image alt text
+          url: https://www.gevme.com/public-service-week-2024-33368419
   - textcards:
       title: This year,
       id: textcards
@@ -47,6 +33,14 @@ sections:
           linktext: Learn more
           url: https://go.gov.sg/pswlf2024
       subtitle: "2024"
+  - infopic:
+      title: PUBLIC SERVICE WEEK
+      subtitle: about
+      id: infopic
+      description: aims to inspire public officers to be purpose-driven and
+        forward-looking as one Public Service, ready for the future.
+      image: /images/PSW2024_Brand_Guide__Internal___1_.png
+      alt: Image alt text
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
