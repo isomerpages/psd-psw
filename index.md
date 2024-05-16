@@ -8,7 +8,7 @@ sections:
       background: /images/PSW_2024_Banner_hi_res.png
       variant: center
       key_highlights:
-        - title: Sign up now!
+        - title: Reserve my spot
           description: ""
           url: https://www.gevme.com/public-service-week-2024-33368419
   - textcards:
