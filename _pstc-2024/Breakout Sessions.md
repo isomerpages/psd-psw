@@ -31,14 +31,16 @@ description: ""
 <br>Changi Airport Group (CAG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Justina Tan has more than 20 years of professional experience in the
-airport industry and has held senior positions in various airport business
-functions from international relations, airline marketing, airport retail
-to airport consultancy.</p>
-<p>With a passion for organizational development work, Ms Tan has driven
-cultural initiatives, spearheaded employee engagement efforts as well as
-look into the design of rewards and performance management systems to drive
-organisational performance.</p>
+<p>Ms Justina Tan provides strategic leadership to transform organisational
+practices, drive sustainable outcomes, and deliver great employee experiences
+while enabling Changi Airport Group to achieve its business priorities.
+She has more than 20 years of professional experience in the airport industry
+and has held senior positions in various airport business functions from
+international relations, airline marketing, airport retail to airport consultancy.</p>
+<p>She has a passion for organizational development, evident in her initiatives
+that have reshaped the company’s culture, corporate processes, talent management,
+leadership development, rewards, and employee engagement strategies to
+drive organizational performance.</p>
 </td>
 </tr>
 <tr>
