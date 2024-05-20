@@ -21,14 +21,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PST Award Winner</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details to be shared in June</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_OngKimPong.jpg">
@@ -49,6 +41,14 @@ Panel.</p>
 of the Centre for Maritime Studies Management Board, a member of the NUS
 Business School Management Advisory Board and an Adjunct Professor at NUS
 Department of Industrial systems Engineering and Management.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PST Award Winner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details to be shared in June</p>
 </td>
 </tr>
 </tbody>
