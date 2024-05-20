@@ -57,7 +57,7 @@ Singapore 569830</p>
 <p>2.30pm – 3pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by PST Award Winner&nbsp;&nbsp;</p>
+<p>Main Session: Sharing by Mr Ong Kim Pong, Group CEO of PSA International</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ Singapore 569830</p>
 <p>3pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by Mr Ong Kim Pong, Group CEO of PSA International&nbsp;</p>
+<p>Main Session: Sharing by PST Award Winner</p>
 </td>
 </tr>
 <tr>
