@@ -5,7 +5,7 @@ permalink: /
 sections:
   - hero:
       url: /what-is-psw/
-      background: /images/PSW_2024_Banner_hi_res.png
+      background: /images/PSW2024/PSW_2024_Banner_Web.png
       variant: center
       key_highlights:
         - title: Reserve my spot
