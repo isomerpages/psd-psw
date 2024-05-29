@@ -53,7 +53,7 @@ sections:
       id: infopic
       description: To celebrate the work and community of public officers and inspire
         them to live out the values and ethos of the Singapore Public Service.
-      image: /images/PSW2024_Brand_Guide__Internal___1_.png
+      image: /images/PSW_2024_tagline.png
       alt: Image alt text
 description: Description
 image: /images/PSW2024_logo_bigger.png
