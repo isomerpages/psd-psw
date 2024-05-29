@@ -14,9 +14,9 @@ public officers and their family members to participate in various sports
 and recreational activities. The event aims to promote a healthy lifestyle
 while fostering a sense of camaraderie and teamwork among public officers.</p>
 <p>The programme lined up for Public Service Sports &amp; Family Day focuses
-on the message of "Making a Difference Today for Tomorrow" through care,
-emphasising on the importance of taking care of your own physical and mental
-well-being, as well as nurturing strong family bonds.</p>
+on the message of making a difference tomorrow through care, emphasising
+on the importance of taking care of your own physical and mental well-being,
+as well as nurturing strong family bonds.</p>
 <p></p>
 <h3><strong>Programme Details</strong></h3>
 <p></p>
