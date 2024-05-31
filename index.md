@@ -46,7 +46,8 @@ sections:
       title: Theme for 2024
       id: infobar
       description: "As public officers, we have one enduring purpose: to improve the
-        lives of Singaporeans and make a difference today for tomorrow."
+        lives of Singaporeans. Make a difference for tomorrow through
+        innovation, growth and care."
   - infopic:
       title: PUBLIC SERVICE WEEK
       subtitle: about
