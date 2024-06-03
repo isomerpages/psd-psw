@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Spark: Public Service Week Opening</h2>
 <p>This opening event of Public Service Week (PSW) brings public officers
-together to celebrate the collective progress of the Service. <a href="http://www.psw-spark-2024/pstac-2024/" rel="noopener noreferrer nofollow" target="_blank">Public Sector Transformation (PST) Awards</a> will
+together to celebrate the collective progress of the Service. <a href="https://staging-lite.d249cvliswdu4p.amplifyapp.com/pstac-2024/" rel="noopener noreferrer nofollow" target="_blank">Public Sector Transformation (PST) Awards</a> will
 be presented at the event to recognise exemplary individuals and agencies
 for their contributions.</p>
 <h3>Highlights</h3>
@@ -114,6 +114,14 @@ fringe activities and redeem limited edition "Adapt and Thrive" kits.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Message from Head of Civil Service, Mr Leo Yip</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
