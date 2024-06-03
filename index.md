@@ -30,7 +30,7 @@ sections:
             @ Nanyang Polytechnic
           link_text: Learn more
           link_url: /about-pst-convention-2024/
-        - title: Learning Festival (24 - 26 July)
+        - title: Learning Festival
           date: 24 July 2024
           announcement: Happening on 24-26 July, 9am to 5pm @ Civil Service College
           link_text: Learn more
