@@ -52,8 +52,9 @@ sections:
       title: PUBLIC SERVICE WEEK
       subtitle: about
       id: infopic
-      description: To celebrate the work and community of public officers and inspire
-        them to live out the values and ethos of the Singapore Public Service.
+      description: The annual Public Service Week celebrates the work of the Singapore
+        Public Service, and inspires officers to live out the values and ethos
+        of the Service.
       image: /images/PSW_2024_tagline.png
       alt: Image alt text
 description: Description
