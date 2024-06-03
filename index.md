@@ -56,6 +56,8 @@ sections:
         Public Service, and inspires officers to live out the values and ethos
         of the Service.
       subtitle: about
+      button: More on SG Public Service
+      url: careers.gov.sg
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
