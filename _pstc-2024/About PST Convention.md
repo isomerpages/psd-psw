@@ -12,12 +12,12 @@ better services to citizens and customers.&nbsp;&nbsp;&nbsp;</p>
 and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
-<p><strong>Sign up now!</strong>
-</p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
 – 5.00pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
+<p><strong>Sign up now!</strong>
+</p>
 <h4>Programme</h4>
 <table style="minWidth: 50px">
 <colgroup>
