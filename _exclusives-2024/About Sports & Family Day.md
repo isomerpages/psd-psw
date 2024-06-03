@@ -17,7 +17,8 @@ while fostering a sense of camaraderie and teamwork among public officers.</p>
 on the message of making a difference tomorrow through care, emphasising
 on the importance of taking care of your own physical and mental well-being,
 as well as nurturing strong family bonds.</p>
-<p></p>
+<p><strong><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Find out more in this link.</a></strong>
+</p>
 <h3><strong>Programme Details</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -25,6 +26,6 @@ as well as nurturing strong family bonds.</p>
 </div>
 <p><strong>Date and Time:</strong>&nbsp;27 July 2024 (Saturday), 8am – 1.30pm
 <br><strong>Venue:</strong>&nbsp;OCBC Square, Singapore Sports Hub</p>
-<p><strong><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></strong>
+<p><strong><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></strong>
 </p>
 <p></p>
