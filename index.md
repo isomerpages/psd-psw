@@ -48,7 +48,7 @@ sections:
       description: Let's stay forward-looking, and make a difference for tomorrow by
         pursuing agile innovation, growing our skills and fostering a culture of
         care and support.
-      image: /images/PSW_2024_tagline.png
+      image: /images/PSW_2024_tagline_2024.png
   - infobar:
       title: PUBLIC SERVICE WEEK
       id: infobar
