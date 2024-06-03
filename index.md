@@ -43,11 +43,11 @@ sections:
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infopic:
-      title: Theme for 2024
+      title: Our theme this year
       id: infopic
-      description: "As public officers, we have one enduring purpose: to improve the
-        lives of Singaporeans. Make a difference for tomorrow through
-        innovation, growth and care."
+      description: Let's stay forward-looking, and make a difference for tomorrow by
+        pursuing agile innovation, growing our skills and fostering a culture of
+        care and support.
       image: /images/PSW_2024_tagline.png
   - infobar:
       title: PUBLIC SERVICE WEEK
