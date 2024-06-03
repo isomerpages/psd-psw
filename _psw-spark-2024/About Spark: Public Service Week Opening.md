@@ -117,7 +117,7 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.30pm-3.35pm</p>
+<p>3.30pm – 3.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Video on PST Awards</p>
@@ -125,7 +125,7 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.35pm-4.10pm</p>
+<p>3.35pm – 4.10pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PST Awards Ceremony</p>
@@ -133,7 +133,7 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.10pm-4.15pm</p>
+<p>4.10pm – 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WOG Moment: Public Service Pledge and National Anthem</p>
@@ -141,7 +141,7 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.15pm onwards</p>
+<p>4.15pm – 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Refreshments</p>
