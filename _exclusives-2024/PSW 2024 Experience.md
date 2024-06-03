@@ -4,7 +4,7 @@ permalink: /psw-2024-experience/
 variant: tiptap
 description: ""
 ---
-<h3>What is the PSW 2024 Experience?</h3>
+<h3>Go on a journey of discovery at Public Service Week</h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
