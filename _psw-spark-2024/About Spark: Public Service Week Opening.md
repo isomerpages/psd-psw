@@ -33,8 +33,8 @@ and sing the National Anthem&nbsp;as One Public Service! &nbsp;</p>
 </li>
 </ul>
 <p>Participants attending in person can also look forward to exciting onsite
-fringe activities and redeem limited edition "Adapt and Thrive" kits.</p>
-<p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
+fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel="noopener noreferrer nofollow" target="_blank">"Adapt and Thrive" kits</a>.</p>
+<p><strong><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
