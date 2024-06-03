@@ -57,7 +57,7 @@ sections:
         of the Service.
       subtitle: about
       button: More on SG Public Service
-      url: careers.gov.sg
+      url: https://www.careers.gov.sg
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
