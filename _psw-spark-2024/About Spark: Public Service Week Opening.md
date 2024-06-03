@@ -61,18 +61,10 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.15pm – 2.05pm&nbsp;&nbsp;</p>
+<p>1.15pm – 2.15pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration/Pre-event activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.05pm - 2.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Guests to be seated</p>
 </td>
 </tr>
 <tr>
