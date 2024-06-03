@@ -37,10 +37,10 @@ while enabling Changi Airport Group to achieve its business priorities.
 She has more than 20 years of professional experience in the airport industry
 and has held senior positions in various airport business functions from
 international relations, airline marketing, airport retail to airport consultancy.</p>
-<p>She has a passion for organizational development, evident in her initiatives
+<p>She has a passion for organisational development, evident in her initiatives
 that have reshaped the company’s culture, corporate processes, talent management,
 leadership development, rewards, and employee engagement strategies to
-drive organizational performance.</p>
+drive organisational performance.</p>
 </td>
 </tr>
 <tr>
@@ -51,12 +51,12 @@ drive organizational performance.</p>
 <p>Mr Tay Ter Long
 <br>Chief of Government
 <br>Procurement and Director
-<br>Ministry of Finance</p>
+<br>Ministry of Finance (MOF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Ter Long is the Chief of Government Procurement and Director of
 the Government Procurement Function Office in MOF. Mr Tan has more than
-20 years of professional experience in both private and public sector.</p>
+20 years of professional experience in both private and public sectors.</p>
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corporation, the Government’s appointed Centre of Excellence
 (CentEx) for building and infrastructure projects and facilities management.</p>
@@ -74,9 +74,9 @@ functions in JTC Corporation, the Government’s appointed Centre of Excellence
 <td rowspan="1" colspan="1">
 <p>Mr Ching Tuan Yee is the Director (Design &amp; Planning Lab) of URA where
 he leads efforts in the use of data and technology to support planning
-and urban design.&nbsp; Prior to this role, he led the planning team for
-Singapore’s East Region from 2016-2021 and was part of the team involved
-in the planning and urban design of the Marina Bay area from 2002 to 2015.</p>
+and urban design. Prior to this role, he led the planning team for Singapore’s
+East Region from 2016-2021 and was part of the team involved in the planning
+and urban design of the Marina Bay area from 2002 to 2015.</p>
 <p>Mr Ching’s background is in architecture and urban planning, and he is
 a member of the Singapore Institute of Planners, American Institute of
 Certified Planners and the Royal Town Planning Institute.</p>
@@ -87,10 +87,11 @@ Certified Planners and the Royal Town Planning Institute.</p>
 <p>PST Award Winner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More details to be shared at a later time</p>
+<p>More details will be shared soon.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Click <a href="https://www.gevme.com/public-service-week-2024-33368419" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for PST Convention!</h4>
+<p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
+PST Convention!</p>
 <p></p>
