@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3>Go on a journey of discovery at Public Service Week</h3>
+<p>On-site activities for participants attending Public Service Week (PSW)
+events in person!</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -15,8 +17,8 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Check in: Receive your passport</h4>
-<p>Upon registration, each participant will receive a Public Service Week
-2024 passport and pages to guide you through the different booths.</p>
+<p>Upon registration, receive a Public Service Week 2024 passport and pages
+to guide you through the different booths.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
