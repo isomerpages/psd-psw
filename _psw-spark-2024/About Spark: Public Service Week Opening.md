@@ -34,11 +34,11 @@ and sing the National Anthem&nbsp;as One Public Service! &nbsp;</p>
 </ul>
 <p>Participants attending in person can also look forward to exciting onsite
 fringe activities and redeem limited edition "Adapt and Thrive" kits.</p>
-<p>Sign up now!</p>
+<p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
 </div>
-<h4><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h4>
 <h3>Programme</h3>
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
 <br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
