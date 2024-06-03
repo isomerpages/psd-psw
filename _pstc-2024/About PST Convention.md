@@ -46,7 +46,7 @@ Singapore 569830</p>
 <p>2pm – 2.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Address by Head, Civil Service&nbsp;</p>
+<p>Keynote Address by Head of Civil Service, Mr Leo Yip&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Singapore 569830</p>
 <p>2.30pm – 3pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by Mr Ong Kim Pong, Group CEO of PSA International</p>
+<p>Main Session: Sharing by Group CEO of PSA International, Mr Ong Kim Pong</p>
 </td>
 </tr>
 <tr>
