@@ -7,7 +7,6 @@ description: ""
 <h3>Spark: Public Service Week Opening</h3>
 <p><strong>Celebrate our collective progress as One Public Service!&nbsp;</strong>
 </p>
-<h3>Programme Highlights</h3>
 <ul>
 <li>
 <p>Hear about the Public Service's future directions from Minister-in-Charge
