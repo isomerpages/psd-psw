@@ -6,13 +6,14 @@ description: ""
 ---
 <h1>Public Sector Transformation (PST) Convention</h1>
 <p>The PST Convention 2024 is an annual event for public officers to share
-and learn good practices as we continue our transformation journey to better
-deliver services to citizens and customers.&nbsp;&nbsp;&nbsp;</p>
-<p>Hear from Head, Civil Service, Mr Leo Yip, and leaders from the private
+and learn good practices as we continue our transformation journey to deliver
+better services to citizens and customers.&nbsp;&nbsp;&nbsp;</p>
+<p>Hear from Head of Civil Service Mr Leo Yip and leaders from the private
 and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
-<h4><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h4>
+<p><strong>Sign up now!</strong>
+</p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
 – 5.00pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
