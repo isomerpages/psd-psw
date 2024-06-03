@@ -35,7 +35,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1pm – 2pm&nbsp;&nbsp;</p>
+<p>1.00pm – 2.00pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration/Pre-event Engagement&nbsp;</p>
@@ -43,7 +43,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2pm – 2.30pm&nbsp;</p>
+<p>2.00pm – 2.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Address by Head of Civil Service, Mr Leo Yip&nbsp;</p>
@@ -51,7 +51,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.30pm – 3pm&nbsp;&nbsp;</p>
+<p>2.30pm – 3.00pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main Session: Sharing by Group CEO of PSA International, Mr Ong Kim Pong</p>
@@ -59,7 +59,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3pm – 3.30pm&nbsp;</p>
+<p>3.00pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main Session: Sharing by PST Award Winner</p>
@@ -75,7 +75,7 @@ Singapore 569830</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.15pm – 5pm&nbsp;</p>
+<p>4.15pm – 5.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breakout Session: “Embracing the Heart of Transformation Through Technology:
