@@ -80,7 +80,6 @@ fringe activities and redeem limited edition <a href="/psw-2024-experience/" rel
 <p>2.30pm – 2.40pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening by Emcee</p>
 <p>Opening Performance</p>
 </td>
 </tr>
