@@ -43,9 +43,9 @@ sections:
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infopic:
-      title: Our theme this year
+      title: Theme for 2024
       id: infopic
-      description: Let's stay forward-looking, and make a difference for tomorrow by
+      description: To stay forward-looking, and make a difference for tomorrow by
         pursuing agile innovation, growing our skills and fostering a culture of
         care and support.
       image: /images/Logo_for_homepage.png
