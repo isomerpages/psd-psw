@@ -36,7 +36,6 @@ and partnerships. Mr Ong is a member of the National Research Foundation
 Board and the Urban Redevelopment Authority Board, he is also the Co-Chairman
 of the Manufacturing Trade &amp; Connectivity Domain International Advisory
 Panel.</p>
-<p>&nbsp;</p>
 <p>Committed to nurturing emerging leaders, Mr Ong serves as the Chairman
 of the Centre for Maritime Studies Management Board, a member of the NUS
 Business School Management Advisory Board and an Adjunct Professor at NUS
@@ -48,7 +47,7 @@ Department of Industrial systems Engineering and Management.</p>
 <p>PST Award Winner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More details to be shared in June</p>
+<p>More details will be shared soon.</p>
 </td>
 </tr>
 </tbody>
