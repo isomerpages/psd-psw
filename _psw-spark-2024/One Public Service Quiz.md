@@ -8,8 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards.jpg">
 </div>
-<p>Put your knowledge of the Public Service to the test by participating
-in the One Public Service Quiz and stand a chance to win attractive prizes!</p>
+<p>Put your knowledge of the Public Service to the test! Participate in the
+One Public Service Quiz and stand a chance to win an attractive prize!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1st Place:&nbsp;$50 e-voucher</p>
@@ -27,6 +27,6 @@ in the One Public Service Quiz and stand a chance to win attractive prizes!</p>
 <p>6th to 35th Place:&nbsp;$10 e-voucher</p>
 </li>
 </ul>
-<h3>Frequently Asked Questions</h3>
+<h3></h3>
 <p><em>Watch this space for updates in June!</em>
 </p>
