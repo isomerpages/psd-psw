@@ -43,11 +43,12 @@ sections:
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infobar:
-      title: Theme for 2024
+      title: PUBLIC SERVICE WEEK
       id: infobar
-      description: "As public officers, we have one enduring purpose: to improve the
-        lives of Singaporeans. Make a difference for tomorrow through
-        innovation, growth and care."
+      description: The annual Public Service Week celebrates the work of the Singapore
+        Public Service, and inspires officers to live out the values and ethos
+        of the Service.
+      subtitle: about
   - infopic:
       title: PUBLIC SERVICE WEEK
       subtitle: about
