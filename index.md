@@ -42,22 +42,6 @@ sections:
             @ OCBC Square, Singapore Sports Hub
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
-  - infobar:
-      title: PUBLIC SERVICE WEEK
-      id: infobar
-      description: The annual Public Service Week celebrates the work of the Singapore
-        Public Service, and inspires officers to live out the values and ethos
-        of the Service.
-      subtitle: about
-  - infopic:
-      title: PUBLIC SERVICE WEEK
-      subtitle: about
-      id: infopic
-      description: The annual Public Service Week celebrates the work of the Singapore
-        Public Service, and inspires officers to live out the values and ethos
-        of the Service.
-      image: /images/PSW_2024_tagline.png
-      alt: Image alt text
   - infopic:
       title: Theme for 2024
       id: infopic
@@ -65,6 +49,13 @@ sections:
         lives of Singaporeans. Make a difference for tomorrow through
         innovation, growth and care."
       image: /images/PSW_2024_tagline.png
+  - infobar:
+      title: PUBLIC SERVICE WEEK
+      id: infobar
+      description: The annual Public Service Week celebrates the work of the Singapore
+        Public Service, and inspires officers to live out the values and ethos
+        of the Service.
+      subtitle: about
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
