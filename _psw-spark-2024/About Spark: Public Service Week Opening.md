@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Spark: Public Service Week Opening</h3>
-<p><strong>Celebrate as One Public Service!&nbsp;</strong>
+<p><strong>Celebrate our collective progress as One Public Service!&nbsp;</strong>
 </p>
 <ul>
 <li>
