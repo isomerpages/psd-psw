@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Reserve my spot
           description: ""
-          url: https://www.gevme.com/public-service-week-2024-33368419
+          url: https://go.gov.sg/psw2024reg
   - announcements:
       title: Key Event Dates
       id: announcements
