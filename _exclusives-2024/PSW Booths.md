@@ -80,7 +80,7 @@ to support your well-being.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Photo Booth</div>
 <div class="isomer-card-description">Visit the photo booth and let the good times roll! Capture fun and memorable
-moments with fellow public officers.</div>
+moments with fellow public officers. (Only available at Spark: Opening)</div>
 </div>
 </div>
 </div>
