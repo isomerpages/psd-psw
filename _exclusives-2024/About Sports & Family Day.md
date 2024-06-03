@@ -13,10 +13,10 @@ description: ""
 public officers and their family members to participate in various sports
 and recreational activities. The event aims to promote a healthy lifestyle
 while fostering a sense of camaraderie and teamwork among public officers.</p>
-<p>The programme lined up for Public Service Sports &amp; Family Day focuses
-on the message of making a difference tomorrow through care, emphasising
-on the importance of taking care of your own physical and mental well-being,
-as well as nurturing strong family bonds.</p>
+<p>The programme lined up for the Public Service Sports &amp; Family Day
+enables officers to make a difference for tomorrow by highlighting the
+importance of taking care of one's physical and mental well-being, as well
+as nurturing strong family bonds.</p>
 <p><strong><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Find out more in this link.</a></strong>
 </p>
 <h3><strong>Programme Details</strong></h3>
