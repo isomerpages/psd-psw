@@ -16,7 +16,7 @@ and transform their work, workforce, and workplace.</p>
 – 5.00pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
-<p><strong>Sign up now!</strong>
+<p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
 </p>
 <h4>Programme</h4>
 <table style="minWidth: 50px">
