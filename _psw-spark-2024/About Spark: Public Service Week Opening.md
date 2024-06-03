@@ -34,7 +34,7 @@ fringe activities and redeem limited edition PSW gifts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/230705_PSW_Awards_134.jpg">
 </div>
-<h4>Event Registration</h4>
+<h4><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h4>
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
 <br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
 (2 Ang Mo Kio Drive, Singapore 567720)</p>
