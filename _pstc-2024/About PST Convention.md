@@ -13,8 +13,8 @@ and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce and workplace.</p>
 <p>The programme lined up for PST Convention 2024 focuses on a forward-looking
 public service, riding major disruptions ahead with innovation as key enabler.
-This embodies the key theme of the Public Service Week to “Make a Difference
-Today for Tomorrow”.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+This embodies the key theme of the Public Service Week to “Innovate, Grow,
+Care - Make a Difference for Tomorrow”.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h4>Click <a href="https://www.gevme.com/public-service-week-2024-33368419" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for the PST Convention 2024!</h4>
 <p></p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
