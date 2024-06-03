@@ -67,7 +67,7 @@ booth activities.</p>
 </tbody>
 </table>
 <h4>Check out</h4>
-<p><strong>Take a photo for memory and receive your "Adapt and Thrive" kit if you are one of the lucky ones.</strong>
+<p><strong>Take a photo for memory and receive your "Adapt and Thrive" kit if you are one of the lucky ones. Proceed on to the PSW event of the day!</strong>
 </p>
 <p></p>
 <p></p>
