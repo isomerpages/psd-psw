@@ -27,6 +27,5 @@ One Public Service Quiz and stand a chance to win an attractive prize!</p>
 <p>6th to 35th Place:&nbsp;$10 e-voucher</p>
 </li>
 </ul>
-<h3></h3>
 <p><em>Watch this space for updates in June!</em>
 </p>
