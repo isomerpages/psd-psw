@@ -52,5 +52,6 @@ Department of Industrial systems Engineering and Management.</p>
 </tr>
 </tbody>
 </table>
-<h4>Click <a href="https://www.gevme.com/public-service-week-2024-33368419" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to register for PST Convention!</h4>
+<p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
+the PST Convention!</p>
 <p></p>
