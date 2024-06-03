@@ -1,0 +1,8 @@
+collections:
+  pstc-2024:
+    output: true
+    order:
+      - About PST Convention.md
+      - Main Session.md
+      - Breakout Sessions.md
+      - Frequently Asked Questions (FAQs).md

@@ -1,0 +1,7 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - PSW Spark/.keep
+      - Learning Festival/Learning Festival.md
+      - Learning Festival/.keep
