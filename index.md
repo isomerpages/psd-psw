@@ -49,6 +49,7 @@ sections:
         pursuing agile innovation, growing our skills and fostering a culture of
         care and support.
       image: /images/Logo_for_homepage.png
+      alt: PSW 2024 theme
   - infobar:
       title: PUBLIC SERVICE WEEK
       id: infobar
