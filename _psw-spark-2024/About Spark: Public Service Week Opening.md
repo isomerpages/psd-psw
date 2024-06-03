@@ -118,34 +118,26 @@ fringe activities and redeem limited edition "Adapt and Thrive" kits.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3.30pm-3.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Video on PST Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.35pm-4.10pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PST Awards Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.10pm-4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>WOG Moment: Public Service Pledge and National Anthem</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.35pm-3.40pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Screening of PST Awards Videos</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.40pm-4.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PST Award Presentation</p>
 </td>
 </tr>
 <tr>
@@ -154,14 +146,6 @@ fringe activities and redeem limited edition "Adapt and Thrive" kits.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Refreshments</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
