@@ -57,6 +57,13 @@ sections:
         of the Service.
       image: /images/PSW_2024_tagline.png
       alt: Image alt text
+  - infopic:
+      title: Theme for 2024
+      id: infopic
+      description: "As public officers, we have one enduring purpose: to improve the
+        lives of Singaporeans. Make a difference for tomorrow through
+        innovation, growth and care."
+      image: /images/PSW_2024_tagline.png
 description: Description
 image: /images/PSW2024_logo_bigger.png
 notification: ""
