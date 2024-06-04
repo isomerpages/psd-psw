@@ -8,7 +8,30 @@ description: ""
 <p>On-site activities for participants attending Public Service Week (PSW)
 events in person!</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,30 +57,6 @@ booth activities.</p>
 all 4 stamps (1 from each booth) will receive an exclusive Public Service
 "Adapt and Thrive" kit.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Check out</h4>
 <p>Take a photo for memory and receive your "Adapt and Thrive" kit if you
 are one of the lucky ones. Proceed on to the PSW event of the day!</p>
