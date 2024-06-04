@@ -23,7 +23,7 @@ sections:
             (also available virtually)
           link_text: Learn more
           link_url: /about-psw-spark-2024/
-        - title: PST Convention
+        - title: Public Sector Transformation (PST) Convention
           date: 17 July 2024
           announcement: |-
             2pm to 5pm
@@ -43,15 +43,17 @@ sections:
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infopic:
-      title: Our theme this year
+      title: Theme for 2024
       id: infopic
-      description: Let's stay forward-looking, and make a difference for tomorrow by
+      description: To stay forward-looking, and make a difference for tomorrow by
         pursuing agile innovation, growing our skills and fostering a culture of
         care and support.
       image: /images/Logo_for_homepage.png
       alt: PSW 2024 theme
+      url: https://go.gov.sg/psw2024reg
+      button: Register For PSW Now
   - infobar:
-      title: PUBLIC SERVICE WEEK
+      title: Public Service Week
       id: infobar
       description: The annual Public Service Week celebrates the work of the Singapore
         Public Service, and inspires officers to live out the values and ethos

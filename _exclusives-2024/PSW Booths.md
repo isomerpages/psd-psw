@@ -4,7 +4,7 @@ permalink: /psw-booths/
 variant: tiptap
 description: ""
 ---
-<h3>What are the booths?</h3>
+<h3>Look out for these booths at Public Service Week!</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -64,8 +64,7 @@ opportunities to help you grow and thrive in your professional journey.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Well-being</div>
-<div class="isomer-card-description">Invest in your well-being! Discover a range of well-being support resources
-to support your well-being.</div>
+<div class="isomer-card-description">Invest in your well-being! Discover a range of resources to support you.</div>
 </div>
 </div>
 </div>
@@ -86,5 +85,5 @@ moments with fellow public officers. (Only available at Spark: Opening)</div>
 </div>
 <p></p>
 <p></p>
-<p>These booths will be available for these Public Service Week events -
-SPARK, PST Convention and Learning Festival.</p>
+<p>These booths will be available at these Public Service Week events - SPARK,
+PST Convention and Learning Festival.</p>

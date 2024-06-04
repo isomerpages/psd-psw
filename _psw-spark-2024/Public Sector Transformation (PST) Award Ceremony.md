@@ -7,10 +7,10 @@ description: ""
 <h3>Public Sector Transformation Awards Ceremony</h3>
 <h4>Award Categories</h4>
 <p>The Public Sector Transformation (PST) Awards 2024 recognise efforts at
-three levels - Whole of Government (WOG), agency, and individual levels.
-The PST Awards focus on working as One Public Service, engaging citizens,
-innovating and digitalising services and functions, improving our regulatory
-environment, and encouraging business transformation and workforce transformation.</p>
+three levels - Whole of Government (WOG), agency, and individual. The Awards
+recognise exemplary efforts to work as One Public Service, engage citizens,
+innovate and digitalise services and functions, improve our regulatory
+environment, and encourage business transformation and workforce transformation.</p>
 <p>The PST Award categories are as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -37,10 +37,10 @@ environment, and encouraging business transformation and workforce transformatio
 <p></p>
 <p>This award recognises agencies for exemplary inter-agency initiatives
 that have reflected a sustained and institutionalised approach to collaboration.
-The initiatives may be exemplary WOG efforts in: (i) service delivery,
-(ii) citizen engagement, (iii) regulatory review, (iv) digitalisation that
-achieve a transformative (not incremental) change in how things are done;
-or (v) innovation at the WOG level.</p>
+The initiatives may be exemplary Whole-of-Government (WOG) efforts in:
+(i) service delivery, (ii) citizen engagement, (iii) regulatory review,
+(iv) digitalisation that achieve a transformative (not incremental) change
+in how things are done; or (v) innovation at the WOG level.</p>
 </td>
 </tr>
 <tr>
@@ -51,11 +51,11 @@ or (v) innovation at the WOG level.</p>
 <p><strong>Star Partner Award</strong>
 </p>
 <p></p>
-<p>This award recognises exemplary citizens, non-government organisations,
-trade unions, volunteer groups or companies that have contributed to better
-outcomes for the Public Service, in terms of demonstrating a strong spirit
-of partnership with the nominating public agency, or as strong advocates
-for national initiatives</p>
+<p>This award recognises exemplary citizens, non-government organisations
+(NGOs), trade unions, volunteer groups or companies that have contributed
+to better outcomes for the Public Service, in terms of demonstrating a
+strong spirit of partnership with the nominating public agency, or as strong
+advocates for national initiatives</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ for national initiatives</p>
 <p><strong>Transformative Agency of the Year Award</strong>
 </p>
 <p></p>
-<p>This is an “all-rounder” apex award at the agency-level. This award recognises
+<p>This is an “all-rounder” apex award at the agency level. This award recognises
 exemplary agencies that have successfully transformed both their operations
 and workforce with ambition, and “to the core”, with impactful outcomes.</p>
 </td>
