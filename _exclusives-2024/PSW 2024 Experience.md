@@ -15,25 +15,15 @@ events in person!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Check in: Receive your passport</h4>
+<td rowspan="1" colspan="1">
+<h4>Receive your passport</h4>
 <p>Upon registration, receive a PSW passport which will guide you through
 booth activities.</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_08_at_10_39_35_AM.png">
 </div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
