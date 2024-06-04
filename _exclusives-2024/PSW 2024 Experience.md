@@ -17,8 +17,8 @@ events in person!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Check in: Receive your passport</h4>
-<p><strong>Upon registration, receive a PSW passport which will guide you through booth activities.</strong>
-</p>
+<p>Upon registration, receive a PSW passport which will guide you through
+booth activities.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
