@@ -64,8 +64,7 @@ opportunities to help you grow and thrive in your professional journey.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Well-being</div>
-<div class="isomer-card-description">Invest in your well-being! Discover a range of well-being support resources
-to support your well-being.</div>
+<div class="isomer-card-description">Invest in your well-being! Discover a range of resources to support you.</div>
 </div>
 </div>
 </div>
