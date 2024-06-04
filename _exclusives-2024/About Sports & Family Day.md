@@ -17,7 +17,7 @@ while fostering a sense of camaraderie and teamwork among public officers.</p>
 highlights the importance of taking care of one's physical and mental well-being,
 as well as nurturing strong family bonds in order to make a difference
 for tomorrow.</p>
-<p><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Find out more about the event!</a>
+<p><a href="https://www.csc.sg/sportsday/" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
 </p>
 <p><strong>Date and Time:</strong>&nbsp;27 July 2024 (Saturday), 8am – 1.30pm
 <br><strong>Venue:</strong>&nbsp;OCBC Square, Singapore Sports Hub</p>
