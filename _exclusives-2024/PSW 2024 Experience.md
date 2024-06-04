@@ -17,8 +17,8 @@ events in person!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Check in: Receive your passport</h4>
-<p>Upon registration, receive a PSW passport which will guide you through
-booth activities.</p>
+<p><strong>Upon registration, receive a PSW passport which will guide you through booth activities.</strong>
+</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -39,8 +39,9 @@ booth activities.</p>
 </tbody>
 </table>
 <h4>Explore PSW booths</h4>
-<p><strong>Collect stamps from 4 different booths. The first 300 officers to collect all 4 stamps (1 from each booth) will receive an exclusive Public Service "Adapt and Thrive" kit.</strong>
-</p>
+<p>Collect stamps from 4 different booths. The first 300 officers to collect
+all 4 stamps (1 from each booth) will receive an exclusive Public Service
+"Adapt and Thrive" kit.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -67,7 +68,7 @@ booth activities.</p>
 </tbody>
 </table>
 <h4>Check out</h4>
-<p><strong>Take a photo for memory and receive your "Adapt and Thrive" kit if you are one of the lucky ones. Proceed on to the PSW event of the day!</strong>
-</p>
+<p>Take a photo for memory and receive your "Adapt and Thrive" kit if you
+are one of the lucky ones. Proceed on to the PSW event of the day!</p>
 <p></p>
 <p></p>
