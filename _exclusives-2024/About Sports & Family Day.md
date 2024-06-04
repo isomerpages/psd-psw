@@ -21,8 +21,6 @@ for tomorrow.</p>
 </p>
 <p><strong>Date and Time:</strong>&nbsp;27 July 2024 (Saturday), 8am – 1.30pm
 <br><strong>Venue:</strong>&nbsp;OCBC Square, Singapore Sports Hub</p>
-<p><strong><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.jpg">
