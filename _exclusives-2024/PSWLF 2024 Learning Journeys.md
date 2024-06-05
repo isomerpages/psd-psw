@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>Try out these learning journeys specially curated for you. Limited vacancies!</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdt_suites_6.jpg">
 </div>
 <p><strong>Visit to Singapore Airline's Cabin Crew Training Facilities</strong>
 <br>Hosted by: Singapore Airlines
@@ -22,8 +23,9 @@ are trained to maintain their high service standards.
 </p>
 <hr>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/202212032494.jpg">
 </div>
 <p><strong>Silver Generation Ambassador (SGA) Buddy Programme</strong>
 <br>Hosted by: Agency for Integrated Care
