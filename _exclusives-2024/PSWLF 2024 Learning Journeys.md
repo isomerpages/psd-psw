@@ -18,7 +18,7 @@ description: ""
 scenes of the rigorous training Singapore Airline's flight attendants go
 through. Tour SIA's training facilities and experience how cabin crew members
 are trained to maintain their high service standards.
-<br><a href="go.gov.sg/pswresources" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024.</a>
+<br><a href="go.gov.sg/2024-sia-lj" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024.</a>
 </p>
 <hr>
 <p></p>
@@ -33,7 +33,7 @@ are trained to maintain their high service standards.
 <br>Buddy up with a Silver Generation Ambassador to conduct preventative health
 visits to seniors' homes! Boost your citizen engagement skills while learning
 valuable tips on senior health support.
-<br><a href="go.gov.sg/pswresources" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024.</a>
+<br><a href="go.gov.sg/psfgljpsw" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024.</a>
 </p>
 <p></p>
 <p></p>
