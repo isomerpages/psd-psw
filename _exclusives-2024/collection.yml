@@ -2,6 +2,7 @@ collections:
   exclusives-2024:
     output: true
     order:
+      - PSWLF 2024 Learning Journeys.md
       - About Sports & Family Day.md
       - PSW 2024 Experience.md
       - PSW Booths.md
