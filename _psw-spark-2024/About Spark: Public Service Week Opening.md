@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Spark: Public Service Week Opening</h2>
 <p>This opening event of Public Service Week (PSW) brings public officers
-together to celebrate the collective progress of the Service. <a href="/pstac-2024/" rel="noopener noreferrer nofollow" target="_blank">Public Sector Transformation (PST) Awards</a> will
+together to celebrate the collective progress of the Service. <a href="https://www.publicserviceweek.gov.sg/pstac-2024/" rel="noopener noreferrer nofollow" target="_blank">Public Sector Transformation (PST) Awards</a> will
 be presented at the event to recognise exemplary individuals and agencies
 for their contributions.</p>
 <h3>Highlights</h3>
@@ -17,7 +17,7 @@ of the Public Service Mr Chan Chun Sing, and Head of Civil Service Mr Leo
 Yip.</p>
 </li>
 <li>
-<p>Take the <a href="/onepsquiz2024/" rel="noopener noreferrer nofollow" target="_blank">One Public Service Quiz</a> for
+<p>Take the <a href="https://wwww.publicserviceweek.gov.sg/onepsquiz2024/" rel="noopener noreferrer nofollow" target="_blank">One Public Service Quiz</a> for
 a chance to win an attractive prize.&nbsp;</p>
 </li>
 <li>
