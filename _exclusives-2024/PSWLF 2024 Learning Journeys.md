@@ -17,7 +17,8 @@ description: ""
 <br>Buddy up with a Silver Generation Ambassador to conduct preventive health
 visits to seniors' homes! Boost your citizen engagement skills while learning
 valuable tips on senior health support.</p>
-<p><a href="www.go.gov.sg/psfgljpsw" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024</a>
+<p></p>
+<p><a href="https://www.go.gov.sg/psfgljpsw" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024</a>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
@@ -31,7 +32,9 @@ valuable tips on senior health support.</p>
 <br>This 2-hour learning journey will provide officers a glimpse behind the
 scenes of the first class training Singapore Airlines' flight attendants
 undergo. Tour SIA's training facilities and experience how cabin crew members
-are trained to maintain their high service standards.
-<br><a href="www.go.gov.sg/2024-sia-lj" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024</a>
+are trained to maintain their high service standards.</p>
+<p></p>
+<p><a href="go.gov.sg/2024-sia-lj" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024</a>
 </p>
+<p></p>
 <p></p>
