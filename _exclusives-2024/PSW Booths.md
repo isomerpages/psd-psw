@@ -58,9 +58,6 @@ for collaboration and make a difference today.</div>
 opportunities to help you grow and thrive in your professional journey.</div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Well-being</div>
