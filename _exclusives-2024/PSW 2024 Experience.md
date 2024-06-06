@@ -42,7 +42,7 @@ events in person!</p>
 <td rowspan="1" colspan="1">
 <h4>Receive your passport</h4>
 <p>Upon registration, receive a PSW passport which will guide you through
-<a href="/psw-booths/" rel="noopener noreferrer nofollow" target="_blank">booth activities</a>.</p>
+<a href="https://www.publicserviceweek.gov.sg/psw-booths" rel="noopener noreferrer nofollow" target="_blank">booth activities</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -53,9 +53,9 @@ events in person!</p>
 </tbody>
 </table>
 <h4>Explore PSW booths</h4>
-<p>Collect stamps from 4 different <a href="/psw-booths/" rel="noopener noreferrer nofollow" target="_blank">booths</a>. The first 300 officers to collect all 4
-stamps (1 from each booth) will receive an exclusive Public Service "Adapt
-and Thrive" kit.</p>
+<p>Collect stamps from 4 different <a href="https://www.publicserviceweek.gov.sg/psw-booths" rel="noopener noreferrer nofollow" target="_blank">booths</a>. The
+first 300 officers to collect all 4 stamps (1 from each booth) will receive
+an exclusive Public Service "Adapt and Thrive" kit.</p>
 <p></p>
 <h4>Check out</h4>
 <p>Take a photo for memory and receive your "Adapt and Thrive" kit if you
