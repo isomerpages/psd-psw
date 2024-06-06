@@ -53,9 +53,9 @@ booth activities.</p>
 </tbody>
 </table>
 <h4>Explore PSW booths</h4>
-<p>Collect stamps from 4 different booths. The first 300 officers to collect
-all 4 stamps (1 from each booth) will receive an exclusive Public Service
-"Adapt and Thrive" kit.</p>
+<p>Collect stamps from 4 different <a href="/psw-booths/" rel="noopener noreferrer nofollow" target="_blank">booths</a>. The first 300 officers to collect all 4
+stamps (1 from each booth) will receive an exclusive Public Service "Adapt
+and Thrive" kit.</p>
 <p></p>
 <h4>Check out</h4>
 <p>Take a photo for memory and receive your "Adapt and Thrive" kit if you
