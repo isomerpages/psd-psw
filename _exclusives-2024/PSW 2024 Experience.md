@@ -42,7 +42,7 @@ events in person!</p>
 <td rowspan="1" colspan="1">
 <h4>Receive your passport</h4>
 <p>Upon registration, receive a PSW passport which will guide you through
-booth activities.</p>
+<a href="/psw-booths/" rel="noopener noreferrer nofollow" target="_blank">booth activities</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
