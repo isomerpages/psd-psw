@@ -33,7 +33,7 @@ valuable tips on senior health support.</p>
 scenes of the first class training Singapore Airlines' flight attendants
 undergo. Tour SIA's training facilities and experience how cabin crew members
 are trained to maintain their high service standards.</p>
-<p><a href="go.gov.sg/2024-sia-lj" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024!</a>
+<p><a href="https://go.gov.sg/2024-sia-lj" rel="noopener noreferrer nofollow" target="_blank">Register here by 17 June 2024</a>
 </p>
 <p></p>
 <p></p>
