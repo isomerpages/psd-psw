@@ -44,10 +44,23 @@ Department of Industrial systems Engineering and Management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PST Award Winner</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/Jacqueline_Poh_MD_EDB.jpg">
+</div>
+<p>Ms Jacqueline Poh</p>
+<p>Managing Director</p>
+<p>Singapore Economic Development Board</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More details will be shared soon.</p>
+<p>Ms Poh was previously Deputy Secretary in the Prime Minister’s Office
+Strategy Group. She was also the founding Chief Executive of the Government
+Technology Agency of Singapore(GovTech), and Managing Director of the Infocommunications
+Development Authority (IDA). She currently sits on the Boards of SingHealth,
+the Singapore Institute of Technology and the Agency for Science, Technology
+and Research. She is the Chairperson of the DesignSingapore Advisory Board
+and a member of the Young Presidents’ Organisation.</p>
 </td>
 </tr>
 </tbody>
