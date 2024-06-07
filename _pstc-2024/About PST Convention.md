@@ -62,7 +62,7 @@ Singapore 569830</p>
 <p>3.00pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by PST Award Winner</p>
+<p>Main Session: Sharing by Managing Director of Singapore Economic Board</p>
 </td>
 </tr>
 <tr>
