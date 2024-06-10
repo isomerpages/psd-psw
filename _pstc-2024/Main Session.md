@@ -25,7 +25,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_OngKimPong.jpg">
 </div>
-<p>Mr Ong Kim Pong
+<p><strong>Mr Ong Kim Pong </strong>
 <br>Group CEO
 <br>PSA International</p>
 </td>
@@ -48,9 +48,9 @@ Department of Industrial systems Engineering and Management.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/Jacqueline_Poh_MD_EDB.jpg">
 </div>
-<p>Ms Jacqueline Poh</p>
-<p>Managing Director</p>
-<p>Singapore Economic Development Board</p>
+<p><strong>Ms Jacqueline Poh </strong>
+<br>Managing Director
+<br>Singapore Economic Development Board</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
