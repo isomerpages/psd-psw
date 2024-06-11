@@ -33,6 +33,7 @@ valuable tips on senior health support.</p>
 scenes of the first class training Singapore Airlines' flight attendants
 undergo. Tour SIA's training facilities and experience how cabin crew members
 are trained to maintain their high service standards.</p>
+<p></p>
 <p><em>Registration closed due to overwhelming response!</em>
 </p>
 <p></p>
