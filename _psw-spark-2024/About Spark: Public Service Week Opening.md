@@ -72,7 +72,7 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 <p>2.15pm – 2.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One Public Service Kahoot Quiz</p>
+<p>One Public Service Quiz</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +144,9 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 <p>4.15pm – 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refreshments</p>
+<p>Refreshment</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
