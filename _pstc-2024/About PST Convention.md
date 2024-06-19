@@ -13,7 +13,7 @@ and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
-– 5.00pm
+– 5:00pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
@@ -46,7 +46,7 @@ Singapore 569830</p>
 <p>2.00pm – 2.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Address by Head of Civil Service, Mr Leo Yip&nbsp;</p>
+<p>Keynote Address by Head of Civil Service, Mr. Leo Yip&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Singapore 569830</p>
 <p>2.30pm – 3.00pm&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by Group CEO of PSA International, Mr Ong Kim Pong</p>
+<p>Main Session: Sharing by Group CEO of PSA International, Mr. Ong Kim Pong</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,8 @@ Singapore 569830</p>
 <p>3.00pm – 3.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main Session: Sharing by Managing Director of Singapore Economic Board</p>
+<p>Main Session: Sharing by Managing Director of Singapore Economic Development
+Board, Ms. Jacqueline Poh</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +80,7 @@ Singapore 569830</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breakout Session: “Embracing the Heart of Transformation Through Technology:
-Case studies”&nbsp;</p>
+Case Studies”&nbsp;</p>
 </td>
 </tr>
 </tbody>
