@@ -1,0 +1,4 @@
+collections:
+  free-activities:
+    output: true
+    order: []
