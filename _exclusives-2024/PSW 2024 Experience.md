@@ -45,9 +45,7 @@ events in person!</p>
 <a href="https://www.publicserviceweek.gov.sg/psw-booths" rel="noopener noreferrer nofollow" target="_blank">booth activities</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_08_at_10_39_35_AM.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -58,7 +56,6 @@ first 300 officers to collect all 4 stamps (1 from each booth) will receive
 an exclusive Public Service "Adapt and Thrive" kit.</p>
 <p></p>
 <h4>Check out</h4>
-<p>Take a photo for memory and receive your "Adapt and Thrive" kit if you
-are one of the lucky ones. Proceed on to the PSW event of the day!</p>
+<p>Take a photo for memory and proceed on to the PSW event of the day.</p>
 <p></p>
 <p></p>
