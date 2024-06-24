@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3>Take part in free social and wellness activities during Public Service Week</h3>
-<p>On-site and online activities for all public service officers to participate.
-Limited vacancies!</p>
+<p>On-site and online activities available for all public service officers
+to participate in. Limited vacancies!</p>
 <hr>
 <h4>On-site Activities</h4>
 <p><strong>Reflective Art Experience</strong>
