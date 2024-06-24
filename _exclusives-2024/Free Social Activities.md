@@ -4,7 +4,7 @@ permalink: /free-social-activities/
 variant: tiptap
 description: ""
 ---
-<h3>Take part in free social and wellness activities and workshops during Public Service Week</h3>
+<h3>Take part in free social and wellness activities during Public Service Week</h3>
 <p>On-site and online activities for all public service officers to participate.
 Limited vacancies!</p>
 <hr>
