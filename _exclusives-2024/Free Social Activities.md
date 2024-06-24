@@ -48,7 +48,7 @@ boxing element in one segment of the programme.</p>
 <hr>
 <p><strong>Zumba</strong>
 <br>Date: 20 July 2024
-<br>Time: 11am-12pm
+<br>Time: 10-11am
 <br>Location: CSC @ Bukit Batok</p>
 <p>
 <br>Zumba Fitness is a fitness program that combines Latin and international
@@ -126,7 +126,7 @@ to deepen a mindful Yoga practice.</p>
 <p></p>
 <hr>
 <p><strong>Marble Chiffon Cake Demo</strong>
-<br>Date: 12 July 2024
+<br>Date: 13 July 2024
 <br>Time: 10-11am
 <br>Location: online</p>
 <p>
