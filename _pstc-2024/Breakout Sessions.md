@@ -55,7 +55,7 @@ drive organisational performance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Ter Long is the Chief of Government Procurement and Director of
-the Government Procurement Function Office in MOF. Mr Tan has more than
+the Government Procurement Function Office in MOF. Mr Tay has more than
 20 years of professional experience in both private and public sectors.</p>
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corporation, the Government’s appointed Centre of Excellence
