@@ -32,7 +32,7 @@ description: ""
 <p>Crocs</p>
 </li>
 <li>
-<p>Skechers, and more!</p>
+<p>Skechers</p>
 </li>
 </ul>
 <p></p>
