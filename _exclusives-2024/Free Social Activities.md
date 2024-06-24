@@ -67,7 +67,7 @@ party.</p>
 <br>Take some time off to relax and rejuvenate your body. These yoga sessions
 are slow-paced with some simple breathing exercises and meditation. Enhance
 the harmonisation of your body, mind and soul in a tranquil setting. Relax
-your mind and rejuvenate your body with our certified Yoga trainer.</p>
+your mind and rejuvenate your body with the certified Yoga trainer.</p>
 <p><strong>Vacancies: 20 pax. </strong>Sign up <a href="https://www.csc.sg/events/EventsDetail/1248/-PSW--Yoga-for-Wellness--TC" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <hr>
@@ -78,11 +78,11 @@ your mind and rejuvenate your body with our certified Yoga trainer.</p>
 <br>Location: online</p>
 <p>
 <br>There has long been a debate if certain types of foods or diets promote
-youthfulness &amp; anti-aging effectively. Though there is no magic bullet,
+youthfulness and anti-aging effectively. Though there is no magic bullet,
 a good anti-aging strategy seeks to minimize free radicals damage &amp;
 deliberate uptake of a wide range of antioxidants from a variety of foods
-in one’s diet. Our Nutritionist/Dietitian will discuss an antioxidant rich
-diet coupled with lifestyle changes such as smoking cessation, reduction
+in one’s diet. Hear from a Nutritionist/Dietitian about an antioxidant
+rich diet coupled with lifestyle changes such as smoking cessation, reduction
 of excessive alcohol &amp; appropriate exercises (core, resistance, strengthening).
 This plus strategies against sun damage &amp; pollutant damage for body
 &amp; face will definitely go a long way to maintain one’s youthfulness
@@ -96,7 +96,7 @@ This plus strategies against sun damage &amp; pollutant damage for body
 <br>Location: online</p>
 <p>
 <br>Unlock the secrets of aromatherapy to enhance your mental wellness through
-the power of aroma massage and custom oil blends.This workshop is designed
+the power of aroma massage and custom oil blends. This workshop is designed
 to guide you on a sensory journey, helping you to alleviate stress, improve
 mood, and achieve a state of calm and relaxation. Whether you're new to
 aromatherapy or looking to deepen your knowledge, this workshop provides
@@ -109,8 +109,8 @@ practical skills and insights to support your mental well-being.</p>
 <br>Time: 7.30-9pm
 <br>Location: online</p>
 <p>
-<br>Join Kenneth, the speaker in this talk on the importance of drawing up
-a Will and appointing an LPA.</p>
+<br>Find out more about the importance of drawing up a Will and appointing
+an LPA.</p>
 <p><strong>Vacancies: 90 pax. </strong>Sign up <a href="https://www.csc.sg/events/EventsDetail/38/Will-Planning--amp--Lasting--Power-Of--Attorney--LPA--Talk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <hr>
@@ -119,9 +119,12 @@ a Will and appointing an LPA.</p>
 <br>Time: 7.30-8.30pm
 <br>Location: online</p>
 <p>
-<br>Join our 1-hour-ish class good for the whole body and mind. The class
-flow is about Gentle Yoga followed by Yoga Nidra. Great for anyone wanting
-to deepen a mindful Yoga practice.</p>
+<br>Immerse yourself in our rejuvenating 1-hour session, designed to benefit
+both your body and mind. This class begins with Gentle Yoga, easing you
+into a state of relaxation and balance, followed by Yoga Nidra, a deeply
+restorative practice that promotes profound rest and mindfulness. Perfect
+for anyone looking to deepen their mindful yoga practice, this session
+is suitable for all levels.</p>
 <p><strong>Vacancies: 90 pax. </strong>Sign up <a href="https://www.csc.sg/events/EventsDetail/1316/Online--Gentle-Yoga-with-Yoga-nidra" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <hr>
@@ -130,10 +133,13 @@ to deepen a mindful Yoga practice.</p>
 <br>Time: 10-11am
 <br>Location: online</p>
 <p>
-<br>This is delicious marble chiffon cake with luscious swirls of cocoa and
-vanilla batters so you get the best of both! This chiffon cake turns out
-tender and moist with a super light, airy, and fluffy texture that won’t
-dry out. Option to top it with chocolate ganache.</p>
+<br>Join our cooking workshop and learn to make a scrumptious marble chiffon
+cake, beautifully marbled with luscious swirls of cocoa and vanilla batters.
+This delightful combination gives you the best of both flavors in every
+bite! Our chiffon cake recipe ensures a tender and moist crumb, boasting
+a super light, airy, and fluffy texture that stays perfect without drying
+out. For an extra touch of indulgence, you have the option to top it with
+a rich, velvety chocolate ganache.</p>
 <p><strong>Vacancies: 90 pax. </strong>Sign up <a href="https://www.csc.sg/events/EventsDetail/1319/PSW---Marble-Chiffon-Cake-by-Michele" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <hr>
