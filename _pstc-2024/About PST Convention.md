@@ -8,7 +8,7 @@ description: ""
 <p>The PST Convention 2024 is an annual event for public officers to share
 and learn good practices as we continue our transformation journey to deliver
 better services to citizens and customers.&nbsp;&nbsp;&nbsp;</p>
-<p>Hear from Head of Civil Service Mr Leo Yip and leaders from the private
+<p>Hear from Head, Civil Service, Mr Leo Yip and leaders from the private
 and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
@@ -46,7 +46,7 @@ Singapore 569830</p>
 <p>2:00pm – 2:30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Address by Head of Civil Service, Mr Leo Yip&nbsp;</p>
+<p>Keynote Address by Head, Civil Service, Mr Leo Yip&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ Board, Ms Jacqueline Poh</p>
 <p>3:30pm – 4:15pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tea Break&nbsp;</p>
+<p>Tea Break/Networking</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +79,8 @@ Board, Ms Jacqueline Poh</p>
 <p>4:15pm – 5:00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Session: “Embracing the Heart of Transformation Through Technology:
-Case Studies”&nbsp;</p>
+<p>Concurrent Breakout Sessions: “Embracing the Heart of Transformation Through
+Technology: Case Studies”&nbsp;</p>
 </td>
 </tr>
 </tbody>

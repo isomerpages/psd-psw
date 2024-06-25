@@ -105,16 +105,19 @@ address increasingly complex challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/Speaker_MOH_RaymondChua_A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/11_MOH_RaymondChua_short.jpg">
 </div>
+<p>A/Prof Raymond Chua
+<br>Deputy Director-General of Health (Health Regulation)
+<br>Ministry of Health (MOH)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A/Prof Raymond Chua graduated from the Faculty of Medicine in the National
 University of Singapore in 1997 and is a registered public health specialist
 and a fellow of the Academy of Medicine since 2007. He is currently the
-Deputy Director- General of Health for Health Regulation in the Ministry
+Deputy Director-General of Health for Health Regulation in the Ministry
 of Health. He oversees the end-to-end regulations for healthcare services
 and information, from policy to inspection and audit to enforcement.</p>
 <p>Prior to this, he was the Group Director of the Health Products Regulation
