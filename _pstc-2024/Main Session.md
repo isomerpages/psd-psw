@@ -4,7 +4,7 @@ permalink: /main-session/
 variant: tiptap
 description: ""
 ---
-<h3>Panel Discussion:</h3>
+<h3>Main Session:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
