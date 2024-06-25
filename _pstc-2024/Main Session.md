@@ -33,7 +33,7 @@ description: ""
 <p>Mr Ong Kim Pong is the Group CEO of PSA International and is responsible
 for the overall performance and strategic growth of the Group’s portfolios
 and partnerships. Mr Ong is a member of the National Research Foundation
-Board and the Urban Redevelopment Authority Board, he is also the Co-Chairman
+Board and the Urban Redevelopment Authority Board. He is also the Co-Chairman
 of the Manufacturing Trade &amp; Connectivity Domain International Advisory
 Panel.</p>
 <p>Committed to nurturing emerging leaders, Mr Ong serves as the Chairman
