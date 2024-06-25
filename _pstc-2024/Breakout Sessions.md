@@ -110,7 +110,7 @@ address increasingly complex challenges.</p>
 </div>
 <p>A/Prof Raymond Chua
 <br>Deputy Director-General of Health (Health Regulation)
-<br>Ministry of Health</p>
+<br>Ministry of Health (MOH)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
