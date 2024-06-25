@@ -39,8 +39,8 @@ Panel.</p>
 <p>Committed to nurturing emerging leaders, Mr Ong serves as the Chairman
 of the Centre for Maritime Studies Management Board, a member of the NUS
 Business School Management Advisory Board and an Adjunct Professor at NUS
-Department of Industrial systems Engineering and Management.
-<br>Join us for an exciting session as Kim Pong shares about PSA's transformation
+Department of Industrial systems Engineering and Management.</p>
+<p>Join us for an exciting session as Kim Pong shares about PSA's transformation
 journey, how PSA has grown and adapted to remain competitive in a perpetually
 shifting landscape.</p>
 </td>
@@ -64,8 +64,8 @@ of the Infocommunications Development Authority (IDA). Ms Poh currently
 sits on the Boards of SingHealth, the Singapore Institute of Technology
 and the Agency for Science, Technology and Research. She is the Chairperson
 of the DesignSingapore Advisory Board and a member of the Young Presidents’
-Organisation.
-<br>Hear from Jacqueline about EDB’s organisation transformation journey,
+Organisation.</p>
+<p>Hear from Jacqueline about EDB’s organisation transformation journey,
 including the challenges and lessons learned from the transformation process,
 the impact achieved and the inspiring road ahead.</p>
 </td>
