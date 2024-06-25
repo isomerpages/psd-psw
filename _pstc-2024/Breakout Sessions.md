@@ -105,7 +105,10 @@ address increasingly complex challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PST Award Winner</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/Speaker_MOH_RaymondChua_A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>A/Prof Raymond Chua graduated from the Faculty of Medicine in the National
@@ -141,4 +144,3 @@ determine the risks and compliance of our service providers.</p>
 </table>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
 PST Convention!</p>
-<p></p>
