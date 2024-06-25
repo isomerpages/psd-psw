@@ -105,12 +105,13 @@ address increasingly complex challenges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/Speaker_MOH_RaymondChua_A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/11_MOH_RaymondChua_short.jpg">
 </div>
-<p>Mr Raymond Chua</p>
-<p>Deputy Director-General of Health (Health Regulation)</p>
-<p>Ministry of Health</p>
+<p>Mr Raymond Chua
+<br>Deputy Director-General of Health (Health Regulation)
+<br>Ministry of Health</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
