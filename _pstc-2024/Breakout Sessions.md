@@ -41,6 +41,14 @@ international relations, airline marketing, airport retail to airport consultanc
 that have reshaped the company’s culture, corporate processes, talent management,
 leadership development, rewards, and employee engagement strategies to
 drive organisational performance.</p>
+<p>Join us for an enlightening exchange with Justina, a key figure in Changi
+Airport Group's (CAG) innovation journey and workplace transformation efforts.</p>
+<p>Discover how CAG, renowned for its world-class airport services, has continually
+pushed the boundaries of innovation to redefine the travel experience and
+gain insights into how CAG's innovative approaches have not only enhanced
+operational efficiency but also elevated passenger satisfaction.</p>
+<p>Don't miss this opportunity which offers valuable lessons on driving innovation
+in even the most established industries.</p>
 </td>
 </tr>
 <tr>
@@ -60,6 +68,12 @@ the Government Procurement Function Office in MOF. Mr Tay has more than
 <p>Prior to joining MOF, he was leading the procurement and contract management
 functions in JTC Corporation, the Government’s appointed Centre of Excellence
 (CentEx) for building and infrastructure projects and facilities management.</p>
+<p>QuickBuy@SGov (QB) is your delightful new way of making Small Value Purchases
+in just 3 steps - similar to your personal buying experience from e-commerce
+malls!</p>
+<p>Hear from Ter Long about the genesis, mission, and insights from QB's
+innovative and transformative journey to streamline the corporate purchasing
+process for SVPs, and how you can be a part of it.</p>
 </td>
 </tr>
 <tr>
@@ -80,6 +94,13 @@ and urban design of the Marina Bay area from 2002 to 2015.</p>
 <p>Mr Ching’s background is in architecture and urban planning, and he is
 a member of the Singapore Institute of Planners, American Institute of
 Certified Planners and the Royal Town Planning Institute.</p>
+<p>Our planning process needs to continually evolve to be more agile and
+data-informed, to enable effective planning and design for sustainability,
+resilience and livability in a small city state like Singapore.</p>
+<p>Learn how URA’s Design &amp; Planning Lab is building up capabilities
+in urban analytics, modelling &amp; simulation (M&amp;S) and Artificial
+Intelligence (AI) application to enable urban planners and designers to
+address increasingly complex challenges.</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +108,33 @@ Certified Planners and the Royal Town Planning Institute.</p>
 <p>PST Award Winner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More details will be shared soon.</p>
+<p>A/Prof Raymond Chua graduated from the Faculty of Medicine in the National
+University of Singapore in 1997 and is a registered public health specialist
+and a fellow of the Academy of Medicine since 2007. He is currently the
+Deputy Director- General of Health for Health Regulation in the Ministry
+of Health. He oversees the end-to-end regulations for healthcare services
+and information, from policy to inspection and audit to enforcement.</p>
+<p>Prior to this, he was the Group Director of the Health Products Regulation
+Group in the Health Sciences Authority from 2012 to 2016 as well as the
+Managing Director and Regional Medical Directors of 2 global pharmaceutical
+companies, providing oversight to increase the initiation of global clinical
+trials in the Asia-Pacific region. He is currently a member of multiple
+regulatory committees under the Public Service Division to steer and guide
+regulatory practices in public service.</p>
+<p>To accommodate the rapidly evolving healthcare landscape, MOH needed to
+shift its regulatory regime from a rigid premises-based 30-year-old regime
+to a modular services-based one under the Healthcare Services Act (HCSA).
+While HCSA applies to all healthcare services, MOH adopts a risk-based
+approach in determining the services licensable under HCSA. One key feature
+incorporates likely a world’s first “mode of service delivery” model within
+HCSA, which provides us with the agility to regulate and enable our healthcare
+services to take on physical locations, be on the move in a conveyance,
+provide services either in the community or at their homes or even remotely.
+To implement this effectively, MOH also rolled out a regulatory sandbox
+to consult and shape the regulatory regime. In addition, MOH is working
+to transform its licensing platform into a tech-enabled stakeholder-friendly
+platform to support both the licensees and internal inspectors to better
+determine the risks and compliance of our service providers.</p>
 </td>
 </tr>
 </tbody>
