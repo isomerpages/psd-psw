@@ -117,7 +117,7 @@ address increasingly complex challenges.</p>
 <p>A/Prof Raymond Chua graduated from the Faculty of Medicine in the National
 University of Singapore in 1997 and is a registered public health specialist
 and a fellow of the Academy of Medicine since 2007. He is currently the
-Deputy Director- General of Health for Health Regulation in the Ministry
+Deputy Director-General of Health for Health Regulation in the Ministry
 of Health. He oversees the end-to-end regulations for healthcare services
 and information, from policy to inspection and audit to enforcement.</p>
 <p>Prior to this, he was the Group Director of the Health Products Regulation
