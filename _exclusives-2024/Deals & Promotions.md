@@ -5,19 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Exclusive Deals</strong></h2>
-<h3>Enjoy exclusive merchant and club deals during Public Service Week</h3>
+<h3>Enjoy exclusive Civil Service Club and merchant deals during Public Service Week</h3>
 <p>Deals and promotions for available for all Public Service officers!</p>
 <hr>
 <h4>Civil Service Club</h4>
-<p><strong>XXXXXXXX</strong>
-<br>Date: XXXXXXX
-<br>Time: XXXXXXXXXXXXXX
-<br>Location: XXXX</p>
-<p>
-<br>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-<p><strong>Vacancies: 15 pax.</strong>
+<p><strong>Coming soon.</strong>
 </p>
-<p>Sign up <a href="https://www.csc.sg/events/EventsDetail/1347/-PSW--Reflective-Art-Experience---TC" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <hr>
 <h4>Merchants</h4>
