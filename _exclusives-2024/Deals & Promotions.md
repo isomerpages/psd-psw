@@ -66,6 +66,42 @@ CSC members - enjoy 20% OFF your sundaes at Earle Swensen's.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Earle-Swensens" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p><strong>Foodpanda</strong>
+<br>With over 20,000 restaurants and shops on our platform, foodpanda delivers
+everything from food you love to everyday items you need.</p>
+<p><u>New user voucher</u>
+<br><strong>$10 OFF min. $20 spend for NEW foodpanda users</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promo code: <strong>CSC24NEW</strong>
+</p>
+</li>
+<li>
+<p>Valid for new to foodpanda users only</p>
+</li>
+<li>
+<p>Valid from 1 July to 31 December 2024</p>
+</li>
+</ul>
+<p><u>pandapro</u>&nbsp;(EXCLUSIVE PSWeek Promotions!)
+<br><strong>30% OFF 6-month pandapro subscription</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promo code: <strong>CSCPRO7</strong>
+</p>
+</li>
+<li>
+<p>Valid for 6-month pandapro subscription only</p>
+</li>
+<li>
+<p>Valid from 1 to 31 July 2024</p>
+</li>
+</ul>
+<p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/foodpanda" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the T&amp;Cs&nbsp;</p>
+<hr>
 <p><strong>Hard Rock Café</strong>
 <br>Public Service Week&nbsp;exclusive! CSC members and Public Service Officers
 get to enjoy 1-FOR-1 mains when you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this
