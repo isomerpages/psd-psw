@@ -32,14 +32,13 @@ on sale items too!&nbsp;</p>
 </li>
 <li>
 <p>Additional 10% off sale items for Public Service Officers</p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Simply key in &lt;<strong>CROCSXCSC20</strong>&gt; at checkout to enjoy
 the promotion!</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Crocs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
-<p></p>
 <hr>
 <p><strong>Crystal Jade</strong>
 <br>Renowned Chinese culinary group with MICHELIN one star and multiple MICHELIN
@@ -47,7 +46,6 @@ Bib Gourmand awards, with over 90 outlets across major cities in Asia Pacific.</
 <p>&nbsp;</p>
 <p><strong>[EXCLUSIVE TO CSC members &amp; PSOs]</strong> FREE 1-year Jadeite
 membership with extra welcome bonuses!</p>
-<p>&nbsp;</p>
 <p>Visit&nbsp;<a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 sign up and apply the Promo Code &lt;<strong>CJCP3A</strong>&gt;&nbsp;to
 get the following e-vouchers:
@@ -58,8 +56,7 @@ $9.90)
 <br>• $1.99 Baked Egg Tart (3pcs) at Crystal Jade Hong Kong Kitchen
 <br>• $1.99 Steamed Shanghai Xiao Long Bao (6pcs) at Crystal Jade La Mian
 Xiao Long Bao</p>
-<p>&nbsp;</p>
-<p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
 <p><strong>Earle Swensen's</strong>
@@ -140,7 +137,7 @@ the T&amp;Cs&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Activities/rwc-psw-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
-<p><strong>ShopBack </strong>
+<p><strong>ShopBack</strong>
 </p>
 <p><strong>7 Jun - 31 Jul 2024: Public Service Week Special!</strong>
 </p>
