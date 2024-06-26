@@ -21,6 +21,10 @@ description: ""
 <p></p>
 <hr>
 <h4>Merchants</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Crocs" src="/images/Crocs.png">
+</div>
 <p><strong>Crocs</strong>
 <br>Treat yourself to a pair of Crocs footwear or Jibbitz™ this July &amp;
 August!&nbsp;Enjoy 20% OFF when you spend $120 at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>.</p>
@@ -40,6 +44,9 @@ the promotion!</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Crocs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Crystal Jade" src="/images/Crystal_Jade.jpg">
+</div>
 <p><strong>Crystal Jade</strong>
 <br>Renowned Chinese culinary group with MICHELIN one star and multiple MICHELIN
 Bib Gourmand awards, with over 90 outlets across major cities in Asia Pacific.</p>
@@ -59,6 +66,9 @@ Xiao Long Bao</p>
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earle_Swensens.jpg">
+</div>
 <p><strong>Earle Swensen's</strong>
 <br>Public Service Week promotion! Exclusive to Public Service Officers and
 CSC members - enjoy 20% OFF your sundaes at Earle Swensen's.</p>
@@ -66,6 +76,9 @@ CSC members - enjoy 20% OFF your sundaes at Earle Swensen's.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Earle-Swensens" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Foodpanda" src="/images/Foodpanda.png">
+</div>
 <p><strong>Foodpanda</strong>
 <br>With over 20,000 restaurants and shops on our platform, foodpanda delivers
 everything from food you love to everyday items you need.</p>
@@ -102,6 +115,9 @@ everything from food you love to everyday items you need.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/foodpanda" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hard Rock Cafe" src="/images/Hard_Rock_Cafe.png">
+</div>
 <p><strong>Hard Rock Café</strong>
 <br>Public Service Week&nbsp;exclusive! CSC members and Public Service Officers
 get to enjoy 1-FOR-1 mains when you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this
@@ -111,6 +127,9 @@ out for a date - make a reservation today!</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Hard-Rock-Cafe" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peach Garden" src="/images/Peach_Garden.png">
+</div>
 <p><strong>Peach Garden</strong>
 <br>Public Service Week&nbsp;exclusive! CSC members and Public Service Officers
 get to enjoy 25% OFF on ala carte dishes at Peach Garden Chinese Restaurant&nbsp;this
@@ -120,6 +139,9 @@ now is the chance for you to book a table today.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Peach-Garden-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resorts World Cruises" src="/images/RWC.jpg">
+</div>
 <p><strong>Resorts World Cruises</strong>
 </p>
 <p>Public Service Week Promotion (from 1st -31st&nbsp;July 2024)</p>
@@ -173,6 +195,9 @@ the T&amp;Cs&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Activities/rwc-psw-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shopback" src="/images/Shopback.png">
+</div>
 <p><strong>ShopBack</strong>
 </p>
 <p><strong>7 Jun - 31 Jul 2024: Public Service Week Special!</strong>
@@ -206,6 +231,9 @@ confirmed by merchant
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Skechers" src="/images/Skechers.jpg">
+</div>
 <p><strong>Skechers</strong>
 <br>10% OFF regular-priced footwear &amp; apparel.</p>
 <p>Skechers designs and develops lifestyle and performance product known
