@@ -100,9 +100,41 @@ request is approved.</p>
 <p></p>
 <hr>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_BBQ_Pavilion_Changi.png">
+</div>
+<p><strong>10% OFF BBQ Pavilion booking at CSC @ Changi</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><u>Terms and Conditions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid for peak and off-peak (Mon to Sun) bookings between 1 to 31 July
+‘24. &nbsp;</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667d015b39e7a87d46d65c11" rel="noopener noreferrer nofollow" target="_blank">form</a>. The booking
+is not completed until payment is made, and confirmation email from CSC
+is generated.</p>
+</li>
+<li>
+<p>Write to <a rel="noopener noreferrer nofollow" target="_blank"><u>changi@csc.sg</u></a> to
+enquire.</p>
+</li>
+<li>
+<p>Promotion applies on public service officer/ CSC members rates accordingly.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+<p></p>
+</li>
+</ul>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Treehouse_BB.png">
 </div>
 <p><strong>10% OFF Treehouse booking at CSC @ Bukit Batok</strong>
 </p>
@@ -129,13 +161,6 @@ enquire.</p>
 <p></p>
 </li>
 </ul>
-<hr>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Treehouse_BB.png">
-</div>
-<p></p>
 <hr>
 <h4>Merchants</h4>
 <p></p>
