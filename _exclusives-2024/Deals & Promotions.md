@@ -15,8 +15,9 @@ description: ""
 <hr>
 <h4>Merchants</h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Crocs" src="/images/Crocs.png">
+<img style="width: 100%" height="auto" width="100%" alt="Crocs" src="/images/Crocs.jpg">
 </div>
 <p><strong>Crocs</strong>
 <br>Treat yourself to a pair of Crocs footwear or Jibbitz™ this July &amp;
@@ -38,7 +39,7 @@ the promotion!</p>
 the T&amp;Cs</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Crystal Jade" src="/images/Crystal_Jade.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Crystal_Jade1.jpg">
 </div>
 <p><strong>Crystal Jade</strong>
 <br>&nbsp;</p>
@@ -59,7 +60,7 @@ Xiao Long Bao</p>
 the T&amp;Cs</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earle_Swensens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earle_Swensns.jpg">
 </div>
 <p><strong>Earle Swensen's</strong>
 <br>Exclusive to public service officers and CSC members - enjoy 20% OFF your
@@ -69,7 +70,7 @@ sundaes at Earle Swensen's.</p>
 the T&amp;Cs&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foodpanda" src="/images/Foodpanda.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodpanda.jpg">
 </div>
 <p><strong>Foodpanda</strong>
 </p>
@@ -108,7 +109,7 @@ the T&amp;Cs&nbsp;</p>
 the T&amp;Cs&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hard Rock Cafe" src="/images/Hard_Rock_Cafe.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hardrock_Cafe.jpg">
 </div>
 <p><strong>Hard Rock Café</strong>
 <br>Public service officers and CSC members get to enjoy 1-FOR-1 mains when
@@ -117,7 +118,7 @@ you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this July!</p>
 the T&amp;Cs&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Peach Garden" src="/images/Peach_Garden.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peach_Garden.jpg">
 </div>
 <p><strong>Peach Garden</strong>
 <br>Public service officers and CSC members get to enjoy 25% OFF on <em>ala carte</em> dishes
@@ -181,7 +182,7 @@ the T&amp;Cs&nbsp;</p>
 the T&amp;Cs&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shopback" src="/images/Shopback.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shopback.jpg">
 </div>
 <p><strong>ShopBack</strong>
 </p>
@@ -219,7 +220,7 @@ confirmed by merchant
 the T&amp;Cs</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Skechers" src="/images/Skechers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Skechers1.jpg">
 </div>
 <p><strong>Skechers</strong>
 <br>10% OFF regular-priced footwear &amp; apparel.</p>
