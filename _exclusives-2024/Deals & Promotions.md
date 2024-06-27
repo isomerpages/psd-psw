@@ -14,7 +14,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Swimming_Pools.png">
 </div>
 <p><strong>Enjoy FREE weekday access to any Civil Service Club swimming pools</strong>
-<br>
 </p>
 <p><u>T&amp;Cs</u>
 </p>
@@ -39,7 +38,6 @@ more information about CSC swimming pools</p>
 </div>
 <p><strong>Enjoy FREE access to CSC @ Tessensohn's Weekend Family Fun Pool on 20 July, Saturday</strong>
 </p>
-<p></p>
 <p><u>T&amp;Cs</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -107,8 +105,6 @@ request is approved.</p>
 </div>
 <p><strong>10% OFF BBQ Pavilion booking at CSC @ Changi</strong>
 </p>
-<p><em>&nbsp;</em>
-</p>
 <p><u>T&amp;Cs</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -139,8 +135,6 @@ more information about the<strong> </strong>BBQ Pavilion</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Treehouse_BB.png">
 </div>
 <p><strong>10% OFF Treehouse booking at CSC @ Bukit Batok</strong>
-</p>
-<p><em>&nbsp;</em>
 </p>
 <p><u>T&amp;Cs</u>
 </p>
