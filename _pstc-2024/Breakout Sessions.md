@@ -41,14 +41,15 @@ international relations, airline marketing, airport retail to airport consultanc
 that have reshaped the company’s culture, corporate processes, talent management,
 leadership development, rewards, and employee engagement strategies to
 drive organisational performance.</p>
-<p>Join us for an enlightening exchange with Justina, a key figure in Changi
-Airport Group's (CAG) innovation journey and workplace transformation efforts.</p>
-<p>Discover how CAG, renowned for its world-class airport services, has continually
-pushed the boundaries of innovation to redefine the travel experience and
-gain insights into how CAG's innovative approaches have not only enhanced
-operational efficiency but also elevated passenger satisfaction.</p>
-<p>Don't miss this opportunity which offers valuable lessons on driving innovation
-in even the most established industries.</p>
+<p>More than a transit hub, Changi Airport is renowned as one of the best
+airports in the world and flies high as our national pride. This is not
+taken for granted. Changi has to innovate and do it at speed and scale
+to stay ahead and continue to compete with the best.</p>
+<p>In this session, join Justina as she shares the stories behind Changi’s
+people aspirations and why innovation is too critical to be left to chance.
+Learn how her team builds its most important terminal yet - Terminal ‘H’
+for Heart-ware – and how Changi Airport Group (CAG) enables the organisation
+for innovation and grows the workforce to take on challenges of the future.</p>
 </td>
 </tr>
 <tr>
@@ -146,4 +147,9 @@ determine the risks and compliance of our service providers.</p>
 </tbody>
 </table>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
-PST Convention!</p>
+PST Convention!In this session, join Justina as she shares the stories
+behind Changi’s people aspirations and why innovation is too critical to
+be left to chance. Learn how her team builds its most important terminal
+yet - Terminal ‘H’ for Heart-ware – and how Changi Airport Group (CAG)
+enables the organisation for innovation and grows the workforce to take
+on challenges of the future.</p>
