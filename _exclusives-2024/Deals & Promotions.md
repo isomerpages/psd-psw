@@ -18,16 +18,12 @@ description: ""
 <p><u>T&amp;Cs</u>
 </p>
 <p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
-<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
-the confirmation email in person with their civil service card or agency
-staff pass at the pool counter for access.</p>
+<p>• Public service officers must complete this form and present the confirmation
+email in person with their civil service card or agency staff pass at the
+pool counter for access.</p>
 <p>• Public service officers may sign in up to 3 guests. Guests are to pay
 prevailing guest rates at the pool counter.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Subject to pool capacity during walk-in.</p>
-</li>
-</ul>
 <p>&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
@@ -45,17 +41,18 @@ more information about CSC swimming pools</p>
 <p>The FREE weekend fun pool access is only available on Saturday, 20 July’24
 with 4 sessions. Each public service officer is allowed to book only one
 time slot of 120 minutes on a first-come first-served basis:</p>
-</li>
-</ul>
 <p>Session 1: 8.00am to 10.00am</p>
 <p>Session 2: 10.30am to 12.30pm</p>
-<p>Session 3: 1.30pm to 3.30pm</p>
-<p>Session 4: 4.00pm to 6.00pm</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
-<p>Public service officers must complete this <a href="https://form.gov.sg/667d07e2d011c743983443e5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The reservation
-is not completed until payment is made, and confirmation email from CSC
-is generated.</p>
+<p>Session 3: 1.30pm to 3.30pm</p>
+</li>
+<li>
+<p>Session 4: 4.00pm to 6.00pm</p>
+</li>
+<li>
+<p>Public service officers must complete this form. The reservation is not
+completed until payment is made, and confirmation email from CSC is generated.</p>
 </li>
 <li>
 <p>Public service officers may register up to 4 participants including the
@@ -66,11 +63,9 @@ officer and their family members or guests.</p>
 payable at the pool counter.</p>
 </li>
 <li>
-<p>Please email to <a href="mailto:tessensohn@csc.sg" rel="noopener noreferrer nofollow" target="_blank">tessensohn@csc.sg</a> to
-request to bring more than 3 family members or guests. This will be subjected
-to the pool capacity. A confirmation response will be provided once the
-request is approved.</p>
-<p></p>
+<p>Please email to tessensohn@csc.sg to request to bring more than 3 family
+members or guests. This will be subjected to the pool capacity. A confirmation
+response will be provided once the request is approved.</p>
 </li>
 </ul>
 <p></p>
