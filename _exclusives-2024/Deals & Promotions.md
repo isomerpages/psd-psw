@@ -38,9 +38,11 @@ the promotion!</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Crocs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Crystal_Jade1.jpg">
 </div>
+<p></p>
 <p><strong>Crystal Jade</strong>
 <br>&nbsp;</p>
 <p><strong>Exclusive to public service officers &amp; CSC members</strong>
@@ -59,9 +61,11 @@ Xiao Long Bao</p>
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Earle_Swensns.jpg">
 </div>
+<p></p>
 <p><strong>Earle Swensen's</strong>
 <br>Exclusive to public service officers and CSC members - enjoy 20% OFF your
 sundaes at Earle Swensen's.</p>
@@ -69,9 +73,11 @@ sundaes at Earle Swensen's.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Earle-Swensens" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodpanda.jpg">
 </div>
+<p></p>
 <p><strong>Foodpanda</strong>
 </p>
 <p>
@@ -108,18 +114,22 @@ the T&amp;Cs&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/foodpanda" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hardrock_Cafe.jpg">
 </div>
+<p></p>
 <p><strong>Hard Rock Café</strong>
 <br>Public service officers and CSC members get to enjoy 1-FOR-1 mains when
 you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this July!</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Hard-Rock-Cafe" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peach_Garden.jpg">
 </div>
+<p></p>
 <p><strong>Peach Garden</strong>
 <br>Public service officers and CSC members get to enjoy 25% OFF on <em>ala carte</em> dishes
 at Peach Garden Chinese Restaurant&nbsp;this July!</p>
@@ -128,9 +138,11 @@ now is the chance for you to book a table today.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Peach-Garden-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Resorts World Cruises" src="/images/RWC.jpg">
 </div>
+<p></p>
 <p><strong>Resorts World Cruises</strong>
 </p>
 <p>Booking from 1st -31st&nbsp;July 2024</p>
@@ -181,9 +193,11 @@ the T&amp;Cs&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Activities/rwc-psw-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shopback.jpg">
 </div>
+<p></p>
 <p><strong>ShopBack</strong>
 </p>
 <p><strong>7 Jun - 31 Jul 2024</strong>
@@ -219,9 +233,11 @@ confirmed by merchant
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Skechers1.jpg">
 </div>
+<p></p>
 <p><strong>Skechers</strong>
 <br>10% OFF regular-priced footwear &amp; apparel.</p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Skechers" rel="noopener noreferrer nofollow" target="_blank">here</a> for
