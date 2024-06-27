@@ -15,8 +15,11 @@ description: ""
 </div>
 <p><strong>Enjoy FREE weekday access to any Civil Service Club swimming pools</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><u>T&amp;Cs</u>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
 <p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
 the confirmation email in person with their civil service card or agency
@@ -31,6 +34,10 @@ prevailing guest rates at the pool counter.</p>
 <p>&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
+</div>
+</details>
+</div>
+<p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
