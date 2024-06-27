@@ -49,20 +49,10 @@ with 4 sessions. Each public service officer is allowed to book only one
 time slot of 120 minutes on a first-come first-served basis:</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
-<li>
-<p>8.00am to 10.00am</p>
-</li>
-<li>
-<p>10.30am to 12.30pm</p>
-</li>
-<li>
-<p>1.30pm to 3.30pm</p>
-</li>
-<li>
-<p>4.00pm to 6.00pm</p>
-</li>
-</ol>
+<p>Session 1: 8.00am to 10.00am</p>
+<p>Session 2: 10.30am to 12.30pm</p>
+<p>Session 3: 1.30pm to 3.30pm</p>
+<p>Session 4: 4.00pm to 6.00pm</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Public service officers must complete this <a href="https://form.gov.sg/667d07e2d011c743983443e5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The reservation
@@ -122,12 +112,10 @@ request is approved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Public service officers must complete this <a href="https://form.gov.sg/667ce49a6c65067e82259fe5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The booking
+<p>&nbsp;Valid for off-peak (Mon to Fri) bookings between 1 to 31 July ‘24.
+&nbsp;Public service officers must complete this <a href="https://form.gov.sg/667ce49a6c65067e82259fe5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The booking
 is not completed until payment is made, and confirmation email from CSC
 is generated.</p>
-</li>
-<li>
-<p>Valid for off-peak (Mon to Fri) bookings between 1 to 31 July ‘24. &nbsp;</p>
 </li>
 <li>
 <p>Write to <a rel="noopener noreferrer nofollow" target="_blank"><u>bukitbatok@csc.sg</u></a> to
@@ -180,8 +168,6 @@ the T&amp;Cs</p>
 </div>
 <p></p>
 <p><strong>Crystal Jade</strong>
-<br>&nbsp;</p>
-<p><strong>Exclusive to public service officers &amp; CSC members</strong>
 </p>
 <p>FREE 1-year Jadeite membership with extra welcome bonuses!</p>
 <p>Visit&nbsp;<a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
@@ -194,7 +180,7 @@ $9.90)
 <br>• $1.99 Baked Egg Tart (3pcs) at Crystal Jade Hong Kong Kitchen
 <br>• $1.99 Steamed Shanghai Xiao Long Bao (6pcs) at Crystal Jade La Mian
 Xiao Long Bao</p>
-<p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
 <p></p>
