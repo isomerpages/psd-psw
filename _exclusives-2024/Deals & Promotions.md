@@ -21,14 +21,14 @@ description: ""
 <p><strong>Crocs</strong>
 <br>Treat yourself to a pair of Crocs footwear or Jibbitz™ this July &amp;
 August!&nbsp;Enjoy 20% OFF when you spend $120 at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>.</p>
-<p>Exclusive to all public service officers, enjoy an additional 10% OFF
-on sale items too!&nbsp;</p>
+<p>Exclusive to all public service officers and CSC members, enjoy an additional
+10% OFF on sale items too!&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>20% OFF,&nbsp;min spend $120</p>
 </li>
 <li>
-<p>Additional 10% off sale items for public service officers</p>
+<p>Additional 10% off sale items for public service officers and CSC members</p>
 <p>&nbsp;</p>
 </li>
 </ul>
@@ -42,7 +42,7 @@ the T&amp;Cs</p>
 </div>
 <p><strong>Crystal Jade</strong>
 <br>&nbsp;</p>
-<p><strong>Exclusive to public service officers &amp; CSC members</strong> 
+<p><strong>Exclusive to public service officers &amp; CSC members</strong>
 </p>
 <p>FREE 1-year Jadeite membership with extra welcome bonuses!</p>
 <p>Visit&nbsp;<a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
