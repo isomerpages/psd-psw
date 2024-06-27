@@ -45,11 +45,7 @@ drive organisational performance.</p>
 airports in the world and flies high as our national pride. This is not
 taken for granted. Changi has to innovate and do it at speed and scale
 to stay ahead and continue to compete with the best.</p>
-<p>In this session, join Justina as she shares the stories behind Changi’s
-people aspirations and why innovation is too critical to be left to chance.
-Learn how her team builds its most important terminal yet - Terminal ‘H’
-for Heart-ware – and how Changi Airport Group (CAG) enables the organisation
-for innovation and grows the workforce to take on challenges of the future.</p>
+<p></p>
 </td>
 </tr>
 <tr>
