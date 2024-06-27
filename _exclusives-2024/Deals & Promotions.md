@@ -72,8 +72,10 @@ payable at the pool counter.</p>
 request to bring more than 3 family members or guests. This will be subjected
 to the pool capacity. A confirmation response will be provided once the
 request is approved.</p>
+<p></p>
 </li>
 </ul>
+<p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -126,11 +128,12 @@ enquire.</p>
 <li>
 <p>Promotion applies on public service officer/ CSC members rates accordingly.</p>
 </li>
-<li>
+</ul>
 <p>Not applicable with other promotions.</p>
 <p></p>
-</li>
-</ul>
+<p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about the<strong> BBQ Pavilion</strong>
+</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -158,9 +161,13 @@ enquire.</p>
 </li>
 <li>
 <p>Not applicable with other promotions.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p>Click <a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about the<strong> BBQ Pavilion</strong>
+</p>
+<p></p>
 <hr>
 <h4>Merchants</h4>
 <p></p>
