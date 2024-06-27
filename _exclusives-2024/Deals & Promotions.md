@@ -23,9 +23,12 @@ email in person with their civil service card or agency staff pass at the
 pool counter for access.</p>
 <p>• Public service officers may sign in up to 3 guests. Guests are to pay
 prevailing guest rates at the pool counter.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Subject to pool capacity during walk-in.</p>
-<p>&nbsp;</p>
-<p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+</li>
+</ul>
+<p>&nbsp;Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
 <hr>
 <p></p>
@@ -41,7 +44,11 @@ more information about CSC swimming pools</p>
 <p>The FREE weekend fun pool access is only available on Saturday, 20 July’24
 with 4 sessions. Each public service officer is allowed to book only one
 time slot of 120 minutes on a first-come first-served basis:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Session 1: 8.00am to 10.00am</p>
+</li>
+<li>
 <p>Session 2: 10.30am to 12.30pm</p>
 </li>
 <li>
@@ -49,6 +56,8 @@ time slot of 120 minutes on a first-come first-served basis:</p>
 </li>
 <li>
 <p>Session 4: 4.00pm to 6.00pm</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Public service officers must complete this form. The reservation is not
@@ -119,8 +128,10 @@ enquire.</p>
 <li>
 <p>Promotion applies on public service officer/ CSC members rates accordingly.</p>
 </li>
-</ul>
+<li>
 <p>Not applicable with other promotions.</p>
+</li>
+</ul>
 <p></p>
 <p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the<strong> </strong>BBQ Pavilion</p>
