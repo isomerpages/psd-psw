@@ -348,32 +348,58 @@ the T&amp;Cs&nbsp;</p>
 <p><strong>7 June - 31 July 2024</strong>
 </p>
 <p>ShopBack gives you up to $60 Cashback when you shop on brands like Shopee,
-Lazada, Klook and more!</p>
-<p>
-<br>New to ShopBack? Sign up with &lt;CSC5SB&gt; for $5!</p>
-<p>&nbsp;</p>
+Lazada, Klook and more! New to ShopBack? Sign up with &lt;CSC5SB&gt; for
+$5 Cashback!</p>
 <p><strong>PSW Public Service officer challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscpso&amp;e=d16cce0e&amp;h=99e28bb4&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;</p>
-<p>• Valid from&nbsp; 7 June - 31 July 2024. Challenge refreshes every month
-(1st of every month)
-<br>• Valid for existing and new ShopBack users&nbsp;
-<br>• Opt into the Challenge, and valid with 1 qualifying transaction on any
-ShopBack Online Affiliates merchant&nbsp;
-<br>• Valid for the first 200 redemptions monthly
-<br>• Cashback will be issued when order has been successfully tracked and
-confirmed by merchant
-<br>• All other T&amp;Cs apply</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid from&nbsp; 7 June - 31 July 2024. Challenge refreshes every month
+(1st of every month)</p>
+</li>
+<li>
+<p>Valid for existing and new ShopBack users&nbsp;</p>
+</li>
+<li>
+<p>Opt into the Challenge, and valid with 1 qualifying transaction on any
+ShopBack Online Affiliates merchant&nbsp;</p>
+</li>
+<li>
+<p>Valid for the first 200 redemptions monthly</p>
+</li>
+<li>
+<p>Cashback will be issued when order has been successfully tracked and confirmed
+by merchant</p>
+</li>
+<li>
+<p>All other T&amp;Cs apply</p>
+</li>
+</ul>
 <p></p>
 <p><strong>PSW CSC member challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscmember&amp;e=d16cce0e&amp;h=9a899635&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
-<p>• Valid from 7 June - 31 July 2024. Challenge refreshes every month (1st
-of every month)
-<br>• Valid for existing and new ShopBack users&nbsp;
-<br>• Opt into the Challenge, and valid with 1 qualifying transaction on any
-ShopBack Online Affiliates merchant&nbsp;
-<br>• Valid for the first 200 redemptions monthly
-<br>• Cashback will be issued when order has been successfully tracked and
-confirmed by merchant
-<br>• All other T&amp;Cs apply &nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid from 7 June - 31 July 2024. Challenge refreshes every month (1st
+of every month)</p>
+</li>
+<li>
+<p>Valid for existing and new ShopBack users&nbsp;</p>
+</li>
+<li>
+<p>Opt into the Challenge, and valid with 1 qualifying transaction on any
+ShopBack Online Affiliates merchant&nbsp;</p>
+</li>
+<li>
+<p>Valid for the first 200 redemptions monthly</p>
+</li>
+<li>
+<p>Cashback will be issued when order has been successfully tracked and confirmed
+by merchant</p>
+</li>
+<li>
+<p>All other T&amp;Cs apply &nbsp;&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
