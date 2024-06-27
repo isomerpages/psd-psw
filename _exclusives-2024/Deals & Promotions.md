@@ -9,8 +9,144 @@ description: ""
 <p>Deals and promotions for available for all Public Service officers!</p>
 <hr>
 <h4>Civil Service Club</h4>
-<p><strong>Coming soon.</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Swimming_Pools.png">
+</div>
+<p><strong>Enjoy FREE weekday access to any Civil Service Club swimming pools</strong>
+<br>
 </p>
+<p><u>Terms and Conditions</u>
+</p>
+<p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
+<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+the confirmation email in person with their civil service card or agency
+staff pass at the pool counter for access.</p>
+<p>• Public service officers may sign in up to 3 guests. Guests are to pay
+prevailing guest rates at the pool counter.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Subject to pool capacity during walk-in.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about the CSC swimming pools</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Family_Fun_Pool_Tessensohn.png">
+</div>
+<p><strong>Enjoy FREE access to CSC @ Tessensohn's Weekend Family Fun Pool on 20 July, Saturday</strong>
+</p>
+<p></p>
+<p><u>Terms and Conditions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The FREE weekend fun pool access is only available on Saturday, 20 July’24
+with 4 sessions. Each public service officer is allowed to book only one
+time slot of 120 minutes on a first-come first-served basis:</p>
+</li>
+</ul>
+<ol data-tight="true" class="tight">
+<li>
+<p>8.00am to 10.00am</p>
+</li>
+<li>
+<p>10.30am to 12.30pm</p>
+</li>
+<li>
+<p>1.30pm to 3.30pm</p>
+</li>
+<li>
+<p>4.00pm to 6.00pm</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667d07e2d011c743983443e5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The reservation
+is not completed until payment is made, and confirmation email from CSC
+is generated.</p>
+</li>
+<li>
+<p>Public service officers may register up to 4 participants including the
+officer and their family members or guests.</p>
+</li>
+<li>
+<p>There will be a guest fee of $5 per person for family members or guests
+payable at the pool counter.</p>
+</li>
+<li>
+<p>Please email to <a href="mailto:tessensohn@csc.sg" rel="noopener noreferrer nofollow" target="_blank">tessensohn@csc.sg</a> to
+request to bring more than 3 family members or guests. This will be subjected
+to the pool capacity. A confirmation response will be provided once the
+request is approved.</p>
+</li>
+</ul>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Chalets.png">
+</div>
+<p><strong>Chalet promotion: Coming soon!</strong>
+</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Planet_Bowl_Tessensohn.png">
+</div>
+<p><strong>Planet Bowl promotion: Coming soon!</strong>
+</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Westwood_Bowl_BB.png">
+</div>
+<p><strong>Westwood Bowl promotion: Coming soon!</strong>
+</p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_BBQ_Pavilion_Changi.png">
+</div>
+<p><strong>10% OFF Treehouse booking at CSC @ Bukit Batok</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><u>Terms and Conditions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Public service officers must complete this <a href="https://form.gov.sg/667ce49a6c65067e82259fe5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The booking
+is not completed until payment is made, and confirmation email from CSC
+is generated.</p>
+</li>
+<li>
+<p>Valid for off-peak (Mon to Fri) bookings between 1 to 31 July ‘24. &nbsp;</p>
+</li>
+<li>
+<p>Write to <a rel="noopener noreferrer nofollow" target="_blank"><u>bukitbatok@csc.sg</u></a> to
+enquire.</p>
+</li>
+<li>
+<p>Promotion applies on public service officer/ CSC members rates accordingly.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+<p></p>
+</li>
+</ul>
+<hr>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Treehouse_BB.png">
+</div>
 <p></p>
 <hr>
 <h4>Merchants</h4>
