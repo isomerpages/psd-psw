@@ -16,7 +16,7 @@ description: ""
 <p><strong>Enjoy FREE weekday access to any Civil Service Club swimming pools</strong>
 <br>
 </p>
-<p><u>Terms and Conditions</u>
+<p><u>T&amp;Cs</u>
 </p>
 <p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
 <p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
@@ -31,7 +31,7 @@ prevailing guest rates at the pool counter.</p>
 </ul>
 <p>&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-more information about the CSC swimming pools</p>
+more information about CSC swimming pools</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,7 +40,7 @@ more information about the CSC swimming pools</p>
 <p><strong>Enjoy FREE access to CSC @ Tessensohn's Weekend Family Fun Pool on 20 July, Saturday</strong>
 </p>
 <p></p>
-<p><u>Terms and Conditions</u>
+<p><u>T&amp;Cs</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -109,7 +109,7 @@ request is approved.</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p><u>Terms and Conditions</u>
+<p><u>T&amp;Cs</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,8 +132,7 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 <p></p>
 <p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-more information about the<strong> BBQ Pavilion</strong>
-</p>
+more information about the<strong> </strong>BBQ Pavilion</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -143,7 +142,7 @@ more information about the<strong> BBQ Pavilion</strong>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p><u>Terms and Conditions</u>
+<p><u>T&amp;Cs</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -165,8 +164,7 @@ enquire.</p>
 </ul>
 <p></p>
 <p>Click <a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation" rel="noopener noreferrer nofollow" target="_blank">here </a>for
-more information about the<strong> BBQ Pavilion</strong>
-</p>
+more information about the BBQ Pavilion</p>
 <p></p>
 <hr>
 <h4>Merchants</h4>
@@ -177,20 +175,10 @@ more information about the<strong> BBQ Pavilion</strong>
 </div>
 <p><strong>Crocs</strong>
 <br>Treat yourself to a pair of Crocs footwear or Jibbitz™ this July &amp;
-August!&nbsp;Enjoy 20% OFF when you spend $120 at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>.</p>
-<p>Exclusive to all public service officers and CSC members, enjoy an additional
-10% OFF on sale items too!&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>20% OFF,&nbsp;min spend $120</p>
-</li>
-<li>
-<p>Additional 10% off sale items for public service officers and CSC members</p>
-<p>&nbsp;</p>
-</li>
-</ul>
-<p>Simply key in &lt;<strong>CROCSXCSC20</strong>&gt; at checkout to enjoy
-the promotion!</p>
+August with 20% OFF when you spend $120 at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>. Enjoy an additional
+10% OFF on sale items too!&nbsp;&nbsp;Simply key in &lt;CROCSXCSC20&gt;
+at checkout to enjoy the promotion!</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Crocs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
@@ -202,9 +190,9 @@ the T&amp;Cs</p>
 <p><strong>Crystal Jade</strong>
 </p>
 <p>FREE 1-year Jadeite membership with extra welcome bonuses!</p>
-<p>Visit&nbsp;<a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-sign up and apply the Promo Code &lt;<strong>CJCP3A</strong>&gt;&nbsp;to
-get the following e-vouchers:
+<p>Click <a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+sign up and apply the Promo Code &lt;CJCP3A&gt;&nbsp;to get the following
+e-vouchers:
 <br>• 15% off on dining bill at any participating restaurants
 <br>• Complimentary appetizer at Crystal Jade Hong Kong Kitchen (worth $8.80)
 <br>• Complimentary appetizer at Crystal Jade La Mian Xiao Long Bao (worth
@@ -212,6 +200,7 @@ $9.90)
 <br>• $1.99 Baked Egg Tart (3pcs) at Crystal Jade Hong Kong Kitchen
 <br>• $1.99 Steamed Shanghai Xiao Long Bao (6pcs) at Crystal Jade La Mian
 Xiao Long Bao</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Crystal-Jade-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
@@ -221,9 +210,9 @@ the T&amp;Cs</p>
 </div>
 <p></p>
 <p><strong>Earle Swensen's</strong>
-<br>Exclusive to public service officers and CSC members - enjoy 20% OFF your
-sundaes at Earle Swensen's.</p>
-<p>Valid for dine-in at VivoCity and Pasir Ris Mall outlet only.</p>
+<br>Enjoy 20% OFF your sundaes at Earle Swensen's. Valid for dine-in at VivoCity
+and Pasir Ris Mall outlet only.</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Earle-Swensens" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
@@ -232,15 +221,15 @@ the T&amp;Cs&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foodpanda.jpg">
 </div>
 <p></p>
-<p><strong>Foodpanda</strong>
+<p><strong>foodpanda</strong>
 </p>
-<p>
-<br><u>New user voucher</u>
-<br><strong>$10 OFF min. $20 spend for NEW foodpanda users</strong>
+<p><u>New user voucher:</u>
+</p>
+<p><strong>$10 OFF min. $20 spend for NEW foodpanda users</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promo code: <strong>CSC24NEW</strong>
+<p>Promo code: &lt;CSC24NEW<strong>&gt;</strong>
 </p>
 </li>
 <li>
@@ -250,13 +239,12 @@ the T&amp;Cs&nbsp;</p>
 <p>Valid from 1 July to 31 December 2024</p>
 </li>
 </ul>
-<p><u>pandapro</u>&nbsp;(EXCLUSIVE Public Service Week Promotions!)
-<br><strong>30% OFF 6-month pandapro subscription</strong>
+<p><u>pandapro</u>:</p>
+<p><strong>30% OFF 6-month pandapro subscription</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promo code: <strong>CSCPRO7</strong>
-</p>
+<p>Promo code: &lt;CSCPRO7&gt;</p>
 </li>
 <li>
 <p>Valid for 6-month pandapro subscription only</p>
@@ -265,6 +253,7 @@ the T&amp;Cs&nbsp;</p>
 <p>Valid from 1 to 31 July 2024</p>
 </li>
 </ul>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/foodpanda" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
@@ -274,8 +263,10 @@ the T&amp;Cs&nbsp;</p>
 </div>
 <p></p>
 <p><strong>Hard Rock Café</strong>
-<br>Public service officers and CSC members get to enjoy 1-FOR-1 mains when
-you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this July!</p>
+</p>
+<p>Enjoy 1-FOR-1 mains when you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this
+July!</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Hard-Rock-Cafe" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
@@ -285,10 +276,10 @@ the T&amp;Cs&nbsp;</p>
 </div>
 <p></p>
 <p><strong>Peach Garden</strong>
-<br>Public service officers and CSC members get to enjoy 25% OFF on <em>ala carte</em> dishes
-at Peach Garden Chinese Restaurant&nbsp;this July!</p>
-<p>A perfect venue for a family reunion, or a get-together with friends,
-now is the chance for you to book a table today.</p>
+</p>
+<p>Enjoy 25% OFF on <em>ala carte</em> dishes at Peach Garden Chinese Restaurant&nbsp;this
+July!</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Peach-Garden-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
@@ -299,7 +290,7 @@ the T&amp;Cs&nbsp;</p>
 <p></p>
 <p><strong>Resorts World Cruises</strong>
 </p>
-<p>Booking from 1st -31st&nbsp;July 2024</p>
+<p>Booking from 1 to 31&nbsp;July 2024</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -308,7 +299,7 @@ the T&amp;Cs&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Public service officers</p>
+<p>Public Service officers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSC Members</p>
@@ -341,9 +332,9 @@ the T&amp;Cs&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Email now to&nbsp;<a href="mailto:sg.sales@rwcruises.com?subject=CSC%20x%20RWC%20PSW%20Promotion" rel="noopener noreferrer nofollow" target="_blank">sg.sales@rwcruises.com</a>
-</p>
+<p>Email to&nbsp;<a href="mailto:sg.sales@rwcruises.com?subject=CSC%20x%20RWC%20PSW%20Promotion" rel="noopener noreferrer nofollow" target="_blank">sg.sales@rwcruises.com </a>to
+enquire or book</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Activities/rwc-psw-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
@@ -354,14 +345,15 @@ the T&amp;Cs&nbsp;</p>
 <p></p>
 <p><strong>ShopBack</strong>
 </p>
-<p><strong>7 Jun - 31 Jul 2024</strong>
+<p><strong>7 June - 31 July 2024</strong>
 </p>
 <p>ShopBack gives you up to $60 Cashback when you shop on brands like Shopee,
-Lazada, Klook and more!
-<br>New to ShopBack? Sign up with &lt;<strong>CSC5SB</strong>&gt; for $5!</p>
+Lazada, Klook and more!</p>
+<p>
+<br>New to ShopBack? Sign up with &lt;CSC5SB&gt; for $5!</p>
 <p>&nbsp;</p>
-<p><strong>PSW Public Service Officer Challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscpso&amp;e=d16cce0e&amp;h=99e28bb4&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;</p>
-<p>• Valid from&nbsp; 7 Jun - 31 Jul 2024. Challenge refreshes every month
+<p><strong>PSW Public Service officer challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscpso&amp;e=d16cce0e&amp;h=99e28bb4&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;</p>
+<p>• Valid from&nbsp; 7 June - 31 July 2024. Challenge refreshes every month
 (1st of every month)
 <br>• Valid for existing and new ShopBack users&nbsp;
 <br>• Opt into the Challenge, and valid with 1 qualifying transaction on any
@@ -371,9 +363,9 @@ ShopBack Online Affiliates merchant&nbsp;
 confirmed by merchant
 <br>• All other T&amp;Cs apply</p>
 <p></p>
-<p><strong>PSW CSC Member Challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscmember&amp;e=d16cce0e&amp;h=9a899635&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>
+<p><strong>PSW CSC member challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscmember&amp;e=d16cce0e&amp;h=9a899635&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
-<p>• Valid from 7 Jun - 31 Jul 2024. Challenge refreshes every month (1st
+<p>• Valid from 7 June - 31 July 2024. Challenge refreshes every month (1st
 of every month)
 <br>• Valid for existing and new ShopBack users&nbsp;
 <br>• Opt into the Challenge, and valid with 1 qualifying transaction on any
@@ -381,8 +373,7 @@ ShopBack Online Affiliates merchant&nbsp;
 <br>• Valid for the first 200 redemptions monthly
 <br>• Cashback will be issued when order has been successfully tracked and
 confirmed by merchant
-<br>• All other T&amp;Cs apply
-<br>&nbsp;&nbsp;</p>
+<br>• All other T&amp;Cs apply &nbsp;&nbsp;</p>
 <p></p>
 <p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
@@ -394,6 +385,7 @@ the T&amp;Cs</p>
 <p></p>
 <p><strong>Skechers</strong>
 <br>10% OFF regular-priced footwear &amp; apparel.</p>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Skechers" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <p></p>
