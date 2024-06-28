@@ -147,9 +147,4 @@ determine the risks and compliance of our service providers.</p>
 </tbody>
 </table>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
-PST Convention!In this session, join Justina as she shares the stories
-behind Changi’s people aspirations and why innovation is too critical to
-be left to chance. Learn how her team builds its most important terminal
-yet - Terminal ‘H’ for Heart-ware – and how Changi Airport Group (CAG)
-enables the organisation for innovation and grows the workforce to take
-on challenges of the future.</p>
+PST Convention!</p>
