@@ -109,7 +109,7 @@ address increasingly complex challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/11_MOH_RaymondChua_short.jpg">
 </div>
-<p>A/Prof Raymond Chua
+<p>A/Prof (Dr) Raymond Chua
 <br>Deputy Director-General of Health (Health Regulation)
 <br>Ministry of Health (MOH)</p>
 <p></p>
