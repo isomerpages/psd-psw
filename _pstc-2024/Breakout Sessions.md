@@ -109,16 +109,16 @@ address increasingly complex challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW2024/11_MOH_RaymondChua_short.jpg">
 </div>
-<p>A/Prof Raymond Chua
+<p>A/Prof (Dr) Raymond Chua
 <br>Deputy Director-General of Health (Health Regulation)
 <br>Ministry of Health (MOH)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/Prof Raymond Chua graduated from the Faculty of Medicine in the National
-University of Singapore in 1997 and is a registered public health specialist
-and a fellow of the Academy of Medicine since 2007. He is currently the
-Deputy Director-General of Health for Health Regulation in the Ministry
+<p>A/Prof (Dr) Raymond Chua graduated from the Faculty of Medicine in the
+National University of Singapore in 1997 and is a registered public health
+specialist and a fellow of the Academy of Medicine since 2007. He is currently
+the Deputy Director-General of Health for Health Regulation in the Ministry
 of Health. He oversees the end-to-end regulations for healthcare services
 and information, from policy to inspection and audit to enforcement.</p>
 <p>Prior to this, he was the Group Director of the Health Products Regulation
@@ -147,9 +147,4 @@ determine the risks and compliance of our service providers.</p>
 </tbody>
 </table>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a> for
-PST Convention!In this session, join Justina as she shares the stories
-behind Changi’s people aspirations and why innovation is too critical to
-be left to chance. Learn how her team builds its most important terminal
-yet - Terminal ‘H’ for Heart-ware – and how Changi Airport Group (CAG)
-enables the organisation for innovation and grows the workforce to take
-on challenges of the future.</p>
+PST Convention!</p>
