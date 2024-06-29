@@ -80,6 +80,15 @@ response will be provided once the request is approved.</p>
 <p></p>
 <hr>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Membership_Promo__1_.png">
+</div>
+<p><strong>CSC Membership sign-up promotion: Coming soon!</strong>
+</p>
+<p></p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Chalets.png">
 </div>
