@@ -28,7 +28,7 @@ prevailing guest rates at the pool counter.</p>
 <p>Subject to pool capacity during walk-in.</p>
 </li>
 </ul>
-<p>&nbsp;Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+<p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
 <hr>
 <p></p>
@@ -92,9 +92,71 @@ response will be provided once the request is approved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Chalets.png">
 </div>
-<p><strong>Chalet promotion: Coming soon!</strong>
+<p><strong>Receive a FREE 1-Year CSC Membership with any booking of CSC Chalet from July to December</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
+<p><u>T&amp;cs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1-Year Free Membership is only applicable to Full-time Public Service
+Officers (PSO) from Ministry or Statutory Board and staff from mainstream
+universities and affiliated healthcare organisations, who have booked Civil
+Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
+PSO rates.</p>
+</li>
+<li>
+<p>1-Year Free Membership is only applicable to Full-time Public Service
+Officers (PSO) from Ministry or Statutory Board and staff from mainstream
+universities and affiliated healthcare organisations, who have booked Civil
+Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
+PSO rates.</p>
+</li>
+<li>
+<p>This promotion is not applicable to Flexi-Adjunct / Contract Employees
+/ Part Time Employees / Contractors / Vendors from Ministry or Statutory
+Board and staff from mainstream universities and affiliated healthcare
+organisations, who have booked Civil Service Club (CSC) chalets starting
+from 1 Apr 2024 to 31 Dec 2024.</p>
+</li>
+<li>
+<p>The 1-Year Free Membership is not transferable or exchangeable for cash
+or credits or any other items.</p>
+</li>
+<li>
+<p>The 1-Year Free Membership will commence from the date of chalet check-in.
+In the event if your chalet booking is cancelled, your 1-Year Free Membership
+will be invalid.</p>
+</li>
+<li>
+<p>Public Service officers sign up using the unique QR code provided in the
+email to sign up the 1-Year Free Membership. Applicants will need to provide
+the followings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confirmation of Chalet Booking Receipt</p>
+</li>
+<li>
+<p>Staff Pass or Civil Service Card or a letter from HR to confirm your full-time
+status</p>
+</li>
+<li>
+<p>Color photograph of applicant (jpeg)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>CSC has the right to pursue any outstanding fees.</p>
+</li>
+<li>
+<p>CSC reserves the right to revise the terms and conditions at any given
+point of time, without prior notice and reject any application at its own
+discretion.</p>
+</li>
+</ul>
+<p>Click <a href="https://www.csc.sg/Chalets" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about CSC chalets, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for more information
+about CSC membership</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
