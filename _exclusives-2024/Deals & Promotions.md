@@ -84,9 +84,21 @@ response will be provided once the request is approved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Membership_Promo__1_.png">
 </div>
-<p><strong>CSC Membership sign-up promotion: Coming soon!</strong>
+<p><strong>CSC 1-Year Membership sign-up at $60 (usual $72)</strong>
 </p>
-<p></p>
+<p><u>T&amp;cs</u>
+</p>
+<p>• Promotion is applicable for new and renewal of 1-Year Ordinary Term
+Membership between 1 Jul to 31 July 2024.</p>
+<p>• Promotion is only applicable to active Public Service Officers. Applicants
+will need to submit their staff pass for verification.</p>
+<p>• Valid for both walk-in and online applications. For online application,
+enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
+<p>• Not valid in conjunction with other membership promotions and discounts.</p>
+<p>• Civil Service Club reserves the right to change or amend the terms &amp;
+conditions of the promotion at any time without prior notice.</p>
+<p>Click <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about CSC membership</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
