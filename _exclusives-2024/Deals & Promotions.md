@@ -91,16 +91,52 @@ response will be provided once the request is approved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Planet_Bowl_Tessensohn.png">
 </div>
-<p><strong>Planet Bowl promotion: Coming soon!</strong>
+<p><strong>Enjoy MEMBERS' RATE for bowling at Planet Bowl, CSC @ Tessensohn</strong>
 </p>
+<p><u>T&amp;Cs</u>
+</p>
+<p>• Valid on weekdays (offpeak) from 1 to 31 July ‘24 via walk-in.</p>
+<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+the confirmation email in person with their civil service card or agency
+staff pass at the bowling counter to enjoy Members’ rate.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Subject to lane availability during walk-in. Registration does not confirm
+any booking of lanes.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Click <a href="https://www.csc.sg/planetbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about Planet Bowl at CSC @ Tessensohn</p>
 <p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Westwood_Bowl_BB.png">
 </div>
-<p><strong>Westwood Bowl promotion: Coming soon!</strong>
+<p><strong>Enjoy MEMBERS' RATE for bowling at Westwood Bowl, CSC @ Bukit Batok</strong>
 </p>
+<p><u>T&amp;Cs</u>
+</p>
+<p>• Valid on weekdays (off peak) from 1 to 31 July ‘24 via walk-in.</p>
+<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+the confirmation email in person with their civil service card or agency
+staff pass at the bowling counter to enjoy Members’ rate.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Subject to lane availability during walk-in. Registration does not confirm
+any booking of lanes.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Click <a href="https://www.csc.sg/westwoodbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about Westwood Bowl at CSC @ Bukit Batok</p>
 <p></p>
 <hr>
 <p></p>
