@@ -18,9 +18,9 @@ description: ""
 <p><u>T&amp;Cs</u>
 </p>
 <p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
-<p>• Public service officers must complete this form and present the confirmation
-email in person with their civil service card or agency staff pass at the
-pool counter for access.</p>
+<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form </a>and present
+the confirmation email in person with their civil service card or agency
+staff pass at the pool counter for access.</p>
 <p>• Public service officers may sign in up to 3 guests. Guests are to pay
 prevailing guest rates at the pool counter.</p>
 <ul data-tight="true" class="tight">
@@ -60,8 +60,9 @@ time slot of 120 minutes on a first-come first-served basis:</p>
 </ul>
 </li>
 <li>
-<p>Public service officers must complete this form. The reservation is not
-completed until payment is made, and confirmation email from CSC is generated.</p>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667d07e2d011c743983443e5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The reservation
+is not completed until payment is made, and confirmation email from CSC
+is generated.</p>
 </li>
 <li>
 <p>Public service officers may register up to 4 participants including the
@@ -72,9 +73,10 @@ officer and their family members or guests.</p>
 payable at the pool counter.</p>
 </li>
 <li>
-<p>Please email to tessensohn@csc.sg to request to bring more than 3 family
-members or guests. This will be subjected to the pool capacity. A confirmation
-response will be provided once the request is approved.</p>
+<p>Please email to <a href="tessensohn@csc.sg" rel="noopener noreferrer nofollow" target="_blank">tessensohn@csc.sg</a> to
+request to bring more than 3 family members or guests. This will be subjected
+to the pool capacity. A confirmation response will be provided once the
+request is approved.</p>
 </li>
 </ul>
 <p></p>
@@ -97,7 +99,8 @@ enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
 <p>• Not valid in conjunction with other membership promotions and discounts.</p>
 <p>• Civil Service Club reserves the right to change or amend the terms &amp;
 conditions of the promotion at any time without prior notice.</p>
-<p>Click <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+<p>Click <a href="https://www.csc.sg/Promotion/New-Promotion/PUBLIC-SERVICE-WEEK-MEMBERSHIP-PROMOTION" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+the details, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC membership</p>
 <hr>
 <p></p>
@@ -178,11 +181,15 @@ about CSC membership</p>
 </p>
 <p><u>T&amp;Cs</u>
 </p>
-<p>• Valid on weekdays (offpeak) from 1 to 31 July ‘24 via walk-in.</p>
-<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays (offpeak) from 1 to 31 July ‘24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
 the confirmation email in person with their civil service card or agency
 staff pass at the bowling counter to enjoy Members’ rate.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Subject to lane availability during walk-in. Registration does not confirm
 any booking of lanes.</p>
@@ -204,11 +211,15 @@ more information about Planet Bowl at CSC @ Tessensohn</p>
 </p>
 <p><u>T&amp;Cs</u>
 </p>
-<p>• Valid on weekdays (off peak) from 1 to 31 July ‘24 via walk-in.</p>
-<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays (off peak) from 1 to 31 July ‘24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
 the confirmation email in person with their civil service card or agency
 staff pass at the bowling counter to enjoy Members’ rate.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Subject to lane availability during walk-in. Registration does not confirm
 any booking of lanes.</p>
