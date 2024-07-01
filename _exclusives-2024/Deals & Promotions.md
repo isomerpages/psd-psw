@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Exclusive Deals</strong></h2>
 <h3>Enjoy exclusive Civil Service Club and merchant deals during Public Service Week</h3>
-<p>Deals and promotions for available for all Public Service officers!</p>
+<p>Deals and promotions available for all Public Service officers!</p>
 <hr>
 <h4>Civil Service Club</h4>
 <p></p>
@@ -17,18 +17,24 @@ description: ""
 </p>
 <p><u>T&amp;Cs</u>
 </p>
-<p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
-<p>• Public service officers must complete this form and present the confirmation
-email in person with their civil service card or agency staff pass at the
-pool counter for access.</p>
-<p>• Public service officers may sign in up to 3 guests. Guests are to pay
-prevailing guest rates at the pool counter.</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form </a>and present
+the confirmation email in person with their civil service card or agency
+staff pass at the pool counter for access.</p>
+</li>
+<li>
+<p>Public service officers may sign in up to 3 guests. Guests are to pay
+prevailing guest rates at the pool counter.</p>
+</li>
 <li>
 <p>Subject to pool capacity during walk-in.</p>
 </li>
 </ul>
-<p>&nbsp;Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+<p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
 <hr>
 <p></p>
@@ -60,8 +66,9 @@ time slot of 120 minutes on a first-come first-served basis:</p>
 </ul>
 </li>
 <li>
-<p>Public service officers must complete this form. The reservation is not
-completed until payment is made, and confirmation email from CSC is generated.</p>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667d07e2d011c743983443e5" rel="noopener noreferrer nofollow" target="_blank">form</a>. The reservation
+is not completed until payment is made, and confirmation email from CSC
+is generated.</p>
 </li>
 <li>
 <p>Public service officers may register up to 4 participants including the
@@ -72,35 +79,174 @@ officer and their family members or guests.</p>
 payable at the pool counter.</p>
 </li>
 <li>
-<p>Please email to tessensohn@csc.sg to request to bring more than 3 family
-members or guests. This will be subjected to the pool capacity. A confirmation
-response will be provided once the request is approved.</p>
+<p>Please email to <a href="tessensohn@csc.sg" rel="noopener noreferrer nofollow" target="_blank">tessensohn@csc.sg</a> to
+request to bring more than 3 family members or guests. This will be subjected
+to the pool capacity. A confirmation response will be provided once the
+request is approved.</p>
 </li>
 </ul>
 <p></p>
 <hr>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Membership_Promo__1_.png">
+</div>
+<p><strong>CSC 1-Year Membership sign-up at $60 (usual $72)</strong>
+</p>
+<p><u>T&amp;cs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promotion is applicable for new and renewal of 1-Year Ordinary Term Membership
+between 1 Jul to 31 July 2024.</p>
+</li>
+<li>
+<p>Promotion is only applicable to active Public Service Officers. Applicants
+will need to submit their staff pass for verification.</p>
+</li>
+<li>
+<p>Valid for both walk-in and online applications. For online application,
+enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
+</li>
+<li>
+<p>Not valid in conjunction with other membership promotions and discounts.</p>
+</li>
+<li>
+<p>Civil Service Club reserves the right to change or amend the terms &amp;
+conditions of the promotion at any time without prior notice.</p>
+</li>
+</ul>
+<p>Click <a href="https://www.csc.sg/Promotion/New-Promotion/PUBLIC-SERVICE-WEEK-MEMBERSHIP-PROMOTION" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+the details, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about CSC membership</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Chalets.png">
 </div>
-<p><strong>Chalet promotion: Coming soon!</strong>
+<p><strong>Receive a FREE 1-Year CSC Membership with any booking of CSC Chalet from July to December</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
+<p><u>T&amp;cs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1-Year Free Membership is only applicable to Full-time Public Service
+Officers (PSO) from Ministry or Statutory Board and staff from mainstream
+universities and affiliated healthcare organisations, who have booked Civil
+Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
+PSO rates.</p>
+</li>
+<li>
+<p>1-Year Free Membership is only applicable to Full-time Public Service
+Officers (PSO) from Ministry or Statutory Board and staff from mainstream
+universities and affiliated healthcare organisations, who have booked Civil
+Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
+PSO rates.</p>
+</li>
+<li>
+<p>This promotion is not applicable to Flexi-Adjunct / Contract Employees
+/ Part Time Employees / Contractors / Vendors from Ministry or Statutory
+Board and staff from mainstream universities and affiliated healthcare
+organisations, who have booked Civil Service Club (CSC) chalets starting
+from 1 Apr 2024 to 31 Dec 2024.</p>
+</li>
+<li>
+<p>The 1-Year Free Membership is not transferable or exchangeable for cash
+or credits or any other items.</p>
+</li>
+<li>
+<p>The 1-Year Free Membership will commence from the date of chalet check-in.
+In the event if your chalet booking is cancelled, your 1-Year Free Membership
+will be invalid.</p>
+</li>
+<li>
+<p>Public Service officers sign up using the unique QR code provided in the
+email to sign up the 1-Year Free Membership. Applicants will need to provide
+the followings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confirmation of Chalet Booking Receipt</p>
+</li>
+<li>
+<p>Staff Pass or Civil Service Card or a letter from HR to confirm your full-time
+status</p>
+</li>
+<li>
+<p>Color photograph of applicant (jpeg)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>CSC has the right to pursue any outstanding fees.</p>
+</li>
+<li>
+<p>CSC reserves the right to revise the terms and conditions at any given
+point of time, without prior notice and reject any application at its own
+discretion.</p>
+</li>
+</ul>
+<p>Click <a href="https://www.csc.sg/Chalets" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about CSC chalets, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for more information
+about CSC membership</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Planet_Bowl_Tessensohn.png">
 </div>
-<p><strong>Planet Bowl promotion: Coming soon!</strong>
+<p><strong>Enjoy MEMBERS' RATE for bowling at Planet Bowl, CSC @ Tessensohn</strong>
 </p>
+<p><u>T&amp;Cs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays (offpeak) from 1 to 31 July ‘24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+the confirmation email in person with their civil service card or agency
+staff pass at the bowling counter to enjoy Members’ rate.</p>
+</li>
+<li>
+<p>Subject to lane availability during walk-in. Registration does not confirm
+any booking of lanes.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+</li>
+</ul>
+<p>Click <a href="https://www.csc.sg/planetbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about Planet Bowl at CSC @ Tessensohn</p>
 <p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_CSC_Westwood_Bowl_BB.png">
 </div>
-<p><strong>Westwood Bowl promotion: Coming soon!</strong>
+<p><strong>Enjoy MEMBERS' RATE for bowling at Westwood Bowl, CSC @ Bukit Batok</strong>
 </p>
+<p><u>T&amp;Cs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays (off peak) from 1 to 31 July ‘24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form</a> and present
+the confirmation email in person with their civil service card or agency
+staff pass at the bowling counter to enjoy Members’ rate.</p>
+</li>
+<li>
+<p>Subject to lane availability during walk-in. Registration does not confirm
+any booking of lanes.</p>
+</li>
+<li>
+<p>Not applicable with other promotions.</p>
+</li>
+</ul>
+<p>&nbsp;Click <a href="https://www.csc.sg/westwoodbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information about Westwood Bowl at CSC @ Bukit Batok</p>
 <p></p>
 <hr>
 <p></p>
@@ -132,7 +278,6 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p></p>
 <p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the<strong> </strong>BBQ Pavilion</p>
 <hr>
@@ -162,7 +307,6 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p></p>
 <p>Click <a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the BBQ Pavilion</p>
 <p></p>
