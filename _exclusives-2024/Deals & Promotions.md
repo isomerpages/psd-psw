@@ -17,13 +17,19 @@ description: ""
 </p>
 <p><u>T&amp;Cs</u>
 </p>
-<p>• Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
-<p>• Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form </a>and present
+<ul data-tight="true" class="tight">
+<li>
+<p>Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
+</li>
+<li>
+<p>Public service officers must complete this <a href="https://form.gov.sg/667cbb5a3acee684e61cdf06" rel="noopener noreferrer nofollow" target="_blank">form </a>and present
 the confirmation email in person with their civil service card or agency
 staff pass at the pool counter for access.</p>
-<p>• Public service officers may sign in up to 3 guests. Guests are to pay
+</li>
+<li>
+<p>Public service officers may sign in up to 3 guests. Guests are to pay
 prevailing guest rates at the pool counter.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Subject to pool capacity during walk-in.</p>
 </li>
@@ -90,15 +96,27 @@ request is approved.</p>
 </p>
 <p><u>T&amp;cs</u>
 </p>
-<p>• Promotion is applicable for new and renewal of 1-Year Ordinary Term
-Membership between 1 Jul to 31 July 2024.</p>
-<p>• Promotion is only applicable to active Public Service Officers. Applicants
+<ul data-tight="true" class="tight">
+<li>
+<p>Promotion is applicable for new and renewal of 1-Year Ordinary Term Membership
+between 1 Jul to 31 July 2024.</p>
+</li>
+<li>
+<p>Promotion is only applicable to active Public Service Officers. Applicants
 will need to submit their staff pass for verification.</p>
-<p>• Valid for both walk-in and online applications. For online application,
+</li>
+<li>
+<p>Valid for both walk-in and online applications. For online application,
 enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
-<p>• Not valid in conjunction with other membership promotions and discounts.</p>
-<p>• Civil Service Club reserves the right to change or amend the terms &amp;
+</li>
+<li>
+<p>Not valid in conjunction with other membership promotions and discounts.</p>
+</li>
+<li>
+<p>Civil Service Club reserves the right to change or amend the terms &amp;
 conditions of the promotion at any time without prior notice.</p>
+</li>
+</ul>
 <p>Click <a href="https://www.csc.sg/Promotion/New-Promotion/PUBLIC-SERVICE-WEEK-MEMBERSHIP-PROMOTION" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 the details, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC membership</p>
@@ -198,7 +216,6 @@ any booking of lanes.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Click <a href="https://www.csc.sg/planetbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about Planet Bowl at CSC @ Tessensohn</p>
 <p></p>
@@ -228,8 +245,7 @@ any booking of lanes.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Click <a href="https://www.csc.sg/westwoodbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+<p>&nbsp;Click <a href="https://www.csc.sg/westwoodbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about Westwood Bowl at CSC @ Bukit Batok</p>
 <p></p>
 <hr>
@@ -262,7 +278,6 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p></p>
 <p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the<strong> </strong>BBQ Pavilion</p>
 <hr>
@@ -292,7 +307,6 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
-<p></p>
 <p>Click <a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the BBQ Pavilion</p>
 <p></p>
