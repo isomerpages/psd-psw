@@ -8,7 +8,7 @@ description: ""
 <p>The PST Convention 2024 is an annual event for public officers to share
 and learn good practices as we continue our transformation journey to deliver
 better services to citizens and customers.&nbsp;&nbsp;&nbsp;</p>
-<p>Hear from Head, Civil Service, Mr Leo Yip and leaders from the private
+<p>Hear from Head of Civil Service, Mr Leo Yip and leaders from the private
 and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
