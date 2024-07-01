@@ -46,7 +46,7 @@ Singapore 569830</p>
 <p>2:00pm – 2:30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Address by Head, Civil Service, Mr Leo Yip&nbsp;</p>
+<p>Keynote Address by Head of Civil Service, Mr Leo Yip</p>
 </td>
 </tr>
 <tr>
