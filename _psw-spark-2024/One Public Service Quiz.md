@@ -12,19 +12,19 @@ description: ""
 One Public Service Quiz and stand a chance to win an attractive prize!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1st Place:&nbsp;$50 e-voucher</p>
+<p>1st Place:&nbsp;$50 voucher</p>
 </li>
 <li>
-<p>2nd Place:&nbsp;$40 e-voucher&nbsp;</p>
+<p>2nd Place:&nbsp;$40 voucher&nbsp;</p>
 </li>
 <li>
-<p>3rd Place:&nbsp;$30 e-voucher&nbsp;</p>
+<p>3rd Place:&nbsp;$30 voucher&nbsp;</p>
 </li>
 <li>
-<p>4th and 5th Place:&nbsp;$20 e-voucher&nbsp;</p>
+<p>4th and 5th Place:&nbsp;$20 voucher&nbsp;</p>
 </li>
 <li>
-<p>6th to 35th Place:&nbsp;$10 e-voucher</p>
+<p>6th to 35th Place:&nbsp;$10 voucher</p>
 <p></p>
 </li>
 </ul>
