@@ -416,6 +416,17 @@ the T&amp;Cs&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_Omnidesk.jpg">
+</div>
+<p><strong>Omnidesk</strong>
+</p>
+<p>18% OFF all standing desks</p>
+<p></p>
+<p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Omnidesk" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the T&amp;Cs&nbsp;</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peach_Garden.jpg">
 </div>
 <p></p>
