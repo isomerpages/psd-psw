@@ -43,7 +43,7 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 <p><strong>Date and Time:</strong> 10 July 2024 (Wednesday), 2.15pm – 5.00pm
 <br><strong>Venue:</strong> ITE College Central, Tay Eng Soon Convention Centre
 (2 Ang Mo Kio Drive, Singapore 567720)</p>
-<p><em>Onsite registration and pre-event activities will start at 1.15pm. Guests to be seated by 2.05pm. PST Award Winners will be informed separately on the administrative details and registration time.</em>
+<p><em>Onsite registration and pre-event activities will start at 1.15pm. Guests to be seated by 2pm. PST Award Winners will be informed separately on the administrative details and registration time.</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -61,55 +61,57 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.15pm – 2.15pm&nbsp;&nbsp;</p>
+<p>1.15pm onwards&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration/Pre-event activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.15pm – 2.30pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>One Public Service Quiz</p>
+<p>Registration and Pre-event activities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.30pm – 2.40pm&nbsp;&nbsp;</p>
+<p>2.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.40pm – 3.10pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Speech by Minister-in- charge of Public Service, Mr Chan Chun Sing</p>
+<p>Guests to be seated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.10pm – 3.25pm&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ITE showcase</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Video on Public Service For Good mentors and mentees</p>
-</li>
-<li>
-<p>Live performance by ITE students</p>
-</li>
-</ul>
+<p>One Public Service Quiz (with prizes to be won)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.25pm – 3.30pm&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arrival of Guest of Honour, Mr Chan Chun Sing
+<br>Opening Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech by Minister for Education and Minister-in- charge of Public Service,
+Mr Chan Chun Sing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showcase (Public Service For Good) and ITE performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Message from Head of Civil Service, Mr Leo Yip</p>
@@ -117,15 +119,7 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.30pm – 3.35pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Video on PST Awards</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.35pm – 4.10pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PST Awards Ceremony</p>
@@ -133,7 +127,7 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.10pm – 4.15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WOG Moment: Public Service Pledge and National Anthem</p>
@@ -141,10 +135,10 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.15pm – 5.00pm</p>
+<p>4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refreshment</p>
+<p>Refreshments and Exploration of Fringe Activities</p>
 </td>
 </tr>
 </tbody>
