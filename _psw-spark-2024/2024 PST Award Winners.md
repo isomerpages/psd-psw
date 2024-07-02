@@ -4,7 +4,7 @@ permalink: /2024-pst-award-winners/
 variant: tiptap
 description: ""
 ---
-<h3>WOG and Agency Level Award Winners</h3>
+<h3>2024 PST Award Winners</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -13,6 +13,11 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>WOG and Agency Level Award Winners</h4>
+</th>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>S/N</p>
@@ -426,9 +431,8 @@ Economy with Sustainable DCs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h3></h3>
-<h3>Individual Level Award Winners</h3>
-<p></p>
+<h4></h4>
+<h4>Individual Level Award Winners</h4>
 </td>
 </tr>
 <tr>
