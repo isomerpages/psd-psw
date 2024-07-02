@@ -556,7 +556,10 @@ by merchant</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p><strong>Shopee Upsize Challenge - log into the ShopBack app and access it <a href="https://app.shopback.com/csc-shopeeupsized" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/shopback-csc-public-service-week-promo" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
 <hr>
 <p></p>
