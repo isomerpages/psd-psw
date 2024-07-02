@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>WOG and Agency Level Award Winners</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -427,6 +428,7 @@ Economy with Sustainable DCs</p>
 </table>
 <p></p>
 <h3>Individual Level Award Winners</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
