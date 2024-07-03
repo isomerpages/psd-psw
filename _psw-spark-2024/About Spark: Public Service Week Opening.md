@@ -89,7 +89,7 @@ fringe activities and redeem limited edition <a href="https://www.publicservicew
 </td>
 <td rowspan="1" colspan="1">
 <p>Arrival of Guest of Honour, Mr Chan Chun Sing
-<br>Opening Performance</p>
+<br>Opening Performance (Oasis Primary - It's Showtime!)</p>
 </td>
 </tr>
 <tr>
