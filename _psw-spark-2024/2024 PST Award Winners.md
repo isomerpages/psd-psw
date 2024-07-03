@@ -4,7 +4,8 @@ permalink: /2024-pst-award-winners/
 variant: tiptap
 description: ""
 ---
-<h3>WOG and Agency Level Award Winners</h3>
+<h3>2024 PST Award Winners</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -12,6 +13,11 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>WOG and Agency Level Award Winners</h4>
+</th>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>S/N</p>
@@ -423,17 +429,12 @@ Economy with Sustainable DCs</p>
 <p>Digital Port Ecosystem</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h3>Individual Level Award Winners</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4></h4>
+<h4>Individual Level Award Winners</h4>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>S/N</p>
@@ -906,6 +907,182 @@ Economy with Sustainable DCs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jillian Lim Pok Yeng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>79</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Tianshun, Wayne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyi Cherie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>81</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Firoz Bin Abdul Kadir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>82</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Ashraf Bin Abdul Majid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>83</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Safie Bin Zaid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>84</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chris Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>85</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Jun Xiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>86</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gwen Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>87</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quah Li Fen Catherine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>88</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Randeep Singh S/O Jagindar Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>89</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Renee Chin Run Tian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>90</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caroline Seng Boon Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>91</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esther Soh Peck Woon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>92</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlene Tan Jing Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>93</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eddy Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>94</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exemplary SkillsFuture @ Public Service Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Puay Ling</p>
 </td>
 </tr>
 <tr>
