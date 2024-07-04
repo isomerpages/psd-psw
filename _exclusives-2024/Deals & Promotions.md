@@ -420,7 +420,8 @@ the T&amp;Cs&nbsp;</p>
 </div>
 <p><strong>Omnidesk</strong>
 </p>
-<p>18% OFF all standing desks</p>
+<p>18% OFF all standing desks with code <strong>OMNIXPSW</strong>
+</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Omnidesk" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
