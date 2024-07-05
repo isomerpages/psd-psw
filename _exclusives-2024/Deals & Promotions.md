@@ -139,13 +139,6 @@ Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
 PSO rates.</p>
 </li>
 <li>
-<p>1-Year Free Membership is only applicable to Full-time Public Service
-Officers (PSO) from Ministry or Statutory Board and staff from mainstream
-universities and affiliated healthcare organisations, who have booked Civil
-Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
-PSO rates.</p>
-</li>
-<li>
 <p>This promotion is not applicable to Flexi-Adjunct / Contract Employees
 / Part Time Employees / Contractors / Vendors from Ministry or Statutory
 Board and staff from mainstream universities and affiliated healthcare
