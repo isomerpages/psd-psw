@@ -139,13 +139,6 @@ Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
 PSO rates.</p>
 </li>
 <li>
-<p>1-Year Free Membership is only applicable to Full-time Public Service
-Officers (PSO) from Ministry or Statutory Board and staff from mainstream
-universities and affiliated healthcare organisations, who have booked Civil
-Service Club (CSC) chalets starting from 1 July 2024 to 31 Dec 2024 under
-PSO rates.</p>
-</li>
-<li>
 <p>This promotion is not applicable to Flexi-Adjunct / Contract Employees
 / Part Time Employees / Contractors / Vendors from Ministry or Statutory
 Board and staff from mainstream universities and affiliated healthcare
@@ -572,8 +565,11 @@ the T&amp;Cs</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Skechers" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
+<hr>
 <p></p>
-<p></p>
+<h4>Photo and Video Contest</h4>
+<p>Win&nbsp;Public Service mascot plushies and 4&nbsp;Shaw Movie vouchers.
+Find out more <a href="https://www.csc.sg/NewsDetails/52/Public-Service-Week-2024-Photo-Video-Contest" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>
