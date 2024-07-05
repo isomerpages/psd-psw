@@ -565,8 +565,11 @@ the T&amp;Cs</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Skechers" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
+<hr>
 <p></p>
-<p></p>
+<h4>Photo and Video Contest</h4>
+<p>Win&nbsp;Public Service mascot plushies and 4&nbsp;Shaw Movie vouchers.
+Find out more <a href="https://www.csc.sg/NewsDetails/52/Public-Service-Week-2024-Photo-Video-Contest" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>
