@@ -13,7 +13,7 @@ and public sectors on how they leverage digital disruptions to innovate
 and transform their work, workforce, and workplace.</p>
 <p></p>
 <p><strong>Date and Time:</strong>&nbsp;17 July 2024 (Wednesday), 2:00pm
-– 5:00pm
+– 5:10pm
 <br><strong>Venue:</strong>&nbsp;Nanyang Polytechnic, 180 Ang Mo Kio Ave 8,
 Singapore 569830</p>
 <p><a href="https://go.gov.sg/psw2024reg" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
