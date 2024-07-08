@@ -18,16 +18,12 @@ sections:
       announcement_items:
         - title: "Spark: Public Service Week Opening"
           date: 10 July 2024
-          announcement: |-
-            2.15pm to 5pm @ ITE College Central
-            (also available virtually)
+          announcement: 2.15pm to 5pm @ ITE College Central (also available virtually)
           link_text: Learn more
           link_url: /about-psw-spark-2024/
         - title: Public Sector Transformation (PST) Convention
           date: 17 July 2024
-          announcement: |-
-            2pm to 5pm
-            @ Nanyang Polytechnic
+          announcement: 2pm to 5.10pm @ Nanyang Polytechnic
           link_text: Learn more
           link_url: /about-pst-convention-2024/
         - title: Learning Festival
@@ -37,9 +33,7 @@ sections:
           link_url: https://go.gov.sg/pswlf2024
         - title: Public Service Sports & Family Day
           date: 27 July 2024
-          announcement: |-
-            8am to 1.30pm
-            @ OCBC Square, Singapore Sports Hub
+          announcement: 8am to 1.30pm @ OCBC Square, Singapore Sports Hub
           link_text: Sign up now!
           link_url: https://www.csc.sg/sportsday/
   - infopic:
