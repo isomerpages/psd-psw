@@ -15,8 +15,10 @@ description: ""
 </div>
 <p><strong>Enjoy FREE weekday access to any Civil Service Club swimming pools</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Valid on weekdays from 1 to 31 July '24 via walk-in.</p>
@@ -36,6 +38,9 @@ prevailing guest rates at the pool counter.</p>
 </ul>
 <p>Click <a href="https://www.csc.sg/Pools-And-Sports" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC swimming pools</p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -43,8 +48,10 @@ more information about CSC swimming pools</p>
 </div>
 <p><strong>Enjoy FREE access to CSC @ Tessensohn's Weekend Family Fun Pool on 20 July, Saturday</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>The FREE weekend fun pool access is only available on Saturday, 20 July’24
@@ -85,6 +92,9 @@ to the pool capacity. A confirmation response will be provided once the
 request is approved.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
 <hr>
 <p></p>
@@ -94,8 +104,10 @@ request is approved.</p>
 </div>
 <p><strong>CSC 1-Year Membership sign-up at $60 (usual $72)</strong>
 </p>
-<p><u>T&amp;cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Promotion is applicable for new and renewal of 1-Year Ordinary Term Membership
@@ -107,7 +119,8 @@ will need to submit their staff pass for verification.</p>
 </li>
 <li>
 <p>Valid for both walk-in and online applications. For online application,
-enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
+enter the discount code &lt;<em>PSW2024</em>&gt; on the payment page to
+enjoy the discount.</p>
 </li>
 <li>
 <p>Not valid in conjunction with other membership promotions and discounts.</p>
@@ -117,9 +130,13 @@ enter the discount code "PSW2024" on the payment page to enjoy the discount.</p>
 conditions of the promotion at any time without prior notice.</p>
 </li>
 </ul>
+<p></p>
 <p>Click <a href="https://www.csc.sg/Promotion/New-Promotion/PUBLIC-SERVICE-WEEK-MEMBERSHIP-PROMOTION" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 the details, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC membership</p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -127,9 +144,10 @@ more information about CSC membership</p>
 </div>
 <p><strong>Receive a FREE 1-Year CSC Membership with any booking of CSC Chalet from July to December</strong>
 </p>
-<p>&nbsp;</p>
-<p><u>T&amp;cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>1-Year Free Membership is only applicable to Full-time Public Service
@@ -183,6 +201,9 @@ discretion.</p>
 <p>Click <a href="https://www.csc.sg/Chalets" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about CSC chalets, and <a href="https://www.csc.sg/About-CSC-Membership" rel="noopener noreferrer nofollow" target="_blank">here </a>for more information
 about CSC membership</p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -190,8 +211,10 @@ about CSC membership</p>
 </div>
 <p><strong>Enjoy MEMBERS' RATE for bowling at Planet Bowl, CSC @ Tessensohn</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Valid on weekdays (offpeak) from 1 to 31 July ‘24 via walk-in.</p>
@@ -209,9 +232,12 @@ any booking of lanes.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
+<p></p>
 <p>Click <a href="https://www.csc.sg/planetbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about Planet Bowl at CSC @ Tessensohn</p>
-<p></p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -219,8 +245,10 @@ more information about Planet Bowl at CSC @ Tessensohn</p>
 </div>
 <p><strong>Enjoy MEMBERS' RATE for bowling at Westwood Bowl, CSC @ Bukit Batok</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Valid on weekdays (off peak) from 1 to 31 July ‘24 via walk-in.</p>
@@ -240,7 +268,9 @@ any booking of lanes.</p>
 </ul>
 <p>&nbsp;Click <a href="https://www.csc.sg/westwoodbowl/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about Westwood Bowl at CSC @ Bukit Batok</p>
-<p></p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -248,8 +278,10 @@ more information about Westwood Bowl at CSC @ Bukit Batok</p>
 </div>
 <p><strong>10% OFF BBQ Pavilion booking at CSC @ Changi</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Valid for peak and off-peak (Mon to Sun) bookings between 1 to 31 July
@@ -271,8 +303,12 @@ enquire.</p>
 <p>Not applicable with other promotions.</p>
 </li>
 </ul>
+<p></p>
 <p>Click <a href="https://www.cscchangi.sg/Fun_BBQ.aspx" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the<strong> </strong>BBQ Pavilion</p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -280,8 +316,10 @@ more information about the<strong> </strong>BBQ Pavilion</p>
 </div>
 <p><strong>10% OFF Treehouse booking at CSC @ Bukit Batok</strong>
 </p>
-<p><u>T&amp;Cs</u>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>T&amp;Cs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;Valid for off-peak (Mon to Fri) bookings between 1 to 31 July ‘24.
@@ -302,6 +340,9 @@ enquire.</p>
 </ul>
 <p>Click <a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information about the BBQ Pavilion</p>
+</div>
+</details>
+</div>
 <p></p>
 <hr>
 <h4>Merchants</h4>
@@ -312,9 +353,9 @@ more information about the BBQ Pavilion</p>
 </div>
 <p><strong>Crocs</strong>
 <br>Treat yourself to a pair of Crocs footwear or Jibbitz™ this July &amp;
-August with 20% OFF when you spend $120 at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>. Enjoy an additional
-10% OFF on sale items too!&nbsp;&nbsp;Simply key in &lt;CROCSXCSC20&gt;
-at checkout to enjoy the promotion!</p>
+August with <strong>20% OFF when you spend $120</strong> at <a href="http://www.crocs.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crocs.com.sg</a>.
+Enjoy an <strong>additional 10% OFF on sale items</strong> too!&nbsp;&nbsp;Simply
+key in &lt;<em>CROCSXCSC20</em>&gt; at checkout to enjoy the promotion!</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Crocs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs</p>
@@ -326,10 +367,10 @@ the T&amp;Cs</p>
 <p></p>
 <p><strong>Crystal Jade</strong>
 </p>
-<p>FREE 1-year Jadeite membership with extra welcome bonuses!</p>
+<p><strong>FREE 1-year Jadeite membership with extra welcome bonuses</strong>!</p>
 <p>Click <a href="https://www.crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-sign up and apply the Promo Code &lt;CJCP3A&gt;&nbsp;to get the following
-e-vouchers:
+sign up and apply the Promo Code &lt;<em>CJCP3A</em>&gt;&nbsp;to get the
+following e-vouchers:
 <br>• 15% off on dining bill at any participating restaurants
 <br>• Complimentary appetizer at Crystal Jade Hong Kong Kitchen (worth $8.80)
 <br>• Complimentary appetizer at Crystal Jade La Mian Xiao Long Bao (worth
@@ -347,8 +388,8 @@ the T&amp;Cs</p>
 </div>
 <p></p>
 <p><strong>Earle Swensen's</strong>
-<br>Enjoy 20% OFF your sundaes at Earle Swensen's. Valid for dine-in at VivoCity
-and Pasir Ris Mall outlet only.</p>
+<br>Enjoy <strong>20% OFF your sundaes </strong>at Earle Swensen's. Valid for
+dine-in at VivoCity and Pasir Ris Mall outlet only.</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Earle-Swensens" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
@@ -366,7 +407,7 @@ the T&amp;Cs&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promo code: &lt;CSC24NEW<strong>&gt;</strong>
+<p>Promo code: &lt;<em>CSC24NEW</em><strong>&gt;</strong>
 </p>
 </li>
 <li>
@@ -381,7 +422,7 @@ the T&amp;Cs&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promo code: &lt;CSCPRO7&gt;</p>
+<p>Promo code: &lt;<em>CSCPRO7</em>&gt;</p>
 </li>
 <li>
 <p>Valid for 6-month pandapro subscription only</p>
@@ -399,10 +440,10 @@ the T&amp;Cs&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hardrock_Cafe.jpg">
 </div>
 <p></p>
-<p><strong>Hard Rock Café</strong>
+<p><strong>Hard Rock Cafe</strong>
 </p>
-<p>Enjoy 1-FOR-1 mains when you dine in at any Hard Rock Cafe Singapore&nbsp;outlet&nbsp;this
-July!</p>
+<p>Enjoy <strong>1-FOR-1 mains </strong>when you dine in at any Hard Rock
+Cafe Singapore&nbsp;outlet&nbsp;this July!</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Hard-Rock-Cafe" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
@@ -413,7 +454,7 @@ the T&amp;Cs&nbsp;</p>
 </div>
 <p><strong>Omnidesk</strong>
 </p>
-<p>18% OFF all standing desks with code <strong>OMNIXPSW</strong>
+<p><strong>18% OFF all standing desks</strong> with code &lt;<em>OMNIXPSW&gt;</em>
 </p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Omnidesk" rel="noopener noreferrer nofollow" target="_blank">here</a> for
@@ -426,8 +467,8 @@ the T&amp;Cs&nbsp;</p>
 <p></p>
 <p><strong>Peach Garden</strong>
 </p>
-<p>Enjoy 25% OFF on <em>ala carte</em> dishes at Peach Garden Chinese Restaurant&nbsp;this
-July!</p>
+<p>Enjoy <strong>25% OFF on <em>ala carte</em> dishes </strong>at Peach Garden
+Chinese Restaurant&nbsp;this July!</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/F&amp;B/Peach-Garden-Restaurant" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
@@ -448,34 +489,36 @@ the T&amp;Cs&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Public Service officers</p>
+<p><strong>Public Service officers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSC Members</p>
+<p><strong>CSC Members</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Nights Sun / Fri Cruise
-<br>$100 off per cabin&nbsp;
+<br><strong>$100 off per cabin&nbsp;</strong> 
 <br>- Balcony category &amp; above
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Nights Sun / Fri Cruise
-<br>$160 off per cabin&nbsp;
+<br><strong>$160 off per cabin</strong>&nbsp;
 <br>- Balcony category &amp; above&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3 Nights Tue Cruise
-<br>$200 off per cabin&nbsp;
+<br><strong>$200 off per cabin&nbsp; </strong>
 <br>- Balcony category &amp; above</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Nights Tue Cruise
-<br>$240 off per cabin&nbsp;
+<br><strong>$240 off per cabin</strong>&nbsp;
 <br>- Balcony category &amp; above</p>
 </td>
 </tr>
@@ -496,9 +539,9 @@ the T&amp;Cs&nbsp;</p>
 </p>
 <p><strong>7 June - 31 July 2024</strong>
 </p>
-<p>ShopBack gives you up to $60 Cashback when you shop on brands like Shopee,
-Lazada, Klook and more! New to ShopBack? Sign up with &lt;CSC5SB&gt; for
-$5 Cashback!</p>
+<p>ShopBack gives you <strong>up to $60 Cashback </strong>when you shop on
+brands like Shopee, Lazada, Klook and more! New to ShopBack? Sign up with
+&lt;<em>CSC5SB</em>&gt; for <strong>$5 Cashback</strong>!</p>
 <p><strong>PSW Public Service officer challenge - log into the ShopBack app and access it <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fapp.shopback.com%2Fcscpso&amp;e=d16cce0e&amp;h=99e28bb4&amp;f=y&amp;p=n" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -561,14 +604,18 @@ the T&amp;Cs</p>
 </div>
 <p></p>
 <p><strong>Skechers</strong>
-<br>10% OFF regular-priced footwear &amp; apparel.</p>
+<br><strong>10% OFF regular-priced footwear &amp; apparel</strong>.</p>
 <p></p>
 <p>Click <a href="https://www.csc.sg/Members-Merchant-Promotions/Shopping/Skechers" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the T&amp;Cs&nbsp;</p>
 <hr>
 <p></p>
 <h4>Photo and Video Contest</h4>
-<p>Win&nbsp;Public Service mascot plushies and 4&nbsp;Shaw Movie vouchers.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSW_photo_contest.jpg">
+</div>
+<p>Win&nbsp;<strong>Public Service mascot plushies and 4&nbsp;Shaw Movie vouchers</strong>.
 Find out more <a href="https://www.csc.sg/NewsDetails/52/Public-Service-Week-2024-Photo-Video-Contest" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
